@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react';
+import React, { useState, useEffect, useCallback } from 'react';
 import Auth from './Auth';
 import './App.css';
 
@@ -115,7 +115,7 @@ export default function App() {
         applyFilters(searchTerm, selectedSource, favorite);
     };
 
-    const applyFilters = (search, source, favorite) => {
+    const applyFilters = useCallback((search, source, favorite) => {
         // normalize inputs
         const src = source || 'all';
         const fav = favorite || 'all';
@@ -142,12 +142,12 @@ export default function App() {
             return (matchesSearch && matchesSource && matchesFavorite);
         });
         setFilteredUrls(filtered);
-    };
+    }, [bugBountyUrls, ratings]);
 
     // automatically re-run filters when data or criteria change
     useEffect(() => {
         applyFilters(searchTerm, selectedSource, selectedFavorite);
-    }, [bugBountyUrls, ratings, searchTerm, selectedSource, selectedFavorite]);
+    }, [applyFilters, searchTerm, selectedSource, selectedFavorite]);
 
     const getUniqueSources = () => {
         const sources = new Set();
@@ -189,7 +189,7 @@ export default function App() {
     };
 
     const isNewProgram = (item) => {
-        if (!item || !item.newDate && !item.addedDate) return false;
+        if (!item || (!item.newDate && !item.addedDate)) return false;
         const dateString = item.newDate || item.addedDate;
         const addedDate = new Date(dateString);
         const sevenDaysAgo = new Date();
