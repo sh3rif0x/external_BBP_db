@@ -615,20 +615,7 @@ export default function App() {
                         paginatedUrls.map((item, index) => {
                             const url = typeof item === 'string' ? item : (item?.url || '');
                             if (!url) return null; // skip invalid entries just in case
-                            const source = typeof item === 'string' ? 'other' : (item.source || 'other');
                             const domain = extractDomain(url);
-                            
-                            const sourceBadgeColors = {
-                                'bugbountydirectory': { bg: '#667eea', icon: '📋' },
-                                'bugcrowd': { bg: '#f59e0b', icon: '🎯' },
-                                'hackerone': { bg: '#ef4444', icon: '🔴' },
-                                'intigriti': { bg: '#10b981', icon: '✓' },
-                                'yeswehack': { bg: '#8b5cf6', icon: '✨' },
-                                'issuehunt': { bg: '#06b6d4', icon: '🐛' },
-                                'immunefi': { bg: '#ec4899', icon: '🛡️' },
-                                'chaos': { bg: '#14b8a6', icon: '🔗' },
-                                'bugbountyhunt': { bg: '#3b82f6', icon: '🎱' }
-                            };
                             
                             return (
                                 <div key={index} className="link-card">
