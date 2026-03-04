@@ -1,0 +1,29 @@
+[
+  {
+    "name": "Agicap",
+    "program_url": "https://agicap.com/en/bug-bounty/",
+    "platform": "",
+    "bounty": true,
+    "subdomains_count": 35,
+    "download_url": "https://chaos-data.projectdiscovery.io/agicap.zip",
+    "icon": "https://www.google.com/s2/favicons?domain=agicap.com&sz=64"
+  },
+  {
+    "name": "Adafruit",
+    "program_url": "https://www.adafruit.com/reportingsecurityissues",
+    "platform": "",
+    "bounty": true,
+    "subdomains_count": 45,
+    "download_url": "https://chaos-data.projectdiscovery.io/adafruit.zip",
+    "icon": "https://www.google.com/s2/favicons?domain=www.adafruit.com&sz=64"
+  },
+  {
+    "name": "84codes",
+    "program_url": "https://www.84codes.com/security",
+    "platform": "",
+    "bounty": true,
+    "subdomains_count": 708,
+    "download_url": "https://chaos-data.projectdiscovery.io/84codes.zip",
+    "icon": "https://www.google.com/s2/favicons?domain=www.84codes.com&sz=64"
+  }
+]

@@ -134,8 +134,8 @@ export default function App() {
     const [itemsPerPage, setItemsPerPage] = useState(50);
     const [ratings, setRatings] = useState({});
     const [theme, setTheme] = useState('dark');
-    const [selectedSource, setSelectedSource] = useState('all');
-    const [selectedFavorite, setSelectedFavorite] = useState('all');
+    const [selectedSource, setSelectedSource] = useState(() => localStorage.getItem('bbp_selectedSource') || 'self-hosted');
+    const [selectedFavorite, setSelectedFavorite] = useState(() => localStorage.getItem('bbp_selectedFavorite') || 'all');
     const [showAddProgram, setShowAddProgram] = useState(false);
     const [newProgramUrl, setNewProgramUrl] = useState('');
     const [newProgramSource, setNewProgramSource] = useState('custom');
@@ -314,21 +314,26 @@ export default function App() {
 
     const handleSourceFilter = (source) => {
         setSelectedSource(source);
+        localStorage.setItem('bbp_selectedSource', source);
         setCurrentPage(1);
         applyFilters(searchTerm, source, selectedFavorite);
     };
 
     const handleFavoriteFilter = (favorite) => {
         setSelectedFavorite(favorite);
+        localStorage.setItem('bbp_selectedFavorite', favorite);
         setCurrentPage(1);
         applyFilters(searchTerm, selectedSource, favorite);
     };
 
     const applyFilters = useCallback((search, source, favorite) => {
         // normalize inputs
-        const src = source || 'all';
+        const src = source || 'self-hosted';
         const fav = favorite || 'all';
         const query = (search || '').toString().toLowerCase();
+
+        // Define managed platforms
+        const managedPlatforms = ['bugcrowd', 'hackerone', 'intigriti', 'yeswehack', 'synack', 'cobalt', 'bugbountyhunt'];
 
         const filtered = bugBountyUrls.filter((item) => {
             // make sure we have a usable URL string before filtering
@@ -346,7 +351,18 @@ export default function App() {
             const itemFavorite = ratings[url]?.status || 'none';
 
             const matchesSearch = url.toLowerCase().includes(query);
-            const matchesSource = (src === 'all') || (itemSource === src);
+            
+            // Handle self-hosted filter (non-managed programs)
+            let matchesSource;
+            if (src === 'self-hosted') {
+                // Show only self-hosted (non-managed) programs from any source
+                matchesSource = !managedPlatforms.includes(itemSource);
+            } else if (src === 'all') {
+                matchesSource = true;
+            } else {
+                matchesSource = (itemSource === src);
+            }
+            
             const matchesFavorite = (fav === 'all') || (itemFavorite === fav);
             return (matchesSearch && matchesSource && matchesFavorite);
         });
@@ -369,11 +385,13 @@ export default function App() {
 
     const handleReset = () => {
         setSearchTerm('');
-        setSelectedSource('all');
+        setSelectedSource('self-hosted');
+        localStorage.setItem('bbp_selectedSource', 'self-hosted');
         setSelectedFavorite('all');
+        localStorage.setItem('bbp_selectedFavorite', 'all');
         setCurrentPage(1);
         // rely on applyFilters to produce a clean list (will skip malformed entries)
-        applyFilters('', 'all', 'all');
+        applyFilters('', 'self-hosted', 'all');
     };
 
     const handleCardClick = (item) => {
@@ -544,19 +562,28 @@ export default function App() {
                         fontWeight: '500'
                     }}
                 >
+                    <option value="self-hosted">🏠 Self-Hosted (Non-Managed)</option>
                     <option value="all">📌 All Platforms</option>
-                    {getUniqueSources().map((source) => (
-                        <option key={source} value={source}>
-                            {source === 'bugbountydirectory' && '📋 bugbountydirectory'}
-                            {source === 'intigriti' && '✓ intigriti'}
-                            {source === 'yeswehack' && '✨ yeswehack'}
-                            {source === 'bugcrowd' && '🎯 bugcrowd'}
-                            {source === 'hackerone' && '🔴 hackerone'}
-                            {source === 'issuehunt' && '🎪 issuehunt'}
-                            {source === 'immunefi' && '🛡️ immunefi'}
-                            {source === 'other' && '📎 other'}
-                        </option>
-                    ))}
+                    {getUniqueSources().map((source) => {
+                        const sourceIcons = {
+                            'bugbountydirectory': '📋',
+                            'intigriti': '✓',
+                            'yeswehack': '✨',
+                            'bugcrowd': '🎯',
+                            'hackerone': '🔴',
+                            'issuehunt': '🎪',
+                            'immunefi': '🛡️',
+                            'chaos': '🔗',
+                            'bugbountyhunt': '🎱',
+                            'other': '📎'
+                        };
+                        const icon = sourceIcons[source] || '📍';
+                        return (
+                            <option key={source} value={source}>
+                                {icon} {source}
+                            </option>
+                        );
+                    })}
                 </select>
                 <select
                     className="favorite-filter"
@@ -607,56 +634,15 @@ export default function App() {
                                 'intigriti': { bg: '#10b981', icon: '✓' },
                                 'yeswehack': { bg: '#8b5cf6', icon: '✨' },
                                 'issuehunt': { bg: '#06b6d4', icon: '🐛' },
-                                'immunefi': { bg: '#ec4899', icon: '🛡️' }
+                                'immunefi': { bg: '#ec4899', icon: '🛡️' },
+                                'chaos': { bg: '#14b8a6', icon: '🔗' },
+                                'bugbountyhunt': { bg: '#3b82f6', icon: '🎱' }
                             };
                             const sourceStyle = sourceBadgeColors[source];
                             
                             return (
                                 <div key={index} className="link-card">
-                                    {isNewProgram(item) && (
-                                        <div className="new-badge" style={{
-                                            position: 'absolute',
-                                            top: '8px',
-                                            left: '8px',
-                                            backgroundColor: '#ff6b6b',
-                                            color: 'white',
-                                            padding: '3px 8px',
-                                            borderRadius: '3px',
-                                            fontSize: '10px',
-                                            fontWeight: 'bold',
-                                            textTransform: 'uppercase',
-                                            zIndex: 10,
-                                            animation: 'pulse 2s infinite'
-                                        }}>
-                                            🆕 New
-                                        </div>
-                                    )}
-                                    {sourceStyle && (
-                                        <div className="source-badge" style={{
-                                            position: 'absolute',
-                                            top: '8px',
-                                            right: '8px',
-                                            backgroundColor: sourceStyle.bg,
-                                            color: 'white',
-                                            padding: '4px 9px',
-                                            borderRadius: '4px',
-                                            fontSize: '11px',
-                                            fontWeight: 'bold',
-                                            textTransform: 'capitalize',
-                                            zIndex: 10
-                                        }}>
-                                            {sourceStyle.icon} {source}
-                                        </div>
-                                    )}
                                     <div className="card-content" onClick={() => handleCardClick(item)}>
-                                        <img
-                                            src={item.icon || `https://www.google.com/s2/favicons?sz=64&domain=${domain}`}
-                                            alt="icon"
-                                            className="link-favicon"
-                                            onError={(e) => {
-                                                e.target.src = `https://www.google.com/s2/favicons?sz=64&domain=${domain}`;
-                                            }}
-                                        />
                                         <div className="card-info">
                                             <a
                                                 href={url}

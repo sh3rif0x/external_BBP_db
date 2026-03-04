@@ -18,7 +18,18 @@
         "scrape": "node scraper-master.js",
         "scrape:all": "npm run scrape && npm run build",
         "scheduler": "node scraper-scheduler.js",
-        "scheduler:run-now": "node scraper-scheduler.js now"
+        "scheduler:run-now": "node scraper-scheduler.js now",
+        "merge-chaos": "node merge-chaos-programs.js",
+        "update-chaos": "node fetch-chaos-icons.js && node filter-chaos-bounty.js && npm run merge-chaos",
+        "scrape:bugbountyhunt": "node scraper-bugbountyhunt.js",
+        "filter:bugbountyhunt": "node filter-bugbountyhunt-bounty.js",
+        "merge:bugbountyhunt": "node merge-bugbountyhunt-programs.js",
+        "update:bugbountyhunt": "npm run scrape:bugbountyhunt && npm run filter:bugbountyhunt && npm run merge:bugbountyhunt",
+        "create:bounty-only": "node create-bounty-only-database.js && npm run build",
+        "fetch:chaos-selfhosted": "python3 fetch-chaos-selfhosted-bounty.py",
+        "fetch:chaos-selfhosted:js": "node fetch-chaos-selfhosted-bounty.js",
+        "add-icons:chaos": "node add-icons-chaos-selfhosted.js",
+        "merge:chaos-selfhosted": "node merge-chaos-selfhosted.js && npm run build"
     },
     "eslintConfig": {
         "extends": [

@@ -1,0 +1,74 @@
+[
+  {
+    "name": "0x",
+    "url": "https://docs.0x.org/developer-resources/bounties",
+    "email": "security@0x.org",
+    "bounty": true,
+    "safe_harbor": null,
+    "icon": "https://www.google.com/s2/favicons?domain=docs.0x.org&sz=64"
+  },
+  {
+    "name": "1Password Game",
+    "url": "https://bugcrowd.com/agilebits",
+    "email": null,
+    "bounty": true,
+    "safe_harbor": "full",
+    "icon": "https://www.google.com/s2/favicons?domain=bugcrowd.com&sz=64"
+  },
+  {
+    "name": "23andme",
+    "url": "https://www.23andme.com/security-report/",
+    "email": null,
+    "bounty": true,
+    "safe_harbor": null,
+    "icon": "https://www.google.com/s2/favicons?domain=www.23andme.com&sz=64"
+  },
+  {
+    "name": "24sessions",
+    "url": "https://www.24sessions.com/responsible-disclosure",
+    "email": "security@24sessions.com",
+    "bounty": true,
+    "safe_harbor": null,
+    "icon": "https://www.google.com/s2/favicons?domain=www.24sessions.com&sz=64"
+  },
+  {
+    "name": "84codes",
+    "url": "https://www.84codes.com/security/",
+    "email": "security@84codes.com",
+    "bounty": true,
+    "safe_harbor": null,
+    "icon": "https://www.google.com/s2/favicons?domain=www.84codes.com&sz=64"
+  },
+  {
+    "name": "Acorns",
+    "url": "https://bugcrowd.com/acorns",
+    "email": null,
+    "bounty": true,
+    "safe_harbor": null,
+    "icon": "https://www.google.com/s2/favicons?domain=bugcrowd.com&sz=64"
+  },
+  {
+    "name": "Aeternity",
+    "url": "https://hackerone.com/aeternity",
+    "email": null,
+    "bounty": true,
+    "safe_harbor": null,
+    "icon": "https://www.google.com/s2/favicons?domain=hackerone.com&sz=64"
+  },
+  {
+    "name": "Aion",
+    "url": "https://aion.network/terms-bounty/",
+    "email": null,
+    "bounty": true,
+    "safe_harbor": null,
+    "icon": "https://www.google.com/s2/favicons?domain=aion.network&sz=64"
+  },
+  {
+    "name": "Airbnb",
+    "url": "https://hackerone.com/airbnb",
+    "email": null,
+    "bounty": true,
+    "safe_harbor": "full",
+    "icon": "https://www.google.com/s2/favicons?domain=hackerone.com&sz=64"
+  }
+]

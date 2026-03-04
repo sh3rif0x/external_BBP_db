@@ -1,0 +1,3498 @@
+[
+  {
+    "name": "0x",
+    "url": "https://docs.0x.org/developer-resources/bounties",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "",
+    "icon": "https://www.google.com/s2/favicons?domain=docs.0x.org&sz=64"
+  },
+  {
+    "name": "1Password Game",
+    "url": "https://bugcrowd.com/agilebits",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "full",
+    "icon": "https://www.google.com/s2/favicons?domain=bugcrowd.com&sz=64"
+  },
+  {
+    "name": "23andme",
+    "url": "https://www.23andme.com/security-report/",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "none",
+    "icon": "https://www.google.com/s2/favicons?domain=www.23andme.com&sz=64"
+  },
+  {
+    "name": "24sessions",
+    "url": "https://www.24sessions.com/responsible-disclosure",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "partial",
+    "icon": "https://www.google.com/s2/favicons?domain=www.24sessions.com&sz=64"
+  },
+  {
+    "name": "3DS OUTSCALE",
+    "url": "https://en.outscale.com/reporting-vulnerabilities/",
+    "bounty": true,
+    "swag": "",
+    "safe_harbor": "",
+    "icon": "https://www.google.com/s2/favicons?domain=en.outscale.com&sz=64"
+  },
+  {
+    "name": "84codes",
+    "url": "https://www.84codes.com/security/",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "partial",
+    "icon": "https://www.google.com/s2/favicons?domain=www.84codes.com&sz=64"
+  },
+  {
+    "name": "ALSCO",
+    "url": "https://alscotoday.com/go/bug",
+    "bounty": true,
+    "swag": "",
+    "safe_harbor": "full",
+    "icon": "https://www.google.com/s2/favicons?domain=alscotoday.com&sz=64"
+  },
+  {
+    "name": "ARM mBed",
+    "url": "https://tls.mbed.org/c-library-bug-bounty-program",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "none",
+    "icon": "https://www.google.com/s2/favicons?domain=tls.mbed.org&sz=64"
+  },
+  {
+    "name": "AT&T",
+    "url": "https://bugbounty.att.com/",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "none",
+    "icon": "https://www.google.com/s2/favicons?domain=bugbounty.att.com&sz=64"
+  },
+  {
+    "name": "AXIS OS",
+    "url": "https://bugcrowd.com/engagements/axis-os-public",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "",
+    "icon": "https://www.google.com/s2/favicons?domain=bugcrowd.com&sz=64"
+  },
+  {
+    "name": "Abn Amro",
+    "url": "https://www.abnamro.nl/en/personal/overabnamro/secure-banking/responsible-disclosure.html",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "partial",
+    "icon": "https://www.google.com/s2/favicons?domain=www.abnamro.nl&sz=64"
+  },
+  {
+    "name": "Accellion",
+    "url": "https://bugcrowd.com/accellion-public",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "full",
+    "icon": "https://www.google.com/s2/favicons?domain=bugcrowd.com&sz=64"
+  },
+  {
+    "name": "Accredible",
+    "url": "https://www.accredible.com/white_hat/",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "none",
+    "icon": "https://www.google.com/s2/favicons?domain=www.accredible.com&sz=64"
+  },
+  {
+    "name": "Acorns LLC",
+    "url": "https://bugcrowd.com/acorns",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "full",
+    "icon": "https://www.google.com/s2/favicons?domain=bugcrowd.com&sz=64"
+  },
+  {
+    "name": "Across Protocol",
+    "url": "https://docs.across.to/v/developer-docs/additional-info/bug-bounty",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "",
+    "icon": "https://www.google.com/s2/favicons?domain=docs.across.to&sz=64"
+  },
+  {
+    "name": "Actility",
+    "url": "https://www.actility.com/security/",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "none",
+    "icon": "https://www.google.com/s2/favicons?domain=www.actility.com&sz=64"
+  },
+  {
+    "name": "Ahold Delhaize",
+    "url": "https://www.aholddelhaize.com/en/security/",
+    "bounty": true,
+    "swag": true,
+    "safe_harbor": "none",
+    "icon": "https://www.google.com/s2/favicons?domain=www.aholddelhaize.com&sz=64"
+  },
+  {
+    "name": "Aion",
+    "url": "https://aion.network/terms-bounty/",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "none",
+    "icon": "https://www.google.com/s2/favicons?domain=aion.network&sz=64"
+  },
+  {
+    "name": "Air Miles",
+    "url": "https://www.airmiles.nl/responsible-disclosure",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "none",
+    "icon": "https://www.google.com/s2/favicons?domain=www.airmiles.nl&sz=64"
+  },
+  {
+    "name": "AirSwap",
+    "url": "https://blog.airswap.io/airswap-bug-bounty-4d7ec41f3ea7",
+    "bounty": true,
+    "swag": "",
+    "safe_harbor": "",
+    "icon": "https://www.google.com/s2/favicons?domain=blog.airswap.io&sz=64"
+  },
+  {
+    "name": "AirVPN",
+    "url": "https://airvpn.org/security_policy/",
+    "bounty": true,
+    "swag": "",
+    "safe_harbor": "",
+    "icon": "https://www.google.com/s2/favicons?domain=airvpn.org&sz=64"
+  },
+  {
+    "name": "Airbnb",
+    "url": "https://hackerone.com/airbnb",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "none",
+    "icon": "https://www.google.com/s2/favicons?domain=hackerone.com&sz=64"
+  },
+  {
+    "name": "Airtable",
+    "url": "https://hackerone.com/airtable",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "none",
+    "icon": "https://www.google.com/s2/favicons?domain=hackerone.com&sz=64"
+  },
+  {
+    "name": "Algolia",
+    "url": "https://hackerone.com/algolia",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "none",
+    "icon": "https://www.google.com/s2/favicons?domain=hackerone.com&sz=64"
+  },
+  {
+    "name": "Algorand",
+    "url": "https://bugcrowd.com/algorand",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "full",
+    "icon": "https://www.google.com/s2/favicons?domain=bugcrowd.com&sz=64"
+  },
+  {
+    "name": "Alibaba",
+    "url": "https://security.alibaba.com/",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "partial",
+    "icon": "https://www.google.com/s2/favicons?domain=security.alibaba.com&sz=64"
+  },
+  {
+    "name": "Aliexpress",
+    "url": "https://security.alibaba.com/",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "partial",
+    "icon": "https://www.google.com/s2/favicons?domain=security.alibaba.com&sz=64"
+  },
+  {
+    "name": "Allegro",
+    "url": "https://hackerone.com/allegro",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "none",
+    "icon": "https://www.google.com/s2/favicons?domain=hackerone.com&sz=64"
+  },
+  {
+    "name": "Altilly",
+    "url": "https://www.altilly.com/page/security",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "none",
+    "icon": "https://www.google.com/s2/favicons?domain=www.altilly.com&sz=64"
+  },
+  {
+    "name": "AlwaysData",
+    "url": "https://www.alwaysdata.com/en/bug-bounty/",
+    "bounty": true,
+    "swag": true,
+    "safe_harbor": "full",
+    "icon": "https://www.google.com/s2/favicons?domain=www.alwaysdata.com&sz=64"
+  },
+  {
+    "name": "Amazon",
+    "url": "https://hackerone.com/amazonvrp",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "none",
+    "icon": "https://www.google.com/s2/favicons?domain=hackerone.com&sz=64"
+  },
+  {
+    "name": "AmpCode.com",
+    "url": "https://ampcode.com/security/",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "",
+    "icon": "https://www.google.com/s2/favicons?domain=ampcode.com&sz=64"
+  },
+  {
+    "name": "Android",
+    "url": "https://www.google.com/about/appsecurity/android-rewards/",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "none",
+    "icon": "https://www.google.com/s2/favicons?domain=www.google.com&sz=64"
+  },
+  {
+    "name": "Antavo Loyalty Management Platform",
+    "url": "https://www.hacktify.eu/en/public-programs/",
+    "bounty": true,
+    "swag": null,
+    "safe_harbor": "partial",
+    "icon": "https://www.google.com/s2/favicons?domain=www.hacktify.eu&sz=64"
+  },
+  {
+    "name": "Apache",
+    "url": "https://www.apache.org/security/",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "none",
+    "icon": "https://www.google.com/s2/favicons?domain=www.apache.org&sz=64"
+  },
+  {
+    "name": "Apache httpd",
+    "url": "https://www.apache.org/security/",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "none",
+    "icon": "https://www.google.com/s2/favicons?domain=www.apache.org&sz=64"
+  },
+  {
+    "name": "Apple",
+    "url": "https://developer.apple.com/security-bounty/",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "none",
+    "icon": "https://www.google.com/s2/favicons?domain=developer.apple.com&sz=64"
+  },
+  {
+    "name": "Aqua Security",
+    "url": "https://www.aquasec.com/trust/security/responsible-disclosure-program/",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "",
+    "icon": "https://www.google.com/s2/favicons?domain=www.aquasec.com&sz=64"
+  },
+  {
+    "name": "Aragon",
+    "url": "https://blog.aragon.org/aragon-network-bug-bounty/",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "none",
+    "icon": "https://www.google.com/s2/favicons?domain=blog.aragon.org&sz=64"
+  },
+  {
+    "name": "Ark",
+    "url": "https://ark.io/blog/ark-development-and-security-bounty-program-arkio-blog",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "none",
+    "icon": "https://www.google.com/s2/favicons?domain=ark.io&sz=64"
+  },
+  {
+    "name": "Arkose Labs",
+    "url": "https://bugcrowd.com/arkose-labs",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "partial",
+    "icon": "https://www.google.com/s2/favicons?domain=bugcrowd.com&sz=64"
+  },
+  {
+    "name": "Arlo - Cash Rewards Program",
+    "url": "https://bugcrowd.com/arlo",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "partial",
+    "icon": "https://www.google.com/s2/favicons?domain=bugcrowd.com&sz=64"
+  },
+  {
+    "name": "Artsy",
+    "url": "https://www.artsy.net/security",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "none",
+    "icon": "https://www.google.com/s2/favicons?domain=www.artsy.net&sz=64"
+  },
+  {
+    "name": "Aruba Networks",
+    "url": "https://bugcrowd.com/aruba-public",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "full",
+    "icon": "https://www.google.com/s2/favicons?domain=bugcrowd.com&sz=64"
+  },
+  {
+    "name": "Asana",
+    "url": "https://asana.com/bounty",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "none",
+    "icon": "https://www.google.com/s2/favicons?domain=asana.com&sz=64"
+  },
+  {
+    "name": "Assuring Medical Apps",
+    "url": "https://digitalhealthcompliance.com/disclosure-en/",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "partial",
+    "icon": "https://www.google.com/s2/favicons?domain=digitalhealthcompliance.com&sz=64"
+  },
+  {
+    "name": "Asterisk",
+    "url": "https://wiki.asterisk.org/wiki/display/AST/Asterisk+Bug+Bounties",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "none",
+    "icon": "https://www.google.com/s2/favicons?domain=wiki.asterisk.org&sz=64"
+  },
+  {
+    "name": "Atlassian",
+    "url": "https://bugcrowd.com/atlassian",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "full",
+    "icon": "https://www.google.com/s2/favicons?domain=bugcrowd.com&sz=64"
+  },
+  {
+    "name": "Atlassian - Opsgenie",
+    "url": "https://bugcrowd.com/opsgenie",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "full",
+    "icon": "https://www.google.com/s2/favicons?domain=bugcrowd.com&sz=64"
+  },
+  {
+    "name": "Augur",
+    "url": "https://augur.net/blog/v2-bug-bounty/",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "partial",
+    "icon": "https://www.google.com/s2/favicons?domain=augur.net&sz=64"
+  },
+  {
+    "name": "Automox",
+    "url": "https://www.automox.com/security/responsible-disclosure",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "full",
+    "icon": "https://www.google.com/s2/favicons?domain=www.automox.com&sz=64"
+  },
+  {
+    "name": "Avast!",
+    "url": "https://www.avast.com/bug-bounty",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "none",
+    "icon": "https://www.google.com/s2/favicons?domain=www.avast.com&sz=64"
+  },
+  {
+    "name": "Avira",
+    "url": "https://www.avira.com/en/support-vulnerability",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "none",
+    "icon": "https://www.google.com/s2/favicons?domain=www.avira.com&sz=64"
+  },
+  {
+    "name": "Azimo",
+    "url": "https://azimo.com/en/lp/responsible-disclosure",
+    "bounty": true,
+    "swag": "",
+    "safe_harbor": "",
+    "icon": "https://www.google.com/s2/favicons?domain=azimo.com&sz=64"
+  },
+  {
+    "name": "Backblaze",
+    "url": "https://www.backblaze.com/security.html",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "none",
+    "icon": "https://www.google.com/s2/favicons?domain=www.backblaze.com&sz=64"
+  },
+  {
+    "name": "Badoo",
+    "url": "https://hackerone.com/badoo",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "none",
+    "icon": "https://www.google.com/s2/favicons?domain=hackerone.com&sz=64"
+  },
+  {
+    "name": "Bentley",
+    "url": "https://www.bentley.com/legal/bug-bounty-report/",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "",
+    "icon": "https://www.google.com/s2/favicons?domain=www.bentley.com&sz=64"
+  },
+  {
+    "name": "Better",
+    "url": "https://bugcrowd.com/better",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "full",
+    "icon": "https://www.google.com/s2/favicons?domain=bugcrowd.com&sz=64"
+  },
+  {
+    "name": "Beyond Security",
+    "url": "https://www.beyondsecurity.com/ssd.html",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "none",
+    "icon": "https://www.google.com/s2/favicons?domain=www.beyondsecurity.com&sz=64"
+  },
+  {
+    "name": "Bime",
+    "url": "https://www.zendesk.com/company/policies-procedures/#responsible-disclosure-policy",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "none",
+    "icon": "https://www.google.com/s2/favicons?domain=www.zendesk.com&sz=64"
+  },
+  {
+    "name": "Binance",
+    "url": "https://bugcrowd.com/binance",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "partial",
+    "icon": "https://www.google.com/s2/favicons?domain=bugcrowd.com&sz=64"
+  },
+  {
+    "name": "BitMEX",
+    "url": "https://www.bitmex.com/app/security",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "none",
+    "icon": "https://www.google.com/s2/favicons?domain=www.bitmex.com&sz=64"
+  },
+  {
+    "name": "Bitcoin Gold",
+    "url": "https://github.com/BTCGPU/Developer-Portal/blob/master/responsible-disclosure.md",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "none",
+    "icon": "https://www.google.com/s2/favicons?domain=github.com&sz=64"
+  },
+  {
+    "name": "Bitdefender",
+    "url": "https://bugcrowd.com/bitdefender",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "full",
+    "icon": "https://www.google.com/s2/favicons?domain=bugcrowd.com&sz=64"
+  },
+  {
+    "name": "Bitdefender Box v2",
+    "url": "https://bugcrowd.com/bitdefenderbox2",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "full",
+    "icon": "https://www.google.com/s2/favicons?domain=bugcrowd.com&sz=64"
+  },
+  {
+    "name": "Bitgo",
+    "url": "https://www.bitgo.com/bug-bounty",
+    "bounty": true,
+    "swag": "",
+    "safe_harbor": "",
+    "icon": "https://www.google.com/s2/favicons?domain=www.bitgo.com&sz=64"
+  },
+  {
+    "name": "Bitpay",
+    "url": "https://support.bitpay.com/hc/en-us/articles/204229369-Does-BitPay-have-a-bug-bounty-program-",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "partial",
+    "icon": "https://www.google.com/s2/favicons?domain=support.bitpay.com&sz=64"
+  },
+  {
+    "name": "Bitski",
+    "url": "https://www.bitski.com/bounty/",
+    "bounty": true,
+    "swag": "",
+    "safe_harbor": "",
+    "icon": "https://www.google.com/s2/favicons?domain=www.bitski.com&sz=64"
+  },
+  {
+    "name": "Bitsoffreedom",
+    "url": "https://www.bitsoffreedom.nl/coordinated-vulnerability-disclosure-en/",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "none",
+    "icon": "https://www.google.com/s2/favicons?domain=www.bitsoffreedom.nl&sz=64"
+  },
+  {
+    "name": "Bitwala",
+    "url": "https://www.bitwala.com/security/",
+    "bounty": true,
+    "swag": "",
+    "safe_harbor": "partial",
+    "icon": "https://www.google.com/s2/favicons?domain=www.bitwala.com&sz=64"
+  },
+  {
+    "name": "Blade Storm",
+    "url": "https://bladestorm.zendesk.com/hc/en-us/articles/360010393497-Bug-Bounty-Program",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "none",
+    "icon": "https://www.google.com/s2/favicons?domain=bladestorm.zendesk.com&sz=64"
+  },
+  {
+    "name": "Blogger",
+    "url": "https://www.google.com/about/appsecurity/reward-program/",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "none",
+    "icon": "https://www.google.com/s2/favicons?domain=www.google.com&sz=64"
+  },
+  {
+    "name": "Boozt Fashion",
+    "url": "https://bugcrowd.com/boozt-og",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "full",
+    "icon": "https://www.google.com/s2/favicons?domain=bugcrowd.com&sz=64"
+  },
+  {
+    "name": "Bose",
+    "url": "https://global.bose.com/en_us/product_security_vulnerability_response.html",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "partial",
+    "icon": "https://www.google.com/s2/favicons?domain=global.bose.com&sz=64"
+  },
+  {
+    "name": "Brave",
+    "url": "https://hackerone.com/brave?view_policy=true",
+    "bounty": true,
+    "swag": true,
+    "safe_harbor": "none",
+    "icon": "https://www.google.com/s2/favicons?domain=hackerone.com&sz=64"
+  },
+  {
+    "name": "BugPoC",
+    "url": "https://bugcrowd.com/bugpoc-mbb",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "full",
+    "icon": "https://www.google.com/s2/favicons?domain=bugcrowd.com&sz=64"
+  },
+  {
+    "name": "Bugcrowd",
+    "url": "https://bugcrowd.com/bugcrowd",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "full",
+    "icon": "https://www.google.com/s2/favicons?domain=bugcrowd.com&sz=64"
+  },
+  {
+    "name": "Bunq",
+    "url": "https://www.bunq.com/assets/media/legal/en/20161114_Responsible_Disclosure_Policy_EN.pdf",
+    "bounty": true,
+    "swag": true,
+    "safe_harbor": "partial",
+    "icon": "https://www.google.com/s2/favicons?domain=www.bunq.com&sz=64"
+  },
+  {
+    "name": "Bytedance",
+    "url": "https://security.bytedance.com/media/score-standard/Vulnerability_Rewards_Program.pdf",
+    "bounty": true,
+    "swag": "",
+    "safe_harbor": "",
+    "icon": "https://www.google.com/s2/favicons?domain=security.bytedance.com&sz=64"
+  },
+  {
+    "name": "Caffeine",
+    "url": "https://bugcrowd.com/caffeine",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "full",
+    "icon": "https://www.google.com/s2/favicons?domain=bugcrowd.com&sz=64"
+  },
+  {
+    "name": "Campaign Monitor",
+    "url": "https://www.campaignmonitor.com/trust/report-a-vulnerability/",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "",
+    "icon": "https://www.google.com/s2/favicons?domain=www.campaignmonitor.com&sz=64"
+  },
+  {
+    "name": "Canva",
+    "url": "https://www.canva.com/security/bug-bounty/",
+    "bounty": true,
+    "swag": "",
+    "safe_harbor": "partial",
+    "icon": "https://www.google.com/s2/favicons?domain=www.canva.com&sz=64"
+  },
+  {
+    "name": "CareEvolution",
+    "url": "https://careevolution.com/trust/security-research/",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "full",
+    "icon": "https://www.google.com/s2/favicons?domain=careevolution.com&sz=64"
+  },
+  {
+    "name": "Centrify",
+    "url": "https://bugcrowd.com/centrify",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "partial",
+    "icon": "https://www.google.com/s2/favicons?domain=bugcrowd.com&sz=64"
+  },
+  {
+    "name": "ChainRift",
+    "url": "https://medium.com/chainrift/chainrift-launches-bug-bounty-program-6255eb2d518d",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "full",
+    "icon": "https://www.google.com/s2/favicons?domain=medium.com&sz=64"
+  },
+  {
+    "name": "Chainlink",
+    "url": "https://hackerone.com/chainlink",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "full",
+    "icon": "https://www.google.com/s2/favicons?domain=hackerone.com&sz=64"
+  },
+  {
+    "name": "Chameleon",
+    "url": "https://www.trychameleon.com/security/disclosure",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "none",
+    "icon": "https://www.google.com/s2/favicons?domain=www.trychameleon.com&sz=64"
+  },
+  {
+    "name": "Check",
+    "url": "https://www.federacy.com/check",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "full",
+    "icon": "https://www.google.com/s2/favicons?domain=www.federacy.com&sz=64"
+  },
+  {
+    "name": "Cisco Meraki",
+    "url": "https://bugcrowd.com/ciscomeraki",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "none",
+    "icon": "https://www.google.com/s2/favicons?domain=bugcrowd.com&sz=64"
+  },
+  {
+    "name": "City-Data.com",
+    "url": "http://www.city-data.com/bug-bounty.html",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "partial",
+    "icon": "https://www.google.com/s2/favicons?domain=www.city-data.com&sz=64"
+  },
+  {
+    "name": "Clario",
+    "url": "https://hackerone.com/clario",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "full",
+    "icon": "https://www.google.com/s2/favicons?domain=hackerone.com&sz=64"
+  },
+  {
+    "name": "Classdojo",
+    "url": "https://www.classdojo.com/securitydisclosureprogram/",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "none",
+    "icon": "https://www.google.com/s2/favicons?domain=www.classdojo.com&sz=64"
+  },
+  {
+    "name": "Clause",
+    "url": "https://clause.io/security",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "none",
+    "icon": "https://www.google.com/s2/favicons?domain=clause.io&sz=64"
+  },
+  {
+    "name": "Clenergy",
+    "url": "https://clenergy.com/de/cyber-security-policy/?lang=en",
+    "bounty": true,
+    "swag": "",
+    "safe_harbor": "",
+    "icon": "https://www.google.com/s2/favicons?domain=clenergy.com&sz=64"
+  },
+  {
+    "name": "CloudCannon",
+    "url": "https://cloudcannon.com/bug-bounty/",
+    "bounty": true,
+    "swag": "",
+    "safe_harbor": "",
+    "icon": "https://www.google.com/s2/favicons?domain=cloudcannon.com&sz=64"
+  },
+  {
+    "name": "Cloudinary",
+    "url": "https://bugcrowd.com/cloudinary",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "full",
+    "icon": "https://www.google.com/s2/favicons?domain=bugcrowd.com&sz=64"
+  },
+  {
+    "name": "Cloudways",
+    "url": "https://bugcrowd.com/cloudways",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "partial",
+    "icon": "https://www.google.com/s2/favicons?domain=bugcrowd.com&sz=64"
+  },
+  {
+    "name": "Coin Wallet",
+    "url": "https://coinapp.zendesk.com/hc/en-us/articles/115001730468-Does-CoinSpace-have-a-bug-bounty-program-",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "full",
+    "icon": "https://www.google.com/s2/favicons?domain=coinapp.zendesk.com&sz=64"
+  },
+  {
+    "name": "CoinJar",
+    "url": "https://www.coinjar.com/bounty",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "none",
+    "icon": "https://www.google.com/s2/favicons?domain=www.coinjar.com&sz=64"
+  },
+  {
+    "name": "Coinbase",
+    "url": "https://coinbase.com/whitehat",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "full",
+    "icon": "https://www.google.com/s2/favicons?domain=coinbase.com&sz=64"
+  },
+  {
+    "name": "Coinpayments",
+    "url": "https://www.coinpayments.net/help-bug-bounty",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "none",
+    "icon": "https://www.google.com/s2/favicons?domain=www.coinpayments.net&sz=64"
+  },
+  {
+    "name": "Cointracker",
+    "url": "https://www.cointracker.io/security",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "full",
+    "icon": "https://www.google.com/s2/favicons?domain=www.cointracker.io&sz=64"
+  },
+  {
+    "name": "Credit Karma",
+    "url": "https://bugcrowd.com/creditkarma",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "partial",
+    "icon": "https://www.google.com/s2/favicons?domain=bugcrowd.com&sz=64"
+  },
+  {
+    "name": "Curl",
+    "url": "https://hackerone.com/curl",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "full",
+    "icon": "https://www.google.com/s2/favicons?domain=hackerone.com&sz=64"
+  },
+  {
+    "name": "DJI",
+    "url": "https://security.dji.com/policy?lang=en_US",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "",
+    "icon": "https://www.google.com/s2/favicons?domain=security.dji.com&sz=64"
+  },
+  {
+    "name": "DPD",
+    "url": "https://getdpd.com/security/",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "partial",
+    "icon": "https://www.google.com/s2/favicons?domain=getdpd.com&sz=64"
+  },
+  {
+    "name": "DRACOON",
+    "url": "https://security.dracoon.com",
+    "bounty": true,
+    "swag": "no",
+    "safe_harbor": "partial",
+    "icon": "https://www.google.com/s2/favicons?domain=security.dracoon.com&sz=64"
+  },
+  {
+    "name": "Dailymotion",
+    "url": "https://yeswehack.com/programs/dailymotion-public-bug-bounty",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "full",
+    "icon": "https://www.google.com/s2/favicons?domain=yeswehack.com&sz=64"
+  },
+  {
+    "name": "DeNederlandscheBank",
+    "url": "https://www.dnb.nl/en/responsible-disclosure/index.jsp",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "none",
+    "icon": "https://www.google.com/s2/favicons?domain=www.dnb.nl&sz=64"
+  },
+  {
+    "name": "Debricked",
+    "url": "https://debricked.com/report-a-vulnerability/",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "",
+    "icon": "https://www.google.com/s2/favicons?domain=debricked.com&sz=64"
+  },
+  {
+    "name": "Decred",
+    "url": "https://bounty.decred.org/",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "none",
+    "icon": "https://www.google.com/s2/favicons?domain=bounty.decred.org&sz=64"
+  },
+  {
+    "name": "Defibox",
+    "url": "https://support.newdex.net/hc/en-us/articles/360046715092-Defibox-launches-bug-bounty-program-officially",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "none",
+    "icon": "https://www.google.com/s2/favicons?domain=support.newdex.net&sz=64"
+  },
+  {
+    "name": "Definity Inc.",
+    "url": "https://definityinc.com/bug-bounty-program/",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "partial",
+    "icon": "https://www.google.com/s2/favicons?domain=definityinc.com&sz=64"
+  },
+  {
+    "name": "Dell Technologies Application Bug Bounty",
+    "url": "https://bugcrowd.com/dell-com",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "partial",
+    "icon": "https://www.google.com/s2/favicons?domain=bugcrowd.com&sz=64"
+  },
+  {
+    "name": "Dell Technologies' Products Bug Bounty Program",
+    "url": "https://bugcrowd.com/dell-product",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "partial",
+    "icon": "https://www.google.com/s2/favicons?domain=bugcrowd.com&sz=64"
+  },
+  {
+    "name": "Dentrix",
+    "url": "https://www.dentrix.com/support/data-security/bug-bounty-program",
+    "bounty": true,
+    "swag": "",
+    "safe_harbor": "",
+    "icon": "https://www.google.com/s2/favicons?domain=www.dentrix.com&sz=64"
+  },
+  {
+    "name": "Deribit",
+    "url": "https://www.deribit.com/pages/information/bug-bounty-program",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "partial",
+    "icon": "https://www.google.com/s2/favicons?domain=www.deribit.com&sz=64"
+  },
+  {
+    "name": "DeskPro",
+    "url": "https://www.deskpro.com/security/responsible-disclosure/",
+    "bounty": true,
+    "swag": "",
+    "safe_harbor": "",
+    "icon": "https://www.google.com/s2/favicons?domain=www.deskpro.com&sz=64"
+  },
+  {
+    "name": "Deutsche Telekom",
+    "url": "https://www.telekom.com/en/corporate-responsibility/data-protection-data-security/security/details/closing-security-gaps-360054",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "none",
+    "icon": "https://www.google.com/s2/favicons?domain=www.telekom.com&sz=64"
+  },
+  {
+    "name": "DigitalOcean",
+    "url": "https://app.intigriti.com/programs/digitalocean/digitalocean",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "partial",
+    "icon": "https://www.google.com/s2/favicons?domain=app.intigriti.com&sz=64"
+  },
+  {
+    "name": "Directly",
+    "url": "https://bugcrowd.com/directly",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "full",
+    "icon": "https://www.google.com/s2/favicons?domain=bugcrowd.com&sz=64"
+  },
+  {
+    "name": "Discourse",
+    "url": "https://hackerone.com/discourse",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "none",
+    "icon": "https://www.google.com/s2/favicons?domain=hackerone.com&sz=64"
+  },
+  {
+    "name": "Dozuki",
+    "url": "https://help.dozuki.com/Info/Responsible_Disclosure",
+    "bounty": true,
+    "swag": "",
+    "safe_harbor": "",
+    "icon": "https://www.google.com/s2/favicons?domain=help.dozuki.com&sz=64"
+  },
+  {
+    "name": "DragonEx",
+    "url": "https://dragonex.zendesk.com/hc/en-us/articles/360036938832-BUG-Bounty-Program",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "none",
+    "icon": "https://www.google.com/s2/favicons?domain=dragonex.zendesk.com&sz=64"
+  },
+  {
+    "name": "ENS",
+    "url": "https://docs.ens.domains/bug-bounty-program",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "",
+    "icon": "https://www.google.com/s2/favicons?domain=docs.ens.domains&sz=64"
+  },
+  {
+    "name": "Eligible",
+    "url": "https://eligible.com/responsible_disclosure_program",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "none",
+    "icon": "https://www.google.com/s2/favicons?domain=eligible.com&sz=64"
+  },
+  {
+    "name": "elmah.io",
+    "url": "https://docs.elmah.io/vulnerability-disclosure-program/",
+    "bounty": true,
+    "swag": true,
+    "safe_harbor": "",
+    "icon": "https://www.google.com/s2/favicons?domain=docs.elmah.io&sz=64"
+  },
+  {
+    "name": "Emma",
+    "url": "https://myemma.com/trust/report-a-vulnerability/",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "",
+    "icon": "https://www.google.com/s2/favicons?domain=myemma.com&sz=64"
+  },
+  {
+    "name": "Eset",
+    "url": "https://www.eset.com/int/security-vulnerability-reporting/",
+    "bounty": true,
+    "swag": true,
+    "safe_harbor": "none",
+    "icon": "https://www.google.com/s2/favicons?domain=www.eset.com&sz=64"
+  },
+  {
+    "name": "Ethereum Foundation",
+    "url": "https://bounty.ethereum.org/",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "",
+    "icon": "https://www.google.com/s2/favicons?domain=bounty.ethereum.org&sz=64"
+  },
+  {
+    "name": "Etherscan",
+    "url": "https://etherscan.io/bugbounty",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "",
+    "icon": "https://www.google.com/s2/favicons?domain=etherscan.io&sz=64"
+  },
+  {
+    "name": "Etsy",
+    "url": "https://bugcrowd.com/etsy",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "partial",
+    "icon": "https://www.google.com/s2/favicons?domain=bugcrowd.com&sz=64"
+  },
+  {
+    "name": "Eurid",
+    "url": "https://eurid.eu/lv/other-infomation/eurid-responsible-disclosure-policy/",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "none",
+    "icon": "https://www.google.com/s2/favicons?domain=eurid.eu&sz=64"
+  },
+  {
+    "name": "Exness",
+    "url": "https://hackerone.com/exness",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "",
+    "icon": "https://www.google.com/s2/favicons?domain=hackerone.com&sz=64"
+  },
+  {
+    "name": "ExpressVPN",
+    "url": "https://bugcrowd.com/expressvpn",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "full",
+    "icon": "https://www.google.com/s2/favicons?domain=bugcrowd.com&sz=64"
+  },
+  {
+    "name": "F Secure",
+    "url": "https://www.f-secure.com/en/business/programs/vulnerability-reward-program",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "none",
+    "icon": "https://www.google.com/s2/favicons?domain=www.f-secure.com&sz=64"
+  },
+  {
+    "name": "FIS",
+    "url": "https://bugcrowd.com/fis",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "full",
+    "icon": "https://www.google.com/s2/favicons?domain=bugcrowd.com&sz=64"
+  },
+  {
+    "name": "FUSION",
+    "url": "https://www.fusion.org/developers/bug-bounty#bugs",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "none",
+    "icon": "https://www.google.com/s2/favicons?domain=www.fusion.org&sz=64"
+  },
+  {
+    "name": "Facebook",
+    "url": "https://www.facebook.com/whitehat",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "none",
+    "icon": "https://www.google.com/s2/favicons?domain=www.facebook.com&sz=64"
+  },
+  {
+    "name": "Fair",
+    "url": "https://www.fair.com/bug-bounty",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "partial",
+    "icon": "https://www.google.com/s2/favicons?domain=www.fair.com&sz=64"
+  },
+  {
+    "name": "FanDuel",
+    "url": "https://www.fanduel.com/security",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "full",
+    "icon": "https://www.google.com/s2/favicons?domain=www.fanduel.com&sz=64"
+  },
+  {
+    "name": "Fastmail",
+    "url": "https://www.fastmail.com/bug-bounty/",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "none",
+    "icon": "https://www.google.com/s2/favicons?domain=www.fastmail.com&sz=64"
+  },
+  {
+    "name": "Federacy",
+    "url": "https://www.federacy.com/federacy",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "full",
+    "icon": "https://www.google.com/s2/favicons?domain=www.federacy.com&sz=64"
+  },
+  {
+    "name": "Ferm Rotterdam",
+    "url": "https://ferm-rotterdam.nl/nl/responsible-disclosure-statement",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "none",
+    "icon": "https://www.google.com/s2/favicons?domain=ferm-rotterdam.nl&sz=64"
+  },
+  {
+    "name": "Fiat Chrysler Automobiles",
+    "url": "https://bugcrowd.com/fca",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "full",
+    "icon": "https://www.google.com/s2/favicons?domain=bugcrowd.com&sz=64"
+  },
+  {
+    "name": "Filecoin",
+    "url": "https://security.filecoin.io/bug-bounty/",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "",
+    "icon": "https://www.google.com/s2/favicons?domain=security.filecoin.io&sz=64"
+  },
+  {
+    "name": "Files.com",
+    "url": "https://hackerone.com/files",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "full",
+    "icon": "https://www.google.com/s2/favicons?domain=hackerone.com&sz=64"
+  },
+  {
+    "name": "Fitbit",
+    "url": "https://bugcrowd.com/fitbit",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "partial",
+    "icon": "https://www.google.com/s2/favicons?domain=bugcrowd.com&sz=64"
+  },
+  {
+    "name": "FloorDAO",
+    "url": "https://docs.floor.xyz/v/en/protocol/bug-bounty",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "",
+    "icon": "https://www.google.com/s2/favicons?domain=docs.floor.xyz&sz=64"
+  },
+  {
+    "name": "Flow",
+    "url": "https://flow.com/flow-responsible-disclosure",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "",
+    "icon": "https://www.google.com/s2/favicons?domain=flow.com&sz=64"
+  },
+  {
+    "name": "Ford",
+    "url": "https://hackerone.com/ford",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "full",
+    "icon": "https://www.google.com/s2/favicons?domain=hackerone.com&sz=64"
+  },
+  {
+    "name": "ForeScout Technologies",
+    "url": "https://hackerone.com/forescout_technologies",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "none",
+    "icon": "https://www.google.com/s2/favicons?domain=hackerone.com&sz=64"
+  },
+  {
+    "name": "FoxyCart",
+    "url": "https://bugcrowd.com/foxycart",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "partial",
+    "icon": "https://www.google.com/s2/favicons?domain=bugcrowd.com&sz=64"
+  },
+  {
+    "name": "Frax Finance",
+    "url": "https://docs.frax.finance/smart-contracts/miscellaneous",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "",
+    "icon": "https://www.google.com/s2/favicons?domain=docs.frax.finance&sz=64"
+  },
+  {
+    "name": "GO-JEK",
+    "url": "https://bugcrowd.com/gojek",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "partial",
+    "icon": "https://www.google.com/s2/favicons?domain=bugcrowd.com&sz=64"
+  },
+  {
+    "name": "Gamma",
+    "url": "https://www.gamma.nl/klantenservice/veiligheid-privacy/responsible-disclosure",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "none",
+    "icon": "https://www.google.com/s2/favicons?domain=www.gamma.nl&sz=64"
+  },
+  {
+    "name": "Gcore",
+    "url": "https://gcore.com/bug-bounty-program/",
+    "bounty": true,
+    "swag": "",
+    "safe_harbor": "",
+    "icon": "https://www.google.com/s2/favicons?domain=gcore.com&sz=64"
+  },
+  {
+    "name": "Ghostscript",
+    "url": "https://ghostscript.com/Bug_bounty_program.html",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "none",
+    "icon": "https://www.google.com/s2/favicons?domain=ghostscript.com&sz=64"
+  },
+  {
+    "name": "Gitcoin",
+    "url": "https://docs.gitcoin.co/mk_securitybounty/",
+    "bounty": true,
+    "swag": null,
+    "safe_harbor": null,
+    "icon": "https://www.google.com/s2/favicons?domain=docs.gitcoin.co&sz=64"
+  },
+  {
+    "name": "Github",
+    "url": "https://bounty.github.com/",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "full",
+    "icon": "https://www.google.com/s2/favicons?domain=bounty.github.com&sz=64"
+  },
+  {
+    "name": "Global",
+    "url": "https://global.com/bug-bounty-policy/",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "full",
+    "icon": "https://www.google.com/s2/favicons?domain=global.com&sz=64"
+  },
+  {
+    "name": "Goldman Sachs",
+    "url": "https://www.goldmansachs.com/privacy-and-cookies/global-privacy-policy.html",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "none",
+    "icon": "https://www.google.com/s2/favicons?domain=www.goldmansachs.com&sz=64"
+  },
+  {
+    "name": "Google",
+    "url": "https://www.google.com/about/appsecurity/",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "none",
+    "icon": "https://www.google.com/s2/favicons?domain=www.google.com&sz=64"
+  },
+  {
+    "name": "Google Chrome",
+    "url": "https://www.google.com/about/appsecurity/chrome-rewards/",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "none",
+    "icon": "https://www.google.com/s2/favicons?domain=www.google.com&sz=64"
+  },
+  {
+    "name": "Google PRP",
+    "url": "https://www.google.com/about/appsecurity/patch-rewards/index.html",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "none",
+    "icon": "https://www.google.com/s2/favicons?domain=www.google.com&sz=64"
+  },
+  {
+    "name": "Grab",
+    "url": "https://hackerone.com/grab",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "none",
+    "icon": "https://www.google.com/s2/favicons?domain=hackerone.com&sz=64"
+  },
+  {
+    "name": "Grafana",
+    "url": "https://github.com/grafana/bugbounty",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "",
+    "icon": "https://www.google.com/s2/favicons?domain=github.com&sz=64"
+  },
+  {
+    "name": "Gusto",
+    "url": "https://bugcrowd.com/gusto",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "full",
+    "icon": "https://www.google.com/s2/favicons?domain=bugcrowd.com&sz=64"
+  },
+  {
+    "name": "Hellosign",
+    "url": "https://www.hellosign.com/trust/security",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "none",
+    "icon": "https://www.google.com/s2/favicons?domain=www.hellosign.com&sz=64"
+  },
+  {
+    "name": "Heroku",
+    "url": "https://www.heroku.com/policy/security",
+    "bounty": true,
+    "swag": true,
+    "safe_harbor": "partial",
+    "icon": "https://www.google.com/s2/favicons?domain=www.heroku.com&sz=64"
+  },
+  {
+    "name": "Hex-Rays",
+    "url": "https://www.hex-rays.com/bugbounty/",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "none",
+    "icon": "https://www.google.com/s2/favicons?domain=www.hex-rays.com&sz=64"
+  },
+  {
+    "name": "HitBTC",
+    "url": "https://hitbtc.com/bug-report",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "none",
+    "icon": "https://www.google.com/s2/favicons?domain=hitbtc.com&sz=64"
+  },
+  {
+    "name": "Honest",
+    "url": "https://honest.co.id/vulnerability-disclosure-policy",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "full",
+    "icon": "https://www.google.com/s2/favicons?domain=honest.co.id&sz=64"
+  },
+  {
+    "name": "Hostinger",
+    "url": "https://www.hostinger.com/responsible-disclosure-policy",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "full",
+    "icon": "https://www.google.com/s2/favicons?domain=www.hostinger.com&sz=64"
+  },
+  {
+    "name": "Hunter.io",
+    "url": "https://hunter.io/security-bounty-program",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "none",
+    "icon": "https://www.google.com/s2/favicons?domain=hunter.io&sz=64"
+  },
+  {
+    "name": "Hyatt",
+    "url": "https://hackerone.com/hyatt",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "full",
+    "icon": "https://www.google.com/s2/favicons?domain=hackerone.com&sz=64"
+  },
+  {
+    "name": "ING NL",
+    "url": "https://www.ing.nl/de-ing/veilig-bankieren/fraude-melden/meldpunt-kwetsbaarheden/index.html",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "none",
+    "icon": "https://www.google.com/s2/favicons?domain=www.ing.nl&sz=64"
+  },
+  {
+    "name": "IOTA",
+    "url": "https://github.com/iotaledger/iota-java/blob/dev/.github/SECURITY.md",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "partial",
+    "icon": "https://www.google.com/s2/favicons?domain=github.com&sz=64"
+  },
+  {
+    "name": "Ibotta",
+    "url": "https://bugcrowd.com/ibotta",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "full",
+    "icon": "https://www.google.com/s2/favicons?domain=bugcrowd.com&sz=64"
+  },
+  {
+    "name": "Iconloop",
+    "url": "https://hackerone.com/iconloop_inc",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "none",
+    "icon": "https://www.google.com/s2/favicons?domain=hackerone.com&sz=64"
+  },
+  {
+    "name": "Idena",
+    "url": "https://www.idena.io/contribute#contribute-3-1",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "",
+    "icon": "https://www.google.com/s2/favicons?domain=www.idena.io&sz=64"
+  },
+  {
+    "name": "ImmutableSoft",
+    "url": "https://immutablesoft.github.io/ImmutableEcosystem/",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "full",
+    "icon": "https://www.google.com/s2/favicons?domain=immutablesoft.github.io&sz=64"
+  },
+  {
+    "name": "InVision",
+    "url": "https://bugcrowd.com/invision",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "partial",
+    "icon": "https://www.google.com/s2/favicons?domain=bugcrowd.com&sz=64"
+  },
+  {
+    "name": "Indeed",
+    "url": "https://bugcrowd.com/indeed",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "partial",
+    "icon": "https://www.google.com/s2/favicons?domain=bugcrowd.com&sz=64"
+  },
+  {
+    "name": "Independer",
+    "url": "https://www.independer.nl/algemeen/info/responsible-disclosure.aspx",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "partial",
+    "icon": "https://www.google.com/s2/favicons?domain=www.independer.nl&sz=64"
+  },
+  {
+    "name": "Inditex",
+    "url": "https://hackerone.com/inditex",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "",
+    "icon": "https://www.google.com/s2/favicons?domain=hackerone.com&sz=64"
+  },
+  {
+    "name": "InfStones",
+    "url": "https://infstones.com/blog/education/introducing-the-blocguardians-bug-bounty-program-654e723bd9afaf003e44fdea",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "",
+    "icon": "https://www.google.com/s2/favicons?domain=infstones.com&sz=64"
+  },
+  {
+    "name": "Ing",
+    "url": "https://www.ing.com/ING.com-Security.htm",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "none",
+    "icon": "https://www.google.com/s2/favicons?domain=www.ing.com&sz=64"
+  },
+  {
+    "name": "InnoGames",
+    "url": "https://hackerone.com/innogames",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "full",
+    "icon": "https://www.google.com/s2/favicons?domain=hackerone.com&sz=64"
+  },
+  {
+    "name": "Instructure",
+    "url": "https://www.instructure.com/canvas/blog/instructures-proven-security-vulnerability-disclosure-program",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "none",
+    "icon": "https://www.google.com/s2/favicons?domain=www.instructure.com&sz=64"
+  },
+  {
+    "name": "IntegraXor (SCADA)",
+    "url": "https://www.integraxor.com/integraxor-hmi-scada-bug-bounty-program/",
+    "bounty": true,
+    "swag": true,
+    "safe_harbor": "none",
+    "icon": "https://www.google.com/s2/favicons?domain=www.integraxor.com&sz=64"
+  },
+  {
+    "name": "Intel",
+    "url": "https://www.intel.com/content/www/us/en/security-center/default.html",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "none",
+    "icon": "https://www.google.com/s2/favicons?domain=www.intel.com&sz=64"
+  },
+  {
+    "name": "Intercom",
+    "url": "https://bugcrowd.com/intercom",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "partial",
+    "icon": "https://www.google.com/s2/favicons?domain=bugcrowd.com&sz=64"
+  },
+  {
+    "name": "IronCore Labs",
+    "url": "https://ironcorelabs.com/trust-center/bug-bounty-program",
+    "bounty": true,
+    "swag": "",
+    "safe_harbor": "",
+    "icon": "https://www.google.com/s2/favicons?domain=ironcorelabs.com&sz=64"
+  },
+  {
+    "name": "JD Services",
+    "url": "https://jd-services.eu/vdp/",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "",
+    "icon": "https://www.google.com/s2/favicons?domain=jd-services.eu&sz=64"
+  },
+  {
+    "name": "Jackal Protocol",
+    "url": "https://jackaldao.medium.com/announcement-jackal-bug-bounty-program-31d4e03ab7e2",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "partial",
+    "icon": "https://www.google.com/s2/favicons?domain=jackaldao.medium.com&sz=64"
+  },
+  {
+    "name": "JetBrains",
+    "url": "https://www.jetbrains.com/legal/terms/coordinated-disclosure.html",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "partial",
+    "icon": "https://www.google.com/s2/favicons?domain=www.jetbrains.com&sz=64"
+  },
+  {
+    "name": "Jumbo Privacy",
+    "url": "https://bugcrowd.com/jumboprivacy",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "partial",
+    "icon": "https://www.google.com/s2/favicons?domain=bugcrowd.com&sz=64"
+  },
+  {
+    "name": "JumpleAd",
+    "url": "https://jumplead.com/about/security",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "partial",
+    "icon": "https://www.google.com/s2/favicons?domain=jumplead.com&sz=64"
+  },
+  {
+    "name": "Kaspersky",
+    "url": "https://support.kaspersky.com/vulnerability",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "full",
+    "icon": "https://www.google.com/s2/favicons?domain=support.kaspersky.com&sz=64"
+  },
+  {
+    "name": "Kenna Security",
+    "url": "https://bugcrowd.com/kennasecurity",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "none",
+    "icon": "https://www.google.com/s2/favicons?domain=bugcrowd.com&sz=64"
+  },
+  {
+    "name": "Kissflow",
+    "url": "https://kissflow.com/responsible-disclosure/",
+    "bounty": true,
+    "swag": true,
+    "safe_harbor": "none",
+    "icon": "https://www.google.com/s2/favicons?domain=kissflow.com&sz=64"
+  },
+  {
+    "name": "Kiteworks",
+    "url": "https://security.kiteworks.com",
+    "bounty": true,
+    "swag": "no",
+    "safe_harbor": "partial",
+    "icon": "https://www.google.com/s2/favicons?domain=security.kiteworks.com&sz=64"
+  },
+  {
+    "name": "Kraken",
+    "url": "https://www.kraken.com/security/bug-bounty",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "none",
+    "icon": "https://www.google.com/s2/favicons?domain=www.kraken.com&sz=64"
+  },
+  {
+    "name": "Kubernetes",
+    "url": "https://kubernetes.io/security",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "full",
+    "icon": "https://www.google.com/s2/favicons?domain=kubernetes.io&sz=64"
+  },
+  {
+    "name": "LINE",
+    "url": "https://bugbounty.linecorp.com/en/",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "none",
+    "icon": "https://www.google.com/s2/favicons?domain=bugbounty.linecorp.com&sz=64"
+  },
+  {
+    "name": "LastPass",
+    "url": "https://bugcrowd.com/lastpass",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "partial",
+    "icon": "https://www.google.com/s2/favicons?domain=bugcrowd.com&sz=64"
+  },
+  {
+    "name": "LayerZero",
+    "url": "https://layerzero.gitbook.io/docs/bug-bounty/bug-bounty-program",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "",
+    "icon": "https://www.google.com/s2/favicons?domain=layerzero.gitbook.io&sz=64"
+  },
+  {
+    "name": "Leetcode",
+    "url": "https://leetcode.com/bugbounty/",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "partial",
+    "icon": "https://www.google.com/s2/favicons?domain=leetcode.com&sz=64"
+  },
+  {
+    "name": "Liberapay",
+    "url": "https://hackerone.com/liberapay",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "full",
+    "icon": "https://www.google.com/s2/favicons?domain=hackerone.com&sz=64"
+  },
+  {
+    "name": "Libra",
+    "url": "https://hackerone.com/libra",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "none",
+    "icon": "https://www.google.com/s2/favicons?domain=hackerone.com&sz=64"
+  },
+  {
+    "name": "Lime",
+    "url": "https://bugcrowd.com/lime",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "full",
+    "icon": "https://www.google.com/s2/favicons?domain=bugcrowd.com&sz=64"
+  },
+  {
+    "name": "Liquid Web",
+    "url": "https://www.liquidweb.com/about-us/policies/bug-bounty-program/",
+    "bounty": true,
+    "swag": "",
+    "safe_harbor": "",
+    "icon": "https://www.google.com/s2/favicons?domain=www.liquidweb.com&sz=64"
+  },
+  {
+    "name": "Lisk",
+    "url": "https://lisk.io/bug-bounty-program",
+    "bounty": true,
+    "swag": "",
+    "safe_harbor": "",
+    "icon": "https://www.google.com/s2/favicons?domain=lisk.io&sz=64"
+  },
+  {
+    "name": "Liveclicker",
+    "url": "https://www.liveclicker.com/trust/report-a-vulnerability/",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "",
+    "icon": "https://www.google.com/s2/favicons?domain=www.liveclicker.com&sz=64"
+  },
+  {
+    "name": "Livesport",
+    "url": "https://bugbounty.livesport.eu/docs/Vulnerability%20Disclosure%20Policy.pdf",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "",
+    "icon": "https://www.google.com/s2/favicons?domain=bugbounty.livesport.eu&sz=64"
+  },
+  {
+    "name": "Livestream",
+    "url": "https://hackerone.com/livestream",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "partial",
+    "icon": "https://www.google.com/s2/favicons?domain=hackerone.com&sz=64"
+  },
+  {
+    "name": "Lob",
+    "url": "https://hackerone.com/lob",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "full",
+    "icon": "https://www.google.com/s2/favicons?domain=hackerone.com&sz=64"
+  },
+  {
+    "name": "LoginRadius",
+    "url": "https://www.loginradius.com/bug-bounty/",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "partial",
+    "icon": "https://www.google.com/s2/favicons?domain=www.loginradius.com&sz=64"
+  },
+  {
+    "name": "Luno",
+    "url": "https://bugcrowd.com/luno-og",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "full",
+    "icon": "https://www.google.com/s2/favicons?domain=bugcrowd.com&sz=64"
+  },
+  {
+    "name": "Lyft",
+    "url": "https://www.lyft.com/security",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "none",
+    "icon": "https://www.google.com/s2/favicons?domain=www.lyft.com&sz=64"
+  },
+  {
+    "name": "MEV-Boost",
+    "url": "https://github.com/flashbots/mev-boost/blob/main/SECURITY.md",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "",
+    "icon": "https://www.google.com/s2/favicons?domain=github.com&sz=64"
+  },
+  {
+    "name": "Magento",
+    "url": "https://hackerone.com/magento",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "full",
+    "icon": "https://www.google.com/s2/favicons?domain=hackerone.com&sz=64"
+  },
+  {
+    "name": "Magic Leap Cloud",
+    "url": "https://bugcrowd.com/magicleapcloud",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "partial",
+    "icon": "https://www.google.com/s2/favicons?domain=bugcrowd.com&sz=64"
+  },
+  {
+    "name": "MagicLeap Device",
+    "url": "https://bugcrowd.com/magicleapdevice",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "partial",
+    "icon": "https://www.google.com/s2/favicons?domain=bugcrowd.com&sz=64"
+  },
+  {
+    "name": "Mailgun",
+    "url": "https://bugcrowd.com/mailgun",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "partial",
+    "icon": "https://www.google.com/s2/favicons?domain=bugcrowd.com&sz=64"
+  },
+  {
+    "name": "Majid Al Futtaim",
+    "url": "https://www.majidalfuttaim.com/en/responsible-disclosure-policy",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "none",
+    "icon": "https://www.google.com/s2/favicons?domain=www.majidalfuttaim.com&sz=64"
+  },
+  {
+    "name": "Maker Ecosystem Growth Holdings",
+    "url": "https://hackerone.com/makerdao_bbp",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "none",
+    "icon": "https://www.google.com/s2/favicons?domain=hackerone.com&sz=64"
+  },
+  {
+    "name": "Malwarebytes",
+    "url": "https://www.malwarebytes.org/secure/",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "none",
+    "icon": "https://www.google.com/s2/favicons?domain=www.malwarebytes.org&sz=64"
+  },
+  {
+    "name": "ManageWP",
+    "url": "https://managewp.com/white-hat-reward",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "none",
+    "icon": "https://www.google.com/s2/favicons?domain=managewp.com&sz=64"
+  },
+  {
+    "name": "Marktplaats",
+    "url": "https://www.marktplaats.nl/i/help/veilig-en-succesvol/responsible-disclosure-program.dot.html",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "none",
+    "icon": "https://www.google.com/s2/favicons?domain=www.marktplaats.nl&sz=64"
+  },
+  {
+    "name": "Massachusetts Institute of Technology",
+    "url": "https://bounty.mit.edu/",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "none",
+    "icon": "https://www.google.com/s2/favicons?domain=bounty.mit.edu&sz=64"
+  },
+  {
+    "name": "Mastercard",
+    "url": "https://bugcrowd.com/mastercard",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "partial",
+    "icon": "https://www.google.com/s2/favicons?domain=bugcrowd.com&sz=64"
+  },
+  {
+    "name": "Mattermost",
+    "url": "https://bugcrowd.com/engagements/mattermost-mbb-public",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "full",
+    "icon": "https://www.google.com/s2/favicons?domain=bugcrowd.com&sz=64"
+  },
+  {
+    "name": "Medium",
+    "url": "https://help.medium.com/hc/en-us/articles/213481308-Bug-Bounty-Disclosure-Program",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "partial",
+    "icon": "https://www.google.com/s2/favicons?domain=help.medium.com&sz=64"
+  },
+  {
+    "name": "Mega.co.nz",
+    "url": "https://mega.co.nz/#blog_6",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "none",
+    "icon": "https://www.google.com/s2/favicons?domain=mega.co.nz&sz=64"
+  },
+  {
+    "name": "MicroStrategy",
+    "url": "https://www.microstrategy.com/us/bug-bounty-program",
+    "bounty": true,
+    "swag": "",
+    "safe_harbor": "",
+    "icon": "https://www.google.com/s2/favicons?domain=www.microstrategy.com&sz=64"
+  },
+  {
+    "name": "Modern Treasury",
+    "url": "https://www.federacy.com/modern-treasury",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "full",
+    "icon": "https://www.google.com/s2/favicons?domain=www.federacy.com&sz=64"
+  },
+  {
+    "name": "Monash University",
+    "url": "https://www.monash.edu/cybersecurity/about/mon-csirt",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "partial",
+    "icon": "https://www.google.com/s2/favicons?domain=www.monash.edu&sz=64"
+  },
+  {
+    "name": "Monetha",
+    "url": "https://www.monetha.io/bounty",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "none",
+    "icon": "https://www.google.com/s2/favicons?domain=www.monetha.io&sz=64"
+  },
+  {
+    "name": "Moneytree KK",
+    "url": "https://bugcrowd.com/moneytreekkog",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "partial",
+    "icon": "https://www.google.com/s2/favicons?domain=bugcrowd.com&sz=64"
+  },
+  {
+    "name": "Mozilla",
+    "url": "https://www.mozilla.org/en-US/security/bug-bounty/",
+    "bounty": true,
+    "swag": true,
+    "safe_harbor": "full",
+    "icon": "https://www.google.com/s2/favicons?domain=www.mozilla.org&sz=64"
+  },
+  {
+    "name": "MuJS",
+    "url": "https://mujs.com/security.html",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "none",
+    "icon": "https://www.google.com/s2/favicons?domain=mujs.com&sz=64"
+  },
+  {
+    "name": "Multichain",
+    "url": "https://docs.multichain.org/security/bug-bounty",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "",
+    "icon": "https://www.google.com/s2/favicons?domain=docs.multichain.org&sz=64"
+  },
+  {
+    "name": "Mural",
+    "url": "https://www.mural.co/security/vdp",
+    "bounty": true,
+    "swag": "",
+    "safe_harbor": "full",
+    "icon": "https://www.google.com/s2/favicons?domain=www.mural.co&sz=64"
+  },
+  {
+    "name": "NCSC-NL",
+    "url": "https://www.ncsc.nl/security",
+    "bounty": true,
+    "swag": true,
+    "safe_harbor": "partial",
+    "icon": "https://www.google.com/s2/favicons?domain=www.ncsc.nl&sz=64"
+  },
+  {
+    "name": "NETGEAR Cash Rewards",
+    "url": "https://bugcrowd.com/netgear",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "partial",
+    "icon": "https://www.google.com/s2/favicons?domain=bugcrowd.com&sz=64"
+  },
+  {
+    "name": "NOWPayments",
+    "url": "https://nowpayments.io/doc/NOWPayments_BugBounty_program.pdf",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "partial",
+    "icon": "https://www.google.com/s2/favicons?domain=nowpayments.io&sz=64"
+  },
+  {
+    "name": "NWB Bank",
+    "url": "https://www.nwbbank.com/en/responsible-disclosure",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "partial",
+    "icon": "https://www.google.com/s2/favicons?domain=www.nwbbank.com&sz=64"
+  },
+  {
+    "name": "National Cyber Security Center (Netherlands)",
+    "url": "https://www.ncsc.nl/security",
+    "bounty": true,
+    "swag": true,
+    "safe_harbor": "none",
+    "icon": "https://www.google.com/s2/favicons?domain=www.ncsc.nl&sz=64"
+  },
+  {
+    "name": "Naver Whale",
+    "url": "http://bugbounty.whale.naver.com",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "none",
+    "icon": "https://www.google.com/s2/favicons?domain=bugbounty.whale.naver.com&sz=64"
+  },
+  {
+    "name": "Neophotonics",
+    "url": "https://bugcrowd.com/neophotonics",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "full",
+    "icon": "https://www.google.com/s2/favicons?domain=bugcrowd.com&sz=64"
+  },
+  {
+    "name": "Nexuzhealth",
+    "url": "https://www.intigriti.com/public/project/uz%20leuven/nexuzhealthwebpacs",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "full",
+    "icon": "https://www.google.com/s2/favicons?domain=www.intigriti.com&sz=64"
+  },
+  {
+    "name": "Nginx",
+    "url": "https://nginx.org/en/security_advisories.html",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "none",
+    "icon": "https://www.google.com/s2/favicons?domain=nginx.org&sz=64"
+  },
+  {
+    "name": "Notion",
+    "url": "https://www.notion.so/Responsible-Disclosure-Policy-5f18bb6b86804eaf989c006131778b9c",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "full",
+    "icon": "https://www.google.com/s2/favicons?domain=www.notion.so&sz=64"
+  },
+  {
+    "name": "OLAcabs",
+    "url": "https://www.olacabs.com/whitehat",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "none",
+    "icon": "https://www.google.com/s2/favicons?domain=www.olacabs.com&sz=64"
+  },
+  {
+    "name": "OWASP ZAP",
+    "url": "https://bugcrowd.com/owaspzap",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "partial",
+    "icon": "https://www.google.com/s2/favicons?domain=bugcrowd.com&sz=64"
+  },
+  {
+    "name": "Octopus",
+    "url": "https://bugcrowd.com/octopus-og",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "full",
+    "icon": "https://www.google.com/s2/favicons?domain=bugcrowd.com&sz=64"
+  },
+  {
+    "name": "Offensive Security",
+    "url": "https://www.offensive-security.com/bug-bounty-program/",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "none",
+    "icon": "https://www.google.com/s2/favicons?domain=www.offensive-security.com&sz=64"
+  },
+  {
+    "name": "Okta",
+    "url": "https://bugcrowd.com/okta",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "partial",
+    "icon": "https://www.google.com/s2/favicons?domain=bugcrowd.com&sz=64"
+  },
+  {
+    "name": "Olark",
+    "url": "http://www.olark.com/customer/portal/articles/1237352",
+    "bounty": true,
+    "swag": true,
+    "safe_harbor": "none",
+    "icon": "https://www.google.com/s2/favicons?domain=www.olark.com&sz=64"
+  },
+  {
+    "name": "Omise",
+    "url": "https://hackerone.com/omise",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "none",
+    "icon": "https://www.google.com/s2/favicons?domain=hackerone.com&sz=64"
+  },
+  {
+    "name": "One Plus",
+    "url": "https://security.oneplus.com/noticedetails.html?noticeId=20191565338585128",
+    "bounty": true,
+    "swag": true,
+    "safe_harbor": "partial",
+    "icon": "https://www.google.com/s2/favicons?domain=security.oneplus.com&sz=64"
+  },
+  {
+    "name": "Onfo",
+    "url": "https://onfo.zendesk.com/hc/en-us/articles/360025769031-Bug-Bounty-Program",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "full",
+    "icon": "https://www.google.com/s2/favicons?domain=onfo.zendesk.com&sz=64"
+  },
+  {
+    "name": "Online Seminar",
+    "url": "https://www.onlineseminar.com/security/",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "partial",
+    "icon": "https://www.google.com/s2/favicons?domain=www.onlineseminar.com&sz=64"
+  },
+  {
+    "name": "Open Source University",
+    "url": "https://medium.com/the-os-university-blog/os-university-smart-contracts-are-live-edu-token-bug-bounty-reward-awaits-you-27c1de006249",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "full",
+    "icon": "https://www.google.com/s2/favicons?domain=medium.com&sz=64"
+  },
+  {
+    "name": "OpenSSL",
+    "url": "https://www.openssl.org/community/#securityreports",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "none",
+    "icon": "https://www.google.com/s2/favicons?domain=www.openssl.org&sz=64"
+  },
+  {
+    "name": "Optimizely",
+    "url": "https://bugcrowd.com/optimizely",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "partial",
+    "icon": "https://www.google.com/s2/favicons?domain=bugcrowd.com&sz=64"
+  },
+  {
+    "name": "Orkut",
+    "url": "http://www.google.com/about/appsecurity/reward-program/",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "none",
+    "icon": "https://www.google.com/s2/favicons?domain=www.google.com&sz=64"
+  },
+  {
+    "name": "PC Extreme",
+    "url": "https://www.pcextreme.com/policies/responsible-disclosure",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "partial",
+    "icon": "https://www.google.com/s2/favicons?domain=www.pcextreme.com&sz=64"
+  },
+  {
+    "name": "PHP",
+    "url": "https://bugs.php.net/report.php?bug_type=Security",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "none",
+    "icon": "https://www.google.com/s2/favicons?domain=bugs.php.net&sz=64"
+  },
+  {
+    "name": "Paladin Cyber Bug Bounty",
+    "url": "https://www.federacy.com/paladin-cyber-bug-bounty",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "full",
+    "icon": "https://www.google.com/s2/favicons?domain=www.federacy.com&sz=64"
+  },
+  {
+    "name": "Palantir",
+    "url": "https://www.palantir.com/responsible-disclosure/",
+    "bounty": true,
+    "swag": "",
+    "safe_harbor": "",
+    "icon": "https://www.google.com/s2/favicons?domain=www.palantir.com&sz=64"
+  },
+  {
+    "name": "Parabol",
+    "url": "https://www.parabol.co/security-disclosure",
+    "bounty": true,
+    "swag": "",
+    "safe_harbor": "",
+    "icon": "https://www.google.com/s2/favicons?domain=www.parabol.co&sz=64"
+  },
+  {
+    "name": "Parity Technologies",
+    "url": "https://www.parity.io/bug-bounty/",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "",
+    "icon": "https://www.google.com/s2/favicons?domain=www.parity.io&sz=64"
+  },
+  {
+    "name": "PasteCoin",
+    "url": "https://www.pastecoin.com/bug_bounty",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "none",
+    "icon": "https://www.google.com/s2/favicons?domain=www.pastecoin.com&sz=64"
+  },
+  {
+    "name": "Pathao",
+    "url": "https://pathao.com/bug-bounty/",
+    "bounty": true,
+    "swag": "",
+    "safe_harbor": "",
+    "icon": "https://www.google.com/s2/favicons?domain=pathao.com&sz=64"
+  },
+  {
+    "name": "PayTm",
+    "url": "https://bugbounty.paytm.com/",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "full",
+    "icon": "https://www.google.com/s2/favicons?domain=bugbounty.paytm.com&sz=64"
+  },
+  {
+    "name": "Paypal",
+    "url": "https://www.paypal.com/us/webapps/mpp/security-tools/reporting-security-issues",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "none",
+    "icon": "https://www.google.com/s2/favicons?domain=www.paypal.com&sz=64"
+  },
+  {
+    "name": "Perl",
+    "url": "http://perldoc.perl.org/perlsec.html#SECURITY-VULNERABILITY-CONTACT-INFORMATION",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "none",
+    "icon": "https://www.google.com/s2/favicons?domain=perldoc.perl.org&sz=64"
+  },
+  {
+    "name": "Personal Capital",
+    "url": "https://www.personalcapital.com/responsible-disclosure/",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "full",
+    "icon": "https://www.google.com/s2/favicons?domain=www.personalcapital.com&sz=64"
+  },
+  {
+    "name": "Ping",
+    "url": "https://www.pingidentity.com/en/company/security-at-ping-identity.html",
+    "bounty": true,
+    "swag": "",
+    "safe_harbor": "",
+    "icon": "https://www.google.com/s2/favicons?domain=www.pingidentity.com&sz=64"
+  },
+  {
+    "name": "Pinterest",
+    "url": "https://bugcrowd.com/pinterest/",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "full",
+    "icon": "https://www.google.com/s2/favicons?domain=bugcrowd.com&sz=64"
+  },
+  {
+    "name": "PlanetHoster",
+    "url": "https://bugcrowd.com/planethosterinc",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "partial",
+    "icon": "https://www.google.com/s2/favicons?domain=bugcrowd.com&sz=64"
+  },
+  {
+    "name": "Plisio",
+    "url": "https://plisio.net/bug-bounty",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "",
+    "icon": "https://www.google.com/s2/favicons?domain=plisio.net&sz=64"
+  },
+  {
+    "name": "Polar SSL",
+    "url": "https://tls.mbed.org/bug-bounty-program",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "partial",
+    "icon": "https://www.google.com/s2/favicons?domain=tls.mbed.org&sz=64"
+  },
+  {
+    "name": "Pon Cat",
+    "url": "https://www.pon-cat.com/en/responsible-disclosure",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "none",
+    "icon": "https://www.google.com/s2/favicons?domain=www.pon-cat.com&sz=64"
+  },
+  {
+    "name": "Postmates",
+    "url": "https://hackerone.com/postmates",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "none",
+    "icon": "https://www.google.com/s2/favicons?domain=hackerone.com&sz=64"
+  },
+  {
+    "name": "Prezi",
+    "url": "https://bugbounty.prezi.com/",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "none",
+    "icon": "https://www.google.com/s2/favicons?domain=bugbounty.prezi.com&sz=64"
+  },
+  {
+    "name": "Priceline",
+    "url": "https://hackerone.com/priceline",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "full",
+    "icon": "https://www.google.com/s2/favicons?domain=hackerone.com&sz=64"
+  },
+  {
+    "name": "Productboard",
+    "url": "https://www.productboard.com/product/security/#application-security",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "partial",
+    "icon": "https://www.google.com/s2/favicons?domain=www.productboard.com&sz=64"
+  },
+  {
+    "name": "Proof Of Humanity",
+    "url": "https://github.com/Proof-Of-Humanity/Proof-Of-Humanity/issues/54",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "",
+    "icon": "https://www.google.com/s2/favicons?domain=github.com&sz=64"
+  },
+  {
+    "name": "ProtonMail",
+    "url": "https://protonmail.com/blog/responsible-vulnerability-disclosure/",
+    "bounty": true,
+    "swag": "",
+    "safe_harbor": "",
+    "icon": "https://www.google.com/s2/favicons?domain=protonmail.com&sz=64"
+  },
+  {
+    "name": "PureVPN",
+    "url": "https://bugcrowd.com/purevpn",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "partial",
+    "icon": "https://www.google.com/s2/favicons?domain=bugcrowd.com&sz=64"
+  },
+  {
+    "name": "Pushfor",
+    "url": "https://pushfor.com/bug-bounty/",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "none",
+    "icon": "https://www.google.com/s2/favicons?domain=pushfor.com&sz=64"
+  },
+  {
+    "name": "Python",
+    "url": "https://www.python.org/news/security/",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "none",
+    "icon": "https://www.google.com/s2/favicons?domain=www.python.org&sz=64"
+  },
+  {
+    "name": "QWANT",
+    "url": "https://yeswehack.com/programs/qwant",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "none",
+    "icon": "https://www.google.com/s2/favicons?domain=yeswehack.com&sz=64"
+  },
+  {
+    "name": "Qiwi",
+    "url": "https://www.qiwi.ru/page/hack.action",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "none",
+    "icon": "https://www.google.com/s2/favicons?domain=www.qiwi.ru&sz=64"
+  },
+  {
+    "name": "Qmail",
+    "url": "https://cr.yp.to/qmail/guarantee.html",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "none",
+    "icon": "https://www.google.com/s2/favicons?domain=cr.yp.to&sz=64"
+  },
+  {
+    "name": "Qtrade",
+    "url": "https://qtrade.io/bug_bounty",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "none",
+    "icon": "https://www.google.com/s2/favicons?domain=qtrade.io&sz=64"
+  },
+  {
+    "name": "Qualcomm",
+    "url": "https://www.qualcomm.com/company/product-security/report-a-bug",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "none",
+    "icon": "https://www.google.com/s2/favicons?domain=www.qualcomm.com&sz=64"
+  },
+  {
+    "name": "Quandency",
+    "url": "http://support.quadency.com/en/articles/2869964-bug-bounty-program",
+    "bounty": true,
+    "swag": "",
+    "safe_harbor": "",
+    "icon": "https://www.google.com/s2/favicons?domain=support.quadency.com&sz=64"
+  },
+  {
+    "name": "QuantStamp",
+    "url": "https://quantstamp.com/legal/responsible-disclosure",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "none",
+    "icon": "https://www.google.com/s2/favicons?domain=quantstamp.com&sz=64"
+  },
+  {
+    "name": "Quantopian",
+    "url": "https://hackerone.com/quantopian",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "none",
+    "icon": "https://www.google.com/s2/favicons?domain=hackerone.com&sz=64"
+  },
+  {
+    "name": "RSK",
+    "url": "https://developers.rsk.co/contribute/bug-bounty-program/",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "none",
+    "icon": "https://www.google.com/s2/favicons?domain=developers.rsk.co&sz=64"
+  },
+  {
+    "name": "Range",
+    "url": "https://www.range.co/security/bounty",
+    "bounty": true,
+    "swag": "",
+    "safe_harbor": "",
+    "icon": "https://www.google.com/s2/favicons?domain=www.range.co&sz=64"
+  },
+  {
+    "name": "Rapyd",
+    "url": "https://bugcrowd.com/rapyd",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "full",
+    "icon": "https://www.google.com/s2/favicons?domain=bugcrowd.com&sz=64"
+  },
+  {
+    "name": "RealSelf",
+    "url": "https://bugcrowd.com/realself",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "full",
+    "icon": "https://www.google.com/s2/favicons?domain=bugcrowd.com&sz=64"
+  },
+  {
+    "name": "Redox",
+    "url": "https://bugcrowd.com/redox",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "full",
+    "icon": "https://www.google.com/s2/favicons?domain=bugcrowd.com&sz=64"
+  },
+  {
+    "name": "Refereum",
+    "url": "https://hackerone.com/refereum",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "none",
+    "icon": "https://www.google.com/s2/favicons?domain=hackerone.com&sz=64"
+  },
+  {
+    "name": "Remitano",
+    "url": "https://security.remitano.com/",
+    "bounty": true,
+    "swag": "",
+    "safe_harbor": "",
+    "icon": "https://www.google.com/s2/favicons?domain=security.remitano.com&sz=64"
+  },
+  {
+    "name": "RenoFi",
+    "url": "https://www.federacy.com/renofi",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "full",
+    "icon": "https://www.google.com/s2/favicons?domain=www.federacy.com&sz=64"
+  },
+  {
+    "name": "Research Gate",
+    "url": "https://explore.researchgate.net/display/support/Security+and+vulnerability",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "none",
+    "icon": "https://www.google.com/s2/favicons?domain=explore.researchgate.net&sz=64"
+  },
+  {
+    "name": "RevenueCat",
+    "url": "https://www.federacy.com/revenuecat",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "full",
+    "icon": "https://www.google.com/s2/favicons?domain=www.federacy.com&sz=64"
+  },
+  {
+    "name": "Ricoh",
+    "url": "https://www.ricoh.ca/en/about-us/vulnerability-disclosure-policy",
+    "bounty": true,
+    "swag": "",
+    "safe_harbor": "partial",
+    "icon": "https://www.google.com/s2/favicons?domain=www.ricoh.ca&sz=64"
+  },
+  {
+    "name": "Riot Games",
+    "url": "http://www.riotgames.com/riot-games-security",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "full",
+    "icon": "https://www.google.com/s2/favicons?domain=www.riotgames.com&sz=64"
+  },
+  {
+    "name": "Ripple",
+    "url": "https://ripple.com/bug-bounty/",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "none",
+    "icon": "https://www.google.com/s2/favicons?domain=ripple.com&sz=64"
+  },
+  {
+    "name": "SEEK",
+    "url": "https://bugcrowd.com/seek",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "partial",
+    "icon": "https://www.google.com/s2/favicons?domain=bugcrowd.com&sz=64"
+  },
+  {
+    "name": "SIX Group",
+    "url": "https://hackerone.com/six-group",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "",
+    "icon": "https://www.google.com/s2/favicons?domain=hackerone.com&sz=64"
+  },
+  {
+    "name": "SNS Bank",
+    "url": "https://www.devolksbank.nl/veiligheid.html",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "none",
+    "icon": "https://www.google.com/s2/favicons?domain=www.devolksbank.nl&sz=64"
+  },
+  {
+    "name": "Sailthru",
+    "url": "https://www.sailthru.com/trust/report-a-vulnerability/",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "",
+    "icon": "https://www.google.com/s2/favicons?domain=www.sailthru.com&sz=64"
+  },
+  {
+    "name": "Samsung Mobile",
+    "url": "https://security.samsungmobile.com/securityReporting.smsb",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "none",
+    "icon": "https://www.google.com/s2/favicons?domain=security.samsungmobile.com&sz=64"
+  },
+  {
+    "name": "Samsung SmartTV",
+    "url": "https://samsungtvbounty.com/ReportBug.aspx",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "none",
+    "icon": "https://www.google.com/s2/favicons?domain=samsungtvbounty.com&sz=64"
+  },
+  {
+    "name": "SaveDroid",
+    "url": "https://hackerone.com/savedroid",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "none",
+    "icon": "https://www.google.com/s2/favicons?domain=hackerone.com&sz=64"
+  },
+  {
+    "name": "Scraping Hub",
+    "url": "https://scrapinghub.com/responsible-disclosure-policy/",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "none",
+    "icon": "https://www.google.com/s2/favicons?domain=scrapinghub.com&sz=64"
+  },
+  {
+    "name": "SecPoint Penetrator",
+    "url": "https://bugcrowd.com/secpoint",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "full",
+    "icon": "https://www.google.com/s2/favicons?domain=bugcrowd.com&sz=64"
+  },
+  {
+    "name": "Secure Cyber Future",
+    "url": "https://www.securecyberfuture.com/responsible-disclosure",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "none",
+    "icon": "https://www.google.com/s2/favicons?domain=www.securecyberfuture.com&sz=64"
+  },
+  {
+    "name": "SecureDrop",
+    "url": "https://bugcrowd.com/freedomofpress",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "partial",
+    "icon": "https://www.google.com/s2/favicons?domain=bugcrowd.com&sz=64"
+  },
+  {
+    "name": "Segment",
+    "url": "https://bugcrowd.com/segment",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "full",
+    "icon": "https://www.google.com/s2/favicons?domain=bugcrowd.com&sz=64"
+  },
+  {
+    "name": "Selz",
+    "url": "https://help.selz.com/article/217-security-escalation",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "none",
+    "icon": "https://www.google.com/s2/favicons?domain=help.selz.com&sz=64"
+  },
+  {
+    "name": "Semmle",
+    "url": "https://hackerone.com/semmle",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "none",
+    "icon": "https://www.google.com/s2/favicons?domain=hackerone.com&sz=64"
+  },
+  {
+    "name": "SendSafely",
+    "url": "https://www.sendsafely.com/security/bug-bounty",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "none",
+    "icon": "https://www.google.com/s2/favicons?domain=www.sendsafely.com&sz=64"
+  },
+  {
+    "name": "SerenityOS",
+    "url": "https://www.serenityos.org/bounty/",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "none",
+    "icon": "https://www.google.com/s2/favicons?domain=www.serenityos.org&sz=64"
+  },
+  {
+    "name": "Shape Security",
+    "url": "https://www.shapesecurity.com/report-a-vulnerability",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "none",
+    "icon": "https://www.google.com/s2/favicons?domain=www.shapesecurity.com&sz=64"
+  },
+  {
+    "name": "Shapeshift",
+    "url": "https://corp.shapeshift.io/responsible-disclosure-program/",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "none",
+    "icon": "https://www.google.com/s2/favicons?domain=corp.shapeshift.io&sz=64"
+  },
+  {
+    "name": "Shopify",
+    "url": "https://bugbounty.shopify.com",
+    "bounty": true,
+    "swag": true,
+    "safe_harbor": "full",
+    "icon": "https://www.google.com/s2/favicons?domain=bugbounty.shopify.com&sz=64"
+  },
+  {
+    "name": "SignalFX",
+    "url": "https://www.signalfx.com/trust/security/responsible-disclosure",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "none",
+    "icon": "https://www.google.com/s2/favicons?domain=www.signalfx.com&sz=64"
+  },
+  {
+    "name": "Silvergoldbull",
+    "url": "https://silvergoldbull.com/bug-bounty/",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "full",
+    "icon": "https://www.google.com/s2/favicons?domain=silvergoldbull.com&sz=64"
+  },
+  {
+    "name": "Simple",
+    "url": "https://www.simple.com/policies/security",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "partial",
+    "icon": "https://www.google.com/s2/favicons?domain=www.simple.com&sz=64"
+  },
+  {
+    "name": "Skyscanner",
+    "url": "https://bugcrowd.com/skyscanner",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "full",
+    "icon": "https://www.google.com/s2/favicons?domain=bugcrowd.com&sz=64"
+  },
+  {
+    "name": "Slack",
+    "url": "https://slack.com/report-vulnerability",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "none",
+    "icon": "https://www.google.com/s2/favicons?domain=slack.com&sz=64"
+  },
+  {
+    "name": "Smartling",
+    "url": "https://help.smartling.com/hc/en-us/articles/360008147833-Bug-Bounty-Policy",
+    "bounty": true,
+    "swag": "",
+    "safe_harbor": "",
+    "icon": "https://www.google.com/s2/favicons?domain=help.smartling.com&sz=64"
+  },
+  {
+    "name": "Smartsheet",
+    "url": "https://hackerone.com/smartsheet",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "none",
+    "icon": "https://www.google.com/s2/favicons?domain=hackerone.com&sz=64"
+  },
+  {
+    "name": "Snyk",
+    "url": "https://snyk.io/docs/security",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "partial",
+    "icon": "https://www.google.com/s2/favicons?domain=snyk.io&sz=64"
+  },
+  {
+    "name": "Socrata",
+    "url": "https://bugcrowd.com/socrata",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "partial",
+    "icon": "https://www.google.com/s2/favicons?domain=bugcrowd.com&sz=64"
+  },
+  {
+    "name": "Solana",
+    "url": "https://github.com/solana-labs/solana/security/policy",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "",
+    "icon": "https://www.google.com/s2/favicons?domain=github.com&sz=64"
+  },
+  {
+    "name": "SolarEdge",
+    "url": "https://www.solaredge.com/us/cyber-security-policy",
+    "bounty": true,
+    "swag": "",
+    "safe_harbor": "",
+    "icon": "https://www.google.com/s2/favicons?domain=www.solaredge.com&sz=64"
+  },
+  {
+    "name": "Sophos",
+    "url": "https://bugcrowd.com/sophos",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "full",
+    "icon": "https://www.google.com/s2/favicons?domain=bugcrowd.com&sz=64"
+  },
+  {
+    "name": "SoundCloud",
+    "url": "https://bugcrowd.com/soundcloud",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "full",
+    "icon": "https://www.google.com/s2/favicons?domain=bugcrowd.com&sz=64"
+  },
+  {
+    "name": "Splendid Data",
+    "url": "https://www.splendiddata.com/responsible-disclosure-policy/",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "none",
+    "icon": "https://www.google.com/s2/favicons?domain=www.splendiddata.com&sz=64"
+  },
+  {
+    "name": "Spokeo",
+    "url": "https://www.spokeo.com/bug-bounty",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "partial",
+    "icon": "https://www.google.com/s2/favicons?domain=www.spokeo.com&sz=64"
+  },
+  {
+    "name": "Spotify",
+    "url": "https://www.spotify.com/us/bounty/",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "none",
+    "icon": "https://www.google.com/s2/favicons?domain=www.spotify.com&sz=64"
+  },
+  {
+    "name": "Spreaker",
+    "url": "https://www.spreaker.com/security",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "partial",
+    "icon": "https://www.google.com/s2/favicons?domain=www.spreaker.com&sz=64"
+  },
+  {
+    "name": "Square",
+    "url": "https://bugcrowd.com/square",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "partial",
+    "icon": "https://www.google.com/s2/favicons?domain=bugcrowd.com&sz=64"
+  },
+  {
+    "name": "Square Open Source",
+    "url": "https://bugcrowd.com/squareopensource",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "partial",
+    "icon": "https://www.google.com/s2/favicons?domain=bugcrowd.com&sz=64"
+  },
+  {
+    "name": "Squid Cache (IBB)",
+    "url": "https://hackerone.com/ibb-squid-cache",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "none",
+    "icon": "https://www.google.com/s2/favicons?domain=hackerone.com&sz=64"
+  },
+  {
+    "name": "Staked",
+    "url": "https://staked.us/bug-bounty/",
+    "bounty": true,
+    "swag": "",
+    "safe_harbor": "",
+    "icon": "https://www.google.com/s2/favicons?domain=staked.us&sz=64"
+  },
+  {
+    "name": "StarLeaf",
+    "url": "https://www.starleaf.com/c/bug-bounty-program/",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "none",
+    "icon": "https://www.google.com/s2/favicons?domain=www.starleaf.com&sz=64"
+  },
+  {
+    "name": "Starbucks",
+    "url": "https://www.starbucks.com/whitehat",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "none",
+    "icon": "https://www.google.com/s2/favicons?domain=www.starbucks.com&sz=64"
+  },
+  {
+    "name": "Starlink",
+    "url": "https://bugcrowd.com/spacex",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "full",
+    "icon": "https://www.google.com/s2/favicons?domain=bugcrowd.com&sz=64"
+  },
+  {
+    "name": "StatusPage.io",
+    "url": "https://bugcrowd.com/statuspage",
+    "bounty": true,
+    "swag": true,
+    "safe_harbor": "full",
+    "icon": "https://www.google.com/s2/favicons?domain=bugcrowd.com&sz=64"
+  },
+  {
+    "name": "Stellar",
+    "url": "https://www.stellar.org/bug-bounty-program/",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "none",
+    "icon": "https://www.google.com/s2/favicons?domain=www.stellar.org&sz=64"
+  },
+  {
+    "name": "Stripe",
+    "url": "https://stripe.com/docs/security/stripe",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "none",
+    "icon": "https://www.google.com/s2/favicons?domain=stripe.com&sz=64"
+  },
+  {
+    "name": "Studo",
+    "url": "https://studo.com/at/security",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "partial",
+    "icon": "https://www.google.com/s2/favicons?domain=studo.com&sz=64"
+  },
+  {
+    "name": "Swiggy",
+    "url": "https://www.swiggy.com/bug-bounty",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "full",
+    "icon": "https://www.google.com/s2/favicons?domain=www.swiggy.com&sz=64"
+  },
+  {
+    "name": "Swisscom",
+    "url": "https://www.swisscom.ch/en/about/company/portrait/network/security/bug-bounty.html",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "none",
+    "icon": "https://www.google.com/s2/favicons?domain=www.swisscom.ch&sz=64"
+  },
+  {
+    "name": "Synology",
+    "url": "https://www.synology.com/de-de/security/bounty_program#scope_and_reward",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "none",
+    "icon": "https://www.google.com/s2/favicons?domain=www.synology.com&sz=64"
+  },
+  {
+    "name": "TTS",
+    "url": "https://github.com/18F/vulnerability-disclosure-policy/blob/master/vulnerability-disclosure-policy.md",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "full",
+    "icon": "https://www.google.com/s2/favicons?domain=github.com&sz=64"
+  },
+  {
+    "name": "Takeaway.com",
+    "url": "https://bugcrowd.com/takeaway",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "full",
+    "icon": "https://www.google.com/s2/favicons?domain=bugcrowd.com&sz=64"
+  },
+  {
+    "name": "Tarsnap",
+    "url": "https://www.tarsnap.com/bugbounty.html",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "none",
+    "icon": "https://www.google.com/s2/favicons?domain=www.tarsnap.com&sz=64"
+  },
+  {
+    "name": "Telegram",
+    "url": "https://telegram.org/faq#q-what-if-my-hacker-friend-says-they-could-decipher-telegram-mes",
+    "bounty": true,
+    "swag": "",
+    "safe_harbor": "",
+    "icon": "https://www.google.com/s2/favicons?domain=telegram.org&sz=64"
+  },
+  {
+    "name": "Telekom",
+    "url": "https://www.telekom.com/en/corporate-responsibility/data-protection-data-security/security/security/closing-security-gaps-360054",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "none",
+    "icon": "https://www.google.com/s2/favicons?domain=www.telekom.com&sz=64"
+  },
+  {
+    "name": "Tencent",
+    "url": "http://en.security.tencent.com/",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "none",
+    "icon": "https://www.google.com/s2/favicons?domain=en.security.tencent.com&sz=64"
+  },
+  {
+    "name": "Tesla",
+    "url": "https://bugcrowd.com/tesla",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "partial",
+    "icon": "https://www.google.com/s2/favicons?domain=bugcrowd.com&sz=64"
+  },
+  {
+    "name": "Tokopedia",
+    "url": "https://bounty.tokopedia.net/rules",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "none",
+    "icon": "https://www.google.com/s2/favicons?domain=bounty.tokopedia.net&sz=64"
+  },
+  {
+    "name": "TradingView",
+    "url": "https://www.tradingview.com/bounty/",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "none",
+    "icon": "https://www.google.com/s2/favicons?domain=www.tradingview.com&sz=64"
+  },
+  {
+    "name": "TransferWise",
+    "url": "https://bugcrowd.com/transferwise",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "full",
+    "icon": "https://www.google.com/s2/favicons?domain=bugcrowd.com&sz=64"
+  },
+  {
+    "name": "Trello",
+    "url": "https://bugcrowd.com/trello",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "full",
+    "icon": "https://www.google.com/s2/favicons?domain=bugcrowd.com&sz=64"
+  },
+  {
+    "name": "Trezor",
+    "url": "https://trezor.io/security/",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "partial",
+    "icon": "https://www.google.com/s2/favicons?domain=trezor.io&sz=64"
+  },
+  {
+    "name": "Tron Foundation",
+    "url": "https://tron.network/findBug",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "full",
+    "icon": "https://www.google.com/s2/favicons?domain=tron.network&sz=64"
+  },
+  {
+    "name": "Trustpilot",
+    "url": "https://hackerone.com/trustpilot",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "none",
+    "icon": "https://www.google.com/s2/favicons?domain=hackerone.com&sz=64"
+  },
+  {
+    "name": "Tube8",
+    "url": "https://hackerone.com/tube8",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "none",
+    "icon": "https://www.google.com/s2/favicons?domain=hackerone.com&sz=64"
+  },
+  {
+    "name": "Tumblr",
+    "url": "https://tumblr.zendesk.com/hc/en-us/articles/234583348-Bug-Bounty-Program",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "none",
+    "icon": "https://www.google.com/s2/favicons?domain=tumblr.zendesk.com&sz=64"
+  },
+  {
+    "name": "Twilio",
+    "url": "https://bugcrowd.com/twilio",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "full",
+    "icon": "https://www.google.com/s2/favicons?domain=bugcrowd.com&sz=64"
+  },
+  {
+    "name": "UMA Project",
+    "url": "https://hackerone.com/uma_project",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "full",
+    "icon": "https://www.google.com/s2/favicons?domain=hackerone.com&sz=64"
+  },
+  {
+    "name": "USAA",
+    "url": "https://bugcrowd.com/usaa",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "partial",
+    "icon": "https://www.google.com/s2/favicons?domain=bugcrowd.com&sz=64"
+  },
+  {
+    "name": "Ubiquiti - Aside program to the current at HackerOne",
+    "url": "https://ui.com/security/",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "none",
+    "icon": "https://www.google.com/s2/favicons?domain=ui.com&sz=64"
+  },
+  {
+    "name": "Ubiquiti Networks",
+    "url": "https://hackerone.com/ui",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "none",
+    "icon": "https://www.google.com/s2/favicons?domain=hackerone.com&sz=64"
+  },
+  {
+    "name": "Udemy",
+    "url": "https://support.udemy.com/hc/en-us/articles/229232627-Report-a-Security-Vulnerability",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "none",
+    "icon": "https://www.google.com/s2/favicons?domain=support.udemy.com&sz=64"
+  },
+  {
+    "name": "United Airlines",
+    "url": "https://www.united.com/web/en-US/content/contact/bugbounty.aspx",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "none",
+    "icon": "https://www.google.com/s2/favicons?domain=www.united.com&sz=64"
+  },
+  {
+    "name": "Upserve",
+    "url": "https://upserve.com/security/",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "full",
+    "icon": "https://www.google.com/s2/favicons?domain=upserve.com&sz=64"
+  },
+  {
+    "name": "Upwork",
+    "url": "https://bugcrowd.com/upwork",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "partial",
+    "icon": "https://www.google.com/s2/favicons?domain=bugcrowd.com&sz=64"
+  },
+  {
+    "name": "UsabilityHub",
+    "url": "https://app.usabilityhub.com/security/responsible_disclosure",
+    "bounty": true,
+    "swag": "",
+    "safe_harbor": "",
+    "icon": "https://www.google.com/s2/favicons?domain=app.usabilityhub.com&sz=64"
+  },
+  {
+    "name": "VHX",
+    "url": "https://hackerone.com/vhx",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "partial",
+    "icon": "https://www.google.com/s2/favicons?domain=hackerone.com&sz=64"
+  },
+  {
+    "name": "VI Company",
+    "url": "https://www.vicompany.nl/legal/responsible-disclosure",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "partial",
+    "icon": "https://www.google.com/s2/favicons?domain=www.vicompany.nl&sz=64"
+  },
+  {
+    "name": "VPNArea",
+    "url": "https://vpnarea.com/front/home/bugbounty",
+    "bounty": true,
+    "swag": "",
+    "safe_harbor": "",
+    "icon": "https://www.google.com/s2/favicons?domain=vpnarea.com&sz=64"
+  },
+  {
+    "name": "Viator",
+    "url": "https://bugcrowd.com/viator",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "partial",
+    "icon": "https://www.google.com/s2/favicons?domain=bugcrowd.com&sz=64"
+  },
+  {
+    "name": "Vimeo",
+    "url": "https://hackerone.com/vimeo",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "partial",
+    "icon": "https://www.google.com/s2/favicons?domain=hackerone.com&sz=64"
+  },
+  {
+    "name": "Visma",
+    "url": "https://www.visma.com/trust-centre/smb/security-and-privacy/operational/responsible-disclosure/",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "full",
+    "icon": "https://www.google.com/s2/favicons?domain=www.visma.com&sz=64"
+  },
+  {
+    "name": "Volkis",
+    "url": "https://www.volkis.com.au/vulnerability-disclosure/",
+    "bounty": true,
+    "swag": true,
+    "safe_harbor": "full",
+    "icon": "https://www.google.com/s2/favicons?domain=www.volkis.com.au&sz=64"
+  },
+  {
+    "name": "Vultr",
+    "url": "https://www.vultr.com/bug-bounty/",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "none",
+    "icon": "https://www.google.com/s2/favicons?domain=www.vultr.com&sz=64"
+  },
+  {
+    "name": "Wagwalking",
+    "url": "https://wagwalking.com/responsible-disclosure",
+    "bounty": true,
+    "swag": true,
+    "safe_harbor": "partial",
+    "icon": "https://www.google.com/s2/favicons?domain=wagwalking.com&sz=64"
+  },
+  {
+    "name": "WalletConnect",
+    "url": "https://walletconnect.com/.well-known/security.txt",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "",
+    "icon": "https://www.google.com/s2/favicons?domain=walletconnect.com&sz=64"
+  },
+  {
+    "name": "Walmart",
+    "url": "https://corporate.walmart.com/privacy-security",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "partial",
+    "icon": "https://www.google.com/s2/favicons?domain=corporate.walmart.com&sz=64"
+  },
+  {
+    "name": "Wamba",
+    "url": "http://corp.wamba.com/en/developer/security/#form",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "none",
+    "icon": "https://www.google.com/s2/favicons?domain=corp.wamba.com&sz=64"
+  },
+  {
+    "name": "WeTransfer",
+    "url": "https://wetransfer.com/legal/disclosure",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "partial",
+    "icon": "https://www.google.com/s2/favicons?domain=wetransfer.com&sz=64"
+  },
+  {
+    "name": "WeVPN",
+    "url": "https://wevpn.com/responsible-disclosure",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "full",
+    "icon": "https://www.google.com/s2/favicons?domain=wevpn.com&sz=64"
+  },
+  {
+    "name": "Wefact",
+    "url": "https://www.wefact.nl/security/",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "partial",
+    "icon": "https://www.google.com/s2/favicons?domain=www.wefact.nl&sz=64"
+  },
+  {
+    "name": "Western Union",
+    "url": "https://bugcrowd.com/westernunion",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "partial",
+    "icon": "https://www.google.com/s2/favicons?domain=bugcrowd.com&sz=64"
+  },
+  {
+    "name": "Whatbox",
+    "url": "https://whatbox.ca/policies/security",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "full",
+    "icon": "https://www.google.com/s2/favicons?domain=whatbox.ca&sz=64"
+  },
+  {
+    "name": "Whmcs",
+    "url": "https://bugcrowd.com/whmcs",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "partial",
+    "icon": "https://www.google.com/s2/favicons?domain=bugcrowd.com&sz=64"
+  },
+  {
+    "name": "Wickr",
+    "url": "https://wickr.com/security/bug-bounty/",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "none",
+    "icon": "https://www.google.com/s2/favicons?domain=wickr.com&sz=64"
+  },
+  {
+    "name": "Wordfence Intelligence",
+    "url": "https://www.wordfence.com/threat-intel/bug-bounty-program/",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "",
+    "icon": "https://www.google.com/s2/favicons?domain=www.wordfence.com&sz=64"
+  },
+  {
+    "name": "Yammer",
+    "url": "https://technet.microsoft.com/en-us/security/dn800983",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "none",
+    "icon": "https://www.google.com/s2/favicons?domain=technet.microsoft.com&sz=64"
+  },
+  {
+    "name": "Yandex",
+    "url": "https://yandex.com/bugbounty/report/",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "none",
+    "icon": "https://www.google.com/s2/favicons?domain=yandex.com&sz=64"
+  },
+  {
+    "name": "You Need a Budget (YNAB)",
+    "url": "https://bugcrowd.com/ynab",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "full",
+    "icon": "https://www.google.com/s2/favicons?domain=bugcrowd.com&sz=64"
+  },
+  {
+    "name": "YouTube",
+    "url": "https://g.co/vrp",
+    "bounty": true,
+    "swag": "",
+    "safe_harbor": "",
+    "icon": "https://www.google.com/s2/favicons?domain=g.co&sz=64"
+  },
+  {
+    "name": "Zaful",
+    "url": "https://www.zaful.com/report-security-issues",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "partial",
+    "icon": "https://www.google.com/s2/favicons?domain=www.zaful.com&sz=64"
+  },
+  {
+    "name": "Zapier",
+    "url": "https://zapier.com/engineering/bug-bounty-program/",
+    "bounty": true,
+    "swag": "",
+    "safe_harbor": "",
+    "icon": "https://www.google.com/s2/favicons?domain=zapier.com&sz=64"
+  },
+  {
+    "name": "Zendesk",
+    "url": "https://www.zendesk.de/company/policies-procedures/responsible-disclosure-policy/",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "none",
+    "icon": "https://www.google.com/s2/favicons?domain=www.zendesk.de&sz=64"
+  },
+  {
+    "name": "Zilliqa",
+    "url": "https://dev.zilliqa.com/docs/contributors/contribute-bug-bounty/",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "full",
+    "icon": "https://www.google.com/s2/favicons?domain=dev.zilliqa.com&sz=64"
+  },
+  {
+    "name": "Zoho",
+    "url": "https://bugbounty.zoho.com/bb/info#guide",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "none",
+    "icon": "https://www.google.com/s2/favicons?domain=bugbounty.zoho.com&sz=64"
+  },
+  {
+    "name": "Zomato",
+    "url": "https://www.zomato.com/security",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "full",
+    "icon": "https://www.google.com/s2/favicons?domain=www.zomato.com&sz=64"
+  },
+  {
+    "name": "Zoom",
+    "url": "https://zoom.us/docs/en-us/vulnerability-disclosure-policy.html",
+    "bounty": true,
+    "swag": "",
+    "safe_harbor": "",
+    "icon": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64"
+  },
+  {
+    "name": "bluesnap",
+    "url": "https://home.bluesnap.com/security-bounty/",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "full",
+    "icon": "https://www.google.com/s2/favicons?domain=home.bluesnap.com&sz=64"
+  },
+  {
+    "name": "cPanel",
+    "url": "https://cpanel.net/cpanel-security-bounty-program/",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "none",
+    "icon": "https://www.google.com/s2/favicons?domain=cpanel.net&sz=64"
+  },
+  {
+    "name": "dfuse Platform",
+    "url": "https://hackerone.com/dfuse",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "none",
+    "icon": "https://www.google.com/s2/favicons?domain=hackerone.com&sz=64"
+  },
+  {
+    "name": "dropbox",
+    "url": "https://bugcrowd.com/dropbox/",
+    "bounty": true,
+    "swag": "no",
+    "safe_harbor": "partial",
+    "icon": "https://www.google.com/s2/favicons?domain=bugcrowd.com&sz=64"
+  },
+  {
+    "name": "iRobot",
+    "url": "https://bugcrowd.com/irobot",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "partial",
+    "icon": "https://www.google.com/s2/favicons?domain=bugcrowd.com&sz=64"
+  },
+  {
+    "name": "inDrive",
+    "url": "https://hackerone.com/indrive",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "",
+    "icon": "https://www.google.com/s2/favicons?domain=hackerone.com&sz=64"
+  },
+  {
+    "name": "ownCloud",
+    "url": "https://security.owncloud.com",
+    "bounty": true,
+    "swag": "no",
+    "safe_harbor": "partial",
+    "icon": "https://www.google.com/s2/favicons?domain=security.owncloud.com&sz=64"
+  },
+  {
+    "name": "reportgarden",
+    "url": "https://reportgarden.com/responsible-disclosure/",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "full",
+    "icon": "https://www.google.com/s2/favicons?domain=reportgarden.com&sz=64"
+  },
+  {
+    "name": "rockset",
+    "url": "https://rockset.com/legal/responsible-disclosure-policy/",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "full",
+    "icon": "https://www.google.com/s2/favicons?domain=rockset.com&sz=64"
+  },
+  {
+    "name": "szns",
+    "url": "https://docs.szns.io/smart-contracts/bug-bounty",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "",
+    "icon": "https://www.google.com/s2/favicons?domain=docs.szns.io&sz=64"
+  },
+  {
+    "name": "web3 foundation",
+    "url": "https://web3.foundation/security-report/",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "",
+    "icon": "https://www.google.com/s2/favicons?domain=web3.foundation&sz=64"
+  },
+  {
+    "name": "zkSync",
+    "url": "https://zksync.io/dev/bug-bounty.html",
+    "bounty": true,
+    "swag": null,
+    "safe_harbor": null,
+    "icon": "https://www.google.com/s2/favicons?domain=zksync.io&sz=64"
+  },
+  {
+    "name": "Halodoc",
+    "url": "https://www.halodoc.com/security",
+    "bounty": true,
+    "swag": "",
+    "safe_harbor": "",
+    "icon": "https://www.google.com/s2/favicons?domain=www.halodoc.com&sz=64"
+  }
+]

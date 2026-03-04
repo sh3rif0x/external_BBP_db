@@ -13244,5 +13244,6137 @@
     "addedDate": "2026-03-04T04:30:05.359Z",
     "isNew": true,
     "newDate": "2026-03-04T04:30:05.381Z"
+  },
+  {
+    "url": "https://bugbountyhunt.com/tesla",
+    "source": "bugbountyhunt",
+    "name": "Tesla",
+    "contact_email": "security@tesla.com",
+    "bounty": true,
+    "safe_harbor": true,
+    "icon": "https://www.google.com/s2/favicons?domain=tesla.com&sz=64",
+    "addedDate": "2026-03-04T17:18:58.697Z",
+    "tags": [
+      "BugBountyHunt",
+      "Bug Bounty"
+    ]
+  },
+  {
+    "url": "https://bugbountyhunt.com/uber",
+    "source": "bugbountyhunt",
+    "name": "Uber",
+    "contact_email": "security@uber.com",
+    "bounty": true,
+    "safe_harbor": true,
+    "icon": "https://www.google.com/s2/favicons?domain=uber.com&sz=64",
+    "addedDate": "2026-03-04T17:18:58.698Z",
+    "tags": [
+      "BugBountyHunt",
+      "Bug Bounty"
+    ]
+  },
+  {
+    "url": "https://bugbountyhunt.com/airbnb",
+    "source": "bugbountyhunt",
+    "name": "Airbnb",
+    "contact_email": "security@airbnb.com",
+    "bounty": true,
+    "safe_harbor": true,
+    "icon": "https://www.google.com/s2/favicons?domain=airbnb.com&sz=64",
+    "addedDate": "2026-03-04T17:18:58.698Z",
+    "tags": [
+      "BugBountyHunt",
+      "Bug Bounty"
+    ]
+  },
+  {
+    "url": "https://bugbountyhunt.com/stripe",
+    "source": "bugbountyhunt",
+    "name": "Stripe",
+    "contact_email": "security@stripe.com",
+    "bounty": true,
+    "safe_harbor": true,
+    "icon": "https://www.google.com/s2/favicons?domain=stripe.com&sz=64",
+    "addedDate": "2026-03-04T17:18:58.698Z",
+    "tags": [
+      "BugBountyHunt",
+      "Bug Bounty"
+    ]
+  },
+  {
+    "url": "https://registry.internetnz.nz/about/vulnerability-disclosure-policy/",
+    "source": "bugbountyhunt",
+    "name": ".nz Registry",
+    "contact_email": "security@internetnz.net.nz",
+    "bounty": false,
+    "safe_harbor": "partial",
+    "icon": "https://www.google.com/s2/favicons?domain=registry.internetnz.nz&sz=64",
+    "addedDate": "2026-03-04T17:23:14.230Z",
+    "tags": [
+      "BugBountyHunt",
+      "VDP"
+    ]
+  },
+  {
+    "url": "https://docs.0x.org/developer-resources/bounties",
+    "source": "bugbountyhunt",
+    "name": "0x",
+    "contact_email": "security@0x.org",
+    "bounty": true,
+    "safe_harbor": null,
+    "icon": "https://www.google.com/s2/favicons?domain=docs.0x.org&sz=64",
+    "addedDate": "2026-03-04T17:23:14.230Z",
+    "tags": [
+      "BugBountyHunt",
+      "Bug Bounty"
+    ]
+  },
+  {
+    "url": "http://www.123contactform.com/security-acknowledgements.htm",
+    "source": "bugbountyhunt",
+    "name": "123 Contact Form",
+    "contact_email": null,
+    "bounty": false,
+    "safe_harbor": null,
+    "icon": "https://www.google.com/s2/favicons?domain=www.123contactform.com&sz=64",
+    "addedDate": "2026-03-04T17:23:14.230Z",
+    "tags": [
+      "BugBountyHunt",
+      "VDP"
+    ]
+  },
+  {
+    "url": "https://18f.gsa.gov/vulnerability-disclosure-policy/",
+    "source": "bugbountyhunt",
+    "name": "18F",
+    "contact_email": "tts-vulnerability-reports@gsa.gov",
+    "bounty": false,
+    "safe_harbor": null,
+    "icon": "https://www.google.com/s2/favicons?domain=18f.gsa.gov&sz=64",
+    "addedDate": "2026-03-04T17:23:14.230Z",
+    "tags": [
+      "BugBountyHunt",
+      "VDP"
+    ]
+  },
+  {
+    "url": "https://bugcrowd.com/agilebits",
+    "source": "bugbountyhunt",
+    "name": "1Password Game",
+    "contact_email": null,
+    "bounty": true,
+    "safe_harbor": "full",
+    "icon": "https://www.google.com/s2/favicons?domain=bugcrowd.com&sz=64",
+    "addedDate": "2026-03-04T17:23:14.230Z",
+    "tags": [
+      "BugBountyHunt",
+      "Bug Bounty"
+    ]
+  },
+  {
+    "url": "https://www.23andme.com/security-report/",
+    "source": "bugbountyhunt",
+    "name": "23andme",
+    "contact_email": null,
+    "bounty": true,
+    "safe_harbor": null,
+    "icon": "https://www.google.com/s2/favicons?domain=www.23andme.com&sz=64",
+    "addedDate": "2026-03-04T17:23:14.230Z",
+    "tags": [
+      "BugBountyHunt",
+      "Bug Bounty"
+    ]
+  },
+  {
+    "url": "https://www.24sessions.com/responsible-disclosure",
+    "source": "bugbountyhunt",
+    "name": "24sessions",
+    "contact_email": "security@24sessions.com",
+    "bounty": true,
+    "safe_harbor": null,
+    "icon": "https://www.google.com/s2/favicons?domain=www.24sessions.com&sz=64",
+    "addedDate": "2026-03-04T17:23:14.230Z",
+    "tags": [
+      "BugBountyHunt",
+      "Bug Bounty"
+    ]
+  },
+  {
+    "url": "https://www.84codes.com/security/",
+    "source": "bugbountyhunt",
+    "name": "84codes",
+    "contact_email": "security@84codes.com",
+    "bounty": true,
+    "safe_harbor": null,
+    "icon": "https://www.google.com/s2/favicons?domain=www.84codes.com&sz=64",
+    "addedDate": "2026-03-04T17:23:14.230Z",
+    "tags": [
+      "BugBountyHunt",
+      "Bug Bounty"
+    ]
+  },
+  {
+    "url": "https://www.abnamro.com/en/responsible-disclosure.html",
+    "source": "bugbountyhunt",
+    "name": "Abn Amro",
+    "contact_email": null,
+    "bounty": false,
+    "safe_harbor": null,
+    "icon": "https://www.google.com/s2/favicons?domain=www.abnamro.com&sz=64",
+    "addedDate": "2026-03-04T17:23:14.230Z",
+    "tags": [
+      "BugBountyHunt",
+      "VDP"
+    ]
+  },
+  {
+    "url": "https://www.accenture.com/us-en/about/company/accenture-responsible-disclosure",
+    "source": "bugbountyhunt",
+    "name": "Accenture",
+    "contact_email": null,
+    "bounty": false,
+    "safe_harbor": null,
+    "icon": "https://www.google.com/s2/favicons?domain=www.accenture.com&sz=64",
+    "addedDate": "2026-03-04T17:23:14.230Z",
+    "tags": [
+      "BugBountyHunt",
+      "VDP"
+    ]
+  },
+  {
+    "url": "https://www.accredible.com/white-hat/",
+    "source": "bugbountyhunt",
+    "name": "Accredible",
+    "contact_email": null,
+    "bounty": false,
+    "safe_harbor": null,
+    "icon": "https://www.google.com/s2/favicons?domain=www.accredible.com&sz=64",
+    "addedDate": "2026-03-04T17:23:14.230Z",
+    "tags": [
+      "BugBountyHunt",
+      "VDP"
+    ]
+  },
+  {
+    "url": "https://www.achmea.nl/responsible-disclosure",
+    "source": "bugbountyhunt",
+    "name": "Achmea",
+    "contact_email": null,
+    "bounty": false,
+    "safe_harbor": null,
+    "icon": "https://www.google.com/s2/favicons?domain=www.achmea.nl&sz=64",
+    "addedDate": "2026-03-04T17:23:14.230Z",
+    "tags": [
+      "BugBountyHunt",
+      "VDP"
+    ]
+  },
+  {
+    "url": "https://bugcrowd.com/acorns",
+    "source": "bugbountyhunt",
+    "name": "Acorns",
+    "contact_email": null,
+    "bounty": true,
+    "safe_harbor": null,
+    "icon": "https://www.google.com/s2/favicons?domain=bugcrowd.com&sz=64",
+    "addedDate": "2026-03-04T17:23:14.230Z",
+    "tags": [
+      "BugBountyHunt",
+      "Bug Bounty"
+    ]
+  },
+  {
+    "url": "https://www.acrolinx.com/responsible-disclosure-statement/",
+    "source": "bugbountyhunt",
+    "name": "Acrolinx",
+    "contact_email": null,
+    "bounty": false,
+    "safe_harbor": null,
+    "icon": "https://www.google.com/s2/favicons?domain=www.acrolinx.com&sz=64",
+    "addedDate": "2026-03-04T17:23:14.230Z",
+    "tags": [
+      "BugBountyHunt",
+      "VDP"
+    ]
+  },
+  {
+    "url": "https://support.activision.com/articles/en_US/FAQ/Reporting-of-Security-Vulnerabilities",
+    "source": "bugbountyhunt",
+    "name": "Activision",
+    "contact_email": null,
+    "bounty": false,
+    "safe_harbor": null,
+    "icon": "https://www.google.com/s2/favicons?domain=support.activision.com&sz=64",
+    "addedDate": "2026-03-04T17:23:14.230Z",
+    "tags": [
+      "BugBountyHunt",
+      "VDP"
+    ]
+  },
+  {
+    "url": "https://www.adafruit.com/contact_security",
+    "source": "bugbountyhunt",
+    "name": "Adafruit",
+    "contact_email": null,
+    "bounty": false,
+    "safe_harbor": null,
+    "icon": "https://www.google.com/s2/favicons?domain=www.adafruit.com&sz=64",
+    "addedDate": "2026-03-04T17:23:14.230Z",
+    "tags": [
+      "BugBountyHunt",
+      "VDP"
+    ]
+  },
+  {
+    "url": "https://helpx.adobe.com/security/alertus.html",
+    "source": "bugbountyhunt",
+    "name": "Adobe",
+    "contact_email": null,
+    "bounty": false,
+    "safe_harbor": null,
+    "icon": "https://www.google.com/s2/favicons?domain=helpx.adobe.com&sz=64",
+    "addedDate": "2026-03-04T17:23:14.230Z",
+    "tags": [
+      "BugBountyHunt",
+      "VDP"
+    ]
+  },
+  {
+    "url": "http://www.aerohive.com/support/security-center",
+    "source": "bugbountyhunt",
+    "name": "Aerohive",
+    "contact_email": null,
+    "bounty": false,
+    "safe_harbor": null,
+    "icon": "https://www.google.com/s2/favicons?domain=www.aerohive.com&sz=64",
+    "addedDate": "2026-03-04T17:23:14.230Z",
+    "tags": [
+      "BugBountyHunt",
+      "VDP"
+    ]
+  },
+  {
+    "url": "https://hackerone.com/aeternity",
+    "source": "bugbountyhunt",
+    "name": "Aeternity",
+    "contact_email": null,
+    "bounty": true,
+    "safe_harbor": null,
+    "icon": "https://www.google.com/s2/favicons?domain=hackerone.com&sz=64",
+    "addedDate": "2026-03-04T17:23:14.230Z",
+    "tags": [
+      "BugBountyHunt",
+      "Bug Bounty"
+    ]
+  },
+  {
+    "url": "https://www.aholddelhaize.com/en/security/",
+    "source": "bugbountyhunt",
+    "name": "Ahold Delhaize",
+    "contact_email": null,
+    "bounty": false,
+    "safe_harbor": null,
+    "icon": "https://www.google.com/s2/favicons?domain=www.aholddelhaize.com&sz=64",
+    "addedDate": "2026-03-04T17:23:14.230Z",
+    "tags": [
+      "BugBountyHunt",
+      "VDP"
+    ]
+  },
+  {
+    "url": "https://aion.network/terms-bounty/",
+    "source": "bugbountyhunt",
+    "name": "Aion",
+    "contact_email": null,
+    "bounty": true,
+    "safe_harbor": null,
+    "icon": "https://www.google.com/s2/favicons?domain=aion.network&sz=64",
+    "addedDate": "2026-03-04T17:23:14.230Z",
+    "tags": [
+      "BugBountyHunt",
+      "Bug Bounty"
+    ]
+  },
+  {
+    "url": "https://www.airmap.com/responsible-disclosure/",
+    "source": "bugbountyhunt",
+    "name": "Airmap",
+    "contact_email": null,
+    "bounty": false,
+    "safe_harbor": null,
+    "icon": "https://www.google.com/s2/favicons?domain=www.airmap.com&sz=64",
+    "addedDate": "2026-03-04T17:23:14.230Z",
+    "tags": [
+      "BugBountyHunt",
+      "VDP"
+    ]
+  },
+  {
+    "url": "https://www.apsis.com/bug-bounty",
+    "source": "chaos",
+    "name": "Apsis",
+    "bounty": true,
+    "subdomains_count": 67,
+    "icon": "https://www.google.com/s2/favicons?domain=www.apsis.com&sz=64",
+    "download_url": "https://chaos-data.projectdiscovery.io/apsis.zip",
+    "platform": "",
+    "addedDate": "2026-03-04T17:38:11.596Z",
+    "tags": [
+      "Chaos",
+      "Self-Hosted",
+      "Bug Bounty"
+    ]
+  },
+  {
+    "url": "https://security.apple.com",
+    "source": "chaos",
+    "name": "Apple",
+    "bounty": true,
+    "subdomains_count": 67476,
+    "icon": "https://www.google.com/s2/favicons?domain=security.apple.com&sz=64",
+    "download_url": "https://chaos-data.projectdiscovery.io/apple.zip",
+    "platform": "",
+    "addedDate": "2026-03-04T17:38:11.596Z",
+    "tags": [
+      "Chaos",
+      "Self-Hosted",
+      "Bug Bounty"
+    ]
+  },
+  {
+    "url": "https://availcarsharing.com/bug-bounty",
+    "source": "chaos",
+    "name": "Avail Carsharing",
+    "bounty": true,
+    "subdomains_count": 42,
+    "icon": "https://www.google.com/s2/favicons?domain=availcarsharing.com&sz=64",
+    "download_url": "https://chaos-data.projectdiscovery.io/avail_carsharing.zip",
+    "platform": "",
+    "addedDate": "2026-03-04T17:38:11.596Z",
+    "tags": [
+      "Chaos",
+      "Self-Hosted",
+      "Bug Bounty"
+    ]
+  },
+  {
+    "url": "https://bsrc.baidu.com/v2/#/en",
+    "source": "chaos",
+    "name": "Baidu",
+    "bounty": true,
+    "subdomains_count": 7575,
+    "icon": "https://www.google.com/s2/favicons?domain=bsrc.baidu.com&sz=64",
+    "download_url": "https://chaos-data.projectdiscovery.io/baidu.zip",
+    "platform": "",
+    "addedDate": "2026-03-04T17:38:11.596Z",
+    "tags": [
+      "Chaos",
+      "Self-Hosted",
+      "Bug Bounty"
+    ]
+  },
+  {
+    "url": "https://www.bentley.com/legal/common-vulnerability-exposure-program/",
+    "source": "chaos",
+    "name": "Bentley",
+    "bounty": true,
+    "subdomains_count": 6684,
+    "icon": "https://www.google.com/s2/favicons?domain=www.bentley.com&sz=64",
+    "download_url": "https://chaos-data.projectdiscovery.io/bentley.zip",
+    "platform": "",
+    "addedDate": "2026-03-04T17:38:11.596Z",
+    "tags": [
+      "Chaos",
+      "Self-Hosted",
+      "Bug Bounty"
+    ]
+  },
+  {
+    "url": "https://www.ata.network/bugbounty",
+    "source": "chaos",
+    "name": "Automata Network",
+    "bounty": true,
+    "subdomains_count": 190,
+    "icon": "https://www.google.com/s2/favicons?domain=www.ata.network&sz=64",
+    "download_url": "https://chaos-data.projectdiscovery.io/automata_network.zip",
+    "platform": "",
+    "addedDate": "2026-03-04T17:38:11.596Z",
+    "tags": [
+      "Chaos",
+      "Self-Hosted",
+      "Bug Bounty"
+    ]
+  },
+  {
+    "url": "https://www.bitfinex.com/bug-bounty/",
+    "source": "chaos",
+    "name": "Bitfinex",
+    "bounty": true,
+    "subdomains_count": 57,
+    "icon": "https://www.google.com/s2/favicons?domain=www.bitfinex.com&sz=64",
+    "download_url": "https://chaos-data.projectdiscovery.io/bitfinex.zip",
+    "platform": "",
+    "addedDate": "2026-03-04T17:38:11.596Z",
+    "tags": [
+      "Chaos",
+      "Self-Hosted",
+      "Bug Bounty"
+    ]
+  },
+  {
+    "url": "https://home.bluesnap.com/security-bounty/",
+    "source": "chaos",
+    "name": "Bluesnap",
+    "bounty": true,
+    "subdomains_count": 73,
+    "icon": "https://www.google.com/s2/favicons?domain=home.bluesnap.com&sz=64",
+    "download_url": "https://chaos-data.projectdiscovery.io/bluesnap.zip",
+    "platform": "",
+    "addedDate": "2026-03-04T17:38:11.596Z",
+    "tags": [
+      "Chaos",
+      "Self-Hosted",
+      "Bug Bounty"
+    ]
+  },
+  {
+    "url": "https://www.btcturk.com/odul-avciligi",
+    "source": "chaos",
+    "name": "BtcTurk",
+    "bounty": true,
+    "subdomains_count": 32,
+    "icon": "https://www.google.com/s2/favicons?domain=www.btcturk.com&sz=64",
+    "download_url": "https://chaos-data.projectdiscovery.io/btcturk.zip",
+    "platform": "",
+    "addedDate": "2026-03-04T17:38:11.596Z",
+    "tags": [
+      "Chaos",
+      "Self-Hosted",
+      "Bug Bounty"
+    ]
+  },
+  {
+    "url": "https://bugbase.in/programs/bugbase",
+    "source": "chaos",
+    "name": "BugBase",
+    "bounty": true,
+    "subdomains_count": 12,
+    "icon": "https://www.google.com/s2/favicons?domain=bugbase.in&sz=64",
+    "download_url": "https://chaos-data.projectdiscovery.io/bugbase.zip",
+    "platform": "",
+    "addedDate": "2026-03-04T17:38:11.596Z",
+    "tags": [
+      "Chaos",
+      "Self-Hosted",
+      "Bug Bounty"
+    ]
+  },
+  {
+    "url": "https://app.bugv.io/researcher/program/0000001/detail",
+    "source": "chaos",
+    "name": "Bugv",
+    "bounty": true,
+    "subdomains_count": 7,
+    "icon": "https://www.google.com/s2/favicons?domain=app.bugv.io&sz=64",
+    "download_url": "https://chaos-data.projectdiscovery.io/bugv.zip",
+    "platform": "",
+    "addedDate": "2026-03-04T17:38:11.596Z",
+    "tags": [
+      "Chaos",
+      "Self-Hosted",
+      "Bug Bounty"
+    ]
+  },
+  {
+    "url": "https://bugbounty.chargezoom.com/support/tickets/new",
+    "source": "chaos",
+    "name": "Chargezoom",
+    "bounty": true,
+    "subdomains_count": 14,
+    "icon": "https://www.google.com/s2/favicons?domain=bugbounty.chargezoom.com&sz=64",
+    "download_url": "https://chaos-data.projectdiscovery.io/chargezoom.zip",
+    "platform": "",
+    "addedDate": "2026-03-04T17:38:11.596Z",
+    "tags": [
+      "Chaos",
+      "Self-Hosted",
+      "Bug Bounty"
+    ]
+  },
+  {
+    "url": "https://clickup.com/bug-bounty",
+    "source": "chaos",
+    "name": "Clickup",
+    "bounty": true,
+    "subdomains_count": 411,
+    "icon": "https://www.google.com/s2/favicons?domain=clickup.com&sz=64",
+    "download_url": "https://chaos-data.projectdiscovery.io/clickup.zip",
+    "platform": "",
+    "addedDate": "2026-03-04T17:38:11.596Z",
+    "tags": [
+      "Chaos",
+      "Self-Hosted",
+      "Bug Bounty"
+    ]
+  },
+  {
+    "url": "https://support.clio.com/hc/en-us/articles/360001114273-How-do-I-Claim-a-Bug-Bounty-or-Report-a-Vulnerability-",
+    "source": "chaos",
+    "name": "Clio",
+    "bounty": true,
+    "subdomains_count": 233,
+    "icon": "https://www.google.com/s2/favicons?domain=support.clio.com&sz=64",
+    "download_url": "https://chaos-data.projectdiscovery.io/clio.zip",
+    "platform": "",
+    "addedDate": "2026-03-04T17:38:11.596Z",
+    "tags": [
+      "Chaos",
+      "Self-Hosted",
+      "Bug Bounty"
+    ]
+  },
+  {
+    "url": "https://www.codechef.com/bug-bounty-program",
+    "source": "chaos",
+    "name": "CodeChef",
+    "bounty": true,
+    "subdomains_count": 41,
+    "icon": "https://www.google.com/s2/favicons?domain=www.codechef.com&sz=64",
+    "download_url": "https://chaos-data.projectdiscovery.io/codechef.zip",
+    "platform": "",
+    "addedDate": "2026-03-04T17:38:11.596Z",
+    "tags": [
+      "Chaos",
+      "Self-Hosted",
+      "Bug Bounty"
+    ]
+  },
+  {
+    "url": "https://bugbounty.compass-security.com/bug-bounties/compass-bug-bounty",
+    "source": "chaos",
+    "name": "Compass Security",
+    "bounty": true,
+    "subdomains_count": 223,
+    "icon": "https://www.google.com/s2/favicons?domain=bugbounty.compass-security.com&sz=64",
+    "download_url": "https://chaos-data.projectdiscovery.io/compass_security.zip",
+    "platform": "",
+    "addedDate": "2026-03-04T17:38:11.596Z",
+    "tags": [
+      "Chaos",
+      "Self-Hosted",
+      "Bug Bounty"
+    ]
+  },
+  {
+    "url": "https://custellence.com/responsible-disclosure.html",
+    "source": "chaos",
+    "name": "Custellence",
+    "bounty": true,
+    "subdomains_count": 16,
+    "icon": "https://www.google.com/s2/favicons?domain=custellence.com&sz=64",
+    "download_url": "https://chaos-data.projectdiscovery.io/custellence.zip",
+    "platform": "",
+    "addedDate": "2026-03-04T17:38:11.596Z",
+    "tags": [
+      "Chaos",
+      "Self-Hosted",
+      "Bug Bounty"
+    ]
+  },
+  {
+    "url": "https://d66.nl/responsible-disclosure/",
+    "source": "chaos",
+    "name": "D66",
+    "bounty": true,
+    "subdomains_count": 415,
+    "icon": "https://www.google.com/s2/favicons?domain=d66.nl&sz=64",
+    "download_url": "https://chaos-data.projectdiscovery.io/d66.zip",
+    "platform": "",
+    "addedDate": "2026-03-04T17:38:11.596Z",
+    "tags": [
+      "Chaos",
+      "Self-Hosted",
+      "Bug Bounty"
+    ]
+  },
+  {
+    "url": "https://app.bugv.io/researcher/program/0000006/detail",
+    "source": "chaos",
+    "name": "Cynical Technology",
+    "bounty": true,
+    "subdomains_count": 36,
+    "icon": "https://www.google.com/s2/favicons?domain=app.bugv.io&sz=64",
+    "download_url": "https://chaos-data.projectdiscovery.io/cynical_technology.zip",
+    "platform": "",
+    "addedDate": "2026-03-04T17:38:11.596Z",
+    "tags": [
+      "Chaos",
+      "Self-Hosted",
+      "Bug Bounty"
+    ]
+  },
+  {
+    "url": "https://danskebank.com/responsible-disclosure",
+    "source": "chaos",
+    "name": "Danskebank",
+    "bounty": true,
+    "subdomains_count": 1166,
+    "icon": "https://www.google.com/s2/favicons?domain=danskebank.com&sz=64",
+    "download_url": "https://chaos-data.projectdiscovery.io/danskebank.zip",
+    "platform": "",
+    "addedDate": "2026-03-04T17:38:11.596Z",
+    "tags": [
+      "Chaos",
+      "Self-Hosted",
+      "Bug Bounty"
+    ]
+  },
+  {
+    "url": "https://canary.discord.com/security",
+    "source": "chaos",
+    "name": "Discord",
+    "bounty": true,
+    "subdomains_count": 73,
+    "icon": "https://www.google.com/s2/favicons?domain=canary.discord.com&sz=64",
+    "download_url": "https://chaos-data.projectdiscovery.io/discord.zip",
+    "platform": "",
+    "addedDate": "2026-03-04T17:38:11.596Z",
+    "tags": [
+      "Chaos",
+      "Self-Hosted",
+      "Bug Bounty"
+    ]
+  },
+  {
+    "url": "https://www.dokobit.com/compliance/vulnerability-disclosure-policy",
+    "source": "chaos",
+    "name": "Dokobit",
+    "bounty": true,
+    "subdomains_count": 37,
+    "icon": "https://www.google.com/s2/favicons?domain=www.dokobit.com&sz=64",
+    "download_url": "https://chaos-data.projectdiscovery.io/dokobit.zip",
+    "platform": "",
+    "addedDate": "2026-03-04T17:38:11.596Z",
+    "tags": [
+      "Chaos",
+      "Self-Hosted",
+      "Bug Bounty"
+    ]
+  },
+  {
+    "url": "https://www.easyprojects.net/company/vulnerability-reward-program/",
+    "source": "chaos",
+    "name": "Easyprojects",
+    "bounty": true,
+    "subdomains_count": 126,
+    "icon": "https://www.google.com/s2/favicons?domain=www.easyprojects.net&sz=64",
+    "download_url": "https://chaos-data.projectdiscovery.io/easyprojects.zip",
+    "platform": "",
+    "addedDate": "2026-03-04T17:38:11.596Z",
+    "tags": [
+      "Chaos",
+      "Self-Hosted",
+      "Bug Bounty"
+    ]
+  },
+  {
+    "url": "https://www.easyname.de/de/support/easyname/253-bug-bounty-programm",
+    "source": "chaos",
+    "name": "Easyname",
+    "bounty": true,
+    "subdomains_count": 541,
+    "icon": "https://www.google.com/s2/favicons?domain=www.easyname.de&sz=64",
+    "download_url": "https://chaos-data.projectdiscovery.io/easyname.zip",
+    "platform": "",
+    "addedDate": "2026-03-04T17:38:11.596Z",
+    "tags": [
+      "Chaos",
+      "Self-Hosted",
+      "Bug Bounty"
+    ]
+  },
+  {
+    "url": "https://todoist.com/help/articles/doist-bug-bounty-policy",
+    "source": "chaos",
+    "name": "Doist",
+    "bounty": true,
+    "subdomains_count": 126,
+    "icon": "https://www.google.com/s2/favicons?domain=todoist.com&sz=64",
+    "download_url": "https://chaos-data.projectdiscovery.io/doist.zip",
+    "platform": "",
+    "addedDate": "2026-03-04T17:38:11.596Z",
+    "tags": [
+      "Chaos",
+      "Self-Hosted",
+      "Bug Bounty"
+    ]
+  },
+  {
+    "url": "https://www.eccouncil.org/bug-bounty/",
+    "source": "chaos",
+    "name": "EC-Council",
+    "bounty": true,
+    "subdomains_count": 230,
+    "icon": "https://www.google.com/s2/favicons?domain=www.eccouncil.org&sz=64",
+    "download_url": "https://chaos-data.projectdiscovery.io/ec-council.zip",
+    "platform": "",
+    "addedDate": "2026-03-04T17:38:11.596Z",
+    "tags": [
+      "Chaos",
+      "Self-Hosted",
+      "Bug Bounty"
+    ]
+  },
+  {
+    "url": "https://www.telekom.com/en/corporate-responsibility/data-protection-data-security/security/details/closing-security-gaps-360054",
+    "source": "chaos",
+    "name": "Deutsche Telekom",
+    "bounty": true,
+    "subdomains_count": 36575,
+    "icon": "https://www.google.com/s2/favicons?domain=www.telekom.com&sz=64",
+    "download_url": "https://chaos-data.projectdiscovery.io/deutsche_telekom.zip",
+    "platform": "",
+    "addedDate": "2026-03-04T17:38:11.596Z",
+    "tags": [
+      "Chaos",
+      "Self-Hosted",
+      "Bug Bounty"
+    ]
+  },
+  {
+    "url": "https://security.dji.com/policy?lang=en_US",
+    "source": "chaos",
+    "name": "DJI",
+    "bounty": true,
+    "subdomains_count": 313,
+    "icon": "https://www.google.com/s2/favicons?domain=security.dji.com&sz=64",
+    "download_url": "https://chaos-data.projectdiscovery.io/dji.zip",
+    "platform": "",
+    "addedDate": "2026-03-04T17:38:11.596Z",
+    "tags": [
+      "Chaos",
+      "Self-Hosted",
+      "Bug Bounty"
+    ]
+  },
+  {
+    "url": "https://www.datto.com/legal/vulnerability-disclosure-program",
+    "source": "chaos",
+    "name": "Datto VDP",
+    "bounty": true,
+    "subdomains_count": 7565,
+    "icon": "https://www.google.com/s2/favicons?domain=www.datto.com&sz=64",
+    "download_url": "https://chaos-data.projectdiscovery.io/datto_vdp.zip",
+    "platform": "",
+    "addedDate": "2026-03-04T17:38:11.596Z",
+    "tags": [
+      "Chaos",
+      "Self-Hosted",
+      "Bug Bounty"
+    ]
+  },
+  {
+    "url": "https://gobugfree.com/programs/fidentity",
+    "source": "chaos",
+    "name": "fidentity",
+    "bounty": true,
+    "subdomains_count": 377,
+    "icon": "https://www.google.com/s2/favicons?domain=gobugfree.com&sz=64",
+    "download_url": "https://chaos-data.projectdiscovery.io/fidentity.zip",
+    "platform": "",
+    "addedDate": "2026-03-04T17:38:11.596Z",
+    "tags": [
+      "Chaos",
+      "Self-Hosted",
+      "Bug Bounty"
+    ]
+  },
+  {
+    "url": "https://community.geotab.com/s/article/How-to-report-security-vulnerabilities?language=en_US",
+    "source": "chaos",
+    "name": "Geotab",
+    "bounty": true,
+    "subdomains_count": 475,
+    "icon": "https://www.google.com/s2/favicons?domain=community.geotab.com&sz=64",
+    "download_url": "https://chaos-data.projectdiscovery.io/geotab.zip",
+    "platform": "",
+    "addedDate": "2026-03-04T17:38:11.596Z",
+    "tags": [
+      "Chaos",
+      "Self-Hosted",
+      "Bug Bounty"
+    ]
+  },
+  {
+    "url": "https://gobugfree.com/programs/bbh",
+    "source": "chaos",
+    "name": "GObugfree",
+    "bounty": true,
+    "subdomains_count": 7,
+    "icon": "https://www.google.com/s2/favicons?domain=gobugfree.com&sz=64",
+    "download_url": "https://chaos-data.projectdiscovery.io/gobugfree.zip",
+    "platform": "",
+    "addedDate": "2026-03-04T17:38:11.596Z",
+    "tags": [
+      "Chaos",
+      "Self-Hosted",
+      "Bug Bounty"
+    ]
+  },
+  {
+    "url": "https://github.com/grafana/bugbounty",
+    "source": "chaos",
+    "name": "Grafana Labs",
+    "bounty": true,
+    "subdomains_count": 0,
+    "icon": "https://www.google.com/s2/favicons?domain=github.com&sz=64",
+    "download_url": "https://chaos-data.projectdiscovery.io/grafana_labs.zip",
+    "platform": "",
+    "addedDate": "2026-03-04T17:38:11.596Z",
+    "tags": [
+      "Chaos",
+      "Self-Hosted",
+      "Bug Bounty"
+    ]
+  },
+  {
+    "url": "https://docs.fondy.eu/en/docs/page/bug-bounty-program",
+    "source": "chaos",
+    "name": "Fondy",
+    "bounty": true,
+    "subdomains_count": 99,
+    "icon": "https://www.google.com/s2/favicons?domain=docs.fondy.eu&sz=64",
+    "download_url": "https://chaos-data.projectdiscovery.io/fondy.zip",
+    "platform": "",
+    "addedDate": "2026-03-04T17:38:11.596Z",
+    "tags": [
+      "Chaos",
+      "Self-Hosted",
+      "Bug Bounty"
+    ]
+  },
+  {
+    "url": "https://grofers.com/bug-bounty",
+    "source": "chaos",
+    "name": "Grofers",
+    "bounty": true,
+    "subdomains_count": 57,
+    "icon": "https://www.google.com/s2/favicons?domain=grofers.com&sz=64",
+    "download_url": "https://chaos-data.projectdiscovery.io/grofers.zip",
+    "platform": "",
+    "addedDate": "2026-03-04T17:38:11.596Z",
+    "tags": [
+      "Chaos",
+      "Self-Hosted",
+      "Bug Bounty"
+    ]
+  },
+  {
+    "url": "https://groww.in/p/security/",
+    "source": "chaos",
+    "name": "Groww",
+    "bounty": true,
+    "subdomains_count": 40,
+    "icon": "https://www.google.com/s2/favicons?domain=groww.in&sz=64",
+    "download_url": "https://chaos-data.projectdiscovery.io/groww.zip",
+    "platform": "",
+    "addedDate": "2026-03-04T17:38:11.596Z",
+    "tags": [
+      "Chaos",
+      "Self-Hosted",
+      "Bug Bounty"
+    ]
+  },
+  {
+    "url": "https://bugbounty.compass-security.com/bug-bounties/hacking-lab-bug-bounty",
+    "source": "chaos",
+    "name": "Hacking-Lab",
+    "bounty": true,
+    "subdomains_count": 391,
+    "icon": "https://www.google.com/s2/favicons?domain=bugbounty.compass-security.com&sz=64",
+    "download_url": "https://chaos-data.projectdiscovery.io/hacking-lab.zip",
+    "platform": "",
+    "addedDate": "2026-03-04T17:38:11.596Z",
+    "tags": [
+      "Chaos",
+      "Self-Hosted",
+      "Bug Bounty"
+    ]
+  },
+  {
+    "url": "https://immunefi.com/bounty/hakkafinance/",
+    "source": "chaos",
+    "name": "Hake Finance",
+    "bounty": true,
+    "subdomains_count": 12,
+    "icon": "https://www.google.com/s2/favicons?domain=immunefi.com&sz=64",
+    "download_url": "https://chaos-data.projectdiscovery.io/hake_finance.zip",
+    "platform": "",
+    "addedDate": "2026-03-04T17:38:11.596Z",
+    "tags": [
+      "Chaos",
+      "Self-Hosted",
+      "Bug Bounty"
+    ]
+  },
+  {
+    "url": "https://www.facebook.com/whitehat",
+    "source": "chaos",
+    "name": "Facebook",
+    "bounty": true,
+    "subdomains_count": 58467,
+    "icon": "https://www.google.com/s2/favicons?domain=www.facebook.com&sz=64",
+    "download_url": "https://chaos-data.projectdiscovery.io/facebook.zip",
+    "platform": "",
+    "addedDate": "2026-03-04T17:38:11.596Z",
+    "tags": [
+      "Chaos",
+      "Self-Hosted",
+      "Bug Bounty"
+    ]
+  },
+  {
+    "url": "https://bugbase.in/programs/hike-bugbounty",
+    "source": "chaos",
+    "name": "Hike",
+    "bounty": true,
+    "subdomains_count": 51,
+    "icon": "https://www.google.com/s2/favicons?domain=bugbase.in&sz=64",
+    "download_url": "https://chaos-data.projectdiscovery.io/hike.zip",
+    "platform": "",
+    "addedDate": "2026-03-04T17:38:11.596Z",
+    "tags": [
+      "Chaos",
+      "Self-Hosted",
+      "Bug Bounty"
+    ]
+  },
+  {
+    "url": "https://www.google.com/about/appsecurity/reward-program/",
+    "source": "chaos",
+    "name": "Google",
+    "bounty": true,
+    "subdomains_count": 98870,
+    "icon": "https://www.google.com/s2/favicons?domain=www.google.com&sz=64",
+    "download_url": "https://chaos-data.projectdiscovery.io/google.zip",
+    "platform": "",
+    "addedDate": "2026-03-04T17:38:11.596Z",
+    "tags": [
+      "Chaos",
+      "Self-Hosted",
+      "Bug Bounty"
+    ]
+  },
+  {
+    "url": "https://www.htc.com/in/terms/product-security/",
+    "source": "chaos",
+    "name": "HTC",
+    "bounty": true,
+    "subdomains_count": 379,
+    "icon": "https://www.google.com/s2/favicons?domain=www.htc.com&sz=64",
+    "download_url": "https://chaos-data.projectdiscovery.io/htc.zip",
+    "platform": "",
+    "addedDate": "2026-03-04T17:38:11.596Z",
+    "tags": [
+      "Chaos",
+      "Self-Hosted",
+      "Bug Bounty"
+    ]
+  },
+  {
+    "url": "https://www.hootsuite.com/security",
+    "source": "chaos",
+    "name": "Hootsuite",
+    "bounty": true,
+    "subdomains_count": 292,
+    "icon": "https://www.google.com/s2/favicons?domain=www.hootsuite.com&sz=64",
+    "download_url": "https://chaos-data.projectdiscovery.io/hootsuite.zip",
+    "platform": "",
+    "addedDate": "2026-03-04T17:38:11.596Z",
+    "tags": [
+      "Chaos",
+      "Self-Hosted",
+      "Bug Bounty"
+    ]
+  },
+  {
+    "url": "https://www2.hm.com/security.txt",
+    "source": "chaos",
+    "name": "H&M Group",
+    "bounty": true,
+    "subdomains_count": 6548,
+    "icon": "https://www.google.com/s2/favicons?domain=www2.hm.com&sz=64",
+    "download_url": "https://chaos-data.projectdiscovery.io/h&m_group.zip",
+    "platform": "",
+    "addedDate": "2026-03-04T17:38:11.596Z",
+    "tags": [
+      "Chaos",
+      "Self-Hosted",
+      "Bug Bounty"
+    ]
+  },
+  {
+    "url": "https://global.com/bug-bounty-policy/",
+    "source": "chaos",
+    "name": "Global Media Services",
+    "bounty": true,
+    "subdomains_count": 2089,
+    "icon": "https://www.google.com/s2/favicons?domain=global.com&sz=64",
+    "download_url": "https://chaos-data.projectdiscovery.io/global_media_services.zip",
+    "platform": "",
+    "addedDate": "2026-03-04T17:38:11.596Z",
+    "tags": [
+      "Chaos",
+      "Self-Hosted",
+      "Bug Bounty"
+    ]
+  },
+  {
+    "url": "https://www.impactguru.com/bug-bounty",
+    "source": "chaos",
+    "name": "ImpactGuru",
+    "bounty": true,
+    "subdomains_count": 73,
+    "icon": "https://www.google.com/s2/favicons?domain=www.impactguru.com&sz=64",
+    "download_url": "https://chaos-data.projectdiscovery.io/impactguru.zip",
+    "platform": "",
+    "addedDate": "2026-03-04T17:38:11.596Z",
+    "tags": [
+      "Chaos",
+      "Self-Hosted",
+      "Bug Bounty"
+    ]
+  },
+  {
+    "url": "https://www.indmoney.com/page/bug-bounty",
+    "source": "chaos",
+    "name": "INDmoney",
+    "bounty": true,
+    "subdomains_count": 44,
+    "icon": "https://www.google.com/s2/favicons?domain=www.indmoney.com&sz=64",
+    "download_url": "https://chaos-data.projectdiscovery.io/indmoney.zip",
+    "platform": "",
+    "addedDate": "2026-03-04T17:38:11.596Z",
+    "tags": [
+      "Chaos",
+      "Self-Hosted",
+      "Bug Bounty"
+    ]
+  },
+  {
+    "url": "https://support.instamojo.com/hc/en-us/articles/207758769-Instamojo-Bug-Bounty-Policy",
+    "source": "chaos",
+    "name": "Instamojo",
+    "bounty": true,
+    "subdomains_count": 126,
+    "icon": "https://www.google.com/s2/favicons?domain=support.instamojo.com&sz=64",
+    "download_url": "https://chaos-data.projectdiscovery.io/instamojo.zip",
+    "platform": "",
+    "addedDate": "2026-03-04T17:38:11.596Z",
+    "tags": [
+      "Chaos",
+      "Self-Hosted",
+      "Bug Bounty"
+    ]
+  },
+  {
+    "url": "https://itslearning.com/global/your-data-matters/responsible-disclosure/",
+    "source": "chaos",
+    "name": "Itslearning",
+    "bounty": true,
+    "subdomains_count": 567,
+    "icon": "https://www.google.com/s2/favicons?domain=itslearning.com&sz=64",
+    "download_url": "https://chaos-data.projectdiscovery.io/itslearning.zip",
+    "platform": "",
+    "addedDate": "2026-03-04T17:38:11.596Z",
+    "tags": [
+      "Chaos",
+      "Self-Hosted",
+      "Bug Bounty"
+    ]
+  },
+  {
+    "url": "https://jivochat.com/bugbounty/",
+    "source": "chaos",
+    "name": "Jivochat",
+    "bounty": true,
+    "subdomains_count": 4009,
+    "icon": "https://www.google.com/s2/favicons?domain=jivochat.com&sz=64",
+    "download_url": "https://chaos-data.projectdiscovery.io/jivochat.zip",
+    "platform": "",
+    "addedDate": "2026-03-04T17:38:11.596Z",
+    "tags": [
+      "Chaos",
+      "Self-Hosted",
+      "Bug Bounty"
+    ]
+  },
+  {
+    "url": "https://immunefi.com/bounty/lido/",
+    "source": "chaos",
+    "name": "Lido Finance",
+    "bounty": true,
+    "subdomains_count": 37,
+    "icon": "https://www.google.com/s2/favicons?domain=immunefi.com&sz=64",
+    "download_url": "https://chaos-data.projectdiscovery.io/lido_finance.zip",
+    "platform": "",
+    "addedDate": "2026-03-04T17:38:11.596Z",
+    "tags": [
+      "Chaos",
+      "Self-Hosted",
+      "Bug Bounty"
+    ]
+  },
+  {
+    "url": "https://www.kraken.com/en-us/features/security/bug-bounty",
+    "source": "chaos",
+    "name": "Kraken",
+    "bounty": true,
+    "subdomains_count": 1021,
+    "icon": "https://www.google.com/s2/favicons?domain=www.kraken.com&sz=64",
+    "download_url": "https://chaos-data.projectdiscovery.io/kraken.zip",
+    "platform": "",
+    "addedDate": "2026-03-04T17:38:11.596Z",
+    "tags": [
+      "Chaos",
+      "Self-Hosted",
+      "Bug Bounty"
+    ]
+  },
+  {
+    "url": "https://www.liquidweb.com/about-us/policies/bug-bounty-program/",
+    "source": "chaos",
+    "name": "LiquidWeb",
+    "bounty": true,
+    "subdomains_count": 3616,
+    "icon": "https://www.google.com/s2/favicons?domain=www.liquidweb.com&sz=64",
+    "download_url": "https://chaos-data.projectdiscovery.io/liquidweb.zip",
+    "platform": "",
+    "addedDate": "2026-03-04T17:38:11.596Z",
+    "tags": [
+      "Chaos",
+      "Self-Hosted",
+      "Bug Bounty"
+    ]
+  },
+  {
+    "url": "https://www.logmeonce.com/vulnerability-disclosure-policy/",
+    "source": "chaos",
+    "name": "LogMeOnce",
+    "bounty": true,
+    "subdomains_count": 34,
+    "icon": "https://www.google.com/s2/favicons?domain=www.logmeonce.com&sz=64",
+    "download_url": "https://chaos-data.projectdiscovery.io/logmeonce.zip",
+    "platform": "",
+    "addedDate": "2026-03-04T17:38:11.596Z",
+    "tags": [
+      "Chaos",
+      "Self-Hosted",
+      "Bug Bounty"
+    ]
+  },
+  {
+    "url": "https://www.makemytrip.com/pwa-hlp/mmtbb/report",
+    "source": "chaos",
+    "name": "MakeMyTrip",
+    "bounty": true,
+    "subdomains_count": 328,
+    "icon": "https://www.google.com/s2/favicons?domain=www.makemytrip.com&sz=64",
+    "download_url": "https://chaos-data.projectdiscovery.io/makemytrip.zip",
+    "platform": "",
+    "addedDate": "2026-03-04T17:38:11.596Z",
+    "tags": [
+      "Chaos",
+      "Self-Hosted",
+      "Bug Bounty"
+    ]
+  },
+  {
+    "url": "https://immunefi.com/bounty/makerdao/",
+    "source": "chaos",
+    "name": "MakerDAO Ecosystem",
+    "bounty": true,
+    "subdomains_count": 124,
+    "icon": "https://www.google.com/s2/favicons?domain=immunefi.com&sz=64",
+    "download_url": "https://chaos-data.projectdiscovery.io/makerdao_ecosystem.zip",
+    "platform": "",
+    "addedDate": "2026-03-04T17:38:11.596Z",
+    "tags": [
+      "Chaos",
+      "Self-Hosted",
+      "Bug Bounty"
+    ]
+  },
+  {
+    "url": "https://mcdelivery.co.in/bug-bounty",
+    "source": "chaos",
+    "name": "McDelivery",
+    "bounty": true,
+    "subdomains_count": 14,
+    "icon": "https://www.google.com/s2/favicons?domain=mcdelivery.co.in&sz=64",
+    "download_url": "https://chaos-data.projectdiscovery.io/mcdelivery.zip",
+    "platform": "",
+    "addedDate": "2026-03-04T17:38:11.596Z",
+    "tags": [
+      "Chaos",
+      "Self-Hosted",
+      "Bug Bounty"
+    ]
+  },
+  {
+    "url": "https://www.mobikwik.com/bug-bounty/guidelines",
+    "source": "chaos",
+    "name": "MobiKwik",
+    "bounty": true,
+    "subdomains_count": 168,
+    "icon": "https://www.google.com/s2/favicons?domain=www.mobikwik.com&sz=64",
+    "download_url": "https://chaos-data.projectdiscovery.io/mobikwik.zip",
+    "platform": "",
+    "addedDate": "2026-03-04T17:38:11.596Z",
+    "tags": [
+      "Chaos",
+      "Self-Hosted",
+      "Bug Bounty"
+    ]
+  },
+  {
+    "url": "https://app.zerocopter.com/de/cvd/aef29c56-5295-4789-b848-3f121eeca350",
+    "source": "chaos",
+    "name": "Mobile DE",
+    "bounty": true,
+    "subdomains_count": 282,
+    "icon": "https://www.google.com/s2/favicons?domain=app.zerocopter.com&sz=64",
+    "download_url": "https://chaos-data.projectdiscovery.io/mobile_de.zip",
+    "platform": "",
+    "addedDate": "2026-03-04T17:38:11.596Z",
+    "tags": [
+      "Chaos",
+      "Self-Hosted",
+      "Bug Bounty"
+    ]
+  },
+  {
+    "url": "https://security.meituan.com/",
+    "source": "chaos",
+    "name": "Meituan",
+    "bounty": true,
+    "subdomains_count": 4508,
+    "icon": "https://www.google.com/s2/favicons?domain=security.meituan.com&sz=64",
+    "download_url": "https://chaos-data.projectdiscovery.io/meituan.zip",
+    "platform": "",
+    "addedDate": "2026-03-04T17:38:11.596Z",
+    "tags": [
+      "Chaos",
+      "Self-Hosted",
+      "Bug Bounty"
+    ]
+  },
+  {
+    "url": "https://www.mollie.com/responsible-disclosure",
+    "source": "chaos",
+    "name": "Mollie",
+    "bounty": true,
+    "subdomains_count": 152,
+    "icon": "https://www.google.com/s2/favicons?domain=www.mollie.com&sz=64",
+    "download_url": "https://chaos-data.projectdiscovery.io/mollie.zip",
+    "platform": "",
+    "addedDate": "2026-03-04T17:38:11.596Z",
+    "tags": [
+      "Chaos",
+      "Self-Hosted",
+      "Bug Bounty"
+    ]
+  },
+  {
+    "url": "https://mujs.com/security.html",
+    "source": "chaos",
+    "name": "Mujs",
+    "bounty": true,
+    "subdomains_count": 3,
+    "icon": "https://www.google.com/s2/favicons?domain=mujs.com&sz=64",
+    "download_url": "https://chaos-data.projectdiscovery.io/mujs.zip",
+    "platform": "",
+    "addedDate": "2026-03-04T17:38:11.596Z",
+    "tags": [
+      "Chaos",
+      "Self-Hosted",
+      "Bug Bounty"
+    ]
+  },
+  {
+    "url": "https://support.narkasa.com/hc/en-us/articles/360011019458-Bug-Bounty",
+    "source": "chaos",
+    "name": "Narkasa",
+    "bounty": true,
+    "subdomains_count": 3,
+    "icon": "https://www.google.com/s2/favicons?domain=support.narkasa.com&sz=64",
+    "download_url": "https://chaos-data.projectdiscovery.io/narkasa.zip",
+    "platform": "",
+    "addedDate": "2026-03-04T17:38:11.596Z",
+    "tags": [
+      "Chaos",
+      "Self-Hosted",
+      "Bug Bounty"
+    ]
+  },
+  {
+    "url": "https://n26.com/en-eu/bug-bounty-program",
+    "source": "chaos",
+    "name": "N26",
+    "bounty": true,
+    "subdomains_count": 131,
+    "icon": "https://www.google.com/s2/favicons?domain=n26.com&sz=64",
+    "download_url": "https://chaos-data.projectdiscovery.io/n26.zip",
+    "platform": "",
+    "addedDate": "2026-03-04T17:38:11.596Z",
+    "tags": [
+      "Chaos",
+      "Self-Hosted",
+      "Bug Bounty"
+    ]
+  },
+  {
+    "url": "https://www.nextiva.com/security-policy.html",
+    "source": "chaos",
+    "name": "Nextiva",
+    "bounty": true,
+    "subdomains_count": 247,
+    "icon": "https://www.google.com/s2/favicons?domain=www.nextiva.com&sz=64",
+    "download_url": "https://chaos-data.projectdiscovery.io/nextiva.zip",
+    "platform": "",
+    "addedDate": "2026-03-04T17:38:11.596Z",
+    "tags": [
+      "Chaos",
+      "Self-Hosted",
+      "Bug Bounty"
+    ]
+  },
+  {
+    "url": "https://over.nos.nl/organisatie/regelgeving/",
+    "source": "chaos",
+    "name": "NOS",
+    "bounty": true,
+    "subdomains_count": 4558,
+    "icon": "https://www.google.com/s2/favicons?domain=over.nos.nl&sz=64",
+    "download_url": "https://chaos-data.projectdiscovery.io/nos.zip",
+    "platform": "",
+    "addedDate": "2026-03-04T17:38:11.596Z",
+    "tags": [
+      "Chaos",
+      "Self-Hosted",
+      "Bug Bounty"
+    ]
+  },
+  {
+    "url": "https://nozbe.com/bug-bounty/",
+    "source": "chaos",
+    "name": "Nozbe",
+    "bounty": true,
+    "subdomains_count": 55,
+    "icon": "https://www.google.com/s2/favicons?domain=nozbe.com&sz=64",
+    "download_url": "https://chaos-data.projectdiscovery.io/nozbe.zip",
+    "platform": "",
+    "addedDate": "2026-03-04T17:38:11.596Z",
+    "tags": [
+      "Chaos",
+      "Self-Hosted",
+      "Bug Bounty"
+    ]
+  },
+  {
+    "url": "https://ngrok.com/security/disclosure-and-reward-program",
+    "source": "chaos",
+    "name": "ngrok",
+    "bounty": true,
+    "subdomains_count": 2414,
+    "icon": "https://www.google.com/s2/favicons?domain=ngrok.com&sz=64",
+    "download_url": "https://chaos-data.projectdiscovery.io/ngrok.zip",
+    "platform": "",
+    "addedDate": "2026-03-04T17:38:11.596Z",
+    "tags": [
+      "Chaos",
+      "Self-Hosted",
+      "Bug Bounty"
+    ]
+  },
+  {
+    "url": "https://app.bugv.io/researcher/program/0000005/detail",
+    "source": "chaos",
+    "name": "OMG Nepal",
+    "bounty": true,
+    "subdomains_count": 36,
+    "icon": "https://www.google.com/s2/favicons?domain=app.bugv.io&sz=64",
+    "download_url": "https://chaos-data.projectdiscovery.io/omg_nepal.zip",
+    "platform": "",
+    "addedDate": "2026-03-04T17:38:11.596Z",
+    "tags": [
+      "Chaos",
+      "Self-Hosted",
+      "Bug Bounty"
+    ]
+  },
+  {
+    "url": "https://on2it.net/en/responsible-disclosure/",
+    "source": "chaos",
+    "name": "On2it",
+    "bounty": true,
+    "subdomains_count": 418,
+    "icon": "https://www.google.com/s2/favicons?domain=on2it.net&sz=64",
+    "download_url": "https://chaos-data.projectdiscovery.io/on2it.zip",
+    "platform": "",
+    "addedDate": "2026-03-04T17:38:11.596Z",
+    "tags": [
+      "Chaos",
+      "Self-Hosted",
+      "Bug Bounty"
+    ]
+  },
+  {
+    "url": "https://www.offensive-security.com/bug-bounty-program/",
+    "source": "chaos",
+    "name": "Offensive Security",
+    "bounty": true,
+    "subdomains_count": 276,
+    "icon": "https://www.google.com/s2/favicons?domain=www.offensive-security.com&sz=64",
+    "download_url": "https://chaos-data.projectdiscovery.io/offensive_security.zip",
+    "platform": "",
+    "addedDate": "2026-03-04T17:38:11.596Z",
+    "tags": [
+      "Chaos",
+      "Self-Hosted",
+      "Bug Bounty"
+    ]
+  },
+  {
+    "url": "https://opire.dev",
+    "source": "chaos",
+    "name": "Opire",
+    "bounty": true,
+    "subdomains_count": 22,
+    "icon": "https://www.google.com/s2/favicons?domain=opire.dev&sz=64",
+    "download_url": "https://chaos-data.projectdiscovery.io/opire.zip",
+    "platform": "",
+    "addedDate": "2026-03-04T17:38:11.596Z",
+    "tags": [
+      "Chaos",
+      "Self-Hosted",
+      "Bug Bounty"
+    ]
+  },
+  {
+    "url": "https://www.microsoft.com/en-us/msrc/bounty-online-services",
+    "source": "chaos",
+    "name": "Microsoft Online Services",
+    "bounty": true,
+    "subdomains_count": 271297,
+    "icon": "https://www.google.com/s2/favicons?domain=www.microsoft.com&sz=64",
+    "download_url": "https://chaos-data.projectdiscovery.io/microsoft_online_services.zip",
+    "platform": "",
+    "addedDate": "2026-03-04T17:38:11.596Z",
+    "tags": [
+      "Chaos",
+      "Self-Hosted",
+      "Bug Bounty"
+    ]
+  },
+  {
+    "url": "https://oroinc.com/bug-bounty/",
+    "source": "chaos",
+    "name": "Oro",
+    "bounty": true,
+    "subdomains_count": 116,
+    "icon": "https://www.google.com/s2/favicons?domain=oroinc.com&sz=64",
+    "download_url": "https://chaos-data.projectdiscovery.io/oro.zip",
+    "platform": "",
+    "addedDate": "2026-03-04T17:38:11.596Z",
+    "tags": [
+      "Chaos",
+      "Self-Hosted",
+      "Bug Bounty"
+    ]
+  },
+  {
+    "url": "https://whitehat.olacabs.com",
+    "source": "chaos",
+    "name": "Ola",
+    "bounty": true,
+    "subdomains_count": 363,
+    "icon": "https://www.google.com/s2/favicons?domain=whitehat.olacabs.com&sz=64",
+    "download_url": "https://chaos-data.projectdiscovery.io/ola.zip",
+    "platform": "",
+    "addedDate": "2026-03-04T17:38:11.596Z",
+    "tags": [
+      "Chaos",
+      "Self-Hosted",
+      "Bug Bounty"
+    ]
+  },
+  {
+    "url": "https://www.parity.io/bug-bounty/",
+    "source": "chaos",
+    "name": "Parity",
+    "bounty": true,
+    "subdomains_count": 999,
+    "icon": "https://www.google.com/s2/favicons?domain=www.parity.io&sz=64",
+    "download_url": "https://chaos-data.projectdiscovery.io/parity.zip",
+    "platform": "",
+    "addedDate": "2026-03-04T17:38:11.596Z",
+    "tags": [
+      "Chaos",
+      "Self-Hosted",
+      "Bug Bounty"
+    ]
+  },
+  {
+    "url": "https://app.bugv.io/researcher/program/0000008/detail",
+    "source": "chaos",
+    "name": "Pasls Store",
+    "bounty": true,
+    "subdomains_count": 41,
+    "icon": "https://www.google.com/s2/favicons?domain=app.bugv.io&sz=64",
+    "download_url": "https://chaos-data.projectdiscovery.io/pasls_store.zip",
+    "platform": "",
+    "addedDate": "2026-03-04T17:38:11.596Z",
+    "tags": [
+      "Chaos",
+      "Self-Hosted",
+      "Bug Bounty"
+    ]
+  },
+  {
+    "url": "https://www.pggm.nl/en/responsible-disclosure",
+    "source": "chaos",
+    "name": "PGGM",
+    "bounty": true,
+    "subdomains_count": 182,
+    "icon": "https://www.google.com/s2/favicons?domain=www.pggm.nl&sz=64",
+    "download_url": "https://chaos-data.projectdiscovery.io/pggm.zip",
+    "platform": "",
+    "addedDate": "2026-03-04T17:38:11.596Z",
+    "tags": [
+      "Chaos",
+      "Self-Hosted",
+      "Bug Bounty"
+    ]
+  },
+  {
+    "url": "https://pickyassist.com/blog/bug-bounty-program-bug-beacon/",
+    "source": "chaos",
+    "name": "Picky Assist",
+    "bounty": true,
+    "subdomains_count": 20,
+    "icon": "https://www.google.com/s2/favicons?domain=pickyassist.com&sz=64",
+    "download_url": "https://chaos-data.projectdiscovery.io/picky_assist.zip",
+    "platform": "",
+    "addedDate": "2026-03-04T17:38:11.596Z",
+    "tags": [
+      "Chaos",
+      "Self-Hosted",
+      "Bug Bounty"
+    ]
+  },
+  {
+    "url": "https://security.oneplus.com/",
+    "source": "chaos",
+    "name": "OnePlus",
+    "bounty": true,
+    "subdomains_count": 345,
+    "icon": "https://www.google.com/s2/favicons?domain=security.oneplus.com&sz=64",
+    "download_url": "https://chaos-data.projectdiscovery.io/oneplus.zip",
+    "platform": "",
+    "addedDate": "2026-03-04T17:38:11.596Z",
+    "tags": [
+      "Chaos",
+      "Self-Hosted",
+      "Bug Bounty"
+    ]
+  },
+  {
+    "url": "https://www.pon-cat.com/nl/responsible-disclosure",
+    "source": "chaos",
+    "name": "Pon-Cat",
+    "bounty": true,
+    "subdomains_count": 65,
+    "icon": "https://www.google.com/s2/favicons?domain=www.pon-cat.com&sz=64",
+    "download_url": "https://chaos-data.projectdiscovery.io/pon-cat.zip",
+    "platform": "",
+    "addedDate": "2026-03-04T17:38:11.596Z",
+    "tags": [
+      "Chaos",
+      "Self-Hosted",
+      "Bug Bounty"
+    ]
+  },
+  {
+    "url": "https://app.bugv.io/researcher/program/0000004/detail",
+    "source": "chaos",
+    "name": "Premier Hero",
+    "bounty": true,
+    "subdomains_count": 8,
+    "icon": "https://www.google.com/s2/favicons?domain=app.bugv.io&sz=64",
+    "download_url": "https://chaos-data.projectdiscovery.io/premier_hero.zip",
+    "platform": "",
+    "addedDate": "2026-03-04T17:38:11.596Z",
+    "tags": [
+      "Chaos",
+      "Self-Hosted",
+      "Bug Bounty"
+    ]
+  },
+  {
+    "url": "https://www.purevpn.com/vulnerability-disclosure-policy",
+    "source": "chaos",
+    "name": "PureVPN",
+    "bounty": true,
+    "subdomains_count": 162,
+    "icon": "https://www.google.com/s2/favicons?domain=www.purevpn.com&sz=64",
+    "download_url": "https://chaos-data.projectdiscovery.io/purevpn.zip",
+    "platform": "",
+    "addedDate": "2026-03-04T17:38:11.596Z",
+    "tags": [
+      "Chaos",
+      "Self-Hosted",
+      "Bug Bounty"
+    ]
+  },
+  {
+    "url": "https://protonvpn.com/blog/bug-bounty-program/",
+    "source": "chaos",
+    "name": "ProtonVPN",
+    "bounty": true,
+    "subdomains_count": 57,
+    "icon": "https://www.google.com/s2/favicons?domain=protonvpn.com&sz=64",
+    "download_url": "https://chaos-data.projectdiscovery.io/protonvpn.zip",
+    "platform": "",
+    "addedDate": "2026-03-04T17:38:11.596Z",
+    "tags": [
+      "Chaos",
+      "Self-Hosted",
+      "Bug Bounty"
+    ]
+  },
+  {
+    "url": "https://bugbounty.paytm.com",
+    "source": "chaos",
+    "name": "Paytm",
+    "bounty": true,
+    "subdomains_count": 1467,
+    "icon": "https://www.google.com/s2/favicons?domain=bugbounty.paytm.com&sz=64",
+    "download_url": "https://chaos-data.projectdiscovery.io/paytm.zip",
+    "platform": "",
+    "addedDate": "2026-03-04T17:38:11.596Z",
+    "tags": [
+      "Chaos",
+      "Self-Hosted",
+      "Bug Bounty"
+    ]
+  },
+  {
+    "url": "https://www.razer.com/security/bug-bounty-program",
+    "source": "chaos",
+    "name": "Razer",
+    "bounty": true,
+    "subdomains_count": 737,
+    "icon": "https://www.google.com/s2/favicons?domain=www.razer.com&sz=64",
+    "download_url": "https://chaos-data.projectdiscovery.io/razer.zip",
+    "platform": "",
+    "addedDate": "2026-03-04T17:38:11.596Z",
+    "tags": [
+      "Chaos",
+      "Self-Hosted",
+      "Bug Bounty"
+    ]
+  },
+  {
+    "url": "https://security.remitano.com/",
+    "source": "chaos",
+    "name": "Remitano",
+    "bounty": true,
+    "subdomains_count": 37,
+    "icon": "https://www.google.com/s2/favicons?domain=security.remitano.com&sz=64",
+    "download_url": "https://chaos-data.projectdiscovery.io/remitano.zip",
+    "platform": "",
+    "addedDate": "2026-03-04T17:38:11.596Z",
+    "tags": [
+      "Chaos",
+      "Self-Hosted",
+      "Bug Bounty"
+    ]
+  },
+  {
+    "url": "https://gobugfree.com/programs/republik",
+    "source": "chaos",
+    "name": "Republik AG",
+    "bounty": true,
+    "subdomains_count": 30,
+    "icon": "https://www.google.com/s2/favicons?domain=gobugfree.com&sz=64",
+    "download_url": "https://chaos-data.projectdiscovery.io/republik_ag.zip",
+    "platform": "",
+    "addedDate": "2026-03-04T17:38:11.596Z",
+    "tags": [
+      "Chaos",
+      "Self-Hosted",
+      "Bug Bounty"
+    ]
+  },
+  {
+    "url": "https://explore.researchgate.net/display/support/Security+and+vulnerability",
+    "source": "chaos",
+    "name": "Research Gate",
+    "bounty": true,
+    "subdomains_count": 305,
+    "icon": "https://www.google.com/s2/favicons?domain=explore.researchgate.net&sz=64",
+    "download_url": "https://chaos-data.projectdiscovery.io/research_gate.zip",
+    "platform": "",
+    "addedDate": "2026-03-04T17:38:11.596Z",
+    "tags": [
+      "Chaos",
+      "Self-Hosted",
+      "Bug Bounty"
+    ]
+  },
+  {
+    "url": "https://rupiahtoken.com/blog/bug-bounty-program",
+    "source": "chaos",
+    "name": "RupiahToken",
+    "bounty": true,
+    "subdomains_count": 32,
+    "icon": "https://www.google.com/s2/favicons?domain=rupiahtoken.com&sz=64",
+    "download_url": "https://chaos-data.projectdiscovery.io/rupiahtoken.zip",
+    "platform": "",
+    "addedDate": "2026-03-04T17:38:11.596Z",
+    "tags": [
+      "Chaos",
+      "Self-Hosted",
+      "Bug Bounty"
+    ]
+  },
+  {
+    "url": "https://security.samsungmobile.com/rewardsProgram.smsb",
+    "source": "chaos",
+    "name": "Samsung Mobile",
+    "bounty": true,
+    "subdomains_count": 251,
+    "icon": "https://www.google.com/s2/favicons?domain=security.samsungmobile.com&sz=64",
+    "download_url": "https://chaos-data.projectdiscovery.io/samsung_mobile.zip",
+    "platform": "",
+    "addedDate": "2026-03-04T17:38:11.596Z",
+    "tags": [
+      "Chaos",
+      "Self-Hosted",
+      "Bug Bounty"
+    ]
+  },
+  {
+    "url": "https://samsungtvbounty.com",
+    "source": "chaos",
+    "name": "Samsung TV",
+    "bounty": true,
+    "subdomains_count": 3202,
+    "icon": "https://www.google.com/s2/favicons?domain=samsungtvbounty.com&sz=64",
+    "download_url": "https://chaos-data.projectdiscovery.io/samsung_tv.zip",
+    "platform": "",
+    "addedDate": "2026-03-04T17:38:11.596Z",
+    "tags": [
+      "Chaos",
+      "Self-Hosted",
+      "Bug Bounty"
+    ]
+  },
+  {
+    "url": "https://www.scholarfundwa.org/bug-bounty",
+    "source": "chaos",
+    "name": "Scholar Fund",
+    "bounty": true,
+    "subdomains_count": 19,
+    "icon": "https://www.google.com/s2/favicons?domain=www.scholarfundwa.org&sz=64",
+    "download_url": "https://chaos-data.projectdiscovery.io/scholar_fund.zip",
+    "platform": "",
+    "addedDate": "2026-03-04T17:38:11.596Z",
+    "tags": [
+      "Chaos",
+      "Self-Hosted",
+      "Bug Bounty"
+    ]
+  },
+  {
+    "url": "https://www.sendcloud.com/bug-bounty-program/",
+    "source": "chaos",
+    "name": "Sendcloud",
+    "bounty": true,
+    "subdomains_count": 156,
+    "icon": "https://www.google.com/s2/favicons?domain=www.sendcloud.com&sz=64",
+    "download_url": "https://chaos-data.projectdiscovery.io/sendcloud.zip",
+    "platform": "",
+    "addedDate": "2026-03-04T17:38:11.596Z",
+    "tags": [
+      "Chaos",
+      "Self-Hosted",
+      "Bug Bounty"
+    ]
+  },
+  {
+    "url": "https://security.oppo.com/en/",
+    "source": "chaos",
+    "name": "Oppo",
+    "bounty": true,
+    "subdomains_count": 2783,
+    "icon": "https://www.google.com/s2/favicons?domain=security.oppo.com&sz=64",
+    "download_url": "https://chaos-data.projectdiscovery.io/oppo.zip",
+    "platform": "",
+    "addedDate": "2026-03-04T17:38:11.596Z",
+    "tags": [
+      "Chaos",
+      "Self-Hosted",
+      "Bug Bounty"
+    ]
+  },
+  {
+    "url": "https://www.smokescreen.io/responsible-disclosure-policy/",
+    "source": "chaos",
+    "name": "Smokescreen",
+    "bounty": true,
+    "subdomains_count": 38,
+    "icon": "https://www.google.com/s2/favicons?domain=www.smokescreen.io&sz=64",
+    "download_url": "https://chaos-data.projectdiscovery.io/smokescreen.zip",
+    "platform": "",
+    "addedDate": "2026-03-04T17:38:11.596Z",
+    "tags": [
+      "Chaos",
+      "Self-Hosted",
+      "Bug Bounty"
+    ]
+  },
+  {
+    "url": "https://www.spokeo.com/bug-bounty",
+    "source": "chaos",
+    "name": "Spokeo",
+    "bounty": true,
+    "subdomains_count": 103,
+    "icon": "https://www.google.com/s2/favicons?domain=www.spokeo.com&sz=64",
+    "download_url": "https://chaos-data.projectdiscovery.io/spokeo.zip",
+    "platform": "",
+    "addedDate": "2026-03-04T17:38:11.596Z",
+    "tags": [
+      "Chaos",
+      "Self-Hosted",
+      "Bug Bounty"
+    ]
+  },
+  {
+    "url": "https://github.com/swisscom/bugbounty",
+    "source": "chaos",
+    "name": "Swisscom",
+    "bounty": true,
+    "subdomains_count": 0,
+    "icon": "https://www.google.com/s2/favicons?domain=github.com&sz=64",
+    "download_url": "https://chaos-data.projectdiscovery.io/swisscom.zip",
+    "platform": "",
+    "addedDate": "2026-03-04T17:38:11.596Z",
+    "tags": [
+      "Chaos",
+      "Self-Hosted",
+      "Bug Bounty"
+    ]
+  },
+  {
+    "url": "https://synack.responsibledisclosure.com/hc/en-us/",
+    "source": "chaos",
+    "name": "Synack",
+    "bounty": true,
+    "subdomains_count": 490,
+    "icon": "https://www.google.com/s2/favicons?domain=synack.responsibledisclosure.com&sz=64",
+    "download_url": "https://chaos-data.projectdiscovery.io/synack.zip",
+    "platform": "",
+    "addedDate": "2026-03-04T17:38:11.596Z",
+    "tags": [
+      "Chaos",
+      "Self-Hosted",
+      "Bug Bounty"
+    ]
+  },
+  {
+    "url": "https://www.t-mobile.cz/bug-bounty",
+    "source": "chaos",
+    "name": "T-Mobile CZ",
+    "bounty": true,
+    "subdomains_count": 555,
+    "icon": "https://www.google.com/s2/favicons?domain=www.t-mobile.cz&sz=64",
+    "download_url": "https://chaos-data.projectdiscovery.io/t-mobile_cz.zip",
+    "platform": "",
+    "addedDate": "2026-03-04T17:38:11.596Z",
+    "tags": [
+      "Chaos",
+      "Self-Hosted",
+      "Bug Bounty"
+    ]
+  },
+  {
+    "url": "https://app.gobugfree.com/programs/threema",
+    "source": "chaos",
+    "name": "Threema",
+    "bounty": true,
+    "subdomains_count": 930,
+    "icon": "https://www.google.com/s2/favicons?domain=app.gobugfree.com&sz=64",
+    "download_url": "https://chaos-data.projectdiscovery.io/threema.zip",
+    "platform": "",
+    "addedDate": "2026-03-04T17:38:11.596Z",
+    "tags": [
+      "Chaos",
+      "Self-Hosted",
+      "Bug Bounty"
+    ]
+  },
+  {
+    "url": "https://touchincentive.com/responsible-disclosure/",
+    "source": "chaos",
+    "name": "Touch Incentive Marketing",
+    "bounty": true,
+    "subdomains_count": 8,
+    "icon": "https://www.google.com/s2/favicons?domain=touchincentive.com&sz=64",
+    "download_url": "https://chaos-data.projectdiscovery.io/touch_incentive_marketing.zip",
+    "platform": "",
+    "addedDate": "2026-03-04T17:38:11.596Z",
+    "tags": [
+      "Chaos",
+      "Self-Hosted",
+      "Bug Bounty"
+    ]
+  },
+  {
+    "url": "https://en.security.tencent.com",
+    "source": "chaos",
+    "name": "Tencent",
+    "bounty": true,
+    "subdomains_count": 52391,
+    "icon": "https://www.google.com/s2/favicons?domain=en.security.tencent.com&sz=64",
+    "download_url": "https://chaos-data.projectdiscovery.io/tencent.zip",
+    "platform": "",
+    "addedDate": "2026-03-04T17:38:11.596Z",
+    "tags": [
+      "Chaos",
+      "Self-Hosted",
+      "Bug Bounty"
+    ]
+  },
+  {
+    "url": "https://security.tecno.com/dashboard",
+    "source": "chaos",
+    "name": "TECNO",
+    "bounty": true,
+    "subdomains_count": 72,
+    "icon": "https://www.google.com/s2/favicons?domain=security.tecno.com&sz=64",
+    "download_url": "https://chaos-data.projectdiscovery.io/tecno.zip",
+    "platform": "",
+    "addedDate": "2026-03-04T17:38:11.596Z",
+    "tags": [
+      "Chaos",
+      "Self-Hosted",
+      "Bug Bounty"
+    ]
+  },
+  {
+    "url": "https://www.traveloka.com/en-id/bugs",
+    "source": "chaos",
+    "name": "Traveloka",
+    "bounty": true,
+    "subdomains_count": 1093,
+    "icon": "https://www.google.com/s2/favicons?domain=www.traveloka.com&sz=64",
+    "download_url": "https://chaos-data.projectdiscovery.io/traveloka.zip",
+    "platform": "",
+    "addedDate": "2026-03-04T17:38:11.596Z",
+    "tags": [
+      "Chaos",
+      "Self-Hosted",
+      "Bug Bounty"
+    ]
+  },
+  {
+    "url": "https://app.zerocopter.com/en/rd/261e0379-9eb8-4de6-b45d-48e30891a8bb",
+    "source": "chaos",
+    "name": "Tyk",
+    "bounty": true,
+    "subdomains_count": 137,
+    "icon": "https://www.google.com/s2/favicons?domain=app.zerocopter.com&sz=64",
+    "download_url": "https://chaos-data.projectdiscovery.io/tyk.zip",
+    "platform": "",
+    "addedDate": "2026-03-04T17:38:11.596Z",
+    "tags": [
+      "Chaos",
+      "Self-Hosted",
+      "Bug Bounty"
+    ]
+  },
+  {
+    "url": "https://upstox.com/bug-bounty/",
+    "source": "chaos",
+    "name": "Upstox",
+    "bounty": true,
+    "subdomains_count": 264,
+    "icon": "https://www.google.com/s2/favicons?domain=upstox.com&sz=64",
+    "download_url": "https://chaos-data.projectdiscovery.io/upstox.zip",
+    "platform": "",
+    "addedDate": "2026-03-04T17:38:11.596Z",
+    "tags": [
+      "Chaos",
+      "Self-Hosted",
+      "Bug Bounty"
+    ]
+  },
+  {
+    "url": "https://security.unionpay.com/",
+    "source": "chaos",
+    "name": "UnionPay",
+    "bounty": true,
+    "subdomains_count": 330,
+    "icon": "https://www.google.com/s2/favicons?domain=security.unionpay.com&sz=64",
+    "download_url": "https://chaos-data.projectdiscovery.io/unionpay.zip",
+    "platform": "",
+    "addedDate": "2026-03-04T17:38:11.596Z",
+    "tags": [
+      "Chaos",
+      "Self-Hosted",
+      "Bug Bounty"
+    ]
+  },
+  {
+    "url": "https://www.walla.co.il/.well-know/security.txt",
+    "source": "chaos",
+    "name": "Walla! Communication",
+    "bounty": true,
+    "subdomains_count": 778,
+    "icon": "https://www.google.com/s2/favicons?domain=www.walla.co.il&sz=64",
+    "download_url": "https://chaos-data.projectdiscovery.io/walla!_communication.zip",
+    "platform": "",
+    "addedDate": "2026-03-04T17:38:11.596Z",
+    "tags": [
+      "Chaos",
+      "Self-Hosted",
+      "Bug Bounty"
+    ]
+  },
+  {
+    "url": "https://security.vivo.com.cn/#/home",
+    "source": "chaos",
+    "name": "Vivo",
+    "bounty": true,
+    "subdomains_count": 153,
+    "icon": "https://www.google.com/s2/favicons?domain=security.vivo.com.cn&sz=64",
+    "download_url": "https://chaos-data.projectdiscovery.io/vivo.zip",
+    "platform": "",
+    "addedDate": "2026-03-04T17:38:11.596Z",
+    "tags": [
+      "Chaos",
+      "Self-Hosted",
+      "Bug Bounty"
+    ]
+  },
+  {
+    "url": "https://www.volkis.com.au/vulnerability-disclosure/",
+    "source": "chaos",
+    "name": "VOLKIS",
+    "bounty": true,
+    "subdomains_count": 16,
+    "icon": "https://www.google.com/s2/favicons?domain=www.volkis.com.au&sz=64",
+    "download_url": "https://chaos-data.projectdiscovery.io/volkis.zip",
+    "platform": "",
+    "addedDate": "2026-03-04T17:38:11.596Z",
+    "tags": [
+      "Chaos",
+      "Self-Hosted",
+      "Bug Bounty"
+    ]
+  },
+  {
+    "url": "https://www.winni.in/bug-bounty",
+    "source": "chaos",
+    "name": "WINNI",
+    "bounty": true,
+    "subdomains_count": 14,
+    "icon": "https://www.google.com/s2/favicons?domain=www.winni.in&sz=64",
+    "download_url": "https://chaos-data.projectdiscovery.io/winni.zip",
+    "platform": "",
+    "addedDate": "2026-03-04T17:38:11.596Z",
+    "tags": [
+      "Chaos",
+      "Self-Hosted",
+      "Bug Bounty"
+    ]
+  },
+  {
+    "url": "https://bugbounty.web.de/english.html",
+    "source": "chaos",
+    "name": "WEB.DE",
+    "bounty": true,
+    "subdomains_count": 8242,
+    "icon": "https://www.google.com/s2/favicons?domain=bugbounty.web.de&sz=64",
+    "download_url": "https://chaos-data.projectdiscovery.io/web.de.zip",
+    "platform": "",
+    "addedDate": "2026-03-04T17:38:11.596Z",
+    "tags": [
+      "Chaos",
+      "Self-Hosted",
+      "Bug Bounty"
+    ]
+  },
+  {
+    "url": "https://immunefi.com/bounty/wombatexchange/",
+    "source": "chaos",
+    "name": "Wombat Exchange",
+    "bounty": true,
+    "subdomains_count": 19,
+    "icon": "https://www.google.com/s2/favicons?domain=immunefi.com&sz=64",
+    "download_url": "https://chaos-data.projectdiscovery.io/wombat_exchange.zip",
+    "platform": "",
+    "addedDate": "2026-03-04T17:38:11.596Z",
+    "tags": [
+      "Chaos",
+      "Self-Hosted",
+      "Bug Bounty"
+    ]
+  },
+  {
+    "url": "https://www.yatra.com/online/bug-bounty",
+    "source": "chaos",
+    "name": "Yatra",
+    "bounty": true,
+    "subdomains_count": 183,
+    "icon": "https://www.google.com/s2/favicons?domain=www.yatra.com&sz=64",
+    "download_url": "https://chaos-data.projectdiscovery.io/yatra.zip",
+    "platform": "",
+    "addedDate": "2026-03-04T17:38:11.596Z",
+    "tags": [
+      "Chaos",
+      "Self-Hosted",
+      "Bug Bounty"
+    ]
+  },
+  {
+    "url": "https://zapier.com/engineering/bug-bounty-program/",
+    "source": "chaos",
+    "name": "Zapier",
+    "bounty": true,
+    "subdomains_count": 439,
+    "icon": "https://www.google.com/s2/favicons?domain=zapier.com&sz=64",
+    "download_url": "https://chaos-data.projectdiscovery.io/zapier.zip",
+    "platform": "",
+    "addedDate": "2026-03-04T17:38:11.596Z",
+    "tags": [
+      "Chaos",
+      "Self-Hosted",
+      "Bug Bounty"
+    ]
+  },
+  {
+    "url": "https://zerodha.com/bug-bounty/",
+    "source": "chaos",
+    "name": "Zerodha",
+    "bounty": true,
+    "subdomains_count": 85,
+    "icon": "https://www.google.com/s2/favicons?domain=zerodha.com&sz=64",
+    "download_url": "https://chaos-data.projectdiscovery.io/zerodha.zip",
+    "platform": "",
+    "addedDate": "2026-03-04T17:38:11.596Z",
+    "tags": [
+      "Chaos",
+      "Self-Hosted",
+      "Bug Bounty"
+    ]
+  },
+  {
+    "url": "https://yandex.com/bugbounty/index",
+    "source": "chaos",
+    "name": "Yandex",
+    "bounty": true,
+    "subdomains_count": 301351,
+    "icon": "https://www.google.com/s2/favicons?domain=yandex.com&sz=64",
+    "download_url": "https://chaos-data.projectdiscovery.io/yandex.zip",
+    "platform": "",
+    "addedDate": "2026-03-04T17:38:11.596Z",
+    "tags": [
+      "Chaos",
+      "Self-Hosted",
+      "Bug Bounty"
+    ]
+  },
+  {
+    "url": "https://explore.zoom.us/docs/ent/h1.html",
+    "source": "chaos",
+    "name": "Zoom",
+    "bounty": true,
+    "subdomains_count": 144809,
+    "icon": "https://www.google.com/s2/favicons?domain=explore.zoom.us&sz=64",
+    "download_url": "https://chaos-data.projectdiscovery.io/zoom.zip",
+    "platform": "",
+    "addedDate": "2026-03-04T17:38:11.596Z",
+    "tags": [
+      "Chaos",
+      "Self-Hosted",
+      "Bug Bounty"
+    ]
+  },
+  {
+    "url": "https://www.telekom.com/en/company/data-privacy-and-security/news/help-us-to-become-better-360054",
+    "name": "Telekom",
+    "bounty": true,
+    "source": "chaos",
+    "icon": "https://www.google.com/s2/favicons?domain=www.telekom.com&sz=64",
+    "addedDate": "2026-03-04T18:05:49.798Z",
+    "tags": [
+      "Bug Bounty",
+      "Self-hosted"
+    ]
+  },
+  {
+    "url": "https://www.kaseya.com/trust-center/vulnerability-disclosure-policy/",
+    "name": "Kaseya",
+    "bounty": true,
+    "source": "chaos",
+    "icon": "https://www.google.com/s2/favicons?domain=www.kaseya.com&sz=64",
+    "addedDate": "2026-03-04T18:05:49.798Z",
+    "tags": [
+      "Bug Bounty",
+      "Self-hosted"
+    ]
+  },
+  {
+    "url": "https://www.artificiallawyer.com/2019/10/22/relativity-offers-bug-bounties-discusses-calder7-security-measures/",
+    "name": "Relativity",
+    "bounty": true,
+    "source": "chaos",
+    "icon": "https://www.google.com/s2/favicons?domain=www.artificiallawyer.com&sz=64",
+    "addedDate": "2026-03-04T18:05:49.798Z",
+    "tags": [
+      "Bug Bounty",
+      "Self-hosted"
+    ]
+  },
+  {
+    "url": "https://bugbounty.paytm.com/",
+    "name": "Paytm",
+    "bounty": true,
+    "source": "chaos",
+    "icon": "https://www.google.com/s2/favicons?domain=bugbounty.paytm.com&sz=64",
+    "addedDate": "2026-03-04T18:05:49.798Z",
+    "tags": [
+      "Bug Bounty",
+      "Self-hosted"
+    ]
+  },
+  {
+    "url": "https://www.liquidweb.com/policies/bug-bounty-program/",
+    "name": "Liquidweb",
+    "bounty": true,
+    "source": "chaos",
+    "icon": "https://www.google.com/s2/favicons?domain=www.liquidweb.com&sz=64",
+    "addedDate": "2026-03-04T18:05:49.798Z",
+    "tags": [
+      "Bug Bounty",
+      "Self-hosted"
+    ]
+  },
+  {
+    "url": "https://hive.oroinc.com/bug-bounty/",
+    "name": "Oroinc",
+    "bounty": true,
+    "source": "chaos",
+    "icon": "https://www.google.com/s2/favicons?domain=hive.oroinc.com&sz=64",
+    "addedDate": "2026-03-04T18:05:49.798Z",
+    "tags": [
+      "Bug Bounty",
+      "Self-hosted"
+    ]
+  },
+  {
+    "url": "https://www.animalfriends.co.uk/bug-bounty/",
+    "name": "AnimalFriends",
+    "bounty": true,
+    "source": "chaos",
+    "icon": "https://www.google.com/s2/favicons?domain=www.animalfriends.co.uk&sz=64",
+    "addedDate": "2026-03-04T18:05:49.798Z",
+    "tags": [
+      "Bug Bounty",
+      "Self-hosted"
+    ]
+  },
+  {
+    "url": "https://en.outscale.com/reporting-vulnerabilities/",
+    "name": "3DS OUTSCALE",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "",
+    "icon": "https://www.google.com/s2/favicons?domain=en.outscale.com&sz=64",
+    "source": "disclose",
+    "addedDate": "2026-03-04T18:09:58.084Z",
+    "tags": [
+      "Bug Bounty",
+      "Self-hosted"
+    ]
+  },
+  {
+    "url": "https://alscotoday.com/go/bug",
+    "name": "ALSCO",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "full",
+    "icon": "https://www.google.com/s2/favicons?domain=alscotoday.com&sz=64",
+    "source": "disclose",
+    "addedDate": "2026-03-04T18:09:58.084Z",
+    "tags": [
+      "Bug Bounty",
+      "Self-hosted"
+    ]
+  },
+  {
+    "url": "https://tls.mbed.org/c-library-bug-bounty-program",
+    "name": "ARM mBed",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "none",
+    "icon": "https://www.google.com/s2/favicons?domain=tls.mbed.org&sz=64",
+    "source": "disclose",
+    "addedDate": "2026-03-04T18:09:58.084Z",
+    "tags": [
+      "Bug Bounty",
+      "Self-hosted"
+    ]
+  },
+  {
+    "url": "https://bugbounty.att.com/",
+    "name": "AT&T",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "none",
+    "icon": "https://www.google.com/s2/favicons?domain=bugbounty.att.com&sz=64",
+    "source": "disclose",
+    "addedDate": "2026-03-04T18:09:58.084Z",
+    "tags": [
+      "Bug Bounty",
+      "Self-hosted"
+    ]
+  },
+  {
+    "url": "https://www.abnamro.nl/en/personal/overabnamro/secure-banking/responsible-disclosure.html",
+    "name": "Abn Amro",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "partial",
+    "icon": "https://www.google.com/s2/favicons?domain=www.abnamro.nl&sz=64",
+    "source": "disclose",
+    "addedDate": "2026-03-04T18:09:58.084Z",
+    "tags": [
+      "Bug Bounty",
+      "Self-hosted"
+    ]
+  },
+  {
+    "url": "https://www.accredible.com/white_hat/",
+    "name": "Accredible",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "none",
+    "icon": "https://www.google.com/s2/favicons?domain=www.accredible.com&sz=64",
+    "source": "disclose",
+    "addedDate": "2026-03-04T18:09:58.084Z",
+    "tags": [
+      "Bug Bounty",
+      "Self-hosted"
+    ]
+  },
+  {
+    "url": "https://docs.across.to/v/developer-docs/additional-info/bug-bounty",
+    "name": "Across Protocol",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "",
+    "icon": "https://www.google.com/s2/favicons?domain=docs.across.to&sz=64",
+    "source": "disclose",
+    "addedDate": "2026-03-04T18:09:58.084Z",
+    "tags": [
+      "Bug Bounty",
+      "Self-hosted"
+    ]
+  },
+  {
+    "url": "https://www.actility.com/security/",
+    "name": "Actility",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "none",
+    "icon": "https://www.google.com/s2/favicons?domain=www.actility.com&sz=64",
+    "source": "disclose",
+    "addedDate": "2026-03-04T18:09:58.084Z",
+    "tags": [
+      "Bug Bounty",
+      "Self-hosted"
+    ]
+  },
+  {
+    "url": "https://www.airmiles.nl/responsible-disclosure",
+    "name": "Air Miles",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "none",
+    "icon": "https://www.google.com/s2/favicons?domain=www.airmiles.nl&sz=64",
+    "source": "disclose",
+    "addedDate": "2026-03-04T18:09:58.084Z",
+    "tags": [
+      "Bug Bounty",
+      "Self-hosted"
+    ]
+  },
+  {
+    "url": "https://blog.airswap.io/airswap-bug-bounty-4d7ec41f3ea7",
+    "name": "AirSwap",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "",
+    "icon": "https://www.google.com/s2/favicons?domain=blog.airswap.io&sz=64",
+    "source": "disclose",
+    "addedDate": "2026-03-04T18:09:58.084Z",
+    "tags": [
+      "Bug Bounty",
+      "Self-hosted"
+    ]
+  },
+  {
+    "url": "https://airvpn.org/security_policy/",
+    "name": "AirVPN",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "",
+    "icon": "https://www.google.com/s2/favicons?domain=airvpn.org&sz=64",
+    "source": "disclose",
+    "addedDate": "2026-03-04T18:09:58.084Z",
+    "tags": [
+      "Bug Bounty",
+      "Self-hosted"
+    ]
+  },
+  {
+    "url": "https://security.alibaba.com/",
+    "name": "Alibaba",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "partial",
+    "icon": "https://www.google.com/s2/favicons?domain=security.alibaba.com&sz=64",
+    "source": "disclose",
+    "addedDate": "2026-03-04T18:09:58.084Z",
+    "tags": [
+      "Bug Bounty",
+      "Self-hosted"
+    ]
+  },
+  {
+    "url": "https://security.alibaba.com/",
+    "name": "Aliexpress",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "partial",
+    "icon": "https://www.google.com/s2/favicons?domain=security.alibaba.com&sz=64",
+    "source": "disclose",
+    "addedDate": "2026-03-04T18:09:58.084Z",
+    "tags": [
+      "Bug Bounty",
+      "Self-hosted"
+    ]
+  },
+  {
+    "url": "https://www.altilly.com/page/security",
+    "name": "Altilly",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "none",
+    "icon": "https://www.google.com/s2/favicons?domain=www.altilly.com&sz=64",
+    "source": "disclose",
+    "addedDate": "2026-03-04T18:09:58.084Z",
+    "tags": [
+      "Bug Bounty",
+      "Self-hosted"
+    ]
+  },
+  {
+    "url": "https://www.alwaysdata.com/en/bug-bounty/",
+    "name": "AlwaysData",
+    "bounty": true,
+    "swag": true,
+    "safe_harbor": "full",
+    "icon": "https://www.google.com/s2/favicons?domain=www.alwaysdata.com&sz=64",
+    "source": "disclose",
+    "addedDate": "2026-03-04T18:09:58.084Z",
+    "tags": [
+      "Bug Bounty",
+      "Self-hosted"
+    ]
+  },
+  {
+    "url": "https://ampcode.com/security/",
+    "name": "AmpCode.com",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "",
+    "icon": "https://www.google.com/s2/favicons?domain=ampcode.com&sz=64",
+    "source": "disclose",
+    "addedDate": "2026-03-04T18:09:58.084Z",
+    "tags": [
+      "Bug Bounty",
+      "Self-hosted"
+    ]
+  },
+  {
+    "url": "https://www.google.com/about/appsecurity/android-rewards/",
+    "name": "Android",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "none",
+    "icon": "https://www.google.com/s2/favicons?domain=www.google.com&sz=64",
+    "source": "disclose",
+    "addedDate": "2026-03-04T18:09:58.084Z",
+    "tags": [
+      "Bug Bounty",
+      "Self-hosted"
+    ]
+  },
+  {
+    "url": "https://www.hacktify.eu/en/public-programs/",
+    "name": "Antavo Loyalty Management Platform",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "partial",
+    "icon": "https://www.google.com/s2/favicons?domain=www.hacktify.eu&sz=64",
+    "source": "disclose",
+    "addedDate": "2026-03-04T18:09:58.084Z",
+    "tags": [
+      "Bug Bounty",
+      "Self-hosted"
+    ]
+  },
+  {
+    "url": "https://www.apache.org/security/",
+    "name": "Apache",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "none",
+    "icon": "https://www.google.com/s2/favicons?domain=www.apache.org&sz=64",
+    "source": "disclose",
+    "addedDate": "2026-03-04T18:09:58.084Z",
+    "tags": [
+      "Bug Bounty",
+      "Self-hosted"
+    ]
+  },
+  {
+    "url": "https://www.apache.org/security/",
+    "name": "Apache httpd",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "none",
+    "icon": "https://www.google.com/s2/favicons?domain=www.apache.org&sz=64",
+    "source": "disclose",
+    "addedDate": "2026-03-04T18:09:58.084Z",
+    "tags": [
+      "Bug Bounty",
+      "Self-hosted"
+    ]
+  },
+  {
+    "url": "https://developer.apple.com/security-bounty/",
+    "name": "Apple",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "none",
+    "icon": "https://www.google.com/s2/favicons?domain=developer.apple.com&sz=64",
+    "source": "disclose",
+    "addedDate": "2026-03-04T18:09:58.084Z",
+    "tags": [
+      "Bug Bounty",
+      "Self-hosted"
+    ]
+  },
+  {
+    "url": "https://www.aquasec.com/trust/security/responsible-disclosure-program/",
+    "name": "Aqua Security",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "",
+    "icon": "https://www.google.com/s2/favicons?domain=www.aquasec.com&sz=64",
+    "source": "disclose",
+    "addedDate": "2026-03-04T18:09:58.084Z",
+    "tags": [
+      "Bug Bounty",
+      "Self-hosted"
+    ]
+  },
+  {
+    "url": "https://blog.aragon.org/aragon-network-bug-bounty/",
+    "name": "Aragon",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "none",
+    "icon": "https://www.google.com/s2/favicons?domain=blog.aragon.org&sz=64",
+    "source": "disclose",
+    "addedDate": "2026-03-04T18:09:58.084Z",
+    "tags": [
+      "Bug Bounty",
+      "Self-hosted"
+    ]
+  },
+  {
+    "url": "https://ark.io/blog/ark-development-and-security-bounty-program-arkio-blog",
+    "name": "Ark",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "none",
+    "icon": "https://www.google.com/s2/favicons?domain=ark.io&sz=64",
+    "source": "disclose",
+    "addedDate": "2026-03-04T18:09:58.084Z",
+    "tags": [
+      "Bug Bounty",
+      "Self-hosted"
+    ]
+  },
+  {
+    "url": "https://asana.com/bounty",
+    "name": "Asana",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "none",
+    "icon": "https://www.google.com/s2/favicons?domain=asana.com&sz=64",
+    "source": "disclose",
+    "addedDate": "2026-03-04T18:09:58.084Z",
+    "tags": [
+      "Bug Bounty",
+      "Self-hosted"
+    ]
+  },
+  {
+    "url": "https://digitalhealthcompliance.com/disclosure-en/",
+    "name": "Assuring Medical Apps",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "partial",
+    "icon": "https://www.google.com/s2/favicons?domain=digitalhealthcompliance.com&sz=64",
+    "source": "disclose",
+    "addedDate": "2026-03-04T18:09:58.084Z",
+    "tags": [
+      "Bug Bounty",
+      "Self-hosted"
+    ]
+  },
+  {
+    "url": "https://wiki.asterisk.org/wiki/display/AST/Asterisk+Bug+Bounties",
+    "name": "Asterisk",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "none",
+    "icon": "https://www.google.com/s2/favicons?domain=wiki.asterisk.org&sz=64",
+    "source": "disclose",
+    "addedDate": "2026-03-04T18:09:58.084Z",
+    "tags": [
+      "Bug Bounty",
+      "Self-hosted"
+    ]
+  },
+  {
+    "url": "https://augur.net/blog/v2-bug-bounty/",
+    "name": "Augur",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "partial",
+    "icon": "https://www.google.com/s2/favicons?domain=augur.net&sz=64",
+    "source": "disclose",
+    "addedDate": "2026-03-04T18:09:58.084Z",
+    "tags": [
+      "Bug Bounty",
+      "Self-hosted"
+    ]
+  },
+  {
+    "url": "https://www.automox.com/security/responsible-disclosure",
+    "name": "Automox",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "full",
+    "icon": "https://www.google.com/s2/favicons?domain=www.automox.com&sz=64",
+    "source": "disclose",
+    "addedDate": "2026-03-04T18:09:58.084Z",
+    "tags": [
+      "Bug Bounty",
+      "Self-hosted"
+    ]
+  },
+  {
+    "url": "https://www.avast.com/bug-bounty",
+    "name": "Avast!",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "none",
+    "icon": "https://www.google.com/s2/favicons?domain=www.avast.com&sz=64",
+    "source": "disclose",
+    "addedDate": "2026-03-04T18:09:58.084Z",
+    "tags": [
+      "Bug Bounty",
+      "Self-hosted"
+    ]
+  },
+  {
+    "url": "https://www.avira.com/en/support-vulnerability",
+    "name": "Avira",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "none",
+    "icon": "https://www.google.com/s2/favicons?domain=www.avira.com&sz=64",
+    "source": "disclose",
+    "addedDate": "2026-03-04T18:09:58.084Z",
+    "tags": [
+      "Bug Bounty",
+      "Self-hosted"
+    ]
+  },
+  {
+    "url": "https://azimo.com/en/lp/responsible-disclosure",
+    "name": "Azimo",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "",
+    "icon": "https://www.google.com/s2/favicons?domain=azimo.com&sz=64",
+    "source": "disclose",
+    "addedDate": "2026-03-04T18:09:58.084Z",
+    "tags": [
+      "Bug Bounty",
+      "Self-hosted"
+    ]
+  },
+  {
+    "url": "https://www.backblaze.com/security.html",
+    "name": "Backblaze",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "none",
+    "icon": "https://www.google.com/s2/favicons?domain=www.backblaze.com&sz=64",
+    "source": "disclose",
+    "addedDate": "2026-03-04T18:09:58.084Z",
+    "tags": [
+      "Bug Bounty",
+      "Self-hosted"
+    ]
+  },
+  {
+    "url": "https://www.beyondsecurity.com/ssd.html",
+    "name": "Beyond Security",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "none",
+    "icon": "https://www.google.com/s2/favicons?domain=www.beyondsecurity.com&sz=64",
+    "source": "disclose",
+    "addedDate": "2026-03-04T18:09:58.084Z",
+    "tags": [
+      "Bug Bounty",
+      "Self-hosted"
+    ]
+  },
+  {
+    "url": "https://www.zendesk.com/company/policies-procedures/#responsible-disclosure-policy",
+    "name": "Bime",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "none",
+    "icon": "https://www.google.com/s2/favicons?domain=www.zendesk.com&sz=64",
+    "source": "disclose",
+    "addedDate": "2026-03-04T18:09:58.084Z",
+    "tags": [
+      "Bug Bounty",
+      "Self-hosted"
+    ]
+  },
+  {
+    "url": "https://www.bitmex.com/app/security",
+    "name": "BitMEX",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "none",
+    "icon": "https://www.google.com/s2/favicons?domain=www.bitmex.com&sz=64",
+    "source": "disclose",
+    "addedDate": "2026-03-04T18:09:58.084Z",
+    "tags": [
+      "Bug Bounty",
+      "Self-hosted"
+    ]
+  },
+  {
+    "url": "https://github.com/BTCGPU/Developer-Portal/blob/master/responsible-disclosure.md",
+    "name": "Bitcoin Gold",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "none",
+    "icon": "https://www.google.com/s2/favicons?domain=github.com&sz=64",
+    "source": "disclose",
+    "addedDate": "2026-03-04T18:09:58.084Z",
+    "tags": [
+      "Bug Bounty",
+      "Self-hosted"
+    ]
+  },
+  {
+    "url": "https://www.bitgo.com/bug-bounty",
+    "name": "Bitgo",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "",
+    "icon": "https://www.google.com/s2/favicons?domain=www.bitgo.com&sz=64",
+    "source": "disclose",
+    "addedDate": "2026-03-04T18:09:58.084Z",
+    "tags": [
+      "Bug Bounty",
+      "Self-hosted"
+    ]
+  },
+  {
+    "url": "https://support.bitpay.com/hc/en-us/articles/204229369-Does-BitPay-have-a-bug-bounty-program-",
+    "name": "Bitpay",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "partial",
+    "icon": "https://www.google.com/s2/favicons?domain=support.bitpay.com&sz=64",
+    "source": "disclose",
+    "addedDate": "2026-03-04T18:09:58.084Z",
+    "tags": [
+      "Bug Bounty",
+      "Self-hosted"
+    ]
+  },
+  {
+    "url": "https://www.bitski.com/bounty/",
+    "name": "Bitski",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "",
+    "icon": "https://www.google.com/s2/favicons?domain=www.bitski.com&sz=64",
+    "source": "disclose",
+    "addedDate": "2026-03-04T18:09:58.084Z",
+    "tags": [
+      "Bug Bounty",
+      "Self-hosted"
+    ]
+  },
+  {
+    "url": "https://www.bitsoffreedom.nl/coordinated-vulnerability-disclosure-en/",
+    "name": "Bitsoffreedom",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "none",
+    "icon": "https://www.google.com/s2/favicons?domain=www.bitsoffreedom.nl&sz=64",
+    "source": "disclose",
+    "addedDate": "2026-03-04T18:09:58.084Z",
+    "tags": [
+      "Bug Bounty",
+      "Self-hosted"
+    ]
+  },
+  {
+    "url": "https://www.bitwala.com/security/",
+    "name": "Bitwala",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "partial",
+    "icon": "https://www.google.com/s2/favicons?domain=www.bitwala.com&sz=64",
+    "source": "disclose",
+    "addedDate": "2026-03-04T18:09:58.084Z",
+    "tags": [
+      "Bug Bounty",
+      "Self-hosted"
+    ]
+  },
+  {
+    "url": "https://bladestorm.zendesk.com/hc/en-us/articles/360010393497-Bug-Bounty-Program",
+    "name": "Blade Storm",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "none",
+    "icon": "https://www.google.com/s2/favicons?domain=bladestorm.zendesk.com&sz=64",
+    "source": "disclose",
+    "addedDate": "2026-03-04T18:09:58.084Z",
+    "tags": [
+      "Bug Bounty",
+      "Self-hosted"
+    ]
+  },
+  {
+    "url": "https://global.bose.com/en_us/product_security_vulnerability_response.html",
+    "name": "Bose",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "partial",
+    "icon": "https://www.google.com/s2/favicons?domain=global.bose.com&sz=64",
+    "source": "disclose",
+    "addedDate": "2026-03-04T18:09:58.084Z",
+    "tags": [
+      "Bug Bounty",
+      "Self-hosted"
+    ]
+  },
+  {
+    "url": "https://www.bunq.com/assets/media/legal/en/20161114_Responsible_Disclosure_Policy_EN.pdf",
+    "name": "Bunq",
+    "bounty": true,
+    "swag": true,
+    "safe_harbor": "partial",
+    "icon": "https://www.google.com/s2/favicons?domain=www.bunq.com&sz=64",
+    "source": "disclose",
+    "addedDate": "2026-03-04T18:09:58.084Z",
+    "tags": [
+      "Bug Bounty",
+      "Self-hosted"
+    ]
+  },
+  {
+    "url": "https://security.bytedance.com/media/score-standard/Vulnerability_Rewards_Program.pdf",
+    "name": "Bytedance",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "",
+    "icon": "https://www.google.com/s2/favicons?domain=security.bytedance.com&sz=64",
+    "source": "disclose",
+    "addedDate": "2026-03-04T18:09:58.084Z",
+    "tags": [
+      "Bug Bounty",
+      "Self-hosted"
+    ]
+  },
+  {
+    "url": "https://www.campaignmonitor.com/trust/report-a-vulnerability/",
+    "name": "Campaign Monitor",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "",
+    "icon": "https://www.google.com/s2/favicons?domain=www.campaignmonitor.com&sz=64",
+    "source": "disclose",
+    "addedDate": "2026-03-04T18:09:58.084Z",
+    "tags": [
+      "Bug Bounty",
+      "Self-hosted"
+    ]
+  },
+  {
+    "url": "https://www.canva.com/security/bug-bounty/",
+    "name": "Canva",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "partial",
+    "icon": "https://www.google.com/s2/favicons?domain=www.canva.com&sz=64",
+    "source": "disclose",
+    "addedDate": "2026-03-04T18:09:58.084Z",
+    "tags": [
+      "Bug Bounty",
+      "Self-hosted"
+    ]
+  },
+  {
+    "url": "https://careevolution.com/trust/security-research/",
+    "name": "CareEvolution",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "full",
+    "icon": "https://www.google.com/s2/favicons?domain=careevolution.com&sz=64",
+    "source": "disclose",
+    "addedDate": "2026-03-04T18:09:58.084Z",
+    "tags": [
+      "Bug Bounty",
+      "Self-hosted"
+    ]
+  },
+  {
+    "url": "https://medium.com/chainrift/chainrift-launches-bug-bounty-program-6255eb2d518d",
+    "name": "ChainRift",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "full",
+    "icon": "https://www.google.com/s2/favicons?domain=medium.com&sz=64",
+    "source": "disclose",
+    "addedDate": "2026-03-04T18:09:58.084Z",
+    "tags": [
+      "Bug Bounty",
+      "Self-hosted"
+    ]
+  },
+  {
+    "url": "https://www.trychameleon.com/security/disclosure",
+    "name": "Chameleon",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "none",
+    "icon": "https://www.google.com/s2/favicons?domain=www.trychameleon.com&sz=64",
+    "source": "disclose",
+    "addedDate": "2026-03-04T18:09:58.084Z",
+    "tags": [
+      "Bug Bounty",
+      "Self-hosted"
+    ]
+  },
+  {
+    "url": "https://www.federacy.com/check",
+    "name": "Check",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "full",
+    "icon": "https://www.google.com/s2/favicons?domain=www.federacy.com&sz=64",
+    "source": "disclose",
+    "addedDate": "2026-03-04T18:09:58.084Z",
+    "tags": [
+      "Bug Bounty",
+      "Self-hosted"
+    ]
+  },
+  {
+    "url": "http://www.city-data.com/bug-bounty.html",
+    "name": "City-Data.com",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "partial",
+    "icon": "https://www.google.com/s2/favicons?domain=www.city-data.com&sz=64",
+    "source": "disclose",
+    "addedDate": "2026-03-04T18:09:58.084Z",
+    "tags": [
+      "Bug Bounty",
+      "Self-hosted"
+    ]
+  },
+  {
+    "url": "https://www.classdojo.com/securitydisclosureprogram/",
+    "name": "Classdojo",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "none",
+    "icon": "https://www.google.com/s2/favicons?domain=www.classdojo.com&sz=64",
+    "source": "disclose",
+    "addedDate": "2026-03-04T18:09:58.084Z",
+    "tags": [
+      "Bug Bounty",
+      "Self-hosted"
+    ]
+  },
+  {
+    "url": "https://clause.io/security",
+    "name": "Clause",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "none",
+    "icon": "https://www.google.com/s2/favicons?domain=clause.io&sz=64",
+    "source": "disclose",
+    "addedDate": "2026-03-04T18:09:58.084Z",
+    "tags": [
+      "Bug Bounty",
+      "Self-hosted"
+    ]
+  },
+  {
+    "url": "https://clenergy.com/de/cyber-security-policy/?lang=en",
+    "name": "Clenergy",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "",
+    "icon": "https://www.google.com/s2/favicons?domain=clenergy.com&sz=64",
+    "source": "disclose",
+    "addedDate": "2026-03-04T18:09:58.084Z",
+    "tags": [
+      "Bug Bounty",
+      "Self-hosted"
+    ]
+  },
+  {
+    "url": "https://cloudcannon.com/bug-bounty/",
+    "name": "CloudCannon",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "",
+    "icon": "https://www.google.com/s2/favicons?domain=cloudcannon.com&sz=64",
+    "source": "disclose",
+    "addedDate": "2026-03-04T18:09:58.084Z",
+    "tags": [
+      "Bug Bounty",
+      "Self-hosted"
+    ]
+  },
+  {
+    "url": "https://coinapp.zendesk.com/hc/en-us/articles/115001730468-Does-CoinSpace-have-a-bug-bounty-program-",
+    "name": "Coin Wallet",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "full",
+    "icon": "https://www.google.com/s2/favicons?domain=coinapp.zendesk.com&sz=64",
+    "source": "disclose",
+    "addedDate": "2026-03-04T18:09:58.084Z",
+    "tags": [
+      "Bug Bounty",
+      "Self-hosted"
+    ]
+  },
+  {
+    "url": "https://www.coinjar.com/bounty",
+    "name": "CoinJar",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "none",
+    "icon": "https://www.google.com/s2/favicons?domain=www.coinjar.com&sz=64",
+    "source": "disclose",
+    "addedDate": "2026-03-04T18:09:58.084Z",
+    "tags": [
+      "Bug Bounty",
+      "Self-hosted"
+    ]
+  },
+  {
+    "url": "https://coinbase.com/whitehat",
+    "name": "Coinbase",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "full",
+    "icon": "https://www.google.com/s2/favicons?domain=coinbase.com&sz=64",
+    "source": "disclose",
+    "addedDate": "2026-03-04T18:09:58.084Z",
+    "tags": [
+      "Bug Bounty",
+      "Self-hosted"
+    ]
+  },
+  {
+    "url": "https://www.coinpayments.net/help-bug-bounty",
+    "name": "Coinpayments",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "none",
+    "icon": "https://www.google.com/s2/favicons?domain=www.coinpayments.net&sz=64",
+    "source": "disclose",
+    "addedDate": "2026-03-04T18:09:58.084Z",
+    "tags": [
+      "Bug Bounty",
+      "Self-hosted"
+    ]
+  },
+  {
+    "url": "https://www.cointracker.io/security",
+    "name": "Cointracker",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "full",
+    "icon": "https://www.google.com/s2/favicons?domain=www.cointracker.io&sz=64",
+    "source": "disclose",
+    "addedDate": "2026-03-04T18:09:58.084Z",
+    "tags": [
+      "Bug Bounty",
+      "Self-hosted"
+    ]
+  },
+  {
+    "url": "https://getdpd.com/security/",
+    "name": "DPD",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "partial",
+    "icon": "https://www.google.com/s2/favicons?domain=getdpd.com&sz=64",
+    "source": "disclose",
+    "addedDate": "2026-03-04T18:09:58.084Z",
+    "tags": [
+      "Bug Bounty",
+      "Self-hosted"
+    ]
+  },
+  {
+    "url": "https://security.dracoon.com",
+    "name": "DRACOON",
+    "bounty": true,
+    "swag": "no",
+    "safe_harbor": "partial",
+    "icon": "https://www.google.com/s2/favicons?domain=security.dracoon.com&sz=64",
+    "source": "disclose",
+    "addedDate": "2026-03-04T18:09:58.084Z",
+    "tags": [
+      "Bug Bounty",
+      "Self-hosted"
+    ]
+  },
+  {
+    "url": "https://www.dnb.nl/en/responsible-disclosure/index.jsp",
+    "name": "DeNederlandscheBank",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "none",
+    "icon": "https://www.google.com/s2/favicons?domain=www.dnb.nl&sz=64",
+    "source": "disclose",
+    "addedDate": "2026-03-04T18:09:58.084Z",
+    "tags": [
+      "Bug Bounty",
+      "Self-hosted"
+    ]
+  },
+  {
+    "url": "https://debricked.com/report-a-vulnerability/",
+    "name": "Debricked",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "",
+    "icon": "https://www.google.com/s2/favicons?domain=debricked.com&sz=64",
+    "source": "disclose",
+    "addedDate": "2026-03-04T18:09:58.084Z",
+    "tags": [
+      "Bug Bounty",
+      "Self-hosted"
+    ]
+  },
+  {
+    "url": "https://bounty.decred.org/",
+    "name": "Decred",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "none",
+    "icon": "https://www.google.com/s2/favicons?domain=bounty.decred.org&sz=64",
+    "source": "disclose",
+    "addedDate": "2026-03-04T18:09:58.084Z",
+    "tags": [
+      "Bug Bounty",
+      "Self-hosted"
+    ]
+  },
+  {
+    "url": "https://support.newdex.net/hc/en-us/articles/360046715092-Defibox-launches-bug-bounty-program-officially",
+    "name": "Defibox",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "none",
+    "icon": "https://www.google.com/s2/favicons?domain=support.newdex.net&sz=64",
+    "source": "disclose",
+    "addedDate": "2026-03-04T18:09:58.084Z",
+    "tags": [
+      "Bug Bounty",
+      "Self-hosted"
+    ]
+  },
+  {
+    "url": "https://definityinc.com/bug-bounty-program/",
+    "name": "Definity Inc.",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "partial",
+    "icon": "https://www.google.com/s2/favicons?domain=definityinc.com&sz=64",
+    "source": "disclose",
+    "addedDate": "2026-03-04T18:09:58.084Z",
+    "tags": [
+      "Bug Bounty",
+      "Self-hosted"
+    ]
+  },
+  {
+    "url": "https://www.dentrix.com/support/data-security/bug-bounty-program",
+    "name": "Dentrix",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "",
+    "icon": "https://www.google.com/s2/favicons?domain=www.dentrix.com&sz=64",
+    "source": "disclose",
+    "addedDate": "2026-03-04T18:09:58.084Z",
+    "tags": [
+      "Bug Bounty",
+      "Self-hosted"
+    ]
+  },
+  {
+    "url": "https://www.deribit.com/pages/information/bug-bounty-program",
+    "name": "Deribit",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "partial",
+    "icon": "https://www.google.com/s2/favicons?domain=www.deribit.com&sz=64",
+    "source": "disclose",
+    "addedDate": "2026-03-04T18:09:58.084Z",
+    "tags": [
+      "Bug Bounty",
+      "Self-hosted"
+    ]
+  },
+  {
+    "url": "https://www.deskpro.com/security/responsible-disclosure/",
+    "name": "DeskPro",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "",
+    "icon": "https://www.google.com/s2/favicons?domain=www.deskpro.com&sz=64",
+    "source": "disclose",
+    "addedDate": "2026-03-04T18:09:58.084Z",
+    "tags": [
+      "Bug Bounty",
+      "Self-hosted"
+    ]
+  },
+  {
+    "url": "https://help.dozuki.com/Info/Responsible_Disclosure",
+    "name": "Dozuki",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "",
+    "icon": "https://www.google.com/s2/favicons?domain=help.dozuki.com&sz=64",
+    "source": "disclose",
+    "addedDate": "2026-03-04T18:09:58.084Z",
+    "tags": [
+      "Bug Bounty",
+      "Self-hosted"
+    ]
+  },
+  {
+    "url": "https://dragonex.zendesk.com/hc/en-us/articles/360036938832-BUG-Bounty-Program",
+    "name": "DragonEx",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "none",
+    "icon": "https://www.google.com/s2/favicons?domain=dragonex.zendesk.com&sz=64",
+    "source": "disclose",
+    "addedDate": "2026-03-04T18:09:58.084Z",
+    "tags": [
+      "Bug Bounty",
+      "Self-hosted"
+    ]
+  },
+  {
+    "url": "https://eligible.com/responsible_disclosure_program",
+    "name": "Eligible",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "none",
+    "icon": "https://www.google.com/s2/favicons?domain=eligible.com&sz=64",
+    "source": "disclose",
+    "addedDate": "2026-03-04T18:09:58.084Z",
+    "tags": [
+      "Bug Bounty",
+      "Self-hosted"
+    ]
+  },
+  {
+    "url": "https://docs.elmah.io/vulnerability-disclosure-program/",
+    "name": "elmah.io",
+    "bounty": true,
+    "swag": true,
+    "safe_harbor": "",
+    "icon": "https://www.google.com/s2/favicons?domain=docs.elmah.io&sz=64",
+    "source": "disclose",
+    "addedDate": "2026-03-04T18:09:58.084Z",
+    "tags": [
+      "Bug Bounty",
+      "Self-hosted"
+    ]
+  },
+  {
+    "url": "https://myemma.com/trust/report-a-vulnerability/",
+    "name": "Emma",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "",
+    "icon": "https://www.google.com/s2/favicons?domain=myemma.com&sz=64",
+    "source": "disclose",
+    "addedDate": "2026-03-04T18:09:58.084Z",
+    "tags": [
+      "Bug Bounty",
+      "Self-hosted"
+    ]
+  },
+  {
+    "url": "https://www.eset.com/int/security-vulnerability-reporting/",
+    "name": "Eset",
+    "bounty": true,
+    "swag": true,
+    "safe_harbor": "none",
+    "icon": "https://www.google.com/s2/favicons?domain=www.eset.com&sz=64",
+    "source": "disclose",
+    "addedDate": "2026-03-04T18:09:58.084Z",
+    "tags": [
+      "Bug Bounty",
+      "Self-hosted"
+    ]
+  },
+  {
+    "url": "https://bounty.ethereum.org/",
+    "name": "Ethereum Foundation",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "",
+    "icon": "https://www.google.com/s2/favicons?domain=bounty.ethereum.org&sz=64",
+    "source": "disclose",
+    "addedDate": "2026-03-04T18:09:58.084Z",
+    "tags": [
+      "Bug Bounty",
+      "Self-hosted"
+    ]
+  },
+  {
+    "url": "https://etherscan.io/bugbounty",
+    "name": "Etherscan",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "",
+    "icon": "https://www.google.com/s2/favicons?domain=etherscan.io&sz=64",
+    "source": "disclose",
+    "addedDate": "2026-03-04T18:09:58.084Z",
+    "tags": [
+      "Bug Bounty",
+      "Self-hosted"
+    ]
+  },
+  {
+    "url": "https://eurid.eu/lv/other-infomation/eurid-responsible-disclosure-policy/",
+    "name": "Eurid",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "none",
+    "icon": "https://www.google.com/s2/favicons?domain=eurid.eu&sz=64",
+    "source": "disclose",
+    "addedDate": "2026-03-04T18:09:58.084Z",
+    "tags": [
+      "Bug Bounty",
+      "Self-hosted"
+    ]
+  },
+  {
+    "url": "https://www.f-secure.com/en/business/programs/vulnerability-reward-program",
+    "name": "F Secure",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "none",
+    "icon": "https://www.google.com/s2/favicons?domain=www.f-secure.com&sz=64",
+    "source": "disclose",
+    "addedDate": "2026-03-04T18:09:58.084Z",
+    "tags": [
+      "Bug Bounty",
+      "Self-hosted"
+    ]
+  },
+  {
+    "url": "https://www.fusion.org/developers/bug-bounty#bugs",
+    "name": "FUSION",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "none",
+    "icon": "https://www.google.com/s2/favicons?domain=www.fusion.org&sz=64",
+    "source": "disclose",
+    "addedDate": "2026-03-04T18:09:58.084Z",
+    "tags": [
+      "Bug Bounty",
+      "Self-hosted"
+    ]
+  },
+  {
+    "url": "https://www.fair.com/bug-bounty",
+    "name": "Fair",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "partial",
+    "icon": "https://www.google.com/s2/favicons?domain=www.fair.com&sz=64",
+    "source": "disclose",
+    "addedDate": "2026-03-04T18:09:58.084Z",
+    "tags": [
+      "Bug Bounty",
+      "Self-hosted"
+    ]
+  },
+  {
+    "url": "https://www.fanduel.com/security",
+    "name": "FanDuel",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "full",
+    "icon": "https://www.google.com/s2/favicons?domain=www.fanduel.com&sz=64",
+    "source": "disclose",
+    "addedDate": "2026-03-04T18:09:58.084Z",
+    "tags": [
+      "Bug Bounty",
+      "Self-hosted"
+    ]
+  },
+  {
+    "url": "https://www.fastmail.com/bug-bounty/",
+    "name": "Fastmail",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "none",
+    "icon": "https://www.google.com/s2/favicons?domain=www.fastmail.com&sz=64",
+    "source": "disclose",
+    "addedDate": "2026-03-04T18:09:58.084Z",
+    "tags": [
+      "Bug Bounty",
+      "Self-hosted"
+    ]
+  },
+  {
+    "url": "https://www.federacy.com/federacy",
+    "name": "Federacy",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "full",
+    "icon": "https://www.google.com/s2/favicons?domain=www.federacy.com&sz=64",
+    "source": "disclose",
+    "addedDate": "2026-03-04T18:09:58.084Z",
+    "tags": [
+      "Bug Bounty",
+      "Self-hosted"
+    ]
+  },
+  {
+    "url": "https://ferm-rotterdam.nl/nl/responsible-disclosure-statement",
+    "name": "Ferm Rotterdam",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "none",
+    "icon": "https://www.google.com/s2/favicons?domain=ferm-rotterdam.nl&sz=64",
+    "source": "disclose",
+    "addedDate": "2026-03-04T18:09:58.084Z",
+    "tags": [
+      "Bug Bounty",
+      "Self-hosted"
+    ]
+  },
+  {
+    "url": "https://security.filecoin.io/bug-bounty/",
+    "name": "Filecoin",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "",
+    "icon": "https://www.google.com/s2/favicons?domain=security.filecoin.io&sz=64",
+    "source": "disclose",
+    "addedDate": "2026-03-04T18:09:58.084Z",
+    "tags": [
+      "Bug Bounty",
+      "Self-hosted"
+    ]
+  },
+  {
+    "url": "https://docs.floor.xyz/v/en/protocol/bug-bounty",
+    "name": "FloorDAO",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "",
+    "icon": "https://www.google.com/s2/favicons?domain=docs.floor.xyz&sz=64",
+    "source": "disclose",
+    "addedDate": "2026-03-04T18:09:58.084Z",
+    "tags": [
+      "Bug Bounty",
+      "Self-hosted"
+    ]
+  },
+  {
+    "url": "https://docs.frax.finance/smart-contracts/miscellaneous",
+    "name": "Frax Finance",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "",
+    "icon": "https://www.google.com/s2/favicons?domain=docs.frax.finance&sz=64",
+    "source": "disclose",
+    "addedDate": "2026-03-04T18:09:58.084Z",
+    "tags": [
+      "Bug Bounty",
+      "Self-hosted"
+    ]
+  },
+  {
+    "url": "https://www.gamma.nl/klantenservice/veiligheid-privacy/responsible-disclosure",
+    "name": "Gamma",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "none",
+    "icon": "https://www.google.com/s2/favicons?domain=www.gamma.nl&sz=64",
+    "source": "disclose",
+    "addedDate": "2026-03-04T18:09:58.084Z",
+    "tags": [
+      "Bug Bounty",
+      "Self-hosted"
+    ]
+  },
+  {
+    "url": "https://gcore.com/bug-bounty-program/",
+    "name": "Gcore",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "",
+    "icon": "https://www.google.com/s2/favicons?domain=gcore.com&sz=64",
+    "source": "disclose",
+    "addedDate": "2026-03-04T18:09:58.084Z",
+    "tags": [
+      "Bug Bounty",
+      "Self-hosted"
+    ]
+  },
+  {
+    "url": "https://ghostscript.com/Bug_bounty_program.html",
+    "name": "Ghostscript",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "none",
+    "icon": "https://www.google.com/s2/favicons?domain=ghostscript.com&sz=64",
+    "source": "disclose",
+    "addedDate": "2026-03-04T18:09:58.084Z",
+    "tags": [
+      "Bug Bounty",
+      "Self-hosted"
+    ]
+  },
+  {
+    "url": "https://docs.gitcoin.co/mk_securitybounty/",
+    "name": "Gitcoin",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "",
+    "icon": "https://www.google.com/s2/favicons?domain=docs.gitcoin.co&sz=64",
+    "source": "disclose",
+    "addedDate": "2026-03-04T18:09:58.084Z",
+    "tags": [
+      "Bug Bounty",
+      "Self-hosted"
+    ]
+  },
+  {
+    "url": "https://bounty.github.com/",
+    "name": "Github",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "full",
+    "icon": "https://www.google.com/s2/favicons?domain=bounty.github.com&sz=64",
+    "source": "disclose",
+    "addedDate": "2026-03-04T18:09:58.084Z",
+    "tags": [
+      "Bug Bounty",
+      "Self-hosted"
+    ]
+  },
+  {
+    "url": "https://www.goldmansachs.com/privacy-and-cookies/global-privacy-policy.html",
+    "name": "Goldman Sachs",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "none",
+    "icon": "https://www.google.com/s2/favicons?domain=www.goldmansachs.com&sz=64",
+    "source": "disclose",
+    "addedDate": "2026-03-04T18:09:58.084Z",
+    "tags": [
+      "Bug Bounty",
+      "Self-hosted"
+    ]
+  },
+  {
+    "url": "https://www.google.com/about/appsecurity/",
+    "name": "Google",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "none",
+    "icon": "https://www.google.com/s2/favicons?domain=www.google.com&sz=64",
+    "source": "disclose",
+    "addedDate": "2026-03-04T18:09:58.084Z",
+    "tags": [
+      "Bug Bounty",
+      "Self-hosted"
+    ]
+  },
+  {
+    "url": "https://www.google.com/about/appsecurity/chrome-rewards/",
+    "name": "Google Chrome",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "none",
+    "icon": "https://www.google.com/s2/favicons?domain=www.google.com&sz=64",
+    "source": "disclose",
+    "addedDate": "2026-03-04T18:09:58.084Z",
+    "tags": [
+      "Bug Bounty",
+      "Self-hosted"
+    ]
+  },
+  {
+    "url": "https://www.google.com/about/appsecurity/patch-rewards/index.html",
+    "name": "Google PRP",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "none",
+    "icon": "https://www.google.com/s2/favicons?domain=www.google.com&sz=64",
+    "source": "disclose",
+    "addedDate": "2026-03-04T18:09:58.084Z",
+    "tags": [
+      "Bug Bounty",
+      "Self-hosted"
+    ]
+  },
+  {
+    "url": "https://www.hellosign.com/trust/security",
+    "name": "Hellosign",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "none",
+    "icon": "https://www.google.com/s2/favicons?domain=www.hellosign.com&sz=64",
+    "source": "disclose",
+    "addedDate": "2026-03-04T18:09:58.084Z",
+    "tags": [
+      "Bug Bounty",
+      "Self-hosted"
+    ]
+  },
+  {
+    "url": "https://www.heroku.com/policy/security",
+    "name": "Heroku",
+    "bounty": true,
+    "swag": true,
+    "safe_harbor": "partial",
+    "icon": "https://www.google.com/s2/favicons?domain=www.heroku.com&sz=64",
+    "source": "disclose",
+    "addedDate": "2026-03-04T18:09:58.084Z",
+    "tags": [
+      "Bug Bounty",
+      "Self-hosted"
+    ]
+  },
+  {
+    "url": "https://www.hex-rays.com/bugbounty/",
+    "name": "Hex-Rays",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "none",
+    "icon": "https://www.google.com/s2/favicons?domain=www.hex-rays.com&sz=64",
+    "source": "disclose",
+    "addedDate": "2026-03-04T18:09:58.084Z",
+    "tags": [
+      "Bug Bounty",
+      "Self-hosted"
+    ]
+  },
+  {
+    "url": "https://hitbtc.com/bug-report",
+    "name": "HitBTC",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "none",
+    "icon": "https://www.google.com/s2/favicons?domain=hitbtc.com&sz=64",
+    "source": "disclose",
+    "addedDate": "2026-03-04T18:09:58.084Z",
+    "tags": [
+      "Bug Bounty",
+      "Self-hosted"
+    ]
+  },
+  {
+    "url": "https://honest.co.id/vulnerability-disclosure-policy",
+    "name": "Honest",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "full",
+    "icon": "https://www.google.com/s2/favicons?domain=honest.co.id&sz=64",
+    "source": "disclose",
+    "addedDate": "2026-03-04T18:09:58.084Z",
+    "tags": [
+      "Bug Bounty",
+      "Self-hosted"
+    ]
+  },
+  {
+    "url": "https://www.hostinger.com/responsible-disclosure-policy",
+    "name": "Hostinger",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "full",
+    "icon": "https://www.google.com/s2/favicons?domain=www.hostinger.com&sz=64",
+    "source": "disclose",
+    "addedDate": "2026-03-04T18:09:58.084Z",
+    "tags": [
+      "Bug Bounty",
+      "Self-hosted"
+    ]
+  },
+  {
+    "url": "https://hunter.io/security-bounty-program",
+    "name": "Hunter.io",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "none",
+    "icon": "https://www.google.com/s2/favicons?domain=hunter.io&sz=64",
+    "source": "disclose",
+    "addedDate": "2026-03-04T18:09:58.084Z",
+    "tags": [
+      "Bug Bounty",
+      "Self-hosted"
+    ]
+  },
+  {
+    "url": "https://www.ing.nl/de-ing/veilig-bankieren/fraude-melden/meldpunt-kwetsbaarheden/index.html",
+    "name": "ING NL",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "none",
+    "icon": "https://www.google.com/s2/favicons?domain=www.ing.nl&sz=64",
+    "source": "disclose",
+    "addedDate": "2026-03-04T18:09:58.084Z",
+    "tags": [
+      "Bug Bounty",
+      "Self-hosted"
+    ]
+  },
+  {
+    "url": "https://github.com/iotaledger/iota-java/blob/dev/.github/SECURITY.md",
+    "name": "IOTA",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "partial",
+    "icon": "https://www.google.com/s2/favicons?domain=github.com&sz=64",
+    "source": "disclose",
+    "addedDate": "2026-03-04T18:09:58.084Z",
+    "tags": [
+      "Bug Bounty",
+      "Self-hosted"
+    ]
+  },
+  {
+    "url": "https://www.idena.io/contribute#contribute-3-1",
+    "name": "Idena",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "",
+    "icon": "https://www.google.com/s2/favicons?domain=www.idena.io&sz=64",
+    "source": "disclose",
+    "addedDate": "2026-03-04T18:09:58.084Z",
+    "tags": [
+      "Bug Bounty",
+      "Self-hosted"
+    ]
+  },
+  {
+    "url": "https://immutablesoft.github.io/ImmutableEcosystem/",
+    "name": "ImmutableSoft",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "full",
+    "icon": "https://www.google.com/s2/favicons?domain=immutablesoft.github.io&sz=64",
+    "source": "disclose",
+    "addedDate": "2026-03-04T18:09:58.084Z",
+    "tags": [
+      "Bug Bounty",
+      "Self-hosted"
+    ]
+  },
+  {
+    "url": "https://www.independer.nl/algemeen/info/responsible-disclosure.aspx",
+    "name": "Independer",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "partial",
+    "icon": "https://www.google.com/s2/favicons?domain=www.independer.nl&sz=64",
+    "source": "disclose",
+    "addedDate": "2026-03-04T18:09:58.084Z",
+    "tags": [
+      "Bug Bounty",
+      "Self-hosted"
+    ]
+  },
+  {
+    "url": "https://infstones.com/blog/education/introducing-the-blocguardians-bug-bounty-program-654e723bd9afaf003e44fdea",
+    "name": "InfStones",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "",
+    "icon": "https://www.google.com/s2/favicons?domain=infstones.com&sz=64",
+    "source": "disclose",
+    "addedDate": "2026-03-04T18:09:58.084Z",
+    "tags": [
+      "Bug Bounty",
+      "Self-hosted"
+    ]
+  },
+  {
+    "url": "https://www.ing.com/ING.com-Security.htm",
+    "name": "Ing",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "none",
+    "icon": "https://www.google.com/s2/favicons?domain=www.ing.com&sz=64",
+    "source": "disclose",
+    "addedDate": "2026-03-04T18:09:58.084Z",
+    "tags": [
+      "Bug Bounty",
+      "Self-hosted"
+    ]
+  },
+  {
+    "url": "https://www.instructure.com/canvas/blog/instructures-proven-security-vulnerability-disclosure-program",
+    "name": "Instructure",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "none",
+    "icon": "https://www.google.com/s2/favicons?domain=www.instructure.com&sz=64",
+    "source": "disclose",
+    "addedDate": "2026-03-04T18:09:58.084Z",
+    "tags": [
+      "Bug Bounty",
+      "Self-hosted"
+    ]
+  },
+  {
+    "url": "https://www.integraxor.com/integraxor-hmi-scada-bug-bounty-program/",
+    "name": "IntegraXor (SCADA)",
+    "bounty": true,
+    "swag": true,
+    "safe_harbor": "none",
+    "icon": "https://www.google.com/s2/favicons?domain=www.integraxor.com&sz=64",
+    "source": "disclose",
+    "addedDate": "2026-03-04T18:09:58.084Z",
+    "tags": [
+      "Bug Bounty",
+      "Self-hosted"
+    ]
+  },
+  {
+    "url": "https://www.intel.com/content/www/us/en/security-center/default.html",
+    "name": "Intel",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "none",
+    "icon": "https://www.google.com/s2/favicons?domain=www.intel.com&sz=64",
+    "source": "disclose",
+    "addedDate": "2026-03-04T18:09:58.084Z",
+    "tags": [
+      "Bug Bounty",
+      "Self-hosted"
+    ]
+  },
+  {
+    "url": "https://ironcorelabs.com/trust-center/bug-bounty-program",
+    "name": "IronCore Labs",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "",
+    "icon": "https://www.google.com/s2/favicons?domain=ironcorelabs.com&sz=64",
+    "source": "disclose",
+    "addedDate": "2026-03-04T18:09:58.084Z",
+    "tags": [
+      "Bug Bounty",
+      "Self-hosted"
+    ]
+  },
+  {
+    "url": "https://jd-services.eu/vdp/",
+    "name": "JD Services",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "",
+    "icon": "https://www.google.com/s2/favicons?domain=jd-services.eu&sz=64",
+    "source": "disclose",
+    "addedDate": "2026-03-04T18:09:58.084Z",
+    "tags": [
+      "Bug Bounty",
+      "Self-hosted"
+    ]
+  },
+  {
+    "url": "https://jackaldao.medium.com/announcement-jackal-bug-bounty-program-31d4e03ab7e2",
+    "name": "Jackal Protocol",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "partial",
+    "icon": "https://www.google.com/s2/favicons?domain=jackaldao.medium.com&sz=64",
+    "source": "disclose",
+    "addedDate": "2026-03-04T18:09:58.084Z",
+    "tags": [
+      "Bug Bounty",
+      "Self-hosted"
+    ]
+  },
+  {
+    "url": "https://www.jetbrains.com/legal/terms/coordinated-disclosure.html",
+    "name": "JetBrains",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "partial",
+    "icon": "https://www.google.com/s2/favicons?domain=www.jetbrains.com&sz=64",
+    "source": "disclose",
+    "addedDate": "2026-03-04T18:09:58.084Z",
+    "tags": [
+      "Bug Bounty",
+      "Self-hosted"
+    ]
+  },
+  {
+    "url": "https://jumplead.com/about/security",
+    "name": "JumpleAd",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "partial",
+    "icon": "https://www.google.com/s2/favicons?domain=jumplead.com&sz=64",
+    "source": "disclose",
+    "addedDate": "2026-03-04T18:09:58.084Z",
+    "tags": [
+      "Bug Bounty",
+      "Self-hosted"
+    ]
+  },
+  {
+    "url": "https://support.kaspersky.com/vulnerability",
+    "name": "Kaspersky",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "full",
+    "icon": "https://www.google.com/s2/favicons?domain=support.kaspersky.com&sz=64",
+    "source": "disclose",
+    "addedDate": "2026-03-04T18:09:58.084Z",
+    "tags": [
+      "Bug Bounty",
+      "Self-hosted"
+    ]
+  },
+  {
+    "url": "https://kissflow.com/responsible-disclosure/",
+    "name": "Kissflow",
+    "bounty": true,
+    "swag": true,
+    "safe_harbor": "none",
+    "icon": "https://www.google.com/s2/favicons?domain=kissflow.com&sz=64",
+    "source": "disclose",
+    "addedDate": "2026-03-04T18:09:58.084Z",
+    "tags": [
+      "Bug Bounty",
+      "Self-hosted"
+    ]
+  },
+  {
+    "url": "https://security.kiteworks.com",
+    "name": "Kiteworks",
+    "bounty": true,
+    "swag": "no",
+    "safe_harbor": "partial",
+    "icon": "https://www.google.com/s2/favicons?domain=security.kiteworks.com&sz=64",
+    "source": "disclose",
+    "addedDate": "2026-03-04T18:09:58.084Z",
+    "tags": [
+      "Bug Bounty",
+      "Self-hosted"
+    ]
+  },
+  {
+    "url": "https://www.kraken.com/security/bug-bounty",
+    "name": "Kraken",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "none",
+    "icon": "https://www.google.com/s2/favicons?domain=www.kraken.com&sz=64",
+    "source": "disclose",
+    "addedDate": "2026-03-04T18:09:58.084Z",
+    "tags": [
+      "Bug Bounty",
+      "Self-hosted"
+    ]
+  },
+  {
+    "url": "https://kubernetes.io/security",
+    "name": "Kubernetes",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "full",
+    "icon": "https://www.google.com/s2/favicons?domain=kubernetes.io&sz=64",
+    "source": "disclose",
+    "addedDate": "2026-03-04T18:09:58.084Z",
+    "tags": [
+      "Bug Bounty",
+      "Self-hosted"
+    ]
+  },
+  {
+    "url": "https://bugbounty.linecorp.com/en/",
+    "name": "LINE",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "none",
+    "icon": "https://www.google.com/s2/favicons?domain=bugbounty.linecorp.com&sz=64",
+    "source": "disclose",
+    "addedDate": "2026-03-04T18:09:58.084Z",
+    "tags": [
+      "Bug Bounty",
+      "Self-hosted"
+    ]
+  },
+  {
+    "url": "https://layerzero.gitbook.io/docs/bug-bounty/bug-bounty-program",
+    "name": "LayerZero",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "",
+    "icon": "https://www.google.com/s2/favicons?domain=layerzero.gitbook.io&sz=64",
+    "source": "disclose",
+    "addedDate": "2026-03-04T18:09:58.084Z",
+    "tags": [
+      "Bug Bounty",
+      "Self-hosted"
+    ]
+  },
+  {
+    "url": "https://leetcode.com/bugbounty/",
+    "name": "Leetcode",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "partial",
+    "icon": "https://www.google.com/s2/favicons?domain=leetcode.com&sz=64",
+    "source": "disclose",
+    "addedDate": "2026-03-04T18:09:58.084Z",
+    "tags": [
+      "Bug Bounty",
+      "Self-hosted"
+    ]
+  },
+  {
+    "url": "https://lisk.io/bug-bounty-program",
+    "name": "Lisk",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "",
+    "icon": "https://www.google.com/s2/favicons?domain=lisk.io&sz=64",
+    "source": "disclose",
+    "addedDate": "2026-03-04T18:09:58.084Z",
+    "tags": [
+      "Bug Bounty",
+      "Self-hosted"
+    ]
+  },
+  {
+    "url": "https://www.liveclicker.com/trust/report-a-vulnerability/",
+    "name": "Liveclicker",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "",
+    "icon": "https://www.google.com/s2/favicons?domain=www.liveclicker.com&sz=64",
+    "source": "disclose",
+    "addedDate": "2026-03-04T18:09:58.084Z",
+    "tags": [
+      "Bug Bounty",
+      "Self-hosted"
+    ]
+  },
+  {
+    "url": "https://www.loginradius.com/bug-bounty/",
+    "name": "LoginRadius",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "partial",
+    "icon": "https://www.google.com/s2/favicons?domain=www.loginradius.com&sz=64",
+    "source": "disclose",
+    "addedDate": "2026-03-04T18:09:58.084Z",
+    "tags": [
+      "Bug Bounty",
+      "Self-hosted"
+    ]
+  },
+  {
+    "url": "https://www.lyft.com/security",
+    "name": "Lyft",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "none",
+    "icon": "https://www.google.com/s2/favicons?domain=www.lyft.com&sz=64",
+    "source": "disclose",
+    "addedDate": "2026-03-04T18:09:58.084Z",
+    "tags": [
+      "Bug Bounty",
+      "Self-hosted"
+    ]
+  },
+  {
+    "url": "https://github.com/flashbots/mev-boost/blob/main/SECURITY.md",
+    "name": "MEV-Boost",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "",
+    "icon": "https://www.google.com/s2/favicons?domain=github.com&sz=64",
+    "source": "disclose",
+    "addedDate": "2026-03-04T18:09:58.084Z",
+    "tags": [
+      "Bug Bounty",
+      "Self-hosted"
+    ]
+  },
+  {
+    "url": "https://www.majidalfuttaim.com/en/responsible-disclosure-policy",
+    "name": "Majid Al Futtaim",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "none",
+    "icon": "https://www.google.com/s2/favicons?domain=www.majidalfuttaim.com&sz=64",
+    "source": "disclose",
+    "addedDate": "2026-03-04T18:09:58.084Z",
+    "tags": [
+      "Bug Bounty",
+      "Self-hosted"
+    ]
+  },
+  {
+    "url": "https://www.malwarebytes.org/secure/",
+    "name": "Malwarebytes",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "none",
+    "icon": "https://www.google.com/s2/favicons?domain=www.malwarebytes.org&sz=64",
+    "source": "disclose",
+    "addedDate": "2026-03-04T18:09:58.084Z",
+    "tags": [
+      "Bug Bounty",
+      "Self-hosted"
+    ]
+  },
+  {
+    "url": "https://managewp.com/white-hat-reward",
+    "name": "ManageWP",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "none",
+    "icon": "https://www.google.com/s2/favicons?domain=managewp.com&sz=64",
+    "source": "disclose",
+    "addedDate": "2026-03-04T18:09:58.084Z",
+    "tags": [
+      "Bug Bounty",
+      "Self-hosted"
+    ]
+  },
+  {
+    "url": "https://www.marktplaats.nl/i/help/veilig-en-succesvol/responsible-disclosure-program.dot.html",
+    "name": "Marktplaats",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "none",
+    "icon": "https://www.google.com/s2/favicons?domain=www.marktplaats.nl&sz=64",
+    "source": "disclose",
+    "addedDate": "2026-03-04T18:09:58.084Z",
+    "tags": [
+      "Bug Bounty",
+      "Self-hosted"
+    ]
+  },
+  {
+    "url": "https://bounty.mit.edu/",
+    "name": "Massachusetts Institute of Technology",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "none",
+    "icon": "https://www.google.com/s2/favicons?domain=bounty.mit.edu&sz=64",
+    "source": "disclose",
+    "addedDate": "2026-03-04T18:09:58.084Z",
+    "tags": [
+      "Bug Bounty",
+      "Self-hosted"
+    ]
+  },
+  {
+    "url": "https://help.medium.com/hc/en-us/articles/213481308-Bug-Bounty-Disclosure-Program",
+    "name": "Medium",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "partial",
+    "icon": "https://www.google.com/s2/favicons?domain=help.medium.com&sz=64",
+    "source": "disclose",
+    "addedDate": "2026-03-04T18:09:58.084Z",
+    "tags": [
+      "Bug Bounty",
+      "Self-hosted"
+    ]
+  },
+  {
+    "url": "https://mega.co.nz/#blog_6",
+    "name": "Mega.co.nz",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "none",
+    "icon": "https://www.google.com/s2/favicons?domain=mega.co.nz&sz=64",
+    "source": "disclose",
+    "addedDate": "2026-03-04T18:09:58.084Z",
+    "tags": [
+      "Bug Bounty",
+      "Self-hosted"
+    ]
+  },
+  {
+    "url": "https://www.microstrategy.com/us/bug-bounty-program",
+    "name": "MicroStrategy",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "",
+    "icon": "https://www.google.com/s2/favicons?domain=www.microstrategy.com&sz=64",
+    "source": "disclose",
+    "addedDate": "2026-03-04T18:09:58.084Z",
+    "tags": [
+      "Bug Bounty",
+      "Self-hosted"
+    ]
+  },
+  {
+    "url": "https://www.federacy.com/modern-treasury",
+    "name": "Modern Treasury",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "full",
+    "icon": "https://www.google.com/s2/favicons?domain=www.federacy.com&sz=64",
+    "source": "disclose",
+    "addedDate": "2026-03-04T18:09:58.084Z",
+    "tags": [
+      "Bug Bounty",
+      "Self-hosted"
+    ]
+  },
+  {
+    "url": "https://www.monash.edu/cybersecurity/about/mon-csirt",
+    "name": "Monash University",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "partial",
+    "icon": "https://www.google.com/s2/favicons?domain=www.monash.edu&sz=64",
+    "source": "disclose",
+    "addedDate": "2026-03-04T18:09:58.084Z",
+    "tags": [
+      "Bug Bounty",
+      "Self-hosted"
+    ]
+  },
+  {
+    "url": "https://www.monetha.io/bounty",
+    "name": "Monetha",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "none",
+    "icon": "https://www.google.com/s2/favicons?domain=www.monetha.io&sz=64",
+    "source": "disclose",
+    "addedDate": "2026-03-04T18:09:58.084Z",
+    "tags": [
+      "Bug Bounty",
+      "Self-hosted"
+    ]
+  },
+  {
+    "url": "https://www.mozilla.org/en-US/security/bug-bounty/",
+    "name": "Mozilla",
+    "bounty": true,
+    "swag": true,
+    "safe_harbor": "full",
+    "icon": "https://www.google.com/s2/favicons?domain=www.mozilla.org&sz=64",
+    "source": "disclose",
+    "addedDate": "2026-03-04T18:09:58.084Z",
+    "tags": [
+      "Bug Bounty",
+      "Self-hosted"
+    ]
+  },
+  {
+    "url": "https://docs.multichain.org/security/bug-bounty",
+    "name": "Multichain",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "",
+    "icon": "https://www.google.com/s2/favicons?domain=docs.multichain.org&sz=64",
+    "source": "disclose",
+    "addedDate": "2026-03-04T18:09:58.084Z",
+    "tags": [
+      "Bug Bounty",
+      "Self-hosted"
+    ]
+  },
+  {
+    "url": "https://www.mural.co/security/vdp",
+    "name": "Mural",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "full",
+    "icon": "https://www.google.com/s2/favicons?domain=www.mural.co&sz=64",
+    "source": "disclose",
+    "addedDate": "2026-03-04T18:09:58.084Z",
+    "tags": [
+      "Bug Bounty",
+      "Self-hosted"
+    ]
+  },
+  {
+    "url": "https://www.ncsc.nl/security",
+    "name": "NCSC-NL",
+    "bounty": true,
+    "swag": true,
+    "safe_harbor": "partial",
+    "icon": "https://www.google.com/s2/favicons?domain=www.ncsc.nl&sz=64",
+    "source": "disclose",
+    "addedDate": "2026-03-04T18:09:58.084Z",
+    "tags": [
+      "Bug Bounty",
+      "Self-hosted"
+    ]
+  },
+  {
+    "url": "https://nowpayments.io/doc/NOWPayments_BugBounty_program.pdf",
+    "name": "NOWPayments",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "partial",
+    "icon": "https://www.google.com/s2/favicons?domain=nowpayments.io&sz=64",
+    "source": "disclose",
+    "addedDate": "2026-03-04T18:09:58.084Z",
+    "tags": [
+      "Bug Bounty",
+      "Self-hosted"
+    ]
+  },
+  {
+    "url": "https://www.nwbbank.com/en/responsible-disclosure",
+    "name": "NWB Bank",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "partial",
+    "icon": "https://www.google.com/s2/favicons?domain=www.nwbbank.com&sz=64",
+    "source": "disclose",
+    "addedDate": "2026-03-04T18:09:58.084Z",
+    "tags": [
+      "Bug Bounty",
+      "Self-hosted"
+    ]
+  },
+  {
+    "url": "https://www.ncsc.nl/security",
+    "name": "National Cyber Security Center (Netherlands)",
+    "bounty": true,
+    "swag": true,
+    "safe_harbor": "none",
+    "icon": "https://www.google.com/s2/favicons?domain=www.ncsc.nl&sz=64",
+    "source": "disclose",
+    "addedDate": "2026-03-04T18:09:58.084Z",
+    "tags": [
+      "Bug Bounty",
+      "Self-hosted"
+    ]
+  },
+  {
+    "url": "http://bugbounty.whale.naver.com",
+    "name": "Naver Whale",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "none",
+    "icon": "https://www.google.com/s2/favicons?domain=bugbounty.whale.naver.com&sz=64",
+    "source": "disclose",
+    "addedDate": "2026-03-04T18:09:58.084Z",
+    "tags": [
+      "Bug Bounty",
+      "Self-hosted"
+    ]
+  },
+  {
+    "url": "https://nginx.org/en/security_advisories.html",
+    "name": "Nginx",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "none",
+    "icon": "https://www.google.com/s2/favicons?domain=nginx.org&sz=64",
+    "source": "disclose",
+    "addedDate": "2026-03-04T18:09:58.084Z",
+    "tags": [
+      "Bug Bounty",
+      "Self-hosted"
+    ]
+  },
+  {
+    "url": "https://www.notion.so/Responsible-Disclosure-Policy-5f18bb6b86804eaf989c006131778b9c",
+    "name": "Notion",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "full",
+    "icon": "https://www.google.com/s2/favicons?domain=www.notion.so&sz=64",
+    "source": "disclose",
+    "addedDate": "2026-03-04T18:09:58.084Z",
+    "tags": [
+      "Bug Bounty",
+      "Self-hosted"
+    ]
+  },
+  {
+    "url": "https://www.olacabs.com/whitehat",
+    "name": "OLAcabs",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "none",
+    "icon": "https://www.google.com/s2/favicons?domain=www.olacabs.com&sz=64",
+    "source": "disclose",
+    "addedDate": "2026-03-04T18:09:58.084Z",
+    "tags": [
+      "Bug Bounty",
+      "Self-hosted"
+    ]
+  },
+  {
+    "url": "http://www.olark.com/customer/portal/articles/1237352",
+    "name": "Olark",
+    "bounty": true,
+    "swag": true,
+    "safe_harbor": "none",
+    "icon": "https://www.google.com/s2/favicons?domain=www.olark.com&sz=64",
+    "source": "disclose",
+    "addedDate": "2026-03-04T18:09:58.084Z",
+    "tags": [
+      "Bug Bounty",
+      "Self-hosted"
+    ]
+  },
+  {
+    "url": "https://security.oneplus.com/noticedetails.html?noticeId=20191565338585128",
+    "name": "One Plus",
+    "bounty": true,
+    "swag": true,
+    "safe_harbor": "partial",
+    "icon": "https://www.google.com/s2/favicons?domain=security.oneplus.com&sz=64",
+    "source": "disclose",
+    "addedDate": "2026-03-04T18:09:58.084Z",
+    "tags": [
+      "Bug Bounty",
+      "Self-hosted"
+    ]
+  },
+  {
+    "url": "https://onfo.zendesk.com/hc/en-us/articles/360025769031-Bug-Bounty-Program",
+    "name": "Onfo",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "full",
+    "icon": "https://www.google.com/s2/favicons?domain=onfo.zendesk.com&sz=64",
+    "source": "disclose",
+    "addedDate": "2026-03-04T18:09:58.084Z",
+    "tags": [
+      "Bug Bounty",
+      "Self-hosted"
+    ]
+  },
+  {
+    "url": "https://www.onlineseminar.com/security/",
+    "name": "Online Seminar",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "partial",
+    "icon": "https://www.google.com/s2/favicons?domain=www.onlineseminar.com&sz=64",
+    "source": "disclose",
+    "addedDate": "2026-03-04T18:09:58.084Z",
+    "tags": [
+      "Bug Bounty",
+      "Self-hosted"
+    ]
+  },
+  {
+    "url": "https://medium.com/the-os-university-blog/os-university-smart-contracts-are-live-edu-token-bug-bounty-reward-awaits-you-27c1de006249",
+    "name": "Open Source University",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "full",
+    "icon": "https://www.google.com/s2/favicons?domain=medium.com&sz=64",
+    "source": "disclose",
+    "addedDate": "2026-03-04T18:09:58.084Z",
+    "tags": [
+      "Bug Bounty",
+      "Self-hosted"
+    ]
+  },
+  {
+    "url": "https://www.openssl.org/community/#securityreports",
+    "name": "OpenSSL",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "none",
+    "icon": "https://www.google.com/s2/favicons?domain=www.openssl.org&sz=64",
+    "source": "disclose",
+    "addedDate": "2026-03-04T18:09:58.084Z",
+    "tags": [
+      "Bug Bounty",
+      "Self-hosted"
+    ]
+  },
+  {
+    "url": "http://www.google.com/about/appsecurity/reward-program/",
+    "name": "Orkut",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "none",
+    "icon": "https://www.google.com/s2/favicons?domain=www.google.com&sz=64",
+    "source": "disclose",
+    "addedDate": "2026-03-04T18:09:58.084Z",
+    "tags": [
+      "Bug Bounty",
+      "Self-hosted"
+    ]
+  },
+  {
+    "url": "https://www.pcextreme.com/policies/responsible-disclosure",
+    "name": "PC Extreme",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "partial",
+    "icon": "https://www.google.com/s2/favicons?domain=www.pcextreme.com&sz=64",
+    "source": "disclose",
+    "addedDate": "2026-03-04T18:09:58.084Z",
+    "tags": [
+      "Bug Bounty",
+      "Self-hosted"
+    ]
+  },
+  {
+    "url": "https://bugs.php.net/report.php?bug_type=Security",
+    "name": "PHP",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "none",
+    "icon": "https://www.google.com/s2/favicons?domain=bugs.php.net&sz=64",
+    "source": "disclose",
+    "addedDate": "2026-03-04T18:09:58.084Z",
+    "tags": [
+      "Bug Bounty",
+      "Self-hosted"
+    ]
+  },
+  {
+    "url": "https://www.federacy.com/paladin-cyber-bug-bounty",
+    "name": "Paladin Cyber Bug Bounty",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "full",
+    "icon": "https://www.google.com/s2/favicons?domain=www.federacy.com&sz=64",
+    "source": "disclose",
+    "addedDate": "2026-03-04T18:09:58.084Z",
+    "tags": [
+      "Bug Bounty",
+      "Self-hosted"
+    ]
+  },
+  {
+    "url": "https://www.palantir.com/responsible-disclosure/",
+    "name": "Palantir",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "",
+    "icon": "https://www.google.com/s2/favicons?domain=www.palantir.com&sz=64",
+    "source": "disclose",
+    "addedDate": "2026-03-04T18:09:58.084Z",
+    "tags": [
+      "Bug Bounty",
+      "Self-hosted"
+    ]
+  },
+  {
+    "url": "https://www.pastecoin.com/bug_bounty",
+    "name": "PasteCoin",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "none",
+    "icon": "https://www.google.com/s2/favicons?domain=www.pastecoin.com&sz=64",
+    "source": "disclose",
+    "addedDate": "2026-03-04T18:09:58.084Z",
+    "tags": [
+      "Bug Bounty",
+      "Self-hosted"
+    ]
+  },
+  {
+    "url": "https://pathao.com/bug-bounty/",
+    "name": "Pathao",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "",
+    "icon": "https://www.google.com/s2/favicons?domain=pathao.com&sz=64",
+    "source": "disclose",
+    "addedDate": "2026-03-04T18:09:58.084Z",
+    "tags": [
+      "Bug Bounty",
+      "Self-hosted"
+    ]
+  },
+  {
+    "url": "https://www.paypal.com/us/webapps/mpp/security-tools/reporting-security-issues",
+    "name": "Paypal",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "none",
+    "icon": "https://www.google.com/s2/favicons?domain=www.paypal.com&sz=64",
+    "source": "disclose",
+    "addedDate": "2026-03-04T18:09:58.084Z",
+    "tags": [
+      "Bug Bounty",
+      "Self-hosted"
+    ]
+  },
+  {
+    "url": "http://perldoc.perl.org/perlsec.html#SECURITY-VULNERABILITY-CONTACT-INFORMATION",
+    "name": "Perl",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "none",
+    "icon": "https://www.google.com/s2/favicons?domain=perldoc.perl.org&sz=64",
+    "source": "disclose",
+    "addedDate": "2026-03-04T18:09:58.084Z",
+    "tags": [
+      "Bug Bounty",
+      "Self-hosted"
+    ]
+  },
+  {
+    "url": "https://www.personalcapital.com/responsible-disclosure/",
+    "name": "Personal Capital",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "full",
+    "icon": "https://www.google.com/s2/favicons?domain=www.personalcapital.com&sz=64",
+    "source": "disclose",
+    "addedDate": "2026-03-04T18:09:58.084Z",
+    "tags": [
+      "Bug Bounty",
+      "Self-hosted"
+    ]
+  },
+  {
+    "url": "https://www.pingidentity.com/en/company/security-at-ping-identity.html",
+    "name": "Ping",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "",
+    "icon": "https://www.google.com/s2/favicons?domain=www.pingidentity.com&sz=64",
+    "source": "disclose",
+    "addedDate": "2026-03-04T18:09:58.084Z",
+    "tags": [
+      "Bug Bounty",
+      "Self-hosted"
+    ]
+  },
+  {
+    "url": "https://plisio.net/bug-bounty",
+    "name": "Plisio",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "",
+    "icon": "https://www.google.com/s2/favicons?domain=plisio.net&sz=64",
+    "source": "disclose",
+    "addedDate": "2026-03-04T18:09:58.084Z",
+    "tags": [
+      "Bug Bounty",
+      "Self-hosted"
+    ]
+  },
+  {
+    "url": "https://tls.mbed.org/bug-bounty-program",
+    "name": "Polar SSL",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "partial",
+    "icon": "https://www.google.com/s2/favicons?domain=tls.mbed.org&sz=64",
+    "source": "disclose",
+    "addedDate": "2026-03-04T18:09:58.084Z",
+    "tags": [
+      "Bug Bounty",
+      "Self-hosted"
+    ]
+  },
+  {
+    "url": "https://www.pon-cat.com/en/responsible-disclosure",
+    "name": "Pon Cat",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "none",
+    "icon": "https://www.google.com/s2/favicons?domain=www.pon-cat.com&sz=64",
+    "source": "disclose",
+    "addedDate": "2026-03-04T18:09:58.084Z",
+    "tags": [
+      "Bug Bounty",
+      "Self-hosted"
+    ]
+  },
+  {
+    "url": "https://bugbounty.prezi.com/",
+    "name": "Prezi",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "none",
+    "icon": "https://www.google.com/s2/favicons?domain=bugbounty.prezi.com&sz=64",
+    "source": "disclose",
+    "addedDate": "2026-03-04T18:09:58.084Z",
+    "tags": [
+      "Bug Bounty",
+      "Self-hosted"
+    ]
+  },
+  {
+    "url": "https://www.productboard.com/product/security/#application-security",
+    "name": "Productboard",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "partial",
+    "icon": "https://www.google.com/s2/favicons?domain=www.productboard.com&sz=64",
+    "source": "disclose",
+    "addedDate": "2026-03-04T18:09:58.084Z",
+    "tags": [
+      "Bug Bounty",
+      "Self-hosted"
+    ]
+  },
+  {
+    "url": "https://github.com/Proof-Of-Humanity/Proof-Of-Humanity/issues/54",
+    "name": "Proof Of Humanity",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "",
+    "icon": "https://www.google.com/s2/favicons?domain=github.com&sz=64",
+    "source": "disclose",
+    "addedDate": "2026-03-04T18:09:58.084Z",
+    "tags": [
+      "Bug Bounty",
+      "Self-hosted"
+    ]
+  },
+  {
+    "url": "https://protonmail.com/blog/responsible-vulnerability-disclosure/",
+    "name": "ProtonMail",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "",
+    "icon": "https://www.google.com/s2/favicons?domain=protonmail.com&sz=64",
+    "source": "disclose",
+    "addedDate": "2026-03-04T18:09:58.084Z",
+    "tags": [
+      "Bug Bounty",
+      "Self-hosted"
+    ]
+  },
+  {
+    "url": "https://pushfor.com/bug-bounty/",
+    "name": "Pushfor",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "none",
+    "icon": "https://www.google.com/s2/favicons?domain=pushfor.com&sz=64",
+    "source": "disclose",
+    "addedDate": "2026-03-04T18:09:58.084Z",
+    "tags": [
+      "Bug Bounty",
+      "Self-hosted"
+    ]
+  },
+  {
+    "url": "https://www.python.org/news/security/",
+    "name": "Python",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "none",
+    "icon": "https://www.google.com/s2/favicons?domain=www.python.org&sz=64",
+    "source": "disclose",
+    "addedDate": "2026-03-04T18:09:58.084Z",
+    "tags": [
+      "Bug Bounty",
+      "Self-hosted"
+    ]
+  },
+  {
+    "url": "https://www.qiwi.ru/page/hack.action",
+    "name": "Qiwi",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "none",
+    "icon": "https://www.google.com/s2/favicons?domain=www.qiwi.ru&sz=64",
+    "source": "disclose",
+    "addedDate": "2026-03-04T18:09:58.084Z",
+    "tags": [
+      "Bug Bounty",
+      "Self-hosted"
+    ]
+  },
+  {
+    "url": "https://cr.yp.to/qmail/guarantee.html",
+    "name": "Qmail",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "none",
+    "icon": "https://www.google.com/s2/favicons?domain=cr.yp.to&sz=64",
+    "source": "disclose",
+    "addedDate": "2026-03-04T18:09:58.084Z",
+    "tags": [
+      "Bug Bounty",
+      "Self-hosted"
+    ]
+  },
+  {
+    "url": "https://qtrade.io/bug_bounty",
+    "name": "Qtrade",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "none",
+    "icon": "https://www.google.com/s2/favicons?domain=qtrade.io&sz=64",
+    "source": "disclose",
+    "addedDate": "2026-03-04T18:09:58.084Z",
+    "tags": [
+      "Bug Bounty",
+      "Self-hosted"
+    ]
+  },
+  {
+    "url": "https://www.qualcomm.com/company/product-security/report-a-bug",
+    "name": "Qualcomm",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "none",
+    "icon": "https://www.google.com/s2/favicons?domain=www.qualcomm.com&sz=64",
+    "source": "disclose",
+    "addedDate": "2026-03-04T18:09:58.084Z",
+    "tags": [
+      "Bug Bounty",
+      "Self-hosted"
+    ]
+  },
+  {
+    "url": "http://support.quadency.com/en/articles/2869964-bug-bounty-program",
+    "name": "Quandency",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "",
+    "icon": "https://www.google.com/s2/favicons?domain=support.quadency.com&sz=64",
+    "source": "disclose",
+    "addedDate": "2026-03-04T18:09:58.084Z",
+    "tags": [
+      "Bug Bounty",
+      "Self-hosted"
+    ]
+  },
+  {
+    "url": "https://quantstamp.com/legal/responsible-disclosure",
+    "name": "QuantStamp",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "none",
+    "icon": "https://www.google.com/s2/favicons?domain=quantstamp.com&sz=64",
+    "source": "disclose",
+    "addedDate": "2026-03-04T18:09:58.084Z",
+    "tags": [
+      "Bug Bounty",
+      "Self-hosted"
+    ]
+  },
+  {
+    "url": "https://developers.rsk.co/contribute/bug-bounty-program/",
+    "name": "RSK",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "none",
+    "icon": "https://www.google.com/s2/favicons?domain=developers.rsk.co&sz=64",
+    "source": "disclose",
+    "addedDate": "2026-03-04T18:09:58.084Z",
+    "tags": [
+      "Bug Bounty",
+      "Self-hosted"
+    ]
+  },
+  {
+    "url": "https://www.federacy.com/renofi",
+    "name": "RenoFi",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "full",
+    "icon": "https://www.google.com/s2/favicons?domain=www.federacy.com&sz=64",
+    "source": "disclose",
+    "addedDate": "2026-03-04T18:09:58.084Z",
+    "tags": [
+      "Bug Bounty",
+      "Self-hosted"
+    ]
+  },
+  {
+    "url": "https://www.federacy.com/revenuecat",
+    "name": "RevenueCat",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "full",
+    "icon": "https://www.google.com/s2/favicons?domain=www.federacy.com&sz=64",
+    "source": "disclose",
+    "addedDate": "2026-03-04T18:09:58.084Z",
+    "tags": [
+      "Bug Bounty",
+      "Self-hosted"
+    ]
+  },
+  {
+    "url": "https://www.ricoh.ca/en/about-us/vulnerability-disclosure-policy",
+    "name": "Ricoh",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "partial",
+    "icon": "https://www.google.com/s2/favicons?domain=www.ricoh.ca&sz=64",
+    "source": "disclose",
+    "addedDate": "2026-03-04T18:09:58.084Z",
+    "tags": [
+      "Bug Bounty",
+      "Self-hosted"
+    ]
+  },
+  {
+    "url": "http://www.riotgames.com/riot-games-security",
+    "name": "Riot Games",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "full",
+    "icon": "https://www.google.com/s2/favicons?domain=www.riotgames.com&sz=64",
+    "source": "disclose",
+    "addedDate": "2026-03-04T18:09:58.084Z",
+    "tags": [
+      "Bug Bounty",
+      "Self-hosted"
+    ]
+  },
+  {
+    "url": "https://ripple.com/bug-bounty/",
+    "name": "Ripple",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "none",
+    "icon": "https://www.google.com/s2/favicons?domain=ripple.com&sz=64",
+    "source": "disclose",
+    "addedDate": "2026-03-04T18:09:58.084Z",
+    "tags": [
+      "Bug Bounty",
+      "Self-hosted"
+    ]
+  },
+  {
+    "url": "https://www.devolksbank.nl/veiligheid.html",
+    "name": "SNS Bank",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "none",
+    "icon": "https://www.google.com/s2/favicons?domain=www.devolksbank.nl&sz=64",
+    "source": "disclose",
+    "addedDate": "2026-03-04T18:09:58.084Z",
+    "tags": [
+      "Bug Bounty",
+      "Self-hosted"
+    ]
+  },
+  {
+    "url": "https://www.sailthru.com/trust/report-a-vulnerability/",
+    "name": "Sailthru",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "",
+    "icon": "https://www.google.com/s2/favicons?domain=www.sailthru.com&sz=64",
+    "source": "disclose",
+    "addedDate": "2026-03-04T18:09:58.084Z",
+    "tags": [
+      "Bug Bounty",
+      "Self-hosted"
+    ]
+  },
+  {
+    "url": "https://security.samsungmobile.com/securityReporting.smsb",
+    "name": "Samsung Mobile",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "none",
+    "icon": "https://www.google.com/s2/favicons?domain=security.samsungmobile.com&sz=64",
+    "source": "disclose",
+    "addedDate": "2026-03-04T18:09:58.084Z",
+    "tags": [
+      "Bug Bounty",
+      "Self-hosted"
+    ]
+  },
+  {
+    "url": "https://samsungtvbounty.com/ReportBug.aspx",
+    "name": "Samsung SmartTV",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "none",
+    "icon": "https://www.google.com/s2/favicons?domain=samsungtvbounty.com&sz=64",
+    "source": "disclose",
+    "addedDate": "2026-03-04T18:09:58.084Z",
+    "tags": [
+      "Bug Bounty",
+      "Self-hosted"
+    ]
+  },
+  {
+    "url": "https://scrapinghub.com/responsible-disclosure-policy/",
+    "name": "Scraping Hub",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "none",
+    "icon": "https://www.google.com/s2/favicons?domain=scrapinghub.com&sz=64",
+    "source": "disclose",
+    "addedDate": "2026-03-04T18:09:58.084Z",
+    "tags": [
+      "Bug Bounty",
+      "Self-hosted"
+    ]
+  },
+  {
+    "url": "https://www.securecyberfuture.com/responsible-disclosure",
+    "name": "Secure Cyber Future",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "none",
+    "icon": "https://www.google.com/s2/favicons?domain=www.securecyberfuture.com&sz=64",
+    "source": "disclose",
+    "addedDate": "2026-03-04T18:09:58.084Z",
+    "tags": [
+      "Bug Bounty",
+      "Self-hosted"
+    ]
+  },
+  {
+    "url": "https://help.selz.com/article/217-security-escalation",
+    "name": "Selz",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "none",
+    "icon": "https://www.google.com/s2/favicons?domain=help.selz.com&sz=64",
+    "source": "disclose",
+    "addedDate": "2026-03-04T18:09:58.084Z",
+    "tags": [
+      "Bug Bounty",
+      "Self-hosted"
+    ]
+  },
+  {
+    "url": "https://www.sendsafely.com/security/bug-bounty",
+    "name": "SendSafely",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "none",
+    "icon": "https://www.google.com/s2/favicons?domain=www.sendsafely.com&sz=64",
+    "source": "disclose",
+    "addedDate": "2026-03-04T18:09:58.084Z",
+    "tags": [
+      "Bug Bounty",
+      "Self-hosted"
+    ]
+  },
+  {
+    "url": "https://www.serenityos.org/bounty/",
+    "name": "SerenityOS",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "none",
+    "icon": "https://www.google.com/s2/favicons?domain=www.serenityos.org&sz=64",
+    "source": "disclose",
+    "addedDate": "2026-03-04T18:09:58.084Z",
+    "tags": [
+      "Bug Bounty",
+      "Self-hosted"
+    ]
+  },
+  {
+    "url": "https://www.shapesecurity.com/report-a-vulnerability",
+    "name": "Shape Security",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "none",
+    "icon": "https://www.google.com/s2/favicons?domain=www.shapesecurity.com&sz=64",
+    "source": "disclose",
+    "addedDate": "2026-03-04T18:09:58.084Z",
+    "tags": [
+      "Bug Bounty",
+      "Self-hosted"
+    ]
+  },
+  {
+    "url": "https://corp.shapeshift.io/responsible-disclosure-program/",
+    "name": "Shapeshift",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "none",
+    "icon": "https://www.google.com/s2/favicons?domain=corp.shapeshift.io&sz=64",
+    "source": "disclose",
+    "addedDate": "2026-03-04T18:09:58.084Z",
+    "tags": [
+      "Bug Bounty",
+      "Self-hosted"
+    ]
+  },
+  {
+    "url": "https://bugbounty.shopify.com",
+    "name": "Shopify",
+    "bounty": true,
+    "swag": true,
+    "safe_harbor": "full",
+    "icon": "https://www.google.com/s2/favicons?domain=bugbounty.shopify.com&sz=64",
+    "source": "disclose",
+    "addedDate": "2026-03-04T18:09:58.084Z",
+    "tags": [
+      "Bug Bounty",
+      "Self-hosted"
+    ]
+  },
+  {
+    "url": "https://www.signalfx.com/trust/security/responsible-disclosure",
+    "name": "SignalFX",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "none",
+    "icon": "https://www.google.com/s2/favicons?domain=www.signalfx.com&sz=64",
+    "source": "disclose",
+    "addedDate": "2026-03-04T18:09:58.084Z",
+    "tags": [
+      "Bug Bounty",
+      "Self-hosted"
+    ]
+  },
+  {
+    "url": "https://silvergoldbull.com/bug-bounty/",
+    "name": "Silvergoldbull",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "full",
+    "icon": "https://www.google.com/s2/favicons?domain=silvergoldbull.com&sz=64",
+    "source": "disclose",
+    "addedDate": "2026-03-04T18:09:58.084Z",
+    "tags": [
+      "Bug Bounty",
+      "Self-hosted"
+    ]
+  },
+  {
+    "url": "https://www.simple.com/policies/security",
+    "name": "Simple",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "partial",
+    "icon": "https://www.google.com/s2/favicons?domain=www.simple.com&sz=64",
+    "source": "disclose",
+    "addedDate": "2026-03-04T18:09:58.084Z",
+    "tags": [
+      "Bug Bounty",
+      "Self-hosted"
+    ]
+  },
+  {
+    "url": "https://slack.com/report-vulnerability",
+    "name": "Slack",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "none",
+    "icon": "https://www.google.com/s2/favicons?domain=slack.com&sz=64",
+    "source": "disclose",
+    "addedDate": "2026-03-04T18:09:58.084Z",
+    "tags": [
+      "Bug Bounty",
+      "Self-hosted"
+    ]
+  },
+  {
+    "url": "https://snyk.io/docs/security",
+    "name": "Snyk",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "partial",
+    "icon": "https://www.google.com/s2/favicons?domain=snyk.io&sz=64",
+    "source": "disclose",
+    "addedDate": "2026-03-04T18:09:58.084Z",
+    "tags": [
+      "Bug Bounty",
+      "Self-hosted"
+    ]
+  },
+  {
+    "url": "https://github.com/solana-labs/solana/security/policy",
+    "name": "Solana",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "",
+    "icon": "https://www.google.com/s2/favicons?domain=github.com&sz=64",
+    "source": "disclose",
+    "addedDate": "2026-03-04T18:09:58.084Z",
+    "tags": [
+      "Bug Bounty",
+      "Self-hosted"
+    ]
+  },
+  {
+    "url": "https://www.solaredge.com/us/cyber-security-policy",
+    "name": "SolarEdge",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "",
+    "icon": "https://www.google.com/s2/favicons?domain=www.solaredge.com&sz=64",
+    "source": "disclose",
+    "addedDate": "2026-03-04T18:09:58.084Z",
+    "tags": [
+      "Bug Bounty",
+      "Self-hosted"
+    ]
+  },
+  {
+    "url": "https://www.splendiddata.com/responsible-disclosure-policy/",
+    "name": "Splendid Data",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "none",
+    "icon": "https://www.google.com/s2/favicons?domain=www.splendiddata.com&sz=64",
+    "source": "disclose",
+    "addedDate": "2026-03-04T18:09:58.084Z",
+    "tags": [
+      "Bug Bounty",
+      "Self-hosted"
+    ]
+  },
+  {
+    "url": "https://www.spotify.com/us/bounty/",
+    "name": "Spotify",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "none",
+    "icon": "https://www.google.com/s2/favicons?domain=www.spotify.com&sz=64",
+    "source": "disclose",
+    "addedDate": "2026-03-04T18:09:58.084Z",
+    "tags": [
+      "Bug Bounty",
+      "Self-hosted"
+    ]
+  },
+  {
+    "url": "https://www.spreaker.com/security",
+    "name": "Spreaker",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "partial",
+    "icon": "https://www.google.com/s2/favicons?domain=www.spreaker.com&sz=64",
+    "source": "disclose",
+    "addedDate": "2026-03-04T18:09:58.084Z",
+    "tags": [
+      "Bug Bounty",
+      "Self-hosted"
+    ]
+  },
+  {
+    "url": "https://staked.us/bug-bounty/",
+    "name": "Staked",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "",
+    "icon": "https://www.google.com/s2/favicons?domain=staked.us&sz=64",
+    "source": "disclose",
+    "addedDate": "2026-03-04T18:09:58.084Z",
+    "tags": [
+      "Bug Bounty",
+      "Self-hosted"
+    ]
+  },
+  {
+    "url": "https://www.starleaf.com/c/bug-bounty-program/",
+    "name": "StarLeaf",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "none",
+    "icon": "https://www.google.com/s2/favicons?domain=www.starleaf.com&sz=64",
+    "source": "disclose",
+    "addedDate": "2026-03-04T18:09:58.084Z",
+    "tags": [
+      "Bug Bounty",
+      "Self-hosted"
+    ]
+  },
+  {
+    "url": "https://www.starbucks.com/whitehat",
+    "name": "Starbucks",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "none",
+    "icon": "https://www.google.com/s2/favicons?domain=www.starbucks.com&sz=64",
+    "source": "disclose",
+    "addedDate": "2026-03-04T18:09:58.084Z",
+    "tags": [
+      "Bug Bounty",
+      "Self-hosted"
+    ]
+  },
+  {
+    "url": "https://www.stellar.org/bug-bounty-program/",
+    "name": "Stellar",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "none",
+    "icon": "https://www.google.com/s2/favicons?domain=www.stellar.org&sz=64",
+    "source": "disclose",
+    "addedDate": "2026-03-04T18:09:58.084Z",
+    "tags": [
+      "Bug Bounty",
+      "Self-hosted"
+    ]
+  },
+  {
+    "url": "https://stripe.com/docs/security/stripe",
+    "name": "Stripe",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "none",
+    "icon": "https://www.google.com/s2/favicons?domain=stripe.com&sz=64",
+    "source": "disclose",
+    "addedDate": "2026-03-04T18:09:58.084Z",
+    "tags": [
+      "Bug Bounty",
+      "Self-hosted"
+    ]
+  },
+  {
+    "url": "https://studo.com/at/security",
+    "name": "Studo",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "partial",
+    "icon": "https://www.google.com/s2/favicons?domain=studo.com&sz=64",
+    "source": "disclose",
+    "addedDate": "2026-03-04T18:09:58.084Z",
+    "tags": [
+      "Bug Bounty",
+      "Self-hosted"
+    ]
+  },
+  {
+    "url": "https://www.swisscom.ch/en/about/company/portrait/network/security/bug-bounty.html",
+    "name": "Swisscom",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "none",
+    "icon": "https://www.google.com/s2/favicons?domain=www.swisscom.ch&sz=64",
+    "source": "disclose",
+    "addedDate": "2026-03-04T18:09:58.084Z",
+    "tags": [
+      "Bug Bounty",
+      "Self-hosted"
+    ]
+  },
+  {
+    "url": "https://www.synology.com/de-de/security/bounty_program#scope_and_reward",
+    "name": "Synology",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "none",
+    "icon": "https://www.google.com/s2/favicons?domain=www.synology.com&sz=64",
+    "source": "disclose",
+    "addedDate": "2026-03-04T18:09:58.084Z",
+    "tags": [
+      "Bug Bounty",
+      "Self-hosted"
+    ]
+  },
+  {
+    "url": "https://github.com/18F/vulnerability-disclosure-policy/blob/master/vulnerability-disclosure-policy.md",
+    "name": "TTS",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "full",
+    "icon": "https://www.google.com/s2/favicons?domain=github.com&sz=64",
+    "source": "disclose",
+    "addedDate": "2026-03-04T18:09:58.084Z",
+    "tags": [
+      "Bug Bounty",
+      "Self-hosted"
+    ]
+  },
+  {
+    "url": "https://www.tarsnap.com/bugbounty.html",
+    "name": "Tarsnap",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "none",
+    "icon": "https://www.google.com/s2/favicons?domain=www.tarsnap.com&sz=64",
+    "source": "disclose",
+    "addedDate": "2026-03-04T18:09:58.084Z",
+    "tags": [
+      "Bug Bounty",
+      "Self-hosted"
+    ]
+  },
+  {
+    "url": "https://telegram.org/faq#q-what-if-my-hacker-friend-says-they-could-decipher-telegram-mes",
+    "name": "Telegram",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "",
+    "icon": "https://www.google.com/s2/favicons?domain=telegram.org&sz=64",
+    "source": "disclose",
+    "addedDate": "2026-03-04T18:09:58.084Z",
+    "tags": [
+      "Bug Bounty",
+      "Self-hosted"
+    ]
+  },
+  {
+    "url": "https://www.telekom.com/en/corporate-responsibility/data-protection-data-security/security/security/closing-security-gaps-360054",
+    "name": "Telekom",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "none",
+    "icon": "https://www.google.com/s2/favicons?domain=www.telekom.com&sz=64",
+    "source": "disclose",
+    "addedDate": "2026-03-04T18:09:58.084Z",
+    "tags": [
+      "Bug Bounty",
+      "Self-hosted"
+    ]
+  },
+  {
+    "url": "http://en.security.tencent.com/",
+    "name": "Tencent",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "none",
+    "icon": "https://www.google.com/s2/favicons?domain=en.security.tencent.com&sz=64",
+    "source": "disclose",
+    "addedDate": "2026-03-04T18:09:58.084Z",
+    "tags": [
+      "Bug Bounty",
+      "Self-hosted"
+    ]
+  },
+  {
+    "url": "https://bounty.tokopedia.net/rules",
+    "name": "Tokopedia",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "none",
+    "icon": "https://www.google.com/s2/favicons?domain=bounty.tokopedia.net&sz=64",
+    "source": "disclose",
+    "addedDate": "2026-03-04T18:09:58.084Z",
+    "tags": [
+      "Bug Bounty",
+      "Self-hosted"
+    ]
+  },
+  {
+    "url": "https://www.tradingview.com/bounty/",
+    "name": "TradingView",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "none",
+    "icon": "https://www.google.com/s2/favicons?domain=www.tradingview.com&sz=64",
+    "source": "disclose",
+    "addedDate": "2026-03-04T18:09:58.084Z",
+    "tags": [
+      "Bug Bounty",
+      "Self-hosted"
+    ]
+  },
+  {
+    "url": "https://trezor.io/security/",
+    "name": "Trezor",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "partial",
+    "icon": "https://www.google.com/s2/favicons?domain=trezor.io&sz=64",
+    "source": "disclose",
+    "addedDate": "2026-03-04T18:09:58.084Z",
+    "tags": [
+      "Bug Bounty",
+      "Self-hosted"
+    ]
+  },
+  {
+    "url": "https://tron.network/findBug",
+    "name": "Tron Foundation",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "full",
+    "icon": "https://www.google.com/s2/favicons?domain=tron.network&sz=64",
+    "source": "disclose",
+    "addedDate": "2026-03-04T18:09:58.084Z",
+    "tags": [
+      "Bug Bounty",
+      "Self-hosted"
+    ]
+  },
+  {
+    "url": "https://tumblr.zendesk.com/hc/en-us/articles/234583348-Bug-Bounty-Program",
+    "name": "Tumblr",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "none",
+    "icon": "https://www.google.com/s2/favicons?domain=tumblr.zendesk.com&sz=64",
+    "source": "disclose",
+    "addedDate": "2026-03-04T18:09:58.084Z",
+    "tags": [
+      "Bug Bounty",
+      "Self-hosted"
+    ]
+  },
+  {
+    "url": "https://ui.com/security/",
+    "name": "Ubiquiti - Aside program to the current at HackerOne",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "none",
+    "icon": "https://www.google.com/s2/favicons?domain=ui.com&sz=64",
+    "source": "disclose",
+    "addedDate": "2026-03-04T18:09:58.084Z",
+    "tags": [
+      "Bug Bounty",
+      "Self-hosted"
+    ]
+  },
+  {
+    "url": "https://support.udemy.com/hc/en-us/articles/229232627-Report-a-Security-Vulnerability",
+    "name": "Udemy",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "none",
+    "icon": "https://www.google.com/s2/favicons?domain=support.udemy.com&sz=64",
+    "source": "disclose",
+    "addedDate": "2026-03-04T18:09:58.084Z",
+    "tags": [
+      "Bug Bounty",
+      "Self-hosted"
+    ]
+  },
+  {
+    "url": "https://www.united.com/web/en-US/content/contact/bugbounty.aspx",
+    "name": "United Airlines",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "none",
+    "icon": "https://www.google.com/s2/favicons?domain=www.united.com&sz=64",
+    "source": "disclose",
+    "addedDate": "2026-03-04T18:09:58.084Z",
+    "tags": [
+      "Bug Bounty",
+      "Self-hosted"
+    ]
+  },
+  {
+    "url": "https://upserve.com/security/",
+    "name": "Upserve",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "full",
+    "icon": "https://www.google.com/s2/favicons?domain=upserve.com&sz=64",
+    "source": "disclose",
+    "addedDate": "2026-03-04T18:09:58.084Z",
+    "tags": [
+      "Bug Bounty",
+      "Self-hosted"
+    ]
+  },
+  {
+    "url": "https://app.usabilityhub.com/security/responsible_disclosure",
+    "name": "UsabilityHub",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "",
+    "icon": "https://www.google.com/s2/favicons?domain=app.usabilityhub.com&sz=64",
+    "source": "disclose",
+    "addedDate": "2026-03-04T18:09:58.084Z",
+    "tags": [
+      "Bug Bounty",
+      "Self-hosted"
+    ]
+  },
+  {
+    "url": "https://www.vicompany.nl/legal/responsible-disclosure",
+    "name": "VI Company",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "partial",
+    "icon": "https://www.google.com/s2/favicons?domain=www.vicompany.nl&sz=64",
+    "source": "disclose",
+    "addedDate": "2026-03-04T18:09:58.084Z",
+    "tags": [
+      "Bug Bounty",
+      "Self-hosted"
+    ]
+  },
+  {
+    "url": "https://vpnarea.com/front/home/bugbounty",
+    "name": "VPNArea",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "",
+    "icon": "https://www.google.com/s2/favicons?domain=vpnarea.com&sz=64",
+    "source": "disclose",
+    "addedDate": "2026-03-04T18:09:58.084Z",
+    "tags": [
+      "Bug Bounty",
+      "Self-hosted"
+    ]
+  },
+  {
+    "url": "https://www.visma.com/trust-centre/smb/security-and-privacy/operational/responsible-disclosure/",
+    "name": "Visma",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "full",
+    "icon": "https://www.google.com/s2/favicons?domain=www.visma.com&sz=64",
+    "source": "disclose",
+    "addedDate": "2026-03-04T18:09:58.084Z",
+    "tags": [
+      "Bug Bounty",
+      "Self-hosted"
+    ]
+  },
+  {
+    "url": "https://www.vultr.com/bug-bounty/",
+    "name": "Vultr",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "none",
+    "icon": "https://www.google.com/s2/favicons?domain=www.vultr.com&sz=64",
+    "source": "disclose",
+    "addedDate": "2026-03-04T18:09:58.084Z",
+    "tags": [
+      "Bug Bounty",
+      "Self-hosted"
+    ]
+  },
+  {
+    "url": "https://wagwalking.com/responsible-disclosure",
+    "name": "Wagwalking",
+    "bounty": true,
+    "swag": true,
+    "safe_harbor": "partial",
+    "icon": "https://www.google.com/s2/favicons?domain=wagwalking.com&sz=64",
+    "source": "disclose",
+    "addedDate": "2026-03-04T18:09:58.084Z",
+    "tags": [
+      "Bug Bounty",
+      "Self-hosted"
+    ]
+  },
+  {
+    "url": "https://walletconnect.com/.well-known/security.txt",
+    "name": "WalletConnect",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "",
+    "icon": "https://www.google.com/s2/favicons?domain=walletconnect.com&sz=64",
+    "source": "disclose",
+    "addedDate": "2026-03-04T18:09:58.084Z",
+    "tags": [
+      "Bug Bounty",
+      "Self-hosted"
+    ]
+  },
+  {
+    "url": "https://corporate.walmart.com/privacy-security",
+    "name": "Walmart",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "partial",
+    "icon": "https://www.google.com/s2/favicons?domain=corporate.walmart.com&sz=64",
+    "source": "disclose",
+    "addedDate": "2026-03-04T18:09:58.084Z",
+    "tags": [
+      "Bug Bounty",
+      "Self-hosted"
+    ]
+  },
+  {
+    "url": "http://corp.wamba.com/en/developer/security/#form",
+    "name": "Wamba",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "none",
+    "icon": "https://www.google.com/s2/favicons?domain=corp.wamba.com&sz=64",
+    "source": "disclose",
+    "addedDate": "2026-03-04T18:09:58.084Z",
+    "tags": [
+      "Bug Bounty",
+      "Self-hosted"
+    ]
+  },
+  {
+    "url": "https://wetransfer.com/legal/disclosure",
+    "name": "WeTransfer",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "partial",
+    "icon": "https://www.google.com/s2/favicons?domain=wetransfer.com&sz=64",
+    "source": "disclose",
+    "addedDate": "2026-03-04T18:09:58.084Z",
+    "tags": [
+      "Bug Bounty",
+      "Self-hosted"
+    ]
+  },
+  {
+    "url": "https://wevpn.com/responsible-disclosure",
+    "name": "WeVPN",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "full",
+    "icon": "https://www.google.com/s2/favicons?domain=wevpn.com&sz=64",
+    "source": "disclose",
+    "addedDate": "2026-03-04T18:09:58.084Z",
+    "tags": [
+      "Bug Bounty",
+      "Self-hosted"
+    ]
+  },
+  {
+    "url": "https://www.wefact.nl/security/",
+    "name": "Wefact",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "partial",
+    "icon": "https://www.google.com/s2/favicons?domain=www.wefact.nl&sz=64",
+    "source": "disclose",
+    "addedDate": "2026-03-04T18:09:58.084Z",
+    "tags": [
+      "Bug Bounty",
+      "Self-hosted"
+    ]
+  },
+  {
+    "url": "https://whatbox.ca/policies/security",
+    "name": "Whatbox",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "full",
+    "icon": "https://www.google.com/s2/favicons?domain=whatbox.ca&sz=64",
+    "source": "disclose",
+    "addedDate": "2026-03-04T18:09:58.084Z",
+    "tags": [
+      "Bug Bounty",
+      "Self-hosted"
+    ]
+  },
+  {
+    "url": "https://wickr.com/security/bug-bounty/",
+    "name": "Wickr",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "none",
+    "icon": "https://www.google.com/s2/favicons?domain=wickr.com&sz=64",
+    "source": "disclose",
+    "addedDate": "2026-03-04T18:09:58.084Z",
+    "tags": [
+      "Bug Bounty",
+      "Self-hosted"
+    ]
+  },
+  {
+    "url": "https://www.wordfence.com/threat-intel/bug-bounty-program/",
+    "name": "Wordfence Intelligence",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "",
+    "icon": "https://www.google.com/s2/favicons?domain=www.wordfence.com&sz=64",
+    "source": "disclose",
+    "addedDate": "2026-03-04T18:09:58.084Z",
+    "tags": [
+      "Bug Bounty",
+      "Self-hosted"
+    ]
+  },
+  {
+    "url": "https://technet.microsoft.com/en-us/security/dn800983",
+    "name": "Yammer",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "none",
+    "icon": "https://www.google.com/s2/favicons?domain=technet.microsoft.com&sz=64",
+    "source": "disclose",
+    "addedDate": "2026-03-04T18:09:58.084Z",
+    "tags": [
+      "Bug Bounty",
+      "Self-hosted"
+    ]
+  },
+  {
+    "url": "https://yandex.com/bugbounty/report/",
+    "name": "Yandex",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "none",
+    "icon": "https://www.google.com/s2/favicons?domain=yandex.com&sz=64",
+    "source": "disclose",
+    "addedDate": "2026-03-04T18:09:58.084Z",
+    "tags": [
+      "Bug Bounty",
+      "Self-hosted"
+    ]
+  },
+  {
+    "url": "https://g.co/vrp",
+    "name": "YouTube",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "",
+    "icon": "https://www.google.com/s2/favicons?domain=g.co&sz=64",
+    "source": "disclose",
+    "addedDate": "2026-03-04T18:09:58.084Z",
+    "tags": [
+      "Bug Bounty",
+      "Self-hosted"
+    ]
+  },
+  {
+    "url": "https://www.zaful.com/report-security-issues",
+    "name": "Zaful",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "partial",
+    "icon": "https://www.google.com/s2/favicons?domain=www.zaful.com&sz=64",
+    "source": "disclose",
+    "addedDate": "2026-03-04T18:09:58.084Z",
+    "tags": [
+      "Bug Bounty",
+      "Self-hosted"
+    ]
+  },
+  {
+    "url": "https://www.zendesk.de/company/policies-procedures/responsible-disclosure-policy/",
+    "name": "Zendesk",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "none",
+    "icon": "https://www.google.com/s2/favicons?domain=www.zendesk.de&sz=64",
+    "source": "disclose",
+    "addedDate": "2026-03-04T18:09:58.084Z",
+    "tags": [
+      "Bug Bounty",
+      "Self-hosted"
+    ]
+  },
+  {
+    "url": "https://dev.zilliqa.com/docs/contributors/contribute-bug-bounty/",
+    "name": "Zilliqa",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "full",
+    "icon": "https://www.google.com/s2/favicons?domain=dev.zilliqa.com&sz=64",
+    "source": "disclose",
+    "addedDate": "2026-03-04T18:09:58.084Z",
+    "tags": [
+      "Bug Bounty",
+      "Self-hosted"
+    ]
+  },
+  {
+    "url": "https://bugbounty.zoho.com/bb/info#guide",
+    "name": "Zoho",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "none",
+    "icon": "https://www.google.com/s2/favicons?domain=bugbounty.zoho.com&sz=64",
+    "source": "disclose",
+    "addedDate": "2026-03-04T18:09:58.084Z",
+    "tags": [
+      "Bug Bounty",
+      "Self-hosted"
+    ]
+  },
+  {
+    "url": "https://www.zomato.com/security",
+    "name": "Zomato",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "full",
+    "icon": "https://www.google.com/s2/favicons?domain=www.zomato.com&sz=64",
+    "source": "disclose",
+    "addedDate": "2026-03-04T18:09:58.084Z",
+    "tags": [
+      "Bug Bounty",
+      "Self-hosted"
+    ]
+  },
+  {
+    "url": "https://zoom.us/docs/en-us/vulnerability-disclosure-policy.html",
+    "name": "Zoom",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "",
+    "icon": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
+    "source": "disclose",
+    "addedDate": "2026-03-04T18:09:58.084Z",
+    "tags": [
+      "Bug Bounty",
+      "Self-hosted"
+    ]
+  },
+  {
+    "url": "https://cpanel.net/cpanel-security-bounty-program/",
+    "name": "cPanel",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "none",
+    "icon": "https://www.google.com/s2/favicons?domain=cpanel.net&sz=64",
+    "source": "disclose",
+    "addedDate": "2026-03-04T18:09:58.084Z",
+    "tags": [
+      "Bug Bounty",
+      "Self-hosted"
+    ]
+  },
+  {
+    "url": "https://security.owncloud.com",
+    "name": "ownCloud",
+    "bounty": true,
+    "swag": "no",
+    "safe_harbor": "partial",
+    "icon": "https://www.google.com/s2/favicons?domain=security.owncloud.com&sz=64",
+    "source": "disclose",
+    "addedDate": "2026-03-04T18:09:58.084Z",
+    "tags": [
+      "Bug Bounty",
+      "Self-hosted"
+    ]
+  },
+  {
+    "url": "https://reportgarden.com/responsible-disclosure/",
+    "name": "reportgarden",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "full",
+    "icon": "https://www.google.com/s2/favicons?domain=reportgarden.com&sz=64",
+    "source": "disclose",
+    "addedDate": "2026-03-04T18:09:58.084Z",
+    "tags": [
+      "Bug Bounty",
+      "Self-hosted"
+    ]
+  },
+  {
+    "url": "https://rockset.com/legal/responsible-disclosure-policy/",
+    "name": "rockset",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "full",
+    "icon": "https://www.google.com/s2/favicons?domain=rockset.com&sz=64",
+    "source": "disclose",
+    "addedDate": "2026-03-04T18:09:58.084Z",
+    "tags": [
+      "Bug Bounty",
+      "Self-hosted"
+    ]
+  },
+  {
+    "url": "https://docs.szns.io/smart-contracts/bug-bounty",
+    "name": "szns",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "",
+    "icon": "https://www.google.com/s2/favicons?domain=docs.szns.io&sz=64",
+    "source": "disclose",
+    "addedDate": "2026-03-04T18:09:58.084Z",
+    "tags": [
+      "Bug Bounty",
+      "Self-hosted"
+    ]
+  },
+  {
+    "url": "https://web3.foundation/security-report/",
+    "name": "web3 foundation",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "",
+    "icon": "https://www.google.com/s2/favicons?domain=web3.foundation&sz=64",
+    "source": "disclose",
+    "addedDate": "2026-03-04T18:09:58.084Z",
+    "tags": [
+      "Bug Bounty",
+      "Self-hosted"
+    ]
+  },
+  {
+    "url": "https://zksync.io/dev/bug-bounty.html",
+    "name": "zkSync",
+    "bounty": true,
+    "swag": false,
+    "safe_harbor": "",
+    "icon": "https://www.google.com/s2/favicons?domain=zksync.io&sz=64",
+    "source": "disclose",
+    "addedDate": "2026-03-04T18:09:58.084Z",
+    "tags": [
+      "Bug Bounty",
+      "Self-hosted"
+    ]
   }
 ]
