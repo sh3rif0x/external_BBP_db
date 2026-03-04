@@ -415,15 +415,6 @@ export default function App() {
         setCurrentPage(1);
     };
 
-    const isNewProgram = (item) => {
-        if (!item || (!item.newDate && !item.addedDate)) return false;
-        const dateString = item.newDate || item.addedDate;
-        const addedDate = new Date(dateString);
-        const sevenDaysAgo = new Date();
-        sevenDaysAgo.setDate(sevenDaysAgo.getDate() - 7);
-        return addedDate > sevenDaysAgo;
-    };
-
     const addNewProgram = (e) => {
         e.preventDefault();
         setAddProgramError('');
@@ -638,7 +629,6 @@ export default function App() {
                                 'chaos': { bg: '#14b8a6', icon: '🔗' },
                                 'bugbountyhunt': { bg: '#3b82f6', icon: '🎱' }
                             };
-                            const sourceStyle = sourceBadgeColors[source];
                             
                             return (
                                 <div key={index} className="link-card">
