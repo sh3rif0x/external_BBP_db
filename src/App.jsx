@@ -142,6 +142,8 @@ export default function App() {
     const [addProgramError, setAddProgramError] = useState('');
     const [showScrollUp, setShowScrollUp] = useState(false);
     const [showScrollDown, setShowScrollDown] = useState(false);
+    const [isScrolling, setIsScrolling] = useState(false);
+    const scrollTimeoutRef = useRef(null);
 
     const handleDeleteProgram = (url) => {
         if (window.confirm('Are you sure you want to delete this program?')) {
@@ -208,12 +210,28 @@ export default function App() {
             const position = window.scrollY;
             const pageHeight = document.documentElement.scrollHeight - window.innerHeight;
             
+            // Show spider while scrolling
+            setIsScrolling(true);
+            
             setShowScrollUp(position > 300);
             setShowScrollDown(position < pageHeight - 300);
+            
+            // Hide spider after scrolling stops
+            if (scrollTimeoutRef.current) {
+                clearTimeout(scrollTimeoutRef.current);
+            }
+            scrollTimeoutRef.current = setTimeout(() => {
+                setIsScrolling(false);
+            }, 1500);
         };
 
         window.addEventListener('scroll', handleScroll);
-        return () => window.removeEventListener('scroll', handleScroll);
+        return () => {
+            window.removeEventListener('scroll', handleScroll);
+            if (scrollTimeoutRef.current) {
+                clearTimeout(scrollTimeoutRef.current);
+            }
+        };
     }, []);
 
     // Smooth scroll to top
@@ -801,7 +819,7 @@ export default function App() {
             )}
 
             {/* Single Spider Container with Conditional Arrows */}
-            {(showScrollUp || showScrollDown) && (
+            {(showScrollUp || showScrollDown) && isScrolling && (
                 <div className="scroll-container single-spider">
                     {showScrollUp && (
                         <button
