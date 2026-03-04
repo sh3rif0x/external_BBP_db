@@ -3,12 +3,11 @@ import Auth from './Auth';
 import './App.css';
 
 const ITEMS_PER_PAGE = 100;
-const RATING_LABELS = {
-    1: 'Very Bad',
-    2: 'Unsatisfied',
-    3: 'Neutral',
-    4: 'Satisfied',
-    5: 'Very Good'
+const FAVORITE_OPTIONS = {
+    favorite: { emoji: '⭐', label: 'Favorite', arabic: 'هدفك المفضل' },
+    high_interest: { emoji: '❤️', label: 'High Interest', arabic: 'برنامج واعد' },
+    hot_target: { emoji: '🔥', label: 'Hot Target', arabic: 'فيه Bugs كثير' },
+    waste_of_time: { emoji: '👎', label: 'Waste of time', arabic: 'سيء' }
 };
 
 export default function App() {
@@ -18,16 +17,19 @@ export default function App() {
     const [searchTerm, setSearchTerm] = useState('');
     const [currentPage, setCurrentPage] = useState(1);
     const [ratings, setRatings] = useState({});
-    const [selectedProgram, setSelectedProgram] = useState(null);
     const [theme, setTheme] = useState('dark');
+    const [selectedSource, setSelectedSource] = useState('all');
+    const [selectedFavorite, setSelectedFavorite] = useState('all');
+    const [showAddProgram, setShowAddProgram] = useState(false);
+    const [newProgramUrl, setNewProgramUrl] = useState('');
+    const [newProgramSource, setNewProgramSource] = useState('custom');
+    const [addProgramError, setAddProgramError] = useState('');
 
     useEffect(() => {
         // Check if user is already logged in
         const savedUser = localStorage.getItem('bbp_current_user');
         if (savedUser) {
             setUser(JSON.parse(savedUser));
-            loadUrlsFromFile();
-            loadRatings();
         }
         
         // Load saved theme preference
@@ -35,6 +37,14 @@ export default function App() {
         setTheme(savedTheme);
         document.documentElement.setAttribute('data-theme', savedTheme);
     }, []);
+
+    // Load programs and ratings when user logs in
+    useEffect(() => {
+        if (user) {
+            loadUrlsFromFile();
+            loadRatings();
+        }
+    }, [user]);
 
     const loadUrlsFromFile = () => {
         fetch('hunting_ons.json')
@@ -74,50 +84,99 @@ export default function App() {
         setRatings(newRatings);
     };
 
-    const getRatingStats = (url) => {
-        if (!ratings[url] || !ratings[url].ratings || ratings[url].ratings.length === 0) {
-            return { average: 0, count: 0 };
+    const getFavoriteStatus = (url) => {
+        if (!ratings[url]) {
+            return null;
         }
-        const ratingsList = ratings[url].ratings;
-        const average = (ratingsList.reduce((a, b) => a + b, 0) / ratingsList.length).toFixed(1);
-        return { average: parseFloat(average), count: ratingsList.length };
+        return ratings[url].status;
     };
 
-    const getRatingColor = (rating) => {
-        if (rating <= 1.5) return '#dc2626'; // Very Bad - Red
-        if (rating <= 2.5) return '#f97316'; // Unsatisfied - Orange
-        if (rating <= 3.5) return '#eab308'; // Neutral - Yellow
-        if (rating <= 4) return '#84cc16'; // Satisfied - Light Green
-        return '#16a34a'; // Very Good - Green
-    };
-
-    const submitRating = (url, ratingValue) => {
+    const submitFavorite = (url, status) => {
         const newRatings = { ...ratings };
-        if (!newRatings[url]) {
-            newRatings[url] = { ratings: [] };
-        }
-        newRatings[url].ratings.push(ratingValue);
+        newRatings[url] = { status: status };
         saveRatings(newRatings);
-        setSelectedProgram(null);
     };
 
     const handleSearch = (value) => {
         setSearchTerm(value);
         setCurrentPage(1);
-        const filtered = bugBountyUrls.filter((url) =>
-            url.toLowerCase().includes(value.toLowerCase())
-        );
+        applyFilters(value, selectedSource, selectedFavorite);
+    };
+
+    const handleSourceFilter = (source) => {
+        setSelectedSource(source);
+        setCurrentPage(1);
+        applyFilters(searchTerm, source, selectedFavorite);
+    };
+
+    const handleFavoriteFilter = (favorite) => {
+        setSelectedFavorite(favorite);
+        setCurrentPage(1);
+        applyFilters(searchTerm, selectedSource, favorite);
+    };
+
+    const applyFilters = (search, source, favorite) => {
+        // normalize inputs
+        const src = source || 'all';
+        const fav = favorite || 'all';
+        const query = (search || '').toString().toLowerCase();
+
+        const filtered = bugBountyUrls.filter((item) => {
+            // make sure we have a usable URL string before filtering
+            let url = '';
+            if (typeof item === 'string') {
+                url = item;
+            } else if (item && item.url) {
+                url = item.url;
+            } else {
+                // skip malformed entries
+                return false;
+            }
+
+            const itemSource = typeof item === 'string' ? 'other' : (item.source || 'other');
+            const itemFavorite = ratings[url]?.status || 'none';
+
+            const matchesSearch = url.toLowerCase().includes(query);
+            const matchesSource = (src === 'all') || (itemSource === src);
+            const matchesFavorite = (fav === 'all') || (itemFavorite === fav);
+            return (matchesSearch && matchesSource && matchesFavorite);
+        });
         setFilteredUrls(filtered);
+    };
+
+    // automatically re-run filters when data or criteria change
+    useEffect(() => {
+        applyFilters(searchTerm, selectedSource, selectedFavorite);
+    }, [bugBountyUrls, ratings, searchTerm, selectedSource, selectedFavorite]);
+
+    const getUniqueSources = () => {
+        const sources = new Set();
+        bugBountyUrls.forEach((item) => {
+            const source = typeof item === 'string' ? 'other' : (item.source || 'other');
+            sources.add(source);
+        });
+        return Array.from(sources).sort();
     };
 
     const handleReset = () => {
         setSearchTerm('');
+        setSelectedSource('all');
+        setSelectedFavorite('all');
         setCurrentPage(1);
-        setFilteredUrls(bugBountyUrls);
+        // rely on applyFilters to produce a clean list (will skip malformed entries)
+        applyFilters('', 'all', 'all');
     };
 
-    const handleCardClick = (url) => {
-        window.open(url, '_blank');
+    const handleCardClick = (item) => {
+        let url = '';
+        if (typeof item === 'string') {
+            url = item;
+        } else if (item && item.url) {
+            url = item.url;
+        }
+        if (url) {
+            window.open(url, '_blank');
+        }
     };
 
     const handleLogout = () => {
@@ -127,6 +186,70 @@ export default function App() {
         setFilteredUrls([]);
         setBugBountyUrls([]);
         setCurrentPage(1);
+    };
+
+    const isNewProgram = (item) => {
+        if (!item || !item.newDate && !item.addedDate) return false;
+        const dateString = item.newDate || item.addedDate;
+        const addedDate = new Date(dateString);
+        const sevenDaysAgo = new Date();
+        sevenDaysAgo.setDate(sevenDaysAgo.getDate() - 7);
+        return addedDate > sevenDaysAgo;
+    };
+
+    const addNewProgram = (e) => {
+        e.preventDefault();
+        setAddProgramError('');
+
+        if (!newProgramUrl.trim()) {
+            setAddProgramError('Please enter a program URL');
+            return;
+        }
+
+        try {
+            new URL(newProgramUrl);
+        } catch (err) {
+            setAddProgramError('Please enter a valid URL');
+            return;
+        }
+
+        // Check if program already exists
+        const exists = bugBountyUrls.some(p => {
+            const url = typeof p === 'string' ? p : p.url;
+            return url === newProgramUrl;
+        });
+
+        if (exists) {
+            setAddProgramError('This program already exists in the database');
+            return;
+        }
+
+        // Create new program
+        const newProgram = {
+            url: newProgramUrl,
+            name: extractDomain(newProgramUrl),
+            source: newProgramSource,
+            addedDate: new Date().toISOString(),
+            isNew: true,
+            newDate: new Date().toISOString(),
+            manually_added: true
+        };
+
+        // Add to list
+        const updated = [newProgram, ...bugBountyUrls];
+        setBugBountyUrls(updated);
+        setFilteredUrls(updated);
+
+        // Save to localStorage
+        localStorage.setItem('bbp_custom_programs', JSON.stringify(updated.filter(p => {
+            const prog = typeof p === 'string' ? null : p;
+            return prog && prog.manually_added;
+        })));
+
+        // Reset form
+        setNewProgramUrl('');
+        setNewProgramSource('custom');
+        setShowAddProgram(false);
     };
 
     const toggleTheme = () => {
@@ -163,8 +286,11 @@ export default function App() {
                     </div>
                     <div style={{ textAlign: 'right', display: 'flex', alignItems: 'center', gap: '12px' }}>
                         <div>
-                            <p style={{ fontSize: '14px', marginBottom: '8px', color: 'var(--text-muted)' }}>Welcome, {user.email}</p>
-                            <div style={{ display: 'flex', gap: '8px' }}>
+                            <p style={{ fontSize: '14px', marginBottom: '8px', color: 'var(--text-muted)' }}>� {user.username}</p>
+                            <div style={{ display: 'flex', gap: '8px', flexWrap: 'wrap' }}>
+                                <button onClick={() => setShowAddProgram(true)} className="btn-add-program" title="Add new target">
+                                    ➕ Add Target
+                                </button>
                                 <button onClick={toggleTheme} className="btn-theme-toggle" title="Toggle light/dark mode">
                                     {theme === 'dark' ? '☀️ Light' : '🌙 Dark'}
                                 </button>
@@ -194,6 +320,56 @@ export default function App() {
                     value={searchTerm}
                     onChange={(e) => handleSearch(e.target.value)}
                 />
+                <select
+                    className="source-filter"
+                    value={selectedSource}
+                    onChange={(e) => handleSourceFilter(e.target.value)}
+                    style={{
+                        padding: '8px 12px',
+                        borderRadius: '6px',
+                        border: '1px solid var(--border-color)',
+                        backgroundColor: 'var(--card-bg)',
+                        color: 'var(--text-color)',
+                        fontSize: '14px',
+                        cursor: 'pointer',
+                        fontWeight: '500'
+                    }}
+                >
+                    <option value="all">📌 All Platforms</option>
+                    {getUniqueSources().map((source) => (
+                        <option key={source} value={source}>
+                            {source === 'bugbountydirectory' && '📋 bugbountydirectory'}
+                            {source === 'intigriti' && '✓ intigriti'}
+                            {source === 'yeswehack' && '✨ yeswehack'}
+                            {source === 'bugcrowd' && '🎯 bugcrowd'}
+                            {source === 'hackerone' && '🔴 hackerone'}
+                            {source === 'issuehunt' && '🎪 issuehunt'}
+                            {source === 'immunefi' && '🛡️ immunefi'}
+                            {source === 'other' && '📎 other'}
+                        </option>
+                    ))}
+                </select>
+                <select
+                    className="favorite-filter"
+                    value={selectedFavorite}
+                    onChange={(e) => handleFavoriteFilter(e.target.value)}
+                    style={{
+                        padding: '8px 12px',
+                        borderRadius: '6px',
+                        border: '1px solid var(--border-color)',
+                        backgroundColor: 'var(--card-bg)',
+                        color: 'var(--text-color)',
+                        fontSize: '14px',
+                        cursor: 'pointer',
+                        fontWeight: '500'
+                    }}
+                >
+                    <option value="all">💬 All Statuses</option>
+                    <option value="favorite">⭐ Favorite</option>
+                    <option value="high_interest">❤️ High Interest</option>
+                    <option value="hot_target">🔥 Hot Target</option>
+                    <option value="waste_of_time">👎 Waste of time</option>
+                </select>
                 <button className="btn-primary" onClick={handleReset}>
                     Reset
                 </button>
@@ -209,18 +385,67 @@ export default function App() {
                     {filteredUrls.length === 0 ? (
                         <div className="no-results">No programs found matching your search</div>
                     ) : (
-                        paginatedUrls.map((url, index) => {
+                        paginatedUrls.map((item, index) => {
+                            const url = typeof item === 'string' ? item : (item?.url || '');
+                            if (!url) return null; // skip invalid entries just in case
+                            const source = typeof item === 'string' ? 'other' : (item.source || 'other');
                             const domain = extractDomain(url);
-                            const stats = getRatingStats(url);
+                            
+                            const sourceBadgeColors = {
+                                'bugbountydirectory': { bg: '#667eea', icon: '📋' },
+                                'bugcrowd': { bg: '#f59e0b', icon: '🎯' },
+                                'hackerone': { bg: '#ef4444', icon: '🔴' },
+                                'intigriti': { bg: '#10b981', icon: '✓' },
+                                'yeswehack': { bg: '#8b5cf6', icon: '✨' },
+                                'issuehunt': { bg: '#06b6d4', icon: '🐛' },
+                                'immunefi': { bg: '#ec4899', icon: '🛡️' }
+                            };
+                            const sourceStyle = sourceBadgeColors[source];
+                            
                             return (
                                 <div key={index} className="link-card">
-                                    <div className="card-content" onClick={() => handleCardClick(url)}>
+                                    {isNewProgram(item) && (
+                                        <div className="new-badge" style={{
+                                            position: 'absolute',
+                                            top: '8px',
+                                            left: '8px',
+                                            backgroundColor: '#ff6b6b',
+                                            color: 'white',
+                                            padding: '3px 8px',
+                                            borderRadius: '3px',
+                                            fontSize: '10px',
+                                            fontWeight: 'bold',
+                                            textTransform: 'uppercase',
+                                            zIndex: 10,
+                                            animation: 'pulse 2s infinite'
+                                        }}>
+                                            🆕 New
+                                        </div>
+                                    )}
+                                    {sourceStyle && (
+                                        <div className="source-badge" style={{
+                                            position: 'absolute',
+                                            top: '8px',
+                                            right: '8px',
+                                            backgroundColor: sourceStyle.bg,
+                                            color: 'white',
+                                            padding: '4px 9px',
+                                            borderRadius: '4px',
+                                            fontSize: '11px',
+                                            fontWeight: 'bold',
+                                            textTransform: 'capitalize',
+                                            zIndex: 10
+                                        }}>
+                                            {sourceStyle.icon} {source}
+                                        </div>
+                                    )}
+                                    <div className="card-content" onClick={() => handleCardClick(item)}>
                                         <img
-                                            src={`https://www.google.com/s2/favicons?sz=64&domain=${domain}`}
+                                            src={item.icon || `https://www.google.com/s2/favicons?sz=64&domain=${domain}`}
                                             alt="icon"
                                             className="link-favicon"
                                             onError={(e) => {
-                                                e.target.style.display = 'none';
+                                                e.target.src = `https://www.google.com/s2/favicons?sz=64&domain=${domain}`;
                                             }}
                                         />
                                         <div className="card-info">
@@ -237,35 +462,23 @@ export default function App() {
                                         </div>
                                     </div>
                                     
-                                    <div className="card-rating">
-                                        <div className="rating-display">
-                                            {stats.count > 0 ? (
-                                                <>
-                                                    <div 
-                                                        className="rating-stars"
-                                                        style={{ color: getRatingColor(stats.average) }}
-                                                        title={`${stats.average}/5`}
-                                                    >
-                                                        {'★'.repeat(Math.round(stats.average))}
-                                                        {'☆'.repeat(5 - Math.round(stats.average))}
-                                                    </div>
-                                                    <span className="rating-info">
-                                                        {stats.average}/5 ({stats.count})
-                                                    </span>
-                                                </>
-                                            ) : (
-                                                <span className="rating-info">No ratings yet</span>
-                                            )}
-                                        </div>
-                                        <button
-                                            className="btn-rate"
-                                            onClick={(e) => {
-                                                e.stopPropagation();
-                                                setSelectedProgram(url);
-                                            }}
-                                        >
-                                            Rate
-                                        </button>
+                                    <div className="card-favorites-inline">
+                                        {Object.entries(FAVORITE_OPTIONS).map(([key, option]) => {
+                                            const isSelected = getFavoriteStatus(url) === key;
+                                            return (
+                                                <button
+                                                    key={key}
+                                                    className={`favorite-btn ${isSelected ? 'selected' : ''}`}
+                                                    onClick={(e) => {
+                                                        e.stopPropagation();
+                                                        submitFavorite(url, key);
+                                                    }}
+                                                    title={`${option.label} - ${option.arabic}`}
+                                                >
+                                                    <span className="favorite-emoji-small">{option.emoji}</span>
+                                                </button>
+                                            );
+                                        })}
                                     </div>
                                 </div>
                             );
@@ -308,45 +521,73 @@ export default function App() {
                 )}
             </div>
 
-            {/* Rating Modal */}
-            {selectedProgram && (
-                <div className="rating-modal-overlay" onClick={() => setSelectedProgram(null)}>
-                    <div className="rating-modal" onClick={(e) => e.stopPropagation()}>
-                        <button
-                            className="modal-close"
-                            onClick={() => setSelectedProgram(null)}
-                        >
-                            ✕
-                        </button>
-                        <h3>Rate This Program</h3>
-                        <p className="modal-url">{selectedProgram}</p>
-                        
-                        <div className="rating-options">
-                            {[1, 2, 3, 4, 5].map((rating) => (
-                                <button
-                                    key={rating}
-                                    className="rating-option"
-                                    onClick={() => submitRating(selectedProgram, rating)}
+            {/* Add Program Modal */}
+            {showAddProgram && (
+                <div className="modal-overlay" onClick={() => setShowAddProgram(false)}>
+                    <div className="modal-content add-program-modal" onClick={(e) => e.stopPropagation()}>
+                        <h2>➕ Add New Target</h2>
+                        <form onSubmit={addNewProgram}>
+                            {addProgramError && <div className="error-message" style={{ marginBottom: '15px' }}>{addProgramError}</div>}
+
+                            <div className="form-group">
+                                <label>Program URL *</label>
+                                <input
+                                    type="url"
+                                    placeholder="https://example.com/bug-bounty"
+                                    value={newProgramUrl}
+                                    onChange={(e) => {
+                                        setNewProgramUrl(e.target.value);
+                                        setAddProgramError('');
+                                    }}
+                                    required
+                                />
+                            </div>
+
+                            <div className="form-group">
+                                <label>Category</label>
+                                <select
+                                    value={newProgramSource}
+                                    onChange={(e) => setNewProgramSource(e.target.value)}
                                     style={{
-                                        borderColor: getRatingColor(rating),
-                                        color: getRatingColor(rating)
+                                        width: '100%',
+                                        padding: '10px',
+                                        borderRadius: '6px',
+                                        border: '1px solid var(--border-primary)',
+                                        backgroundColor: 'var(--card-bg)',
+                                        color: 'var(--text-color)',
+                                        fontSize: '14px',
+                                        cursor: 'pointer'
                                     }}
                                 >
-                                    <div className="rating-stars-big">
-                                        {'★'.repeat(rating)}
-                                        {'☆'.repeat(5 - rating)}
-                                    </div>
-                                    <div className="rating-label">{RATING_LABELS[rating]}</div>
-                                </button>
-                            ))}
-                        </div>
+                                    <option value="custom">🎯 Custom Target</option>
+                                    <option value="hackerone">🔴 HackerOne</option>
+                                    <option value="bugcrowd">🎯 Bugcrowd</option>
+                                    <option value="yeswehack">✨ YesWeHack</option>
+                                    <option value="issuehunt">🎪 IssueHunt</option>
+                                    <option value="intigriti">✓ Intigriti</option>
+                                    <option value="immunefi">🛡️ Immunefi</option>
+                                    <option value="bugbountydirectory">📋 BugBountyDirectory</option>
+                                </select>
+                            </div>
 
-                        <button
-                            className="modal-cancel"
-                            onClick={() => setSelectedProgram(null)}
-                        >
-                            Cancel
-                        </button>
+                            <div style={{ display: 'flex', gap: '10px', marginTop: '20px' }}>
+                                <button
+                                    type="submit"
+                                    className="btn-primary"
+                                    style={{ flex: 1, padding: '10px', fontSize: '14px' }}
+                                >
+                                    ✅ Add Target
+                                </button>
+                                <button
+                                    type="button"
+                                    className="btn-secondary"
+                                    onClick={() => setShowAddProgram(false)}
+                                    style={{ flex: 1, padding: '10px', fontSize: '14px' }}
+                                >
+                                    ❌ Cancel
+                                </button>
+                            </div>
+                        </form>
                     </div>
                 </div>
             )}

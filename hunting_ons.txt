@@ -1,4 +1,4 @@
-man sqlite .db
+npm run scrapeman sqlite .db
 https://www.actcorp.in/legal/bug-bounty
 https://www.bentley.com/legal/bug-bounty-report/
 https://www.conductor.com/security/security-bugbounty-program/

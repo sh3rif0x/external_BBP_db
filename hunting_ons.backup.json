@@ -1,17 +1,8 @@
 [
   {
     "url": "https://www.actcorp.in/legal/bug-bounty",
-    "source": "bugbountydirectory",
-    "addedDate": "2026-03-04T04:30:05.354Z",
-    "company": "ACT Fibernet",
-    "bounty": true,
-    "swag": false,
-    "hof": false,
-    "tags": [
-      "Web2",
-      "Mobile"
-    ],
-    "name": "ACT Fibernet"
+    "source": "other",
+    "addedDate": "2026-03-04T00:59:32.087Z"
   },
   {
     "url": "https://www.bentley.com/legal/bug-bounty-report/",
@@ -65,16 +56,8 @@
   },
   {
     "url": "https://help.kagi.com/kagi/privacy/bug-bounty-program.html",
-    "source": "bugbountydirectory",
-    "addedDate": "2026-03-04T04:30:05.356Z",
-    "company": "Kagi",
-    "bounty": true,
-    "swag": false,
-    "hof": false,
-    "tags": [
-      "Web2"
-    ],
-    "name": "Kagi"
+    "source": "other",
+    "addedDate": "2026-03-04T00:59:32.087Z"
   },
   {
     "url": "https://centrality.ai/bountyprogram",
@@ -98,30 +81,13 @@
   },
   {
     "url": "https://docs.dune.com/web-app/bug-bounty",
-    "source": "bugbountydirectory",
-    "addedDate": "2026-03-04T04:30:05.355Z",
-    "company": "Dune",
-    "bounty": true,
-    "swag": false,
-    "hof": false,
-    "tags": [
-      "Web2"
-    ],
-    "name": "Dune"
+    "source": "other",
+    "addedDate": "2026-03-04T00:59:32.087Z"
   },
   {
     "url": "https://docs.pacifica.fi/bug-bounty-program",
-    "source": "bugbountydirectory",
-    "addedDate": "2026-03-04T04:30:05.358Z",
-    "company": "Pacifica",
-    "bounty": true,
-    "swag": false,
-    "hof": false,
-    "tags": [
-      "Web2",
-      "Web3"
-    ],
-    "name": "Pacifica"
+    "source": "other",
+    "addedDate": "2026-03-04T00:59:32.087Z"
   },
   {
     "url": "https://www.etsy.com/bounty/guidelines",
@@ -165,57 +131,23 @@
   },
   {
     "url": "https://setpointmedical.com/security-rewards",
-    "source": "bugbountydirectory",
-    "addedDate": "2026-03-04T04:30:05.357Z",
-    "company": "SetPoint Medical",
-    "bounty": true,
-    "swag": true,
-    "hof": false,
-    "tags": [
-      "Web2",
-      "Hardware"
-    ],
-    "name": "SetPoint Medical"
+    "source": "other",
+    "addedDate": "2026-03-04T00:59:32.087Z"
   },
   {
     "url": "https://www.duocircle.com/bug-bounty-program",
-    "source": "bugbountydirectory",
-    "addedDate": "2026-03-04T04:30:05.355Z",
-    "company": "DuoCircle",
-    "bounty": true,
-    "swag": false,
-    "hof": false,
-    "tags": [
-      "Web2",
-      "Mobile"
-    ],
-    "name": "DuoCircle"
+    "source": "other",
+    "addedDate": "2026-03-04T00:59:32.087Z"
   },
   {
     "url": "https://paydo.com/bug-bounty-program",
-    "source": "bugbountydirectory",
-    "addedDate": "2026-03-04T04:30:05.357Z",
-    "company": "PayDo",
-    "bounty": true,
-    "swag": false,
-    "hof": false,
-    "tags": [
-      "Web2"
-    ],
-    "name": "PayDo"
+    "source": "other",
+    "addedDate": "2026-03-04T00:59:32.087Z"
   },
   {
     "url": "https://www.loginradius.com/bug-bounty",
-    "source": "bugbountydirectory",
-    "addedDate": "2026-03-04T04:30:05.356Z",
-    "company": "LoginRadius",
-    "bounty": true,
-    "swag": false,
-    "hof": false,
-    "tags": [
-      "Web2"
-    ],
-    "name": "LoginRadius"
+    "source": "other",
+    "addedDate": "2026-03-04T00:59:32.087Z"
   },
   {
     "url": "https://zap-hosting.com/en/security/",
@@ -239,31 +171,13 @@
   },
   {
     "url": "https://uxcam.com/bug-bounty",
-    "source": "bugbountydirectory",
-    "addedDate": "2026-03-04T04:30:05.358Z",
-    "company": "UXCam",
-    "bounty": true,
-    "swag": false,
-    "hof": true,
-    "tags": [
-      "Web2",
-      "Mobile"
-    ],
-    "name": "UXCam"
+    "source": "other",
+    "addedDate": "2026-03-04T00:59:32.087Z"
   },
   {
     "url": "https://docs.across.to/resources/bug-bounty",
-    "source": "bugbountydirectory",
-    "addedDate": "2026-03-04T04:30:05.354Z",
-    "company": "Across",
-    "bounty": true,
-    "swag": false,
-    "hof": false,
-    "tags": [
-      "Web3",
-      "Web2"
-    ],
-    "name": "Across"
+    "source": "other",
+    "addedDate": "2026-03-04T00:59:32.087Z"
   },
   {
     "url": "https://www.gorynse.com/bug-bounty",
@@ -287,17 +201,8 @@
   },
   {
     "url": "https://silvergoldbull.com/bug-bounty",
-    "source": "bugbountydirectory",
-    "addedDate": "2026-03-04T04:30:05.357Z",
-    "company": "Silver Gold Bull",
-    "bounty": true,
-    "swag": false,
-    "hof": false,
-    "tags": [
-      "Web2",
-      "Mobile"
-    ],
-    "name": "Silver Gold Bull"
+    "source": "other",
+    "addedDate": "2026-03-04T00:59:32.087Z"
   },
   {
     "url": "https://traceless.com/bugprogram",
@@ -321,17 +226,8 @@
   },
   {
     "url": "https://zaakpay.com/bug-bounty",
-    "source": "bugbountydirectory",
-    "addedDate": "2026-03-04T04:30:05.358Z",
-    "company": "Zaakpay",
-    "bounty": true,
-    "swag": false,
-    "hof": true,
-    "tags": [
-      "Web2",
-      "Mobile"
-    ],
-    "name": "Zaakpay"
+    "source": "other",
+    "addedDate": "2026-03-04T00:59:32.087Z"
   },
   {
     "url": "https://go3.ee/en/page/bug-bounty",
@@ -340,16 +236,8 @@
   },
   {
     "url": "https://www.onestepgps.com/bug-bounty",
-    "source": "bugbountydirectory",
-    "addedDate": "2026-03-04T04:30:05.358Z",
-    "company": "One Step GPS",
-    "bounty": true,
-    "swag": false,
-    "hof": false,
-    "tags": [
-      "Web2"
-    ],
-    "name": "One Step GPS"
+    "source": "other",
+    "addedDate": "2026-03-04T00:59:32.087Z"
   },
   {
     "url": "https://www.deadswitch.com/bug-bounty",
@@ -368,16 +256,8 @@
   },
   {
     "url": "https://www.vultr.com/bug-bounty",
-    "source": "bugbountydirectory",
-    "addedDate": "2026-03-04T04:30:05.358Z",
-    "company": "Vultr",
-    "bounty": true,
-    "swag": false,
-    "hof": false,
-    "tags": [
-      "Web2"
-    ],
-    "name": "Vultr"
+    "source": "other",
+    "addedDate": "2026-03-04T00:59:32.087Z"
   },
   {
     "url": "https://nonlogs.io/bugbounty",
@@ -411,16 +291,8 @@
   },
   {
     "url": "https://www.signageos.io/legal/bug-bounty",
-    "source": "bugbountydirectory",
-    "addedDate": "2026-03-04T04:30:05.357Z",
-    "company": "signageOS",
-    "bounty": true,
-    "swag": false,
-    "hof": false,
-    "tags": [
-      "Web2"
-    ],
-    "name": "signageOS"
+    "source": "other",
+    "addedDate": "2026-03-04T00:59:32.087Z"
   },
   {
     "url": "https://proton.me/security/bug-bounty",
@@ -454,109 +326,43 @@
   },
   {
     "url": "https://dappradar.com/bug-bounty",
-    "source": "bugbountydirectory",
-    "addedDate": "2026-03-04T04:30:05.355Z",
-    "company": "DappRadar",
-    "bounty": true,
-    "swag": false,
-    "hof": false,
-    "tags": [
-      "Web2"
-    ],
-    "name": "DappRadar"
+    "source": "other",
+    "addedDate": "2026-03-04T00:59:32.087Z"
   },
   {
     "url": "https://panteracapital.com/pantera-bug-bounty",
-    "source": "bugbountydirectory",
-    "addedDate": "2026-03-04T04:30:05.357Z",
-    "company": "Pantera",
-    "bounty": true,
-    "swag": false,
-    "hof": false,
-    "tags": [
-      "Web2"
-    ],
-    "name": "Pantera"
+    "source": "other",
+    "addedDate": "2026-03-04T00:59:32.087Z"
   },
   {
     "url": "https://qdrant.tech/security/bug-bounty-program",
-    "source": "bugbountydirectory",
-    "addedDate": "2026-03-04T04:30:05.357Z",
-    "company": "Qdrant",
-    "bounty": true,
-    "swag": false,
-    "hof": false,
-    "tags": [
-      "Web2"
-    ],
-    "name": "Qdrant"
+    "source": "other",
+    "addedDate": "2026-03-04T00:59:32.087Z"
   },
   {
     "url": "https://www.fastmail.com/bug-bounty",
-    "source": "bugbountydirectory",
-    "addedDate": "2026-03-04T04:30:05.355Z",
-    "company": "Fastmail",
-    "bounty": true,
-    "swag": false,
-    "hof": true,
-    "tags": [
-      "Web2",
-      "Mobile"
-    ],
-    "name": "Fastmail"
+    "source": "other",
+    "addedDate": "2026-03-04T00:59:32.087Z"
   },
   {
     "url": "https://achievable.me/bug-bounty",
-    "source": "bugbountydirectory",
-    "addedDate": "2026-03-04T04:30:05.354Z",
-    "company": "Achievable",
-    "bounty": true,
-    "swag": false,
-    "hof": false,
-    "tags": [
-      "Web2"
-    ],
-    "name": "Achievable"
+    "source": "other",
+    "addedDate": "2026-03-04T00:59:32.087Z"
   },
   {
     "url": "https://www.wazoku.com/bugbounty",
-    "source": "bugbountydirectory",
-    "addedDate": "2026-03-04T04:30:05.358Z",
-    "company": "Wazoku",
-    "bounty": true,
-    "swag": false,
-    "hof": false,
-    "tags": [
-      "Web2"
-    ],
-    "name": "Wazoku"
+    "source": "other",
+    "addedDate": "2026-03-04T00:59:32.087Z"
   },
   {
     "url": "https://www.sentinelone.com/bug-bounty",
-    "source": "bugbountydirectory",
-    "addedDate": "2026-03-04T04:30:05.357Z",
-    "company": "Sentinelone",
-    "bounty": true,
-    "swag": false,
-    "hof": false,
-    "tags": [
-      "Web2",
-      "Desktop"
-    ],
-    "name": "Sentinelone"
+    "source": "other",
+    "addedDate": "2026-03-04T00:59:32.087Z"
   },
   {
     "url": "https://www.gladia.io/bug-bounty",
-    "source": "bugbountydirectory",
-    "addedDate": "2026-03-04T04:30:05.355Z",
-    "company": "Gladia",
-    "bounty": true,
-    "swag": false,
-    "hof": false,
-    "tags": [
-      "Web2"
-    ],
-    "name": "Gladia"
+    "source": "other",
+    "addedDate": "2026-03-04T00:59:32.087Z"
   },
   {
     "url": "https://www.cybertegh.com/bug-bounty",
@@ -570,16 +376,8 @@
   },
   {
     "url": "https://www.axonivy.com/bugbountyprogram",
-    "source": "bugbountydirectory",
-    "addedDate": "2026-03-04T04:30:05.354Z",
-    "company": "Axon Ivy",
-    "bounty": true,
-    "swag": false,
-    "hof": false,
-    "tags": [
-      "Web2"
-    ],
-    "name": "Axon Ivy"
+    "source": "other",
+    "addedDate": "2026-03-04T00:59:32.087Z"
   },
   {
     "url": "https://itseceu.uk/business_bug_bounty_program/",
@@ -623,16 +421,8 @@
   },
   {
     "url": "https://www.coachaccountable.com/bugBounty",
-    "source": "bugbountydirectory",
-    "addedDate": "2026-03-04T04:30:05.355Z",
-    "company": "CoachAccountable",
-    "bounty": true,
-    "swag": false,
-    "hof": true,
-    "tags": [
-      "Web2"
-    ],
-    "name": "CoachAccountable"
+    "source": "other",
+    "addedDate": "2026-03-04T00:59:32.087Z"
   },
   {
     "url": "https://www.auo.com/en-global/BugBounty_Program",
@@ -646,43 +436,18 @@
   },
   {
     "url": "https://piwik.pro/bug-bounty-program",
-    "source": "bugbountydirectory",
-    "addedDate": "2026-03-04T04:30:05.357Z",
-    "company": "Piwik Pro",
-    "bounty": true,
-    "swag": false,
-    "hof": false,
-    "tags": [
-      "Web2"
-    ],
-    "name": "Piwik Pro"
+    "source": "other",
+    "addedDate": "2026-03-04T00:59:32.087Z"
   },
   {
     "url": "https://cloudcannon.com/bug-bounty",
-    "source": "bugbountydirectory",
-    "addedDate": "2026-03-04T04:30:05.355Z",
-    "company": "CloudCannon",
-    "bounty": true,
-    "swag": false,
-    "hof": false,
-    "tags": [
-      "Web2",
-      "CMS"
-    ],
-    "name": "CloudCannon"
+    "source": "other",
+    "addedDate": "2026-03-04T00:59:32.087Z"
   },
   {
     "url": "https://www.ispsystem.com/bug-bounty",
-    "source": "bugbountydirectory",
-    "addedDate": "2026-03-04T04:30:05.356Z",
-    "company": "ISPsystem",
-    "bounty": true,
-    "swag": false,
-    "hof": false,
-    "tags": [
-      "Web2"
-    ],
-    "name": "ISPsystem"
+    "source": "other",
+    "addedDate": "2026-03-04T00:59:32.087Z"
   },
   {
     "url": "https://boldcommerce.com/bug-bounty",
@@ -701,17 +466,8 @@
   },
   {
     "url": "https://glow.app/bug-bounty",
-    "source": "bugbountydirectory",
-    "addedDate": "2026-03-04T04:30:05.355Z",
-    "company": "Glow",
-    "bounty": true,
-    "swag": false,
-    "hof": false,
-    "tags": [
-      "Web3",
-      "Mobile"
-    ],
-    "name": "Glow"
+    "source": "other",
+    "addedDate": "2026-03-04T00:59:32.087Z"
   },
   {
     "url": "https://www.bitpanda.com/it/legal/bug-bounty",
@@ -730,16 +486,8 @@
   },
   {
     "url": "https://www.pubnub.com/bug-bounty-policy",
-    "source": "bugbountydirectory",
-    "addedDate": "2026-03-04T04:30:05.357Z",
-    "company": "PubNub",
-    "bounty": true,
-    "swag": false,
-    "hof": false,
-    "tags": [
-      "Web2"
-    ],
-    "name": "PubNub"
+    "source": "other",
+    "addedDate": "2026-03-04T00:59:32.087Z"
   },
   {
     "url": "https://bitbns.com/bug-bounty",
@@ -768,16 +516,8 @@
   },
   {
     "url": "https://graphenedb.com/legal/bug-bounty",
-    "source": "bugbountydirectory",
-    "addedDate": "2026-03-04T04:30:05.355Z",
-    "company": "GrapheneDB",
-    "bounty": true,
-    "swag": false,
-    "hof": false,
-    "tags": [
-      "Web2"
-    ],
-    "name": "GrapheneDB"
+    "source": "other",
+    "addedDate": "2026-03-04T00:59:32.087Z"
   },
   {
     "url": "https://www.dase.com/blog/bug-bounty",
@@ -811,17 +551,8 @@
   },
   {
     "url": "https://www.bentley.com/legal/bug-bounty-report",
-    "source": "bugbountydirectory",
-    "addedDate": "2026-03-04T04:30:05.354Z",
-    "company": "Bentley Systems",
-    "bounty": true,
-    "swag": false,
-    "hof": false,
-    "tags": [
-      "Web2",
-      "Mobile"
-    ],
-    "name": "Bentley Systems"
+    "source": "other",
+    "addedDate": "2026-03-04T00:59:32.087Z"
   },
   {
     "url": "https://ngrave.io/en/bug-bounty-program",
@@ -845,30 +576,13 @@
   },
   {
     "url": "https://configcat.com/bounty",
-    "source": "bugbountydirectory",
-    "addedDate": "2026-03-04T04:30:05.355Z",
-    "company": "ConfigCat",
-    "bounty": true,
-    "swag": false,
-    "hof": false,
-    "tags": [
-      "Web2"
-    ],
-    "name": "ConfigCat"
+    "source": "other",
+    "addedDate": "2026-03-04T00:59:32.087Z"
   },
   {
     "url": "https://www.sweap.io/en/company/bug-bounty-program",
-    "source": "bugbountydirectory",
-    "addedDate": "2026-03-04T04:30:05.358Z",
-    "company": "Sweap",
-    "bounty": true,
-    "swag": false,
-    "hof": false,
-    "tags": [
-      "Web2",
-      "Mobile"
-    ],
-    "name": "Sweap"
+    "source": "other",
+    "addedDate": "2026-03-04T00:59:32.087Z"
   },
   {
     "url": "https://www.witivio.com/en/bug-bounty",
@@ -877,16 +591,8 @@
   },
   {
     "url": "https://www.teamup.com/bug-bounty",
-    "source": "bugbountydirectory",
-    "addedDate": "2026-03-04T04:30:05.358Z",
-    "company": "Teamup",
-    "bounty": true,
-    "swag": false,
-    "hof": false,
-    "tags": [
-      "Web2"
-    ],
-    "name": "Teamup"
+    "source": "other",
+    "addedDate": "2026-03-04T00:59:32.087Z"
   },
   {
     "url": "https://www.glia.com/security-bounty",
@@ -895,16 +601,8 @@
   },
   {
     "url": "https://www.knapp.com/en/bug-bounty",
-    "source": "bugbountydirectory",
-    "addedDate": "2026-03-04T04:30:05.356Z",
-    "company": "Knapp",
-    "bounty": true,
-    "swag": false,
-    "hof": false,
-    "tags": [
-      "Web2"
-    ],
-    "name": "Knapp"
+    "source": "other",
+    "addedDate": "2026-03-04T00:59:32.087Z"
   },
   {
     "url": "https://help.alwaysdata.com/en/technical-specifications/bug-bounty/",
@@ -913,29 +611,13 @@
   },
   {
     "url": "https://help.spreaker.com/en/articles/5123644-bug-bounty-program",
-    "source": "bugbountydirectory",
-    "addedDate": "2026-03-04T04:30:05.358Z",
-    "company": "Spreaker",
-    "bounty": true,
-    "swag": false,
-    "hof": false,
-    "tags": [
-      "Web2"
-    ],
-    "name": "Spreaker"
+    "source": "other",
+    "addedDate": "2026-03-04T00:59:32.087Z"
   },
   {
     "url": "https://www.getbeamer.com/bug-bounty-program",
-    "source": "bugbountydirectory",
-    "addedDate": "2026-03-04T04:30:05.354Z",
-    "company": "Beamer",
-    "bounty": true,
-    "swag": false,
-    "hof": false,
-    "tags": [
-      "Web2"
-    ],
-    "name": "Beamer"
+    "source": "other",
+    "addedDate": "2026-03-04T00:59:32.087Z"
   },
   {
     "url": "https://www.qnap.com/en-ca/security-bounty-program",
@@ -959,16 +641,8 @@
   },
   {
     "url": "https://help.doit.com/docs/vendor-information/bug-bounty-program",
-    "source": "bugbountydirectory",
-    "addedDate": "2026-03-04T04:30:05.355Z",
-    "company": "DoiT",
-    "bounty": true,
-    "swag": false,
-    "hof": false,
-    "tags": [
-      "Web2"
-    ],
-    "name": "DoiT"
+    "source": "other",
+    "addedDate": "2026-03-04T00:59:32.087Z"
   },
   {
     "url": "https://www.do.de/bug-bounty",
@@ -982,18 +656,8 @@
   },
   {
     "url": "https://www.todoist.com/help/articles/doist-bug-bounty-policy-oBo6UzFk",
-    "source": "bugbountydirectory",
-    "addedDate": "2026-03-04T04:30:05.358Z",
-    "company": "Todoist",
-    "bounty": true,
-    "swag": false,
-    "hof": false,
-    "tags": [
-      "Web2",
-      "Desktop",
-      "Mobile"
-    ],
-    "name": "Todoist"
+    "source": "other",
+    "addedDate": "2026-03-04T00:59:32.087Z"
   },
   {
     "url": "https://www.atmail.com/bug-bounty-terms",
@@ -1002,16 +666,8 @@
   },
   {
     "url": "https://www.jetbackup.com/legal/bug-bounty",
-    "source": "bugbountydirectory",
-    "addedDate": "2026-03-04T04:30:05.356Z",
-    "company": "JetBackup",
-    "bounty": true,
-    "swag": false,
-    "hof": false,
-    "tags": [
-      "Web2"
-    ],
-    "name": "JetBackup"
+    "source": "other",
+    "addedDate": "2026-03-04T00:59:32.087Z"
   },
   {
     "url": "https://www.silentcircle.com/blog/silent-circles-bug-bounty-program",
@@ -1055,16 +711,8 @@
   },
   {
     "url": "https://www.brilliantdirectories.com/security-bounty",
-    "source": "bugbountydirectory",
-    "addedDate": "2026-03-04T04:30:05.354Z",
-    "company": "Brilliant Directories",
-    "bounty": true,
-    "swag": false,
-    "hof": false,
-    "tags": [
-      "Web2"
-    ],
-    "name": "Brilliant Directories"
+    "source": "other",
+    "addedDate": "2026-03-04T00:59:32.087Z"
   },
   {
     "url": "https://www.qnap.com/en-us/security-bounty-program",
@@ -1108,16 +756,8 @@
   },
   {
     "url": "https://support.bankful.com/bounty-hunter-program",
-    "source": "bugbountydirectory",
-    "addedDate": "2026-03-04T04:30:05.354Z",
-    "company": "Bankful",
-    "bounty": true,
-    "swag": false,
-    "hof": false,
-    "tags": [
-      "Web2"
-    ],
-    "name": "Bankful"
+    "source": "other",
+    "addedDate": "2026-03-04T00:59:32.087Z"
   },
   {
     "url": "https://fortune.com/2017/07/27/microsoft-windows-security-bug-bounty",
@@ -1131,17 +771,8 @@
   },
   {
     "url": "https://flowcrypt.com/docs/technical/security/bug-bounty.html",
-    "source": "bugbountydirectory",
-    "addedDate": "2026-03-04T04:30:05.355Z",
-    "company": "FlowCrypt",
-    "bounty": true,
-    "swag": false,
-    "hof": false,
-    "tags": [
-      "Web2",
-      "Mobile"
-    ],
-    "name": "FlowCrypt"
+    "source": "other",
+    "addedDate": "2026-03-04T00:59:32.087Z"
   },
   {
     "url": "https://docs.paradex.trade/security/bug-bounty",
@@ -1290,16 +921,8 @@
   },
   {
     "url": "https://www.appbox.co/policies/bug-bounty-program",
-    "source": "bugbountydirectory",
-    "addedDate": "2026-03-04T04:30:05.358Z",
-    "company": "Appbox",
-    "bounty": true,
-    "swag": false,
-    "hof": false,
-    "tags": [
-      "Web2"
-    ],
-    "name": "Appbox"
+    "source": "other",
+    "addedDate": "2026-03-04T00:59:32.087Z"
   },
   {
     "url": "https://docs.open.cx/security/bug-bounty",
@@ -1523,29 +1146,13 @@
   },
   {
     "url": "https://www.wordfence.com/threat-intel/bug-bounty-program",
-    "source": "bugbountydirectory",
-    "addedDate": "2026-03-04T04:30:05.358Z",
-    "company": "Wordfence",
-    "bounty": true,
-    "swag": false,
-    "hof": true,
-    "tags": [
-      "Web2"
-    ],
-    "name": "Wordfence"
+    "source": "other",
+    "addedDate": "2026-03-04T00:59:32.087Z"
   },
   {
     "url": "https://www.forexfactory.com/bug-bounty",
-    "source": "bugbountydirectory",
-    "addedDate": "2026-03-04T04:30:05.359Z",
-    "company": "Forex Factory",
-    "bounty": true,
-    "swag": false,
-    "hof": false,
-    "tags": [
-      "Web2"
-    ],
-    "name": "Forex Factory"
+    "source": "other",
+    "addedDate": "2026-03-04T00:59:32.087Z"
   },
   {
     "url": "https://www.splunk.com/en_us/blog/learn/bug-bounty-programs.html",
@@ -1814,17 +1421,8 @@
   },
   {
     "url": "https://help.quicko.com/portal/en/kb/articles/bug-bounty-program",
-    "source": "bugbountydirectory",
-    "addedDate": "2026-03-04T04:30:05.357Z",
-    "company": "Quicko",
-    "bounty": true,
-    "swag": false,
-    "hof": true,
-    "tags": [
-      "Web2",
-      "Mobile"
-    ],
-    "name": "Quicko"
+    "source": "other",
+    "addedDate": "2026-03-04T00:59:32.087Z"
   },
   {
     "url": "https://meroton.github.io/bug-bounty",
@@ -1908,17 +1506,8 @@
   },
   {
     "url": "https://www.kraken.com/features/security/bug-bounty",
-    "source": "bugbountydirectory",
-    "addedDate": "2026-03-04T04:30:05.356Z",
-    "company": "Kraken",
-    "bounty": true,
-    "swag": false,
-    "hof": true,
-    "tags": [
-      "Web2",
-      "Mobile"
-    ],
-    "name": "Kraken"
+    "source": "other",
+    "addedDate": "2026-03-04T00:59:32.087Z"
   },
   {
     "url": "https://www.nicehash.com/bug-bounty-program",
@@ -2067,16 +1656,8 @@
   },
   {
     "url": "https://chapa.co/more/chapa-bug-bounty-program",
-    "source": "bugbountydirectory",
-    "addedDate": "2026-03-04T04:30:05.355Z",
-    "company": "Chapa",
-    "bounty": true,
-    "swag": false,
-    "hof": false,
-    "tags": [
-      "Web2"
-    ],
-    "name": "Chapa"
+    "source": "other",
+    "addedDate": "2026-03-04T00:59:32.087Z"
   },
   {
     "url": "https://firebounty.com/416-goldman-sachs-vdp",
@@ -2205,18 +1786,8 @@
   },
   {
     "url": "https://www.intel.com/content/www/us/en/security-center/bug-bounty-program.html",
-    "source": "bugbountydirectory",
-    "addedDate": "2026-03-04T04:30:05.356Z",
-    "company": "Intel",
-    "bounty": true,
-    "swag": true,
-    "hof": true,
-    "tags": [
-      "Web2",
-      "Hardware",
-      "Desktop"
-    ],
-    "name": "Intel"
+    "source": "other",
+    "addedDate": "2026-03-04T00:59:32.087Z"
   },
   {
     "url": "https://www.easyname.de/en/support/easyname/253-bug-bounty-program",
@@ -2495,16 +2066,8 @@
   },
   {
     "url": "https://setu.co/bug-bounty-program",
-    "source": "bugbountydirectory",
-    "addedDate": "2026-03-04T04:30:05.357Z",
-    "company": "Setu",
-    "bounty": true,
-    "swag": false,
-    "hof": true,
-    "tags": [
-      "Web2"
-    ],
-    "name": "Setu"
+    "source": "other",
+    "addedDate": "2026-03-04T00:59:32.087Z"
   },
   {
     "url": "https://github.com/abhinavporwal/bug-bounty-dorks",
@@ -2723,16 +2286,8 @@
   },
   {
     "url": "https://voatz.com/bug-bounty",
-    "source": "bugbountydirectory",
-    "addedDate": "2026-03-04T04:30:05.358Z",
-    "company": "Voatz",
-    "bounty": true,
-    "swag": false,
-    "hof": false,
-    "tags": [
-      "Mobile"
-    ],
-    "name": "Voatz"
+    "source": "other",
+    "addedDate": "2026-03-04T00:59:32.087Z"
   },
   {
     "url": "https://hackenproof.com/blog/for-hackers/uacatsdivision-bug-bounty-reward",
@@ -2766,16 +2321,8 @@
   },
   {
     "url": "https://lingonlabs.com/bug-bounty",
-    "source": "bugbountydirectory",
-    "addedDate": "2026-03-04T04:30:05.359Z",
-    "company": "Lingon Labs",
-    "bounty": true,
-    "swag": false,
-    "hof": false,
-    "tags": [
-      "Web2"
-    ],
-    "name": "Lingon Labs"
+    "source": "other",
+    "addedDate": "2026-03-04T00:59:32.087Z"
   },
   {
     "url": "https://silvergoldbull.ca/bug-bounty",
@@ -2934,16 +2481,8 @@
   },
   {
     "url": "https://docs.ultra.cc/policies/bug-bounty-program",
-    "source": "bugbountydirectory",
-    "addedDate": "2026-03-04T04:30:05.359Z",
-    "company": "Ultra",
-    "bounty": true,
-    "swag": false,
-    "hof": false,
-    "tags": [
-      "Web2"
-    ],
-    "name": "Ultra"
+    "source": "other",
+    "addedDate": "2026-03-04T00:59:32.087Z"
   },
   {
     "url": "https://www.microsoft.com/en-us/msrc/bounty-programs",
@@ -3017,17 +2556,8 @@
   },
   {
     "url": "https://www.adspower.com/bug-bounty",
-    "source": "bugbountydirectory",
-    "addedDate": "2026-03-04T04:30:05.354Z",
-    "company": "AdsPower",
-    "bounty": true,
-    "swag": false,
-    "hof": false,
-    "tags": [
-      "Web2",
-      "Desktop"
-    ],
-    "name": "AdsPower"
+    "source": "other",
+    "addedDate": "2026-03-04T00:59:32.087Z"
   },
   {
     "url": "https://yandex.com/bugbounty",
@@ -3081,16 +2611,8 @@
   },
   {
     "url": "https://ofza.com/en/bug-bounty-program",
-    "source": "bugbountydirectory",
-    "addedDate": "2026-03-04T04:30:05.357Z",
-    "company": "OFZA",
-    "bounty": true,
-    "swag": false,
-    "hof": false,
-    "tags": [
-      "Web2"
-    ],
-    "name": "OFZA"
+    "source": "other",
+    "addedDate": "2026-03-04T00:59:32.087Z"
   },
   {
     "url": "https://qa.frndapp.in/bug-bounty-program",
@@ -3409,30 +2931,13 @@
   },
   {
     "url": "https://syncezy.com/bug-bounty-program",
-    "source": "bugbountydirectory",
-    "addedDate": "2026-03-04T04:30:05.358Z",
-    "company": "SyncEzy",
-    "bounty": true,
-    "swag": false,
-    "hof": false,
-    "tags": [
-      "Web2"
-    ],
-    "name": "SyncEzy"
+    "source": "other",
+    "addedDate": "2026-03-04T00:59:32.087Z"
   },
   {
     "url": "https://www.minut.com/legal/bug-bounty-program-policy",
-    "source": "bugbountydirectory",
-    "addedDate": "2026-03-04T04:30:05.356Z",
-    "company": "Minut",
-    "bounty": true,
-    "swag": false,
-    "hof": false,
-    "tags": [
-      "Web2",
-      "Mobile"
-    ],
-    "name": "Minut"
+    "source": "other",
+    "addedDate": "2026-03-04T00:59:32.087Z"
   },
   {
     "url": "https://www.swiggy.com/bug-bounty",
@@ -3451,23 +2956,13 @@
   },
   {
     "url": "https://zerodha.com/bug-bounty",
-    "source": "bugbountydirectory",
-    "addedDate": "2026-03-04T04:30:05.358Z",
-    "company": "Zerodha",
-    "bounty": true,
-    "swag": false,
-    "hof": false,
-    "tags": [
-      "Web2",
-      "Mobile"
-    ],
-    "name": "Zerodha"
+    "source": "other",
+    "addedDate": "2026-03-04T00:59:32.087Z"
   },
   {
     "url": "https://www.growthbook.io/security/bugbounty",
-    "source": "bugbountydirectory",
-    "addedDate": "2026-03-04T04:30:05.355Z",
-    "name": "GrowthBook"
+    "source": "other",
+    "addedDate": "2026-03-04T00:59:32.087Z"
   },
   {
     "url": "https://www.sui.io/bug-bounty-program",
@@ -3476,17 +2971,8 @@
   },
   {
     "url": "https://supra.com/bug-bounty",
-    "source": "bugbountydirectory",
-    "addedDate": "2026-03-04T04:30:05.358Z",
-    "company": "Supra",
-    "bounty": true,
-    "swag": false,
-    "hof": false,
-    "tags": [
-      "Web2",
-      "Web3"
-    ],
-    "name": "Supra"
+    "source": "other",
+    "addedDate": "2026-03-04T00:59:32.087Z"
   },
   {
     "url": "https://www.shopify.com/bugbounty",
@@ -3550,16 +3036,8 @@
   },
   {
     "url": "https://developers.hivelocity.net/docs/bug-bounty-program",
-    "source": "bugbountydirectory",
-    "addedDate": "2026-03-04T04:30:05.356Z",
-    "company": "Hivelocity",
-    "bounty": true,
-    "swag": false,
-    "hof": false,
-    "tags": [
-      "Web2"
-    ],
-    "name": "Hivelocity"
+    "source": "other",
+    "addedDate": "2026-03-04T00:59:32.087Z"
   },
   {
     "url": "https://hypernode.com/en/adobe-magento-bug-bounty-program",
@@ -3573,9 +3051,8 @@
   },
   {
     "url": "https://www.blockdaemon.com/vulnerability-disclosure-program-policy",
-    "source": "bugbountydirectory",
-    "addedDate": "2026-03-04T04:30:05.354Z",
-    "name": "Blockdaemon"
+    "source": "other",
+    "addedDate": "2026-03-04T00:59:32.087Z"
   },
   {
     "url": "https://bounty.tokopedia.net",
@@ -3584,16 +3061,8 @@
   },
   {
     "url": "https://www.prefect.io/bug-bounty",
-    "source": "bugbountydirectory",
-    "addedDate": "2026-03-04T04:30:05.357Z",
-    "company": "Prefect",
-    "bounty": true,
-    "swag": false,
-    "hof": false,
-    "tags": [
-      "Web2"
-    ],
-    "name": "Prefect"
+    "source": "other",
+    "addedDate": "2026-03-04T00:59:32.087Z"
   },
   {
     "url": "https://solscan.io/bugbounty",
@@ -3602,30 +3071,13 @@
   },
   {
     "url": "https://docs.scallop.io/protocol/bug-bounty",
-    "source": "bugbountydirectory",
-    "addedDate": "2026-03-04T04:30:05.357Z",
-    "company": "Scallop",
-    "bounty": true,
-    "swag": false,
-    "hof": false,
-    "tags": [
-      "Web3"
-    ],
-    "name": "Scallop"
+    "source": "other",
+    "addedDate": "2026-03-04T00:59:32.087Z"
   },
   {
     "url": "https://securitize.io/bug-bounty",
-    "source": "bugbountydirectory",
-    "addedDate": "2026-03-04T04:30:05.359Z",
-    "company": "Securitize",
-    "bounty": true,
-    "swag": false,
-    "hof": false,
-    "tags": [
-      "Web2",
-      "Web3"
-    ],
-    "name": "Securitize"
+    "source": "other",
+    "addedDate": "2026-03-04T00:59:32.087Z"
   },
   {
     "url": "https://trezor.io/other/partner-portal/for-developers/bug-bounty-program",
@@ -3639,29 +3091,13 @@
   },
   {
     "url": "https://www.storj.io/company/bug-bounty",
-    "source": "bugbountydirectory",
-    "addedDate": "2026-03-04T04:30:05.358Z",
-    "company": "Storj",
-    "bounty": true,
-    "swag": false,
-    "hof": false,
-    "tags": [
-      "Web2"
-    ],
-    "name": "Storj"
+    "source": "other",
+    "addedDate": "2026-03-04T00:59:32.087Z"
   },
   {
     "url": "https://simplelogin.io/blog/bug-bounty-program",
-    "source": "bugbountydirectory",
-    "addedDate": "2026-03-04T04:30:05.357Z",
-    "company": "SimpleLogin",
-    "bounty": true,
-    "swag": false,
-    "hof": false,
-    "tags": [
-      "Web2"
-    ],
-    "name": "SimpleLogin"
+    "source": "other",
+    "addedDate": "2026-03-04T00:59:32.087Z"
   },
   {
     "url": "https://nolt.io/help/nolt-bug-bounty-program",
@@ -3675,18 +3111,8 @@
   },
   {
     "url": "https://docs.zora.co/bug-bounty/bug-bounty-program",
-    "source": "bugbountydirectory",
-    "addedDate": "2026-03-04T04:30:05.359Z",
-    "company": "Zora",
-    "bounty": true,
-    "swag": false,
-    "hof": false,
-    "tags": [
-      "Web2",
-      "Mobile",
-      "Web3"
-    ],
-    "name": "Zora"
+    "source": "other",
+    "addedDate": "2026-03-04T00:59:32.087Z"
   },
   {
     "url": "https://flexa.co/security/bug-bounty-program",
@@ -4351,7 +3777,7 @@
   {
     "url": "https://3commas.io/bounty",
     "source": "bugbountydirectory",
-    "addedDate": "2026-03-04T04:30:05.354Z",
+    "addedDate": "2026-03-04T02:33:18.733Z",
     "company": "3Commas",
     "bounty": true,
     "swag": false,
@@ -4359,13 +3785,12 @@
     "tags": [
       "Web2",
       "Mobile"
-    ],
-    "name": "3Commas"
+    ]
   },
   {
     "url": "https://www.7shifts.com/responsible-disclosure/",
     "source": "bugbountydirectory",
-    "addedDate": "2026-03-04T04:30:05.354Z",
+    "addedDate": "2026-03-04T02:33:18.733Z",
     "company": "7shifts",
     "bounty": true,
     "swag": false,
@@ -4373,65 +3798,98 @@
     "tags": [
       "Web2",
       "Mobile"
-    ],
-    "name": "7shifts"
+    ]
   },
   {
     "url": "https://www.84codes.com/security",
     "source": "bugbountydirectory",
-    "addedDate": "2026-03-04T04:30:05.354Z",
+    "addedDate": "2026-03-04T02:33:18.733Z",
     "company": "84codes",
     "bounty": true,
     "swag": false,
     "hof": false,
     "tags": [
       "Web2"
-    ],
-    "name": "84codes"
+    ]
   },
   {
     "url": "https://www.acceldata.io/bug-bounty",
     "source": "bugbountydirectory",
-    "addedDate": "2026-03-04T04:30:05.354Z",
+    "addedDate": "2026-03-04T02:33:18.733Z",
     "company": "Acceldata",
     "bounty": true,
     "swag": false,
     "hof": false,
     "tags": [
       "Web2"
-    ],
-    "name": "Acceldata"
+    ]
   },
   {
     "url": "https://www.accredible.com/whitehat",
     "source": "bugbountydirectory",
-    "addedDate": "2026-03-04T04:30:05.354Z",
+    "addedDate": "2026-03-04T02:33:18.733Z",
     "company": "Accredible",
     "bounty": true,
     "swag": false,
     "hof": false,
     "tags": [
       "Web2"
-    ],
-    "name": "Accredible"
+    ]
+  },
+  {
+    "url": "https://achievable.me/bug-bounty",
+    "source": "bugbountydirectory",
+    "addedDate": "2026-03-04T02:33:18.733Z",
+    "company": "Achievable",
+    "bounty": true,
+    "swag": false,
+    "hof": false,
+    "tags": [
+      "Web2"
+    ]
   },
   {
     "url": "https://www.achmea.nl/en/responsible-disclosure",
     "source": "bugbountydirectory",
-    "addedDate": "2026-03-04T04:30:05.354Z",
+    "addedDate": "2026-03-04T02:33:18.733Z",
     "company": "Achmea",
     "bounty": true,
     "swag": true,
     "hof": true,
     "tags": [
       "Web2"
-    ],
-    "name": "Achmea"
+    ]
+  },
+  {
+    "url": "https://docs.across.to/resources/bug-bounty",
+    "source": "bugbountydirectory",
+    "addedDate": "2026-03-04T02:33:18.733Z",
+    "company": "Across",
+    "bounty": true,
+    "swag": false,
+    "hof": false,
+    "tags": [
+      "Web3",
+      "Web2"
+    ]
+  },
+  {
+    "url": "https://www.actcorp.in/legal/bug-bounty",
+    "source": "bugbountydirectory",
+    "addedDate": "2026-03-04T02:33:18.733Z",
+    "company": "ACT Fibernet",
+    "bounty": true,
+    "swag": false,
+    "hof": false,
+    "tags": [
+      "Web2",
+      "Mobile"
+    ]
   },
   {
     "url": "https://www.adafruit.com/reportingsecurityissues",
     "source": "bugbountydirectory",
-    "addedDate": "2026-03-04T04:30:05.354Z",
+    "addedDate": "2026-03-04T02:33:18.733Z",
     "company": "Adafruit",
     "bounty": true,
     "swag": true,
@@ -4439,52 +3897,61 @@
     "tags": [
       "Web2",
       "Mobile"
-    ],
-    "name": "Adafruit"
+    ]
+  },
+  {
+    "url": "https://www.adspower.com/bug-bounty",
+    "source": "bugbountydirectory",
+    "addedDate": "2026-03-04T02:33:18.733Z",
+    "company": "AdsPower",
+    "bounty": true,
+    "swag": false,
+    "hof": false,
+    "tags": [
+      "Web2",
+      "Desktop"
+    ]
   },
   {
     "url": "https://www.aholddelhaize.com/security",
     "source": "bugbountydirectory",
-    "addedDate": "2026-03-04T04:30:05.354Z",
+    "addedDate": "2026-03-04T02:33:18.733Z",
     "company": "Ahold Delhaize",
     "bounty": true,
     "swag": true,
     "hof": true,
     "tags": [
       "Web2"
-    ],
-    "name": "Ahold Delhaize"
+    ]
   },
   {
     "url": "https://help.alwaysdata.com/en/security/bug-bounty",
     "source": "bugbountydirectory",
-    "addedDate": "2026-03-04T04:30:05.354Z",
+    "addedDate": "2026-03-04T02:33:18.733Z",
     "company": "Alwaysdata",
     "bounty": true,
     "swag": false,
     "hof": false,
     "tags": [
       "Web2"
-    ],
-    "name": "Alwaysdata"
+    ]
   },
   {
     "url": "https://www.amagi.com/responsible-disclosure-program",
     "source": "bugbountydirectory",
-    "addedDate": "2026-03-04T04:30:05.354Z",
+    "addedDate": "2026-03-04T02:33:18.733Z",
     "company": "Amagi",
     "bounty": true,
     "swag": false,
     "hof": false,
     "tags": [
       "Web2"
-    ],
-    "name": "Amagi"
+    ]
   },
   {
     "url": "https://artifex.com/developers-bug-bounty-program",
     "source": "bugbountydirectory",
-    "addedDate": "2026-03-04T04:30:05.354Z",
+    "addedDate": "2026-03-04T02:33:18.733Z",
     "company": "Artifex",
     "bounty": true,
     "swag": false,
@@ -4493,39 +3960,48 @@
       "Web2",
       "Desktop",
       "Mobile"
-    ],
-    "name": "Artifex"
+    ]
   },
   {
     "url": "https://authorium.com/report-vulnerabilities-and-earn-rewards",
     "source": "bugbountydirectory",
-    "addedDate": "2026-03-04T04:30:05.354Z",
+    "addedDate": "2026-03-04T02:33:18.733Z",
     "company": "Authorium",
     "bounty": true,
     "swag": false,
     "hof": false,
     "tags": [
       "Web2"
-    ],
-    "name": "Authorium"
+    ]
   },
   {
     "url": "https://www.automox.com/platform/security/responsible-disclosure",
     "source": "bugbountydirectory",
-    "addedDate": "2026-03-04T04:30:05.354Z",
+    "addedDate": "2026-03-04T02:33:18.733Z",
     "company": "Automox",
     "bounty": true,
     "swag": false,
     "hof": false,
     "tags": [
       "Web2"
-    ],
-    "name": "Automox"
+    ]
+  },
+  {
+    "url": "https://www.axonivy.com/bugbountyprogram",
+    "source": "bugbountydirectory",
+    "addedDate": "2026-03-04T02:33:18.733Z",
+    "company": "Axon Ivy",
+    "bounty": true,
+    "swag": false,
+    "hof": false,
+    "tags": [
+      "Web2"
+    ]
   },
   {
     "url": "https://support.backpack.exchange/exchange/programs/bug-bounty-program",
     "source": "bugbountydirectory",
-    "addedDate": "2026-03-04T04:30:05.354Z",
+    "addedDate": "2026-03-04T02:33:18.733Z",
     "company": "Backpack",
     "bounty": true,
     "swag": false,
@@ -4533,26 +4009,24 @@
     "tags": [
       "Web2",
       "Mobile"
-    ],
-    "name": "Backpack"
+    ]
   },
   {
     "url": "https://backyardbandwidth.com/bug-bounty",
     "source": "bugbountydirectory",
-    "addedDate": "2026-03-04T04:30:05.354Z",
+    "addedDate": "2026-03-04T02:33:18.733Z",
     "company": "Backyard Bandwidth",
     "bounty": true,
     "swag": false,
     "hof": true,
     "tags": [
       "Web2"
-    ],
-    "name": "Backyard Bandwidth"
+    ]
   },
   {
     "url": "https://bankera.com/bug-bounty",
     "source": "bugbountydirectory",
-    "addedDate": "2026-03-04T04:30:05.354Z",
+    "addedDate": "2026-03-04T02:33:18.733Z",
     "company": "Bankera",
     "bounty": true,
     "swag": false,
@@ -4560,39 +4034,73 @@
     "tags": [
       "Web2",
       "Mobile"
-    ],
-    "name": "Bankera"
+    ]
+  },
+  {
+    "url": "https://support.bankful.com/bounty-hunter-program",
+    "source": "bugbountydirectory",
+    "addedDate": "2026-03-04T02:33:18.733Z",
+    "company": "Bankful",
+    "bounty": true,
+    "swag": false,
+    "hof": false,
+    "tags": [
+      "Web2"
+    ]
+  },
+  {
+    "url": "https://www.getbeamer.com/bug-bounty-program",
+    "source": "bugbountydirectory",
+    "addedDate": "2026-03-04T02:33:18.733Z",
+    "company": "Beamer",
+    "bounty": true,
+    "swag": false,
+    "hof": false,
+    "tags": [
+      "Web2"
+    ]
   },
   {
     "url": "https://www.federacy.com/belvo-technologies-inc?tab=Intro",
     "source": "bugbountydirectory",
-    "addedDate": "2026-03-04T04:30:05.354Z",
+    "addedDate": "2026-03-04T02:33:18.733Z",
     "company": "Belvo",
     "bounty": true,
     "swag": false,
     "hof": false,
     "tags": [
       "Web2"
-    ],
-    "name": "Belvo"
+    ]
+  },
+  {
+    "url": "https://www.bentley.com/legal/bug-bounty-report",
+    "source": "bugbountydirectory",
+    "addedDate": "2026-03-04T02:33:18.733Z",
+    "company": "Bentley Systems",
+    "bounty": true,
+    "swag": false,
+    "hof": false,
+    "tags": [
+      "Web2",
+      "Mobile"
+    ]
   },
   {
     "url": "https://birdviewpsa.com/company/vulnerability-reward-program/",
     "source": "bugbountydirectory",
-    "addedDate": "2026-03-04T04:30:05.354Z",
+    "addedDate": "2026-03-04T02:33:18.733Z",
     "company": "Birdview",
     "bounty": true,
     "swag": false,
     "hof": false,
     "tags": [
       "Web2"
-    ],
-    "name": "Birdview"
+    ]
   },
   {
     "url": "https://blancvpn.com/bug-bounty",
     "source": "bugbountydirectory",
-    "addedDate": "2026-03-04T04:30:05.354Z",
+    "addedDate": "2026-03-04T02:33:18.733Z",
     "company": "BlancVPN",
     "bounty": true,
     "swag": false,
@@ -4601,78 +4109,84 @@
       "Web2",
       "Mobile",
       "Desktop"
-    ],
-    "name": "BlancVPN"
+    ]
   },
   {
     "url": "https://gobloominghealth.com/responsible-disclosure-policy",
     "source": "bugbountydirectory",
-    "addedDate": "2026-03-04T04:30:05.354Z",
+    "addedDate": "2026-03-04T02:33:18.733Z",
     "company": "Blooming Health",
     "bounty": true,
     "swag": false,
     "hof": false,
     "tags": [
       "Web2"
-    ],
-    "name": "Blooming Health"
+    ]
   },
   {
     "url": "https://bluecatnetworks.com/bug-bounty",
     "source": "bugbountydirectory",
-    "addedDate": "2026-03-04T04:30:05.354Z",
+    "addedDate": "2026-03-04T02:33:18.733Z",
     "company": "Bluecat Networks",
     "bounty": true,
     "swag": false,
     "hof": false,
     "tags": [
       "Web2"
-    ],
-    "name": "Bluecat Networks"
+    ]
   },
   {
     "url": "https://www.bluesnap.com/legal/security-bounty",
     "source": "bugbountydirectory",
-    "addedDate": "2026-03-04T04:30:05.354Z",
+    "addedDate": "2026-03-04T02:33:18.733Z",
     "company": "BlueSnap",
     "bounty": true,
     "swag": false,
     "hof": false,
     "tags": [
       "Web2"
-    ],
-    "name": "BlueSnap"
+    ]
   },
   {
     "url": "https://www.brickowl.com/help/vulnerability-disclosure-policy",
     "source": "bugbountydirectory",
-    "addedDate": "2026-03-04T04:30:05.354Z",
+    "addedDate": "2026-03-04T02:33:18.733Z",
     "company": "Brick Owl",
     "bounty": true,
     "swag": false,
     "hof": false,
     "tags": [
       "Web2"
-    ],
-    "name": "Brick Owl"
+    ]
+  },
+  {
+    "url": "https://www.brilliantdirectories.com/security-bounty",
+    "source": "bugbountydirectory",
+    "addedDate": "2026-03-04T02:33:18.733Z",
+    "company": "Brilliant Directories",
+    "bounty": true,
+    "swag": false,
+    "hof": false,
+    "tags": [
+      "Web2"
+    ]
   },
   {
     "url": "https://buffer.com/legal#security",
     "source": "bugbountydirectory",
-    "addedDate": "2026-03-04T04:30:05.355Z",
+    "addedDate": "2026-03-04T02:33:18.733Z",
     "company": "Buffer",
     "bounty": true,
     "swag": true,
     "hof": true,
     "tags": [
       "Web2"
-    ],
-    "name": "Buffer"
+    ]
   },
   {
     "url": "https://www.bybitglobal.com/en/help-center/article/Bybit-Bug-Bounty-Program-T-C",
     "source": "bugbountydirectory",
-    "addedDate": "2026-03-04T04:30:05.355Z",
+    "addedDate": "2026-03-04T02:33:18.733Z",
     "company": "Bybit",
     "bounty": true,
     "swag": false,
@@ -4680,13 +4194,12 @@
     "tags": [
       "Web2",
       "Web3"
-    ],
-    "name": "Bybit"
+    ]
   },
   {
     "url": "https://security.cake.com",
     "source": "bugbountydirectory",
-    "addedDate": "2026-03-04T04:30:05.355Z",
+    "addedDate": "2026-03-04T02:33:18.733Z",
     "company": "CAKE.com",
     "bounty": true,
     "swag": false,
@@ -4694,91 +4207,96 @@
     "tags": [
       "Web2",
       "Mobile"
-    ],
-    "name": "CAKE.com"
+    ]
   },
   {
     "url": "https://support.carousell.com/hc/en-us/articles/5859364523417-Carousell-Group-Bug-Bounty-Program",
     "source": "bugbountydirectory",
-    "addedDate": "2026-03-04T04:30:05.355Z",
+    "addedDate": "2026-03-04T02:33:18.733Z",
     "company": "Carousell",
     "bounty": true,
     "swag": false,
     "hof": false,
     "tags": [
       "Web2"
-    ],
-    "name": "Carousell"
+    ]
   },
   {
     "url": "https://support.celtra.com/vulnerability-disclosure-program",
     "source": "bugbountydirectory",
-    "addedDate": "2026-03-04T04:30:05.355Z",
+    "addedDate": "2026-03-04T02:33:18.733Z",
     "company": "Celtra",
     "bounty": true,
     "swag": false,
     "hof": false,
     "tags": [
       "Web2"
-    ],
-    "name": "Celtra"
+    ]
   },
   {
     "url": "https://www.chameleon.io/disclosure",
     "source": "bugbountydirectory",
-    "addedDate": "2026-03-04T04:30:05.355Z",
+    "addedDate": "2026-03-04T02:33:18.733Z",
     "company": "Chameleon",
     "bounty": true,
     "swag": false,
     "hof": false,
     "tags": [
       "Web2"
-    ],
-    "name": "Chameleon"
+    ]
+  },
+  {
+    "url": "https://chapa.co/more/chapa-bug-bounty-program",
+    "source": "bugbountydirectory",
+    "addedDate": "2026-03-04T02:33:18.733Z",
+    "company": "Chapa",
+    "bounty": true,
+    "swag": false,
+    "hof": false,
+    "tags": [
+      "Web2"
+    ]
   },
   {
     "url": "https://www.federacy.com/check?tab=Intro",
     "source": "bugbountydirectory",
-    "addedDate": "2026-03-04T04:30:05.355Z",
+    "addedDate": "2026-03-04T02:33:18.733Z",
     "company": "Check",
     "bounty": true,
     "swag": false,
     "hof": false,
     "tags": [
       "Web2"
-    ],
-    "name": "Check"
+    ]
   },
   {
     "url": "https://www.chess.com/news/view/chess-com-bug-bounty-policy",
     "source": "bugbountydirectory",
-    "addedDate": "2026-03-04T04:30:05.355Z",
+    "addedDate": "2026-03-04T02:33:18.733Z",
     "company": "Chess.com",
     "bounty": true,
     "swag": false,
     "hof": false,
     "tags": [
       "Web2"
-    ],
-    "name": "Chess.com"
+    ]
   },
   {
     "url": "https://www.civo.com/legal/bug-bounty",
     "source": "bugbountydirectory",
-    "addedDate": "2026-03-04T04:30:05.355Z",
+    "addedDate": "2026-03-04T02:33:18.733Z",
     "company": "Civo",
     "bounty": true,
     "swag": false,
     "hof": false,
     "tags": [
       "Web2"
-    ],
-    "name": "Civo"
+    ]
   },
   {
     "url": "https://cleanshot.com/disclosure",
     "source": "bugbountydirectory",
-    "addedDate": "2026-03-04T04:30:05.355Z",
+    "addedDate": "2026-03-04T02:33:18.733Z",
     "company": "CleanShot X",
     "bounty": true,
     "swag": false,
@@ -4786,26 +4304,37 @@
     "tags": [
       "Web2",
       "Desktop"
-    ],
-    "name": "CleanShot X"
+    ]
+  },
+  {
+    "url": "https://cloudcannon.com/bug-bounty",
+    "source": "bugbountydirectory",
+    "addedDate": "2026-03-04T02:33:18.733Z",
+    "company": "CloudCannon",
+    "bounty": true,
+    "swag": false,
+    "hof": false,
+    "tags": [
+      "Web2",
+      "CMS"
+    ]
   },
   {
     "url": "https://help.cloudsmith.io/docs/bug-bounty-programme",
     "source": "bugbountydirectory",
-    "addedDate": "2026-03-04T04:30:05.355Z",
+    "addedDate": "2026-03-04T02:33:18.733Z",
     "company": "Cloudsmith",
     "bounty": true,
     "swag": false,
     "hof": true,
     "tags": [
       "Web2"
-    ],
-    "name": "Cloudsmith"
+    ]
   },
   {
     "url": "https://cluelyhq.notion.site/bugbounty",
     "source": "bugbountydirectory",
-    "addedDate": "2026-03-04T04:30:05.355Z",
+    "addedDate": "2026-03-04T02:33:18.733Z",
     "company": "Cluely",
     "bounty": true,
     "swag": false,
@@ -4813,39 +4342,48 @@
     "tags": [
       "Web2",
       "Desktop"
-    ],
-    "name": "Cluely"
+    ]
+  },
+  {
+    "url": "https://www.coachaccountable.com/bugBounty",
+    "source": "bugbountydirectory",
+    "addedDate": "2026-03-04T02:33:18.733Z",
+    "company": "CoachAccountable",
+    "bounty": true,
+    "swag": false,
+    "hof": true,
+    "tags": [
+      "Web2"
+    ]
   },
   {
     "url": "https://www.coderabbit.ai/vulnerability-disclosure",
     "source": "bugbountydirectory",
-    "addedDate": "2026-03-04T04:30:05.355Z",
+    "addedDate": "2026-03-04T02:33:18.733Z",
     "company": "CodeRabbit",
     "bounty": true,
     "swag": false,
     "hof": false,
     "tags": [
       "Web2"
-    ],
-    "name": "CodeRabbit"
+    ]
   },
   {
     "url": "https://coderpad.io/vulnerability-disclosure-policy",
     "source": "bugbountydirectory",
-    "addedDate": "2026-03-04T04:30:05.355Z",
+    "addedDate": "2026-03-04T02:33:18.733Z",
     "company": "CoderPad",
     "bounty": true,
     "swag": false,
     "hof": true,
     "tags": [
       "Web2"
-    ],
-    "name": "CoderPad"
+    ]
   },
   {
     "url": "https://www.codingninjas.com/bug-bounty",
     "source": "bugbountydirectory",
-    "addedDate": "2026-03-04T04:30:05.355Z",
+    "addedDate": "2026-03-04T02:33:18.733Z",
     "company": "Coding Ninjas",
     "bounty": true,
     "swag": true,
@@ -4853,13 +4391,12 @@
     "tags": [
       "Web2",
       "Mobile"
-    ],
-    "name": "Coding Ninjas"
+    ]
   },
   {
     "url": "https://support.coincall.com/hc/en-us/articles/22182756862617-Coincall-Bug-Bounty-Program",
     "source": "bugbountydirectory",
-    "addedDate": "2026-03-04T04:30:05.355Z",
+    "addedDate": "2026-03-04T02:33:18.733Z",
     "company": "Coincall",
     "bounty": true,
     "swag": false,
@@ -4867,13 +4404,12 @@
     "tags": [
       "Web2",
       "Mobile"
-    ],
-    "name": "Coincall"
+    ]
   },
   {
     "url": "https://docs.colony.io/colonynetwork/bug-bounty",
     "source": "bugbountydirectory",
-    "addedDate": "2026-03-04T04:30:05.355Z",
+    "addedDate": "2026-03-04T02:33:18.733Z",
     "company": "Colony",
     "bounty": true,
     "swag": false,
@@ -4881,39 +4417,48 @@
     "tags": [
       "Web2",
       "Web3"
-    ],
-    "name": "Colony"
+    ]
   },
   {
     "url": "https://www.conductor.com/legal/security-bugbounty-program",
     "source": "bugbountydirectory",
-    "addedDate": "2026-03-04T04:30:05.355Z",
+    "addedDate": "2026-03-04T02:33:18.733Z",
     "company": "Conductor",
     "bounty": true,
     "swag": false,
     "hof": false,
     "tags": [
       "Web2"
-    ],
-    "name": "Conductor"
+    ]
+  },
+  {
+    "url": "https://configcat.com/bounty",
+    "source": "bugbountydirectory",
+    "addedDate": "2026-03-04T02:33:18.734Z",
+    "company": "ConfigCat",
+    "bounty": true,
+    "swag": false,
+    "hof": false,
+    "tags": [
+      "Web2"
+    ]
   },
   {
     "url": "https://cujo.com/bug-bounty-program-terms-and-conditions",
     "source": "bugbountydirectory",
-    "addedDate": "2026-03-04T04:30:05.355Z",
+    "addedDate": "2026-03-04T02:33:18.734Z",
     "company": "CUJO AI",
     "bounty": true,
     "swag": false,
     "hof": false,
     "tags": [
       "Web2"
-    ],
-    "name": "CUJO AI"
+    ]
   },
   {
     "url": "https://security.dapperlabs.com",
     "source": "bugbountydirectory",
-    "addedDate": "2026-03-04T04:30:05.355Z",
+    "addedDate": "2026-03-04T02:33:18.734Z",
     "company": "Dapper Labs",
     "bounty": true,
     "swag": false,
@@ -4922,13 +4467,24 @@
       "Web2",
       "Web3",
       "Mobile"
-    ],
-    "name": "Dapper Labs"
+    ]
+  },
+  {
+    "url": "https://dappradar.com/bug-bounty",
+    "source": "bugbountydirectory",
+    "addedDate": "2026-03-04T02:33:18.734Z",
+    "company": "DappRadar",
+    "bounty": true,
+    "swag": false,
+    "hof": false,
+    "tags": [
+      "Web2"
+    ]
   },
   {
     "url": "https://bounty.decred.org",
     "source": "bugbountydirectory",
-    "addedDate": "2026-03-04T04:30:05.355Z",
+    "addedDate": "2026-03-04T02:33:18.734Z",
     "company": "Decred",
     "bounty": true,
     "swag": false,
@@ -4936,26 +4492,24 @@
     "tags": [
       "Web2",
       "Web3"
-    ],
-    "name": "Decred"
+    ]
   },
   {
     "url": "https://www.deeto.ai/legal/bug-bounty",
     "source": "bugbountydirectory",
-    "addedDate": "2026-03-04T04:30:05.355Z",
+    "addedDate": "2026-03-04T02:33:18.734Z",
     "company": "Deeto",
     "bounty": true,
     "swag": false,
     "hof": false,
     "tags": [
       "Web2"
-    ],
-    "name": "Deeto"
+    ]
   },
   {
     "url": "https://www.deskpro.com/security/responsible-disclosure",
     "source": "bugbountydirectory",
-    "addedDate": "2026-03-04T04:30:05.355Z",
+    "addedDate": "2026-03-04T02:33:18.734Z",
     "company": "Deskpro",
     "bounty": true,
     "swag": false,
@@ -4963,13 +4517,12 @@
     "tags": [
       "Web2",
       "Desktop"
-    ],
-    "name": "Deskpro"
+    ]
   },
   {
     "url": "https://security.dji.com/policy",
     "source": "bugbountydirectory",
-    "addedDate": "2026-03-04T04:30:05.355Z",
+    "addedDate": "2026-03-04T02:33:18.734Z",
     "company": "DJI",
     "bounty": true,
     "swag": false,
@@ -4978,13 +4531,24 @@
       "Web2",
       "Mobile",
       "Hardware"
-    ],
-    "name": "DJI"
+    ]
+  },
+  {
+    "url": "https://help.doit.com/docs/vendor-information/bug-bounty-program",
+    "source": "bugbountydirectory",
+    "addedDate": "2026-03-04T02:33:18.734Z",
+    "company": "DoiT",
+    "bounty": true,
+    "swag": false,
+    "hof": false,
+    "tags": [
+      "Web2"
+    ]
   },
   {
     "url": "https://mydukaan.io/bugbounty",
     "source": "bugbountydirectory",
-    "addedDate": "2026-03-04T04:30:05.355Z",
+    "addedDate": "2026-03-04T02:33:18.734Z",
     "company": "Dukaan",
     "bounty": true,
     "swag": false,
@@ -4992,52 +4556,73 @@
     "tags": [
       "Web2",
       "Mobile"
-    ],
-    "name": "Dukaan"
+    ]
+  },
+  {
+    "url": "https://docs.dune.com/web-app/bug-bounty",
+    "source": "bugbountydirectory",
+    "addedDate": "2026-03-04T02:33:18.734Z",
+    "company": "Dune",
+    "bounty": true,
+    "swag": false,
+    "hof": false,
+    "tags": [
+      "Web2"
+    ]
+  },
+  {
+    "url": "https://www.duocircle.com/bug-bounty-program",
+    "source": "bugbountydirectory",
+    "addedDate": "2026-03-04T02:33:18.734Z",
+    "company": "DuoCircle",
+    "bounty": true,
+    "swag": false,
+    "hof": false,
+    "tags": [
+      "Web2",
+      "Mobile"
+    ]
   },
   {
     "url": "https://www.easyname.com/en/support/easyname/253-bug-bounty-program",
     "source": "bugbountydirectory",
-    "addedDate": "2026-03-04T04:30:05.355Z",
+    "addedDate": "2026-03-04T02:33:18.734Z",
     "company": "Easyname",
     "bounty": true,
     "swag": false,
     "hof": false,
     "tags": [
       "Web2"
-    ],
-    "name": "Easyname"
+    ]
   },
   {
     "url": "https://empireflippers.com/empire-flippers-bug-bounty-policy",
     "source": "bugbountydirectory",
-    "addedDate": "2026-03-04T04:30:05.355Z",
+    "addedDate": "2026-03-04T02:33:18.734Z",
     "company": "Empire Flippers",
     "bounty": true,
     "swag": false,
     "hof": false,
     "tags": [
       "Web2"
-    ],
-    "name": "Empire Flippers"
+    ]
   },
   {
     "url": "https://www.empuls.io/bug-bounty",
     "source": "bugbountydirectory",
-    "addedDate": "2026-03-04T04:30:05.355Z",
+    "addedDate": "2026-03-04T02:33:18.734Z",
     "company": "Empuls",
     "bounty": true,
     "swag": false,
     "hof": false,
     "tags": [
       "Web2"
-    ],
-    "name": "Empuls"
+    ]
   },
   {
     "url": "https://www.englishscore.com/.well-known/englishscore-bug-bounty-policy-sept2021.pdf",
     "source": "bugbountydirectory",
-    "addedDate": "2026-03-04T04:30:05.355Z",
+    "addedDate": "2026-03-04T02:33:18.734Z",
     "company": "EnglishScore",
     "bounty": true,
     "swag": false,
@@ -5045,26 +4630,37 @@
     "tags": [
       "Web2",
       "Mobile"
-    ],
-    "name": "EnglishScore"
+    ]
+  },
+  {
+    "url": "https://www.fastmail.com/bug-bounty",
+    "source": "bugbountydirectory",
+    "addedDate": "2026-03-04T02:33:18.734Z",
+    "company": "Fastmail",
+    "bounty": true,
+    "swag": false,
+    "hof": true,
+    "tags": [
+      "Web2",
+      "Mobile"
+    ]
   },
   {
     "url": "https://www.federacy.com/federacy?tab=Intro",
     "source": "bugbountydirectory",
-    "addedDate": "2026-03-04T04:30:05.355Z",
+    "addedDate": "2026-03-04T02:33:18.734Z",
     "company": "Federacy",
     "bounty": true,
     "swag": false,
     "hof": false,
     "tags": [
       "Web2"
-    ],
-    "name": "Federacy"
+    ]
   },
   {
     "url": "https://filen.io/bug-bounty",
     "source": "bugbountydirectory",
-    "addedDate": "2026-03-04T04:30:05.355Z",
+    "addedDate": "2026-03-04T02:33:18.734Z",
     "company": "Filen",
     "bounty": true,
     "swag": false,
@@ -5073,26 +4669,24 @@
       "Web2",
       "Mobile",
       "Desktop"
-    ],
-    "name": "Filen"
+    ]
   },
   {
     "url": "https://filepreviews.io/security/bug-bounty",
     "source": "bugbountydirectory",
-    "addedDate": "2026-03-04T04:30:05.355Z",
+    "addedDate": "2026-03-04T02:33:18.734Z",
     "company": "FilePreviews",
     "bounty": true,
     "swag": false,
     "hof": true,
     "tags": [
       "Web2"
-    ],
-    "name": "FilePreviews"
+    ]
   },
   {
     "url": "https://flow.com/flow-responsible-disclosure",
     "source": "bugbountydirectory",
-    "addedDate": "2026-03-04T04:30:05.355Z",
+    "addedDate": "2026-03-04T02:33:18.734Z",
     "company": "Flow",
     "bounty": true,
     "swag": false,
@@ -5100,52 +4694,61 @@
     "tags": [
       "Web2",
       "Web3"
-    ],
-    "name": "Flow"
+    ]
+  },
+  {
+    "url": "https://flowcrypt.com/docs/technical/security/bug-bounty.html",
+    "source": "bugbountydirectory",
+    "addedDate": "2026-03-04T02:33:18.734Z",
+    "company": "FlowCrypt",
+    "bounty": true,
+    "swag": false,
+    "hof": false,
+    "tags": [
+      "Web2",
+      "Mobile"
+    ]
   },
   {
     "url": "https://fuze.finance/bug-bounty",
     "source": "bugbountydirectory",
-    "addedDate": "2026-03-04T04:30:05.355Z",
+    "addedDate": "2026-03-04T02:33:18.734Z",
     "company": "Fuze",
     "bounty": true,
     "swag": false,
     "hof": false,
     "tags": [
       "Web2"
-    ],
-    "name": "Fuze"
+    ]
   },
   {
     "url": "https://support.geckoboard.com/en/articles/6055718-report-a-security-vulnerability-and-responsible-disclosure-policies",
     "source": "bugbountydirectory",
-    "addedDate": "2026-03-04T04:30:05.355Z",
+    "addedDate": "2026-03-04T02:33:18.734Z",
     "company": "Geckoboard",
     "bounty": true,
     "swag": false,
     "hof": false,
     "tags": [
       "Web2"
-    ],
-    "name": "Geckoboard"
+    ]
   },
   {
     "url": "https://www.genetec.com/trust-cybersecurity/bug-bounty",
     "source": "bugbountydirectory",
-    "addedDate": "2026-03-04T04:30:05.355Z",
+    "addedDate": "2026-03-04T02:33:18.734Z",
     "company": "Genetec",
     "bounty": true,
     "swag": false,
     "hof": false,
     "tags": [
       "Web2"
-    ],
-    "name": "Genetec"
+    ]
   },
   {
     "url": "https://gifty.nl/nl/security/vulnerability-reward-program",
     "source": "bugbountydirectory",
-    "addedDate": "2026-03-04T04:30:05.355Z",
+    "addedDate": "2026-03-04T02:33:18.734Z",
     "company": "Gifty",
     "bounty": true,
     "swag": false,
@@ -5153,52 +4756,85 @@
     "tags": [
       "Web2",
       "Mobile"
-    ],
-    "name": "Gifty"
+    ]
+  },
+  {
+    "url": "https://www.gladia.io/bug-bounty",
+    "source": "bugbountydirectory",
+    "addedDate": "2026-03-04T02:33:18.734Z",
+    "company": "Gladia",
+    "bounty": true,
+    "swag": false,
+    "hof": false,
+    "tags": [
+      "Web2"
+    ]
   },
   {
     "url": "https://global.com/bug-bounty-policy",
     "source": "bugbountydirectory",
-    "addedDate": "2026-03-04T04:30:05.355Z",
+    "addedDate": "2026-03-04T02:33:18.734Z",
     "company": "Global",
     "bounty": true,
     "swag": false,
     "hof": false,
     "tags": [
       "Web2"
-    ],
-    "name": "Global"
+    ]
+  },
+  {
+    "url": "https://glow.app/bug-bounty",
+    "source": "bugbountydirectory",
+    "addedDate": "2026-03-04T02:33:18.734Z",
+    "company": "Glow",
+    "bounty": true,
+    "swag": false,
+    "hof": false,
+    "tags": [
+      "Web3",
+      "Mobile"
+    ]
   },
   {
     "url": "https://support.grailed.com/hc/en-us/articles/30283214576013-Grailed-s-Bug-Bounty-Program",
     "source": "bugbountydirectory",
-    "addedDate": "2026-03-04T04:30:05.355Z",
+    "addedDate": "2026-03-04T02:33:18.734Z",
     "company": "Grailed",
     "bounty": true,
     "swag": false,
     "hof": false,
     "tags": [
       "Web2"
-    ],
-    "name": "Grailed"
+    ]
+  },
+  {
+    "url": "https://graphenedb.com/legal/bug-bounty",
+    "source": "bugbountydirectory",
+    "addedDate": "2026-03-04T02:33:18.734Z",
+    "company": "GrapheneDB",
+    "bounty": true,
+    "swag": false,
+    "hof": false,
+    "tags": [
+      "Web2"
+    ]
   },
   {
     "url": "https://www.hm.com/security.txt",
     "source": "bugbountydirectory",
-    "addedDate": "2026-03-04T04:30:05.355Z",
+    "addedDate": "2026-03-04T02:33:18.734Z",
     "company": "H&M",
     "bounty": true,
     "swag": false,
     "hof": false,
     "tags": [
       "Web2"
-    ],
-    "name": "H&M"
+    ]
   },
   {
     "url": "https://www.halodoc.com/security",
     "source": "bugbountydirectory",
-    "addedDate": "2026-03-04T04:30:05.355Z",
+    "addedDate": "2026-03-04T02:33:18.734Z",
     "company": "Halodoc",
     "bounty": true,
     "swag": false,
@@ -5206,26 +4842,36 @@
     "tags": [
       "Web2",
       "Mobile"
-    ],
-    "name": "Halodoc"
+    ]
   },
   {
     "url": "https://www.healthatom.com/security-policy",
     "source": "bugbountydirectory",
-    "addedDate": "2026-03-04T04:30:05.355Z",
+    "addedDate": "2026-03-04T02:33:18.734Z",
     "company": "HealthAtom",
     "bounty": true,
     "swag": false,
     "hof": false,
     "tags": [
       "Web2"
-    ],
-    "name": "HealthAtom"
+    ]
+  },
+  {
+    "url": "https://developers.hivelocity.net/docs/bug-bounty-program",
+    "source": "bugbountydirectory",
+    "addedDate": "2026-03-04T02:33:18.734Z",
+    "company": "Hivelocity",
+    "bounty": true,
+    "swag": false,
+    "hof": false,
+    "tags": [
+      "Web2"
+    ]
   },
   {
     "url": "https://www.joinhomebase.com/responsible-disclosure-program",
     "source": "bugbountydirectory",
-    "addedDate": "2026-03-04T04:30:05.356Z",
+    "addedDate": "2026-03-04T02:33:18.734Z",
     "company": "Homebase",
     "bounty": true,
     "swag": false,
@@ -5233,26 +4879,24 @@
     "tags": [
       "Web2",
       "Mobile"
-    ],
-    "name": "Homebase"
+    ]
   },
   {
     "url": "https://hostsailor.com/bug-bounty-programme",
     "source": "bugbountydirectory",
-    "addedDate": "2026-03-04T04:30:05.356Z",
+    "addedDate": "2026-03-04T02:33:18.734Z",
     "company": "HostSailor",
     "bounty": true,
     "swag": false,
     "hof": true,
     "tags": [
       "Web2"
-    ],
-    "name": "HostSailor"
+    ]
   },
   {
     "url": "https://support.huntress.io/hc/en-us/articles/24119617302291-Huntress-Vulnerability-Disclosure-Program-Terms-and-Conditions",
     "source": "bugbountydirectory",
-    "addedDate": "2026-03-04T04:30:05.356Z",
+    "addedDate": "2026-03-04T02:33:18.734Z",
     "company": "Huntress",
     "bounty": true,
     "swag": false,
@@ -5260,26 +4904,38 @@
     "tags": [
       "Web2",
       "Desktop"
-    ],
-    "name": "Huntress"
+    ]
   },
   {
     "url": "https://ibuildings.com/responsible-disclosure",
     "source": "bugbountydirectory",
-    "addedDate": "2026-03-04T04:30:05.356Z",
+    "addedDate": "2026-03-04T02:33:18.734Z",
     "company": "Ibuildings",
     "bounty": true,
     "swag": false,
     "hof": false,
     "tags": [
       "Web2"
-    ],
-    "name": "Ibuildings"
+    ]
+  },
+  {
+    "url": "https://www.intel.com/content/www/us/en/security-center/bug-bounty-program.html",
+    "source": "bugbountydirectory",
+    "addedDate": "2026-03-04T02:33:18.734Z",
+    "company": "Intel",
+    "bounty": true,
+    "swag": true,
+    "hof": true,
+    "tags": [
+      "Web2",
+      "Hardware",
+      "Desktop"
+    ]
   },
   {
     "url": "https://www.investing-support.com/hc/en-us/articles/360010956797-Investing-com-s-Bug-Bounty-Program",
     "source": "bugbountydirectory",
-    "addedDate": "2026-03-04T04:30:05.356Z",
+    "addedDate": "2026-03-04T02:33:18.734Z",
     "company": "Investing.com",
     "bounty": true,
     "swag": false,
@@ -5287,39 +4943,48 @@
     "tags": [
       "Web2",
       "Mobile"
-    ],
-    "name": "Investing.com"
+    ]
   },
   {
     "url": "https://ironcorelabs.com/trust-center/bug-bounty-program/",
     "source": "bugbountydirectory",
-    "addedDate": "2026-03-04T04:30:05.356Z",
+    "addedDate": "2026-03-04T02:33:18.734Z",
     "company": "IronCore Labs",
     "bounty": true,
     "swag": true,
     "hof": false,
     "tags": [
       "Web2"
-    ],
-    "name": "IronCore Labs"
+    ]
+  },
+  {
+    "url": "https://www.ispsystem.com/bug-bounty",
+    "source": "bugbountydirectory",
+    "addedDate": "2026-03-04T02:33:18.734Z",
+    "company": "ISPsystem",
+    "bounty": true,
+    "swag": false,
+    "hof": false,
+    "tags": [
+      "Web2"
+    ]
   },
   {
     "url": "https://www.ivanti.com/support/contact-security",
     "source": "bugbountydirectory",
-    "addedDate": "2026-03-04T04:30:05.356Z",
+    "addedDate": "2026-03-04T02:33:18.734Z",
     "company": "Ivanti",
     "bounty": true,
     "swag": false,
     "hof": false,
     "tags": [
       "Web2"
-    ],
-    "name": "Ivanti"
+    ]
   },
   {
     "url": "https://ivycyber.com/security-policy/",
     "source": "bugbountydirectory",
-    "addedDate": "2026-03-04T04:30:05.356Z",
+    "addedDate": "2026-03-04T02:33:18.734Z",
     "company": "Ivy Cyber",
     "bounty": true,
     "swag": true,
@@ -5327,13 +4992,24 @@
     "tags": [
       "Web2",
       "Hardware"
-    ],
-    "name": "Ivy Cyber"
+    ]
+  },
+  {
+    "url": "https://www.jetbackup.com/legal/bug-bounty",
+    "source": "bugbountydirectory",
+    "addedDate": "2026-03-04T02:33:18.734Z",
+    "company": "JetBackup",
+    "bounty": true,
+    "swag": false,
+    "hof": false,
+    "tags": [
+      "Web2"
+    ]
   },
   {
     "url": "https://www.getjobber.com/security/bug-bounty",
     "source": "bugbountydirectory",
-    "addedDate": "2026-03-04T04:30:05.356Z",
+    "addedDate": "2026-03-04T02:33:18.734Z",
     "company": "Jobber",
     "bounty": true,
     "swag": false,
@@ -5341,13 +5017,24 @@
     "tags": [
       "Web2",
       "Mobile"
-    ],
-    "name": "Jobber"
+    ]
+  },
+  {
+    "url": "https://help.kagi.com/kagi/privacy/bug-bounty-program.html",
+    "source": "bugbountydirectory",
+    "addedDate": "2026-03-04T02:33:18.734Z",
+    "company": "Kagi",
+    "bounty": true,
+    "swag": false,
+    "hof": false,
+    "tags": [
+      "Web2"
+    ]
   },
   {
     "url": "https://help.kalshi.com/bug-bounty-programs/app-and-website-bug-bounty-program",
     "source": "bugbountydirectory",
-    "addedDate": "2026-03-04T04:30:05.356Z",
+    "addedDate": "2026-03-04T02:33:18.734Z",
     "company": "Kalshi",
     "bounty": true,
     "swag": false,
@@ -5356,13 +5043,24 @@
       "Web2",
       "Web3",
       "Mobile"
-    ],
-    "name": "Kalshi"
+    ]
+  },
+  {
+    "url": "https://www.knapp.com/en/bug-bounty",
+    "source": "bugbountydirectory",
+    "addedDate": "2026-03-04T02:33:18.734Z",
+    "company": "Knapp",
+    "bounty": true,
+    "swag": false,
+    "hof": false,
+    "tags": [
+      "Web2"
+    ]
   },
   {
     "url": "https://www.komoot.com/security/bug-bounty",
     "source": "bugbountydirectory",
-    "addedDate": "2026-03-04T04:30:05.356Z",
+    "addedDate": "2026-03-04T02:33:18.734Z",
     "company": "Komoot",
     "bounty": true,
     "swag": false,
@@ -5370,13 +5068,25 @@
     "tags": [
       "Web2",
       "Mobile"
-    ],
-    "name": "Komoot"
+    ]
+  },
+  {
+    "url": "https://www.kraken.com/features/security/bug-bounty",
+    "source": "bugbountydirectory",
+    "addedDate": "2026-03-04T02:33:18.734Z",
+    "company": "Kraken",
+    "bounty": true,
+    "swag": false,
+    "hof": true,
+    "tags": [
+      "Web2",
+      "Mobile"
+    ]
   },
   {
     "url": "https://kredivo.id/en/bug-bounty.html",
     "source": "bugbountydirectory",
-    "addedDate": "2026-03-04T04:30:05.356Z",
+    "addedDate": "2026-03-04T02:33:18.734Z",
     "company": "Kredivo",
     "bounty": true,
     "swag": false,
@@ -5384,13 +5094,12 @@
     "tags": [
       "Web2",
       "Mobile"
-    ],
-    "name": "Kredivo"
+    ]
   },
   {
     "url": "https://www.kucoin.com/announcement/en-kucoin-bug-bounty-program-launched",
     "source": "bugbountydirectory",
-    "addedDate": "2026-03-04T04:30:05.356Z",
+    "addedDate": "2026-03-04T02:33:18.734Z",
     "company": "KuCoin",
     "bounty": true,
     "swag": false,
@@ -5398,52 +5107,48 @@
     "tags": [
       "Web3",
       "Mobile"
-    ],
-    "name": "KuCoin"
+    ]
   },
   {
     "url": "https://lamatic.ai/docs/bug-bounty-program",
     "source": "bugbountydirectory",
-    "addedDate": "2026-03-04T04:30:05.356Z",
+    "addedDate": "2026-03-04T02:33:18.734Z",
     "company": "Lamatic",
     "bounty": true,
     "swag": true,
     "hof": false,
     "tags": [
       "Web2"
-    ],
-    "name": "Lamatic"
+    ]
   },
   {
     "url": "https://www.langdock.com/vulnerability-disclosure-policy",
     "source": "bugbountydirectory",
-    "addedDate": "2026-03-04T04:30:05.356Z",
+    "addedDate": "2026-03-04T02:33:18.734Z",
     "company": "Langdock",
     "bounty": true,
     "swag": false,
     "hof": false,
     "tags": [
       "Web2"
-    ],
-    "name": "Langdock"
+    ]
   },
   {
     "url": "https://help.levelall.com/en/articles/10776377-bug-bounty-program",
     "source": "bugbountydirectory",
-    "addedDate": "2026-03-04T04:30:05.356Z",
+    "addedDate": "2026-03-04T02:33:18.734Z",
     "company": "Level All",
     "bounty": true,
     "swag": false,
     "hof": false,
     "tags": [
       "Web2"
-    ],
-    "name": "Level All"
+    ]
   },
   {
     "url": "https://www.liminalcustody.com/bug-bounty",
     "source": "bugbountydirectory",
-    "addedDate": "2026-03-04T04:30:05.356Z",
+    "addedDate": "2026-03-04T02:33:18.734Z",
     "company": "Liminal Custody",
     "bounty": true,
     "swag": false,
@@ -5451,39 +5156,48 @@
     "tags": [
       "Web2",
       "Mobile"
-    ],
-    "name": "Liminal Custody"
+    ]
   },
   {
     "url": "https://littlehorse.io/bug-bounty",
     "source": "bugbountydirectory",
-    "addedDate": "2026-03-04T04:30:05.356Z",
+    "addedDate": "2026-03-04T02:33:18.734Z",
     "company": "LittleHorse",
     "bounty": true,
     "swag": false,
     "hof": true,
     "tags": [
       "Web2"
-    ],
-    "name": "LittleHorse"
+    ]
   },
   {
     "url": "https://www.liveagent.com/bug-bounty-program",
     "source": "bugbountydirectory",
-    "addedDate": "2026-03-04T04:30:05.356Z",
+    "addedDate": "2026-03-04T02:33:18.734Z",
     "company": "LiveAgent",
     "bounty": true,
     "swag": false,
     "hof": false,
     "tags": [
       "Web2"
-    ],
-    "name": "LiveAgent"
+    ]
+  },
+  {
+    "url": "https://www.loginradius.com/bug-bounty",
+    "source": "bugbountydirectory",
+    "addedDate": "2026-03-04T02:33:18.734Z",
+    "company": "LoginRadius",
+    "bounty": true,
+    "swag": false,
+    "hof": false,
+    "tags": [
+      "Web2"
+    ]
   },
   {
     "url": "https://corp.mamba.ru/en/developer/security",
     "source": "bugbountydirectory",
-    "addedDate": "2026-03-04T04:30:05.356Z",
+    "addedDate": "2026-03-04T02:33:18.734Z",
     "company": "Mamba",
     "bounty": true,
     "swag": false,
@@ -5491,26 +5205,24 @@
     "tags": [
       "Web2",
       "Mobile"
-    ],
-    "name": "Mamba"
+    ]
   },
   {
     "url": "https://www.getmarvia.com/security/bug-bounty",
     "source": "bugbountydirectory",
-    "addedDate": "2026-03-04T04:30:05.356Z",
+    "addedDate": "2026-03-04T02:33:18.734Z",
     "company": "Marvia",
     "bounty": true,
     "swag": false,
     "hof": false,
     "tags": [
       "Web2"
-    ],
-    "name": "Marvia"
+    ]
   },
   {
     "url": "https://docs.metapool.app/master/contribute-to-meta-pool/bug-bounty-program",
     "source": "bugbountydirectory",
-    "addedDate": "2026-03-04T04:30:05.356Z",
+    "addedDate": "2026-03-04T02:33:18.734Z",
     "company": "Meta Pool",
     "bounty": true,
     "swag": false,
@@ -5518,26 +5230,37 @@
     "tags": [
       "Web2",
       "Web3"
-    ],
-    "name": "Meta Pool"
+    ]
   },
   {
     "url": "https://www.mintlify.com/security/responsible-disclosure",
     "source": "bugbountydirectory",
-    "addedDate": "2026-03-04T04:30:05.356Z",
+    "addedDate": "2026-03-04T02:33:18.734Z",
     "company": "Mintlify",
     "bounty": true,
     "swag": false,
     "hof": false,
     "tags": [
       "Web2"
-    ],
-    "name": "Mintlify"
+    ]
+  },
+  {
+    "url": "https://www.minut.com/legal/bug-bounty-program-policy",
+    "source": "bugbountydirectory",
+    "addedDate": "2026-03-04T02:33:18.734Z",
+    "company": "Minut",
+    "bounty": true,
+    "swag": false,
+    "hof": false,
+    "tags": [
+      "Web2",
+      "Mobile"
+    ]
   },
   {
     "url": "https://missiveapp.com/security/bounty",
     "source": "bugbountydirectory",
-    "addedDate": "2026-03-04T04:30:05.356Z",
+    "addedDate": "2026-03-04T02:33:18.734Z",
     "company": "Missive",
     "bounty": true,
     "swag": false,
@@ -5546,39 +5269,36 @@
       "Web2",
       "Mobile",
       "Desktop"
-    ],
-    "name": "Missive"
+    ]
   },
   {
     "url": "https://support.monosnap.com/hc/en-us/articles/4921292536850-Bug-Bounty-Program-Terms-and-Conditions",
     "source": "bugbountydirectory",
-    "addedDate": "2026-03-04T04:30:05.356Z",
+    "addedDate": "2026-03-04T02:33:18.734Z",
     "company": "Monosnap",
     "bounty": true,
     "swag": false,
     "hof": false,
     "tags": [
       "Web2"
-    ],
-    "name": "Monosnap"
+    ]
   },
   {
     "url": "https://www.nirvanatech.com/responsible-disclosure",
     "source": "bugbountydirectory",
-    "addedDate": "2026-03-04T04:30:05.356Z",
+    "addedDate": "2026-03-04T02:33:18.734Z",
     "company": "Nirvana",
     "bounty": true,
     "swag": false,
     "hof": false,
     "tags": [
       "Web2"
-    ],
-    "name": "Nirvana"
+    ]
   },
   {
     "url": "https://www.gonitro.com/security-compliance/security/responsible-disclosure",
     "source": "bugbountydirectory",
-    "addedDate": "2026-03-04T04:30:05.356Z",
+    "addedDate": "2026-03-04T02:33:18.734Z",
     "company": "Nitro",
     "bounty": true,
     "swag": false,
@@ -5586,26 +5306,24 @@
     "tags": [
       "Web2",
       "Desktop"
-    ],
-    "name": "Nitro"
+    ]
   },
   {
     "url": "https://nolt.io/help/bug-bounty",
     "source": "bugbountydirectory",
-    "addedDate": "2026-03-04T04:30:05.356Z",
+    "addedDate": "2026-03-04T02:33:18.734Z",
     "company": "Nolt",
     "bounty": true,
     "swag": false,
     "hof": false,
     "tags": [
       "Web2"
-    ],
-    "name": "Nolt"
+    ]
   },
   {
     "url": "https://nozbe.com/bug-bounty",
     "source": "bugbountydirectory",
-    "addedDate": "2026-03-04T04:30:05.356Z",
+    "addedDate": "2026-03-04T02:33:18.734Z",
     "company": "Nozbe",
     "bounty": true,
     "swag": false,
@@ -5613,65 +5331,72 @@
     "tags": [
       "Web2",
       "Mobile"
-    ],
-    "name": "Nozbe"
+    ]
   },
   {
     "url": "https://www.ocoya.com/bug-bounty",
     "source": "bugbountydirectory",
-    "addedDate": "2026-03-04T04:30:05.357Z",
+    "addedDate": "2026-03-04T02:33:18.734Z",
     "company": "Ocoya",
     "bounty": true,
     "swag": false,
     "hof": false,
     "tags": [
       "Web2"
-    ],
-    "name": "Ocoya"
+    ]
   },
   {
     "url": "https://www.offsec.com/bug-bounty-program",
     "source": "bugbountydirectory",
-    "addedDate": "2026-03-04T04:30:05.357Z",
+    "addedDate": "2026-03-04T02:33:18.734Z",
     "company": "OffSec",
     "bounty": true,
     "swag": false,
     "hof": true,
     "tags": [
       "Web2"
-    ],
-    "name": "OffSec"
+    ]
+  },
+  {
+    "url": "https://ofza.com/en/bug-bounty-program",
+    "source": "bugbountydirectory",
+    "addedDate": "2026-03-04T02:33:18.734Z",
+    "company": "OFZA",
+    "bounty": true,
+    "swag": false,
+    "hof": false,
+    "tags": [
+      "Web2"
+    ]
   },
   {
     "url": "https://open.money/responsible-disclosure-policy",
     "source": "bugbountydirectory",
-    "addedDate": "2026-03-04T04:30:05.357Z",
+    "addedDate": "2026-03-04T02:33:18.734Z",
     "company": "Open",
     "bounty": true,
     "swag": false,
     "hof": false,
     "tags": [
       "Web2"
-    ],
-    "name": "Open"
+    ]
   },
   {
     "url": "https://www.openpetition.de/blog/blog/2023/06/01/bug-bounty-program-with-openpetition",
     "source": "bugbountydirectory",
-    "addedDate": "2026-03-04T04:30:05.357Z",
+    "addedDate": "2026-03-04T02:33:18.734Z",
     "company": "openPetition",
     "bounty": true,
     "swag": false,
     "hof": false,
     "tags": [
       "Web2"
-    ],
-    "name": "openPetition"
+    ]
   },
   {
     "url": "https://www.oziva.in/pages/oziva-responsible-disclosure-program",
     "source": "bugbountydirectory",
-    "addedDate": "2026-03-04T04:30:05.357Z",
+    "addedDate": "2026-03-04T02:33:18.734Z",
     "company": "OZiva",
     "bounty": true,
     "swag": false,
@@ -5679,39 +5404,48 @@
     "tags": [
       "Web2",
       "Mobile"
-    ],
-    "name": "OZiva"
+    ]
+  },
+  {
+    "url": "https://panteracapital.com/pantera-bug-bounty",
+    "source": "bugbountydirectory",
+    "addedDate": "2026-03-04T02:33:18.734Z",
+    "company": "Pantera",
+    "bounty": true,
+    "swag": false,
+    "hof": false,
+    "tags": [
+      "Web2"
+    ]
   },
   {
     "url": "https://www.parabol.co/security-disclosure",
     "source": "bugbountydirectory",
-    "addedDate": "2026-03-04T04:30:05.357Z",
+    "addedDate": "2026-03-04T02:33:18.734Z",
     "company": "Parabol",
     "bounty": true,
     "swag": false,
     "hof": false,
     "tags": [
       "Web2"
-    ],
-    "name": "Parabol"
+    ]
   },
   {
     "url": "https://passwd.team/blog/passwd-bug-bounty-program",
     "source": "bugbountydirectory",
-    "addedDate": "2026-03-04T04:30:05.357Z",
+    "addedDate": "2026-03-04T02:33:18.734Z",
     "company": "Passwd",
     "bounty": true,
     "swag": false,
     "hof": false,
     "tags": [
       "Web2"
-    ],
-    "name": "Passwd"
+    ]
   },
   {
     "url": "https://patchstack.com/bug-bounty",
     "source": "bugbountydirectory",
-    "addedDate": "2026-03-04T04:30:05.357Z",
+    "addedDate": "2026-03-04T02:33:18.734Z",
     "company": "Patchstack",
     "bounty": true,
     "swag": false,
@@ -5720,169 +5454,229 @@
       "Web2",
       "CMS",
       "Framework"
-    ],
-    "name": "Patchstack"
+    ]
+  },
+  {
+    "url": "https://paydo.com/bug-bounty-program",
+    "source": "bugbountydirectory",
+    "addedDate": "2026-03-04T02:33:18.734Z",
+    "company": "PayDo",
+    "bounty": true,
+    "swag": false,
+    "hof": false,
+    "tags": [
+      "Web2"
+    ]
   },
   {
     "url": "https://phantom.com/bug-bounty",
     "source": "bugbountydirectory",
-    "addedDate": "2026-03-04T04:30:05.357Z",
+    "addedDate": "2026-03-04T02:33:18.734Z",
     "company": "Phantom",
     "bounty": true,
     "swag": false,
     "hof": false,
     "tags": [
       "Web3"
-    ],
-    "name": "Phantom"
+    ]
   },
   {
     "url": "https://pinegrow.com/docs/wordpress/pinegrow-wordpress-plugin/reporting-security-issues",
     "source": "bugbountydirectory",
-    "addedDate": "2026-03-04T04:30:05.357Z",
+    "addedDate": "2026-03-04T02:33:18.734Z",
     "company": "Pinegrow",
     "bounty": true,
     "swag": false,
     "hof": false,
     "tags": [
       "Web2"
-    ],
-    "name": "Pinegrow"
+    ]
   },
   {
     "url": "https://www.pingcap.com/security",
     "source": "bugbountydirectory",
-    "addedDate": "2026-03-04T04:30:05.357Z",
+    "addedDate": "2026-03-04T02:33:18.734Z",
     "company": "PingCAP",
     "bounty": true,
     "swag": false,
     "hof": true,
     "tags": [
       "Web2"
-    ],
-    "name": "PingCAP"
+    ]
+  },
+  {
+    "url": "https://piwik.pro/bug-bounty-program",
+    "source": "bugbountydirectory",
+    "addedDate": "2026-03-04T02:33:18.734Z",
+    "company": "Piwik Pro",
+    "bounty": true,
+    "swag": false,
+    "hof": false,
+    "tags": [
+      "Web2"
+    ]
   },
   {
     "url": "https://support.playerauctions.com/hc/en-us/articles/49330305602585-PlayerAuctions-Bug-Bounty-Program",
     "source": "bugbountydirectory",
-    "addedDate": "2026-03-04T04:30:05.357Z",
+    "addedDate": "2026-03-04T02:33:18.734Z",
     "company": "PlayerAuctions",
     "bounty": true,
     "swag": false,
     "hof": false,
     "tags": [
       "Web2"
-    ],
-    "name": "PlayerAuctions"
+    ]
   },
   {
     "url": "https://www.pocketrn.com/support/bug-bounty",
     "source": "bugbountydirectory",
-    "addedDate": "2026-03-04T04:30:05.357Z",
+    "addedDate": "2026-03-04T02:33:18.734Z",
     "company": "PocketRN",
     "bounty": true,
     "swag": false,
     "hof": false,
     "tags": [
       "Web2"
-    ],
-    "name": "PocketRN"
+    ]
   },
   {
     "url": "https://porkbun.com/products/bug_bounty",
     "source": "bugbountydirectory",
-    "addedDate": "2026-03-04T04:30:05.357Z",
+    "addedDate": "2026-03-04T02:33:18.734Z",
     "company": "Porkbun",
     "bounty": true,
     "swag": false,
     "hof": false,
     "tags": [
       "Web2"
-    ],
-    "name": "Porkbun"
+    ]
   },
   {
     "url": "https://www.potatovpn.io/bug-bounty-program",
     "source": "bugbountydirectory",
-    "addedDate": "2026-03-04T04:30:05.357Z",
+    "addedDate": "2026-03-04T02:33:18.734Z",
     "company": "Potato VPN",
     "bounty": true,
     "swag": false,
     "hof": false,
     "tags": [
       "Web2"
-    ],
-    "name": "Potato VPN"
+    ]
   },
   {
     "url": "https://www.powtoon.com/bug-bounty-program/",
     "source": "bugbountydirectory",
-    "addedDate": "2026-03-04T04:30:05.357Z",
+    "addedDate": "2026-03-04T02:33:18.734Z",
     "company": "Powtoon",
     "bounty": true,
     "swag": false,
     "hof": false,
     "tags": [
       "Web2"
-    ],
-    "name": "Powtoon"
+    ]
+  },
+  {
+    "url": "https://www.prefect.io/bug-bounty",
+    "source": "bugbountydirectory",
+    "addedDate": "2026-03-04T02:33:18.734Z",
+    "company": "Prefect",
+    "bounty": true,
+    "swag": false,
+    "hof": false,
+    "tags": [
+      "Web2"
+    ]
   },
   {
     "url": "https://packagist.com/about/bug-bounty",
     "source": "bugbountydirectory",
-    "addedDate": "2026-03-04T04:30:05.357Z",
+    "addedDate": "2026-03-04T02:33:18.734Z",
     "company": "Private Packagist",
     "bounty": true,
     "swag": false,
     "hof": false,
     "tags": [
       "Web2"
-    ],
-    "name": "Private Packagist"
+    ]
+  },
+  {
+    "url": "https://www.pubnub.com/bug-bounty-policy",
+    "source": "bugbountydirectory",
+    "addedDate": "2026-03-04T02:33:18.734Z",
+    "company": "PubNub",
+    "bounty": true,
+    "swag": false,
+    "hof": false,
+    "tags": [
+      "Web2"
+    ]
   },
   {
     "url": "https://docs.pullpo.io/bug-bounty-program",
     "source": "bugbountydirectory",
-    "addedDate": "2026-03-04T04:30:05.357Z",
+    "addedDate": "2026-03-04T02:33:18.734Z",
     "company": "Pullpo",
     "bounty": true,
     "swag": false,
     "hof": true,
     "tags": [
       "Web2"
-    ],
-    "name": "Pullpo"
+    ]
   },
   {
     "url": "https://help.pythonanywhere.com/pages/BugBounty",
     "source": "bugbountydirectory",
-    "addedDate": "2026-03-04T04:30:05.357Z",
+    "addedDate": "2026-03-04T02:33:18.734Z",
     "company": "PythonAnywhere",
     "bounty": true,
     "swag": false,
     "hof": false,
     "tags": [
       "Web2"
-    ],
-    "name": "PythonAnywhere"
+    ]
+  },
+  {
+    "url": "https://qdrant.tech/security/bug-bounty-program",
+    "source": "bugbountydirectory",
+    "addedDate": "2026-03-04T02:33:18.734Z",
+    "company": "Qdrant",
+    "bounty": true,
+    "swag": false,
+    "hof": false,
+    "tags": [
+      "Web2"
+    ]
   },
   {
     "url": "https://support.qminder.com/en/articles/4574127-vulnerability-reporting-policy",
     "source": "bugbountydirectory",
-    "addedDate": "2026-03-04T04:30:05.357Z",
+    "addedDate": "2026-03-04T02:33:18.734Z",
     "company": "Qminder",
     "bounty": true,
     "swag": false,
     "hof": false,
     "tags": [
       "Web2"
-    ],
-    "name": "Qminder"
+    ]
+  },
+  {
+    "url": "https://help.quicko.com/portal/en/kb/articles/bug-bounty-program",
+    "source": "bugbountydirectory",
+    "addedDate": "2026-03-04T02:33:18.734Z",
+    "company": "Quicko",
+    "bounty": true,
+    "swag": false,
+    "hof": true,
+    "tags": [
+      "Web2",
+      "Mobile"
+    ]
   },
   {
     "url": "https://www.railgun.org/bug-bounty.html",
     "source": "bugbountydirectory",
-    "addedDate": "2026-03-04T04:30:05.357Z",
+    "addedDate": "2026-03-04T02:33:18.734Z",
     "company": "Railgun",
     "bounty": true,
     "swag": false,
@@ -5890,130 +5684,170 @@
     "tags": [
       "Web2",
       "Web3"
-    ],
-    "name": "Railgun"
+    ]
   },
   {
     "url": "https://rangde.in/bug-bounty-program",
     "source": "bugbountydirectory",
-    "addedDate": "2026-03-04T04:30:05.357Z",
+    "addedDate": "2026-03-04T02:33:18.734Z",
     "company": "Rang De",
     "bounty": true,
     "swag": false,
     "hof": true,
     "tags": [
       "Web2"
-    ],
-    "name": "Rang De"
+    ]
   },
   {
     "url": "https://docs.readme.com/main/docs/bug-bounty-program",
     "source": "bugbountydirectory",
-    "addedDate": "2026-03-04T04:30:05.357Z",
+    "addedDate": "2026-03-04T02:33:18.734Z",
     "company": "ReadMe",
     "bounty": true,
     "swag": false,
     "hof": false,
     "tags": [
       "Web2"
-    ],
-    "name": "ReadMe"
+    ]
   },
   {
     "url": "https://www.federacy.com/renofi?tab=Rules",
     "source": "bugbountydirectory",
-    "addedDate": "2026-03-04T04:30:05.357Z",
+    "addedDate": "2026-03-04T02:33:18.734Z",
     "company": "RenoFi",
     "bounty": true,
     "swag": false,
     "hof": false,
     "tags": [
       "Web2"
-    ],
-    "name": "RenoFi"
+    ]
   },
   {
     "url": "https://www.reydix.com/sbbp/",
     "source": "bugbountydirectory",
-    "addedDate": "2026-03-04T04:30:05.357Z",
+    "addedDate": "2026-03-04T02:33:18.734Z",
     "company": "Reydix",
     "bounty": true,
     "swag": false,
     "hof": false,
     "tags": [
       "Web2"
-    ],
-    "name": "Reydix"
+    ]
   },
   {
     "url": "https://docs.safe.global/advanced/smart-account-bug-bounty",
     "source": "bugbountydirectory",
-    "addedDate": "2026-03-04T04:30:05.357Z",
+    "addedDate": "2026-03-04T02:33:18.734Z",
     "company": "Safe",
     "bounty": true,
     "swag": false,
     "hof": false,
     "tags": [
       "Web3"
-    ],
-    "name": "Safe"
+    ]
   },
   {
     "url": "https://help.sandbox.co.in/support/solutions/articles/84000373789-bug-bounty-program",
     "source": "bugbountydirectory",
-    "addedDate": "2026-03-04T04:30:05.357Z",
+    "addedDate": "2026-03-04T02:33:18.734Z",
     "company": "Sandbox",
     "bounty": true,
     "swag": false,
     "hof": true,
     "tags": [
       "Web2"
-    ],
-    "name": "Sandbox"
+    ]
+  },
+  {
+    "url": "https://docs.scallop.io/protocol/bug-bounty",
+    "source": "bugbountydirectory",
+    "addedDate": "2026-03-04T02:33:18.734Z",
+    "company": "Scallop",
+    "bounty": true,
+    "swag": false,
+    "hof": false,
+    "tags": [
+      "Web3"
+    ]
   },
   {
     "url": "https://scrapfly.io/bug-bounty-program",
     "source": "bugbountydirectory",
-    "addedDate": "2026-03-04T04:30:05.357Z",
+    "addedDate": "2026-03-04T02:33:18.734Z",
     "company": "Scrapfly",
     "bounty": true,
     "swag": false,
     "hof": false,
     "tags": [
       "Web2"
-    ],
-    "name": "Scrapfly"
+    ]
   },
   {
     "url": "https://www.screenly.io/bug-bounty/",
     "source": "bugbountydirectory",
-    "addedDate": "2026-03-04T04:30:05.357Z",
+    "addedDate": "2026-03-04T02:33:18.734Z",
     "company": "Screenly",
     "bounty": true,
     "swag": false,
     "hof": false,
     "tags": [
       "Web2"
-    ],
-    "name": "Screenly"
+    ]
   },
   {
     "url": "https://selzy.com/en/legal/vulnerability-disclosure-policy",
     "source": "bugbountydirectory",
-    "addedDate": "2026-03-04T04:30:05.357Z",
+    "addedDate": "2026-03-04T02:33:18.734Z",
     "company": "Selzy",
     "bounty": true,
     "swag": false,
     "hof": false,
     "tags": [
       "Web2"
-    ],
-    "name": "Selzy"
+    ]
+  },
+  {
+    "url": "https://www.sentinelone.com/bug-bounty",
+    "source": "bugbountydirectory",
+    "addedDate": "2026-03-04T02:33:18.734Z",
+    "company": "Sentinelone",
+    "bounty": true,
+    "swag": false,
+    "hof": false,
+    "tags": [
+      "Web2",
+      "Desktop"
+    ]
+  },
+  {
+    "url": "https://setpointmedical.com/security-rewards",
+    "source": "bugbountydirectory",
+    "addedDate": "2026-03-04T02:33:18.734Z",
+    "company": "SetPoint Medical",
+    "bounty": true,
+    "swag": true,
+    "hof": false,
+    "tags": [
+      "Web2",
+      "Hardware"
+    ]
+  },
+  {
+    "url": "https://setu.co/bug-bounty-program",
+    "source": "bugbountydirectory",
+    "addedDate": "2026-03-04T02:33:18.734Z",
+    "company": "Setu",
+    "bounty": true,
+    "swag": false,
+    "hof": true,
+    "tags": [
+      "Web2"
+    ]
   },
   {
     "url": "https://legal.shakepay.com/bug-bounty-program",
     "source": "bugbountydirectory",
-    "addedDate": "2026-03-04T04:30:05.357Z",
+    "addedDate": "2026-03-04T02:33:18.734Z",
     "company": "Shakepay",
     "bounty": true,
     "swag": false,
@@ -6022,65 +5856,97 @@
       "Web2",
       "Web3",
       "Mobile"
-    ],
-    "name": "Shakepay"
+    ]
   },
   {
     "url": "https://shiphero.com/bug-bounty-program",
     "source": "bugbountydirectory",
-    "addedDate": "2026-03-04T04:30:05.357Z",
+    "addedDate": "2026-03-04T02:33:18.734Z",
     "company": "ShipHero",
     "bounty": true,
     "swag": false,
     "hof": false,
     "tags": [
       "Web2"
-    ],
-    "name": "ShipHero"
+    ]
   },
   {
     "url": "https://shockbyte.com/security",
     "source": "bugbountydirectory",
-    "addedDate": "2026-03-04T04:30:05.357Z",
+    "addedDate": "2026-03-04T02:33:18.734Z",
     "company": "Shockbyte",
     "bounty": true,
     "swag": false,
     "hof": false,
     "tags": [
       "Web2"
-    ],
-    "name": "Shockbyte"
+    ]
+  },
+  {
+    "url": "https://www.signageos.io/legal/bug-bounty",
+    "source": "bugbountydirectory",
+    "addedDate": "2026-03-04T02:33:18.734Z",
+    "company": "signageOS",
+    "bounty": true,
+    "swag": false,
+    "hof": false,
+    "tags": [
+      "Web2"
+    ]
+  },
+  {
+    "url": "https://silvergoldbull.com/bug-bounty",
+    "source": "bugbountydirectory",
+    "addedDate": "2026-03-04T02:33:18.734Z",
+    "company": "Silver Gold Bull",
+    "bounty": true,
+    "swag": false,
+    "hof": false,
+    "tags": [
+      "Web2",
+      "Mobile"
+    ]
+  },
+  {
+    "url": "https://simplelogin.io/blog/bug-bounty-program",
+    "source": "bugbountydirectory",
+    "addedDate": "2026-03-04T02:33:18.734Z",
+    "company": "SimpleLogin",
+    "bounty": true,
+    "swag": false,
+    "hof": false,
+    "tags": [
+      "Web2"
+    ]
   },
   {
     "url": "https://simpleshow.com/bug-bounty-program",
     "source": "bugbountydirectory",
-    "addedDate": "2026-03-04T04:30:05.357Z",
+    "addedDate": "2026-03-04T02:33:18.734Z",
     "company": "Simpleshow",
     "bounty": true,
     "swag": false,
     "hof": false,
     "tags": [
       "Web2"
-    ],
-    "name": "Simpleshow"
+    ]
   },
   {
     "url": "https://help.smartling.com/hc/en-us/articles/360008147833-Bug-Bounty-Policy",
     "source": "bugbountydirectory",
-    "addedDate": "2026-03-04T04:30:05.357Z",
+    "addedDate": "2026-03-04T02:33:18.734Z",
     "company": "Smartling",
     "bounty": true,
     "swag": false,
     "hof": false,
     "tags": [
       "Web2"
-    ],
-    "name": "Smartling"
+    ]
   },
   {
     "url": "https://www.smseagle.eu/responsible-disclosure-policy",
     "source": "bugbountydirectory",
-    "addedDate": "2026-03-04T04:30:05.357Z",
+    "addedDate": "2026-03-04T02:33:18.734Z",
     "company": "SMSEagle",
     "bounty": true,
     "swag": false,
@@ -6088,39 +5954,36 @@
     "tags": [
       "Web2",
       "Hardware"
-    ],
-    "name": "SMSEagle"
+    ]
   },
   {
     "url": "https://help.socrative.com/en/articles/4932454-reporting-security-vulnerabilities",
     "source": "bugbountydirectory",
-    "addedDate": "2026-03-04T04:30:05.357Z",
+    "addedDate": "2026-03-04T02:33:18.734Z",
     "company": "Socrative",
     "bounty": true,
     "swag": false,
     "hof": false,
     "tags": [
       "Web2"
-    ],
-    "name": "Socrative"
+    ]
   },
   {
     "url": "https://www.spectrocloud.com/bug-bounty",
     "source": "bugbountydirectory",
-    "addedDate": "2026-03-04T04:30:05.358Z",
+    "addedDate": "2026-03-04T02:33:18.734Z",
     "company": "Spectro Cloud",
     "bounty": true,
     "swag": false,
     "hof": true,
     "tags": [
       "Web2"
-    ],
-    "name": "Spectro Cloud"
+    ]
   },
   {
     "url": "https://docs.sperax.io/bug-bounty-program",
     "source": "bugbountydirectory",
-    "addedDate": "2026-03-04T04:30:05.358Z",
+    "addedDate": "2026-03-04T02:33:18.734Z",
     "company": "Sperax",
     "bounty": true,
     "swag": false,
@@ -6128,65 +5991,72 @@
     "tags": [
       "Web2",
       "Web3"
-    ],
-    "name": "Sperax"
+    ]
   },
   {
     "url": "https://www.spikenow.com/help/bug-bounty-program",
     "source": "bugbountydirectory",
-    "addedDate": "2026-03-04T04:30:05.358Z",
+    "addedDate": "2026-03-04T02:33:18.734Z",
     "company": "Spike",
     "bounty": true,
     "swag": false,
     "hof": false,
     "tags": [
       "Web2"
-    ],
-    "name": "Spike"
+    ]
+  },
+  {
+    "url": "https://help.spreaker.com/en/articles/5123644-bug-bounty-program",
+    "source": "bugbountydirectory",
+    "addedDate": "2026-03-04T02:33:18.734Z",
+    "company": "Spreaker",
+    "bounty": true,
+    "swag": false,
+    "hof": false,
+    "tags": [
+      "Web2"
+    ]
   },
   {
     "url": "https://www.statsig.com/trust/bugbounty",
     "source": "bugbountydirectory",
-    "addedDate": "2026-03-04T04:30:05.358Z",
+    "addedDate": "2026-03-04T02:33:18.734Z",
     "company": "Statsig",
     "bounty": true,
     "swag": false,
     "hof": false,
     "tags": [
       "Web2"
-    ],
-    "name": "Statsig"
+    ]
   },
   {
     "url": "https://www.strategysoftware.com/go/report-a-strategy-product-vulnerability",
     "source": "bugbountydirectory",
-    "addedDate": "2026-03-04T04:30:05.358Z",
+    "addedDate": "2026-03-04T02:33:18.734Z",
     "company": "Strategy",
     "bounty": true,
     "swag": false,
     "hof": false,
     "tags": [
       "Web2"
-    ],
-    "name": "Strategy"
+    ]
   },
   {
     "url": "https://www.federacy.com/street-contxt?tab=Intro",
     "source": "bugbountydirectory",
-    "addedDate": "2026-03-04T04:30:05.358Z",
+    "addedDate": "2026-03-04T02:33:18.734Z",
     "company": "Street Context",
     "bounty": true,
     "swag": false,
     "hof": false,
     "tags": [
       "Web2"
-    ],
-    "name": "Street Context"
+    ]
   },
   {
     "url": "https://www.studocu.com/vdp.html",
     "source": "bugbountydirectory",
-    "addedDate": "2026-03-04T04:30:05.358Z",
+    "addedDate": "2026-03-04T02:33:18.734Z",
     "company": "Studocu",
     "bounty": true,
     "swag": false,
@@ -6194,13 +6064,12 @@
     "tags": [
       "Web2",
       "Mobile"
-    ],
-    "name": "Studocu"
+    ]
   },
   {
     "url": "https://www.supermoney.com/bug-bounty-program",
     "source": "bugbountydirectory",
-    "addedDate": "2026-03-04T04:30:05.358Z",
+    "addedDate": "2026-03-04T02:33:18.734Z",
     "company": "SuperMoney",
     "bounty": true,
     "swag": false,
@@ -6208,26 +6077,37 @@
     "tags": [
       "Web2",
       "Mobile"
-    ],
-    "name": "SuperMoney"
+    ]
   },
   {
     "url": "https://support.supportbench.net/article/supportbench-bug-bounty-program-policy",
     "source": "bugbountydirectory",
-    "addedDate": "2026-03-04T04:30:05.358Z",
+    "addedDate": "2026-03-04T02:33:18.734Z",
     "company": "Supportbench",
     "bounty": true,
     "swag": false,
     "hof": true,
     "tags": [
       "Web2"
-    ],
-    "name": "Supportbench"
+    ]
+  },
+  {
+    "url": "https://supra.com/bug-bounty",
+    "source": "bugbountydirectory",
+    "addedDate": "2026-03-04T02:33:18.734Z",
+    "company": "Supra",
+    "bounty": true,
+    "swag": false,
+    "hof": false,
+    "tags": [
+      "Web2",
+      "Web3"
+    ]
   },
   {
     "url": "https://survicate.com/bug-bounty-program",
     "source": "bugbountydirectory",
-    "addedDate": "2026-03-04T04:30:05.358Z",
+    "addedDate": "2026-03-04T02:33:18.734Z",
     "company": "Survicate",
     "bounty": true,
     "swag": false,
@@ -6235,13 +6115,25 @@
     "tags": [
       "Web2",
       "Mobile"
-    ],
-    "name": "Survicate"
+    ]
+  },
+  {
+    "url": "https://www.sweap.io/en/company/bug-bounty-program",
+    "source": "bugbountydirectory",
+    "addedDate": "2026-03-04T02:33:18.734Z",
+    "company": "Sweap",
+    "bounty": true,
+    "swag": false,
+    "hof": false,
+    "tags": [
+      "Web2",
+      "Mobile"
+    ]
   },
   {
     "url": "https://www.syfe.com/bug-bounty",
     "source": "bugbountydirectory",
-    "addedDate": "2026-03-04T04:30:05.358Z",
+    "addedDate": "2026-03-04T02:33:18.734Z",
     "company": "Syfe",
     "bounty": true,
     "swag": true,
@@ -6249,26 +6141,36 @@
     "tags": [
       "Web2",
       "Mobile"
-    ],
-    "name": "Syfe"
+    ]
+  },
+  {
+    "url": "https://syncezy.com/bug-bounty-program",
+    "source": "bugbountydirectory",
+    "addedDate": "2026-03-04T02:33:18.734Z",
+    "company": "SyncEzy",
+    "bounty": true,
+    "swag": false,
+    "hof": false,
+    "tags": [
+      "Web2"
+    ]
   },
   {
     "url": "https://www.synology.com/en-global/security/bounty_program",
     "source": "bugbountydirectory",
-    "addedDate": "2026-03-04T04:30:05.358Z",
+    "addedDate": "2026-03-04T02:33:18.734Z",
     "company": "Synology",
     "bounty": true,
     "swag": false,
     "hof": true,
     "tags": [
       "Web2"
-    ],
-    "name": "Synology"
+    ]
   },
   {
     "url": "https://www.tataplay.com/bug-bounty-hunter",
     "source": "bugbountydirectory",
-    "addedDate": "2026-03-04T04:30:05.358Z",
+    "addedDate": "2026-03-04T02:33:18.734Z",
     "company": "TataPlay",
     "bounty": true,
     "swag": true,
@@ -6276,65 +6178,86 @@
     "tags": [
       "Web2",
       "Mobile"
-    ],
-    "name": "TataPlay"
+    ]
+  },
+  {
+    "url": "https://www.teamup.com/bug-bounty",
+    "source": "bugbountydirectory",
+    "addedDate": "2026-03-04T02:33:18.734Z",
+    "company": "Teamup",
+    "bounty": true,
+    "swag": false,
+    "hof": false,
+    "tags": [
+      "Web2"
+    ]
   },
   {
     "url": "https://www.tecton.ai/vulnerability-disclosure",
     "source": "bugbountydirectory",
-    "addedDate": "2026-03-04T04:30:05.358Z",
+    "addedDate": "2026-03-04T02:33:18.734Z",
     "company": "Tecton",
     "bounty": true,
     "swag": false,
     "hof": false,
     "tags": [
       "Web2"
-    ],
-    "name": "Tecton"
+    ]
   },
   {
     "url": "https://textjam.com/bug-bounty",
     "source": "bugbountydirectory",
-    "addedDate": "2026-03-04T04:30:05.358Z",
+    "addedDate": "2026-03-04T02:33:18.734Z",
     "company": "TextJam",
     "bounty": true,
     "swag": false,
     "hof": false,
     "tags": [
       "Web2"
-    ],
-    "name": "TextJam"
+    ]
   },
   {
     "url": "https://tiny-img.com/bug-bounty-program-for-tinyimg/",
     "source": "bugbountydirectory",
-    "addedDate": "2026-03-04T04:30:05.358Z",
+    "addedDate": "2026-03-04T02:33:18.734Z",
     "company": "TinyIMG",
     "bounty": true,
     "swag": false,
     "hof": false,
     "tags": [
       "Web2"
-    ],
-    "name": "TinyIMG"
+    ]
   },
   {
     "url": "https://www.titanfile.com/terms-policies/vulnerability-disclosure-policy/",
     "source": "bugbountydirectory",
-    "addedDate": "2026-03-04T04:30:05.358Z",
+    "addedDate": "2026-03-04T02:33:18.734Z",
     "company": "TitanFile",
     "bounty": true,
     "swag": false,
     "hof": false,
     "tags": [
       "Web2"
-    ],
-    "name": "TitanFile"
+    ]
+  },
+  {
+    "url": "https://www.todoist.com/help/articles/doist-bug-bounty-policy-oBo6UzFk",
+    "source": "bugbountydirectory",
+    "addedDate": "2026-03-04T02:33:18.734Z",
+    "company": "Todoist",
+    "bounty": true,
+    "swag": false,
+    "hof": false,
+    "tags": [
+      "Web2",
+      "Desktop",
+      "Mobile"
+    ]
   },
   {
     "url": "https://tonkeeper.com/bug-bounty",
     "source": "bugbountydirectory",
-    "addedDate": "2026-03-04T04:30:05.358Z",
+    "addedDate": "2026-03-04T02:33:18.734Z",
     "company": "Tonkeeper",
     "bounty": true,
     "swag": false,
@@ -6342,26 +6265,24 @@
     "tags": [
       "Web2",
       "Web3"
-    ],
-    "name": "Tonkeeper"
+    ]
   },
   {
     "url": "https://translated.com/vulnerability-disclosure-policy",
     "source": "bugbountydirectory",
-    "addedDate": "2026-03-04T04:30:05.358Z",
+    "addedDate": "2026-03-04T02:33:18.734Z",
     "company": "Translated",
     "bounty": true,
     "swag": false,
     "hof": false,
     "tags": [
       "Web2"
-    ],
-    "name": "Translated"
+    ]
   },
   {
     "url": "https://trezor.io/security",
     "source": "bugbountydirectory",
-    "addedDate": "2026-03-04T04:30:05.358Z",
+    "addedDate": "2026-03-04T02:33:18.734Z",
     "company": "Trezor",
     "bounty": true,
     "swag": false,
@@ -6370,39 +6291,36 @@
       "Web2",
       "Web3",
       "Hardware"
-    ],
-    "name": "Trezor"
+    ]
   },
   {
     "url": "https://tribepad.com/app/uploads/2025/09/Vulnerability-Disclosure-Program.pdf",
     "source": "bugbountydirectory",
-    "addedDate": "2026-03-04T04:30:05.358Z",
+    "addedDate": "2026-03-04T02:33:18.734Z",
     "company": "Tribepad",
     "bounty": true,
     "swag": false,
     "hof": false,
     "tags": [
       "Web2"
-    ],
-    "name": "Tribepad"
+    ]
   },
   {
     "url": "https://truely.com/blog/truely-bug-bounty-program",
     "source": "bugbountydirectory",
-    "addedDate": "2026-03-04T04:30:05.358Z",
+    "addedDate": "2026-03-04T02:33:18.734Z",
     "company": "Truely",
     "bounty": true,
     "swag": true,
     "hof": false,
     "tags": [
       "Web2"
-    ],
-    "name": "Truely"
+    ]
   },
   {
     "url": "https://www.federacy.com/tuple?tab=Intro",
     "source": "bugbountydirectory",
-    "addedDate": "2026-03-04T04:30:05.358Z",
+    "addedDate": "2026-03-04T02:33:18.734Z",
     "company": "Tuple",
     "bounty": true,
     "swag": false,
@@ -6410,91 +6328,145 @@
     "tags": [
       "Web2",
       "Desktop"
-    ],
-    "name": "Tuple"
+    ]
   },
   {
     "url": "https://upflow.io/vulnerability-disclosure-policy",
     "source": "bugbountydirectory",
-    "addedDate": "2026-03-04T04:30:05.358Z",
+    "addedDate": "2026-03-04T02:33:18.734Z",
     "company": "Upflow",
     "bounty": true,
     "swag": false,
     "hof": false,
     "tags": [
       "Web2"
-    ],
-    "name": "Upflow"
+    ]
+  },
+  {
+    "url": "https://uxcam.com/bug-bounty",
+    "source": "bugbountydirectory",
+    "addedDate": "2026-03-04T02:33:18.734Z",
+    "company": "UXCam",
+    "bounty": true,
+    "swag": false,
+    "hof": true,
+    "tags": [
+      "Web2",
+      "Mobile"
+    ]
   },
   {
     "url": "https://www.vfairs.com/bug-bounty-program",
     "source": "bugbountydirectory",
-    "addedDate": "2026-03-04T04:30:05.358Z",
+    "addedDate": "2026-03-04T02:33:18.734Z",
     "company": "vFairs",
     "bounty": true,
     "swag": false,
     "hof": false,
     "tags": [
       "Web2"
-    ],
-    "name": "vFairs"
+    ]
   },
   {
     "url": "https://vistasocial.com/responsible-disclosure-policy",
     "source": "bugbountydirectory",
-    "addedDate": "2026-03-04T04:30:05.358Z",
+    "addedDate": "2026-03-04T02:33:18.734Z",
     "company": "Vista Social",
     "bounty": true,
     "swag": false,
     "hof": false,
     "tags": [
       "Web2"
-    ],
-    "name": "Vista Social"
+    ]
+  },
+  {
+    "url": "https://voatz.com/bug-bounty",
+    "source": "bugbountydirectory",
+    "addedDate": "2026-03-04T02:33:18.734Z",
+    "company": "Voatz",
+    "bounty": true,
+    "swag": false,
+    "hof": false,
+    "tags": [
+      "Mobile"
+    ]
   },
   {
     "url": "https://www.volkis.com.au/vulnerability-disclosure",
     "source": "bugbountydirectory",
-    "addedDate": "2026-03-04T04:30:05.358Z",
+    "addedDate": "2026-03-04T02:33:18.734Z",
     "company": "Volkis",
     "bounty": true,
     "swag": true,
     "hof": true,
     "tags": [
       "Web2"
-    ],
-    "name": "Volkis"
+    ]
+  },
+  {
+    "url": "https://www.vultr.com/bug-bounty",
+    "source": "bugbountydirectory",
+    "addedDate": "2026-03-04T02:33:18.734Z",
+    "company": "Vultr",
+    "bounty": true,
+    "swag": false,
+    "hof": false,
+    "tags": [
+      "Web2"
+    ]
   },
   {
     "url": "https://www.walkme.com/bug-bounty-program",
     "source": "bugbountydirectory",
-    "addedDate": "2026-03-04T04:30:05.358Z",
+    "addedDate": "2026-03-04T02:33:18.734Z",
     "company": "WalkMe",
     "bounty": true,
     "swag": false,
     "hof": true,
     "tags": [
       "Web2"
-    ],
-    "name": "WalkMe"
+    ]
+  },
+  {
+    "url": "https://www.wazoku.com/bugbounty",
+    "source": "bugbountydirectory",
+    "addedDate": "2026-03-04T02:33:18.734Z",
+    "company": "Wazoku",
+    "bounty": true,
+    "swag": false,
+    "hof": false,
+    "tags": [
+      "Web2"
+    ]
+  },
+  {
+    "url": "https://www.wordfence.com/threat-intel/bug-bounty-program",
+    "source": "bugbountydirectory",
+    "addedDate": "2026-03-04T02:33:18.734Z",
+    "company": "Wordfence",
+    "bounty": true,
+    "swag": false,
+    "hof": true,
+    "tags": [
+      "Web2"
+    ]
   },
   {
     "url": "https://xeovo.com/bug-bounty/",
     "source": "bugbountydirectory",
-    "addedDate": "2026-03-04T04:30:05.358Z",
+    "addedDate": "2026-03-04T02:33:18.734Z",
     "company": "Xeovo",
     "bounty": true,
     "swag": false,
     "hof": false,
     "tags": [
       "Web2"
-    ],
-    "name": "Xeovo"
+    ]
   },
   {
     "url": "https://xrex.io/bug-bounty",
     "source": "bugbountydirectory",
-    "addedDate": "2026-03-04T04:30:05.358Z",
+    "addedDate": "2026-03-04T02:33:18.734Z",
     "company": "XREX",
     "bounty": true,
     "swag": false,
@@ -6502,130 +6474,234 @@
     "tags": [
       "Web2",
       "Mobile"
-    ],
-    "name": "XREX"
+    ]
   },
   {
     "url": "https://help.xsolla.com/xsolla-bounty-program",
     "source": "bugbountydirectory",
-    "addedDate": "2026-03-04T04:30:05.358Z",
+    "addedDate": "2026-03-04T02:33:18.734Z",
     "company": "Xsolla",
     "bounty": true,
     "swag": false,
     "hof": true,
     "tags": [
       "Web2"
-    ],
-    "name": "Xsolla"
+    ]
   },
   {
     "url": "https://xtrmsupport.xtrm.com/en/support/solutions/articles/4000168365-security011-bug-bounty-program",
     "source": "bugbountydirectory",
-    "addedDate": "2026-03-04T04:30:05.358Z",
+    "addedDate": "2026-03-04T02:33:18.734Z",
     "company": "XTRM",
     "bounty": true,
     "swag": false,
     "hof": false,
     "tags": [
       "Web2"
-    ],
-    "name": "XTRM"
+    ]
+  },
+  {
+    "url": "https://zaakpay.com/bug-bounty",
+    "source": "bugbountydirectory",
+    "addedDate": "2026-03-04T02:33:18.734Z",
+    "company": "Zaakpay",
+    "bounty": true,
+    "swag": false,
+    "hof": true,
+    "tags": [
+      "Web2",
+      "Mobile"
+    ]
+  },
+  {
+    "url": "https://zerodha.com/bug-bounty",
+    "source": "bugbountydirectory",
+    "addedDate": "2026-03-04T02:33:18.734Z",
+    "company": "Zerodha",
+    "bounty": true,
+    "swag": false,
+    "hof": false,
+    "tags": [
+      "Web2",
+      "Mobile"
+    ]
   },
   {
     "url": "https://bugbounty.zoho.com/bb/info",
     "source": "bugbountydirectory",
-    "addedDate": "2026-03-04T04:30:05.358Z",
+    "addedDate": "2026-03-04T02:33:18.734Z",
     "company": "Zoho",
     "bounty": true,
     "swag": false,
     "hof": true,
     "tags": [
       "Web2"
-    ],
-    "name": "Zoho"
+    ]
   },
   {
     "url": "https://zoviz.com/vulnerability-disclosure",
     "source": "bugbountydirectory",
-    "addedDate": "2026-03-04T04:30:05.358Z",
+    "addedDate": "2026-03-04T02:33:18.734Z",
     "company": "Zoviz",
     "bounty": true,
     "swag": false,
     "hof": false,
     "tags": [
       "Web2"
-    ],
-    "name": "Zoviz"
+    ]
   },
   {
     "url": "https://www.absorblms.com/uploads/Bug-Bounty-Program.pdf",
     "source": "bugbountydirectory",
-    "addedDate": "2026-03-04T04:30:05.358Z",
+    "addedDate": "2026-03-04T02:33:18.734Z",
     "company": "Absorb",
     "bounty": true,
     "swag": false,
     "hof": false,
     "tags": [
       "Web2"
-    ],
-    "name": "Absorb"
+    ]
+  },
+  {
+    "url": "https://www.onestepgps.com/bug-bounty",
+    "source": "bugbountydirectory",
+    "addedDate": "2026-03-04T02:33:18.734Z",
+    "company": "One Step GPS",
+    "bounty": true,
+    "swag": false,
+    "hof": false,
+    "tags": [
+      "Web2"
+    ]
   },
   {
     "url": "https://www.activeloop.ai/bug-bounty-program/",
     "source": "bugbountydirectory",
-    "addedDate": "2026-03-04T04:30:05.358Z",
+    "addedDate": "2026-03-04T02:33:18.734Z",
     "company": "Activeloop",
     "bounty": true,
     "swag": false,
     "hof": false,
     "tags": [
       "Web2"
-    ],
-    "name": "Activeloop"
+    ]
+  },
+  {
+    "url": "https://www.storj.io/company/bug-bounty",
+    "source": "bugbountydirectory",
+    "addedDate": "2026-03-04T02:33:18.734Z",
+    "company": "Storj",
+    "bounty": true,
+    "swag": false,
+    "hof": false,
+    "tags": [
+      "Web2"
+    ]
+  },
+  {
+    "url": "https://www.appbox.co/policies/bug-bounty-program",
+    "source": "bugbountydirectory",
+    "addedDate": "2026-03-04T02:33:18.734Z",
+    "company": "Appbox",
+    "bounty": true,
+    "swag": false,
+    "hof": false,
+    "tags": [
+      "Web2"
+    ]
+  },
+  {
+    "url": "https://docs.pacifica.fi/bug-bounty-program",
+    "source": "bugbountydirectory",
+    "addedDate": "2026-03-04T02:33:18.734Z",
+    "company": "Pacifica",
+    "bounty": true,
+    "swag": false,
+    "hof": false,
+    "tags": [
+      "Web2",
+      "Web3"
+    ]
+  },
+  {
+    "url": "https://lingonlabs.com/bug-bounty",
+    "source": "bugbountydirectory",
+    "addedDate": "2026-03-04T02:33:18.734Z",
+    "company": "Lingon Labs",
+    "bounty": true,
+    "swag": false,
+    "hof": false,
+    "tags": [
+      "Web2"
+    ]
   },
   {
     "url": "https://docs.secoda.co/policies/bug-bounty-program",
     "source": "bugbountydirectory",
-    "addedDate": "2026-03-04T04:30:05.359Z",
+    "addedDate": "2026-03-04T02:33:18.734Z",
     "company": "Secoda",
     "bounty": true,
     "swag": false,
     "hof": false,
     "tags": [
       "Web2"
-    ],
-    "name": "Secoda"
+    ]
+  },
+  {
+    "url": "https://docs.zora.co/bug-bounty/bug-bounty-program",
+    "source": "bugbountydirectory",
+    "addedDate": "2026-03-04T02:33:18.734Z",
+    "company": "Zora",
+    "bounty": true,
+    "swag": false,
+    "hof": false,
+    "tags": [
+      "Web2",
+      "Mobile",
+      "Web3"
+    ]
   },
   {
     "url": "https://www.keepertax.com/bug-bounty-program",
     "source": "bugbountydirectory",
-    "addedDate": "2026-03-04T04:30:05.359Z",
+    "addedDate": "2026-03-04T02:33:18.734Z",
     "company": "Keeper",
     "bounty": true,
     "swag": false,
     "hof": false,
     "tags": [
       "Web2"
-    ],
-    "name": "Keeper"
+    ]
+  },
+  {
+    "url": "https://securitize.io/bug-bounty",
+    "source": "bugbountydirectory",
+    "addedDate": "2026-03-04T02:33:18.734Z",
+    "company": "Securitize",
+    "bounty": true,
+    "swag": false,
+    "hof": false,
+    "tags": [
+      "Web2",
+      "Web3"
+    ]
   },
   {
     "url": "https://www.cofactr.com/cofactrs-bug-bounty",
     "source": "bugbountydirectory",
-    "addedDate": "2026-03-04T04:30:05.359Z",
+    "addedDate": "2026-03-04T02:33:18.734Z",
     "company": "Cofactr",
     "bounty": true,
     "swag": false,
     "hof": false,
     "tags": [
       "Web2"
-    ],
-    "name": "Cofactr"
+    ]
   },
   {
     "url": "https://docs.suilend.fi/security/bug-bounty",
     "source": "bugbountydirectory",
-    "addedDate": "2026-03-04T04:30:05.359Z",
+    "addedDate": "2026-03-04T02:33:18.734Z",
     "company": "Suilend",
     "bounty": true,
     "swag": false,
@@ -6633,112 +6709,127 @@
     "tags": [
       "Web2",
       "Web3"
-    ],
-    "name": "Suilend"
+    ]
+  },
+  {
+    "url": "https://docs.ultra.cc/policies/bug-bounty-program",
+    "source": "bugbountydirectory",
+    "addedDate": "2026-03-04T02:33:18.735Z",
+    "company": "Ultra",
+    "bounty": true,
+    "swag": false,
+    "hof": false,
+    "tags": [
+      "Web2"
+    ]
   },
   {
     "url": "https://tubeway.io/bug-bounty-program/",
     "source": "bugbountydirectory",
-    "addedDate": "2026-03-04T04:30:05.359Z",
+    "addedDate": "2026-03-04T02:33:18.735Z",
     "company": "Tubeway",
     "bounty": true,
     "swag": false,
     "hof": false,
     "tags": [
       "Web2"
-    ],
-    "name": "Tubeway"
+    ]
   },
   {
     "url": "https://www.salesken.ai/legal/legal-vulnerability-disclosure-policy",
     "source": "bugbountydirectory",
-    "addedDate": "2026-03-04T04:30:05.359Z",
+    "addedDate": "2026-03-04T02:33:18.735Z",
     "company": "Salesken",
     "bounty": true,
     "swag": false,
     "hof": true,
     "tags": [
       "Web2"
-    ],
-    "name": "Salesken"
+    ]
+  },
+  {
+    "url": "https://www.forexfactory.com/bug-bounty",
+    "source": "bugbountydirectory",
+    "addedDate": "2026-03-04T02:33:18.735Z",
+    "company": "Forex Factory",
+    "bounty": true,
+    "swag": false,
+    "hof": false,
+    "tags": [
+      "Web2"
+    ]
   },
   {
     "url": "https://unione.io/en/vulnerability-disclosure-policy",
     "source": "bugbountydirectory",
-    "addedDate": "2026-03-04T04:30:05.359Z",
+    "addedDate": "2026-03-04T02:33:18.735Z",
     "company": "UniOne",
     "bounty": true,
     "swag": false,
     "hof": false,
     "tags": [
       "Web2"
-    ],
-    "name": "UniOne"
+    ]
   },
   {
     "url": "https://relevanceai.com/vulnerability-reward-program",
     "source": "bugbountydirectory",
-    "addedDate": "2026-03-04T04:30:05.359Z",
+    "addedDate": "2026-03-04T02:33:18.735Z",
     "company": "Relevance AI",
     "bounty": true,
     "swag": false,
     "hof": false,
     "tags": [
       "Web2"
-    ],
-    "name": "Relevance AI"
+    ]
   },
   {
     "url": "https://www.punchzee.com/vulnerability-disclosure-and-reward-program",
     "source": "bugbountydirectory",
-    "addedDate": "2026-03-04T04:30:05.359Z",
+    "addedDate": "2026-03-04T02:33:18.735Z",
     "company": "Punchzee",
     "bounty": true,
     "swag": false,
     "hof": true,
     "tags": [
       "Web2"
-    ],
-    "name": "Punchzee"
+    ]
   },
   {
     "url": "https://codesignal.com/security/disclosure-policy",
     "source": "bugbountydirectory",
-    "addedDate": "2026-03-04T04:30:05.359Z",
+    "addedDate": "2026-03-04T02:33:18.735Z",
     "company": "CodeSignal",
     "bounty": true,
     "swag": false,
     "hof": false,
     "tags": [
       "Web2"
-    ],
-    "name": "CodeSignal"
+    ]
   },
   {
     "url": "https://juicebox.ai/responsible-disclosure",
     "source": "bugbountydirectory",
-    "addedDate": "2026-03-04T04:30:05.359Z",
+    "addedDate": "2026-03-04T02:33:18.735Z",
     "company": "Juicebox",
     "bounty": true,
     "swag": false,
     "hof": false,
     "tags": [
       "Web2"
-    ],
-    "name": "Juicebox"
+    ]
   },
   {
     "url": "https://www.hckrt.com/Catalog/Program?alias=mmr",
     "source": "bugbountydirectory",
-    "addedDate": "2026-03-04T04:30:05.359Z",
+    "addedDate": "2026-03-04T02:33:18.735Z",
     "company": "MRD of the Czech Republic",
     "bounty": true,
     "swag": false,
     "hof": false,
     "tags": [
       "Web2"
-    ],
-    "name": "MRD of the Czech Republic"
+    ]
   },
   {
     "url": "https://hackerone.com/security",
@@ -6877,8 +6968,7 @@
     "name": "Tinder",
     "handle": "tinder",
     "bounty": true,
-    "private": false,
-    "icon": "https://profile-photos.hackerone-user-content.com/variants/tinder/original/avatar.jpg"
+    "private": false
   },
   {
     "url": "https://hackerone.com/coinbase",
@@ -6887,8 +6977,7 @@
     "name": "Coinbase",
     "handle": "coinbase",
     "bounty": true,
-    "private": false,
-    "icon": "https://profile-photos.hackerone-user-content.com/variants/coinbase/original/avatar.jpg"
+    "private": false
   },
   {
     "url": "https://hackerone.com/automattic",
@@ -7027,8 +7116,7 @@
     "name": "Small Improvements",
     "handle": "small-improvements",
     "bounty": true,
-    "private": true,
-    "icon": "https://profile-photos.hackerone-user-content.com/variants/smallimprovements/original/avatar.jpg"
+    "private": true
   },
   {
     "url": "https://hackerone.com/algolia",
@@ -7067,8 +7155,7 @@
     "name": "Scopely",
     "handle": "scopely",
     "bounty": true,
-    "private": false,
-    "icon": "https://profile-photos.hackerone-user-content.com/variants/scopely/original/avatar.jpg"
+    "private": false
   },
   {
     "url": "https://hackerone.com/imgur",
@@ -7177,8 +7264,7 @@
     "name": "MasterClass",
     "handle": "masterclass",
     "bounty": true,
-    "private": true,
-    "icon": "https://profile-photos.hackerone-user-content.com/variants/masterclass/original/avatar.jpg"
+    "private": true
   },
   {
     "url": "https://hackerone.com/udemy",
@@ -7187,8 +7273,7 @@
     "name": "Udemy",
     "handle": "udemy",
     "bounty": true,
-    "private": false,
-    "icon": "https://profile-photos.hackerone-user-content.com/variants/udemy/original/avatar.jpg"
+    "private": false
   },
   {
     "url": "https://hackerone.com/legalrobot",
@@ -7217,8 +7302,7 @@
     "name": "GoodRx",
     "handle": "goodrx",
     "bounty": true,
-    "private": false,
-    "icon": "https://profile-photos.hackerone-user-content.com/variants/goodrx/original/avatar.jpg"
+    "private": false
   },
   {
     "url": "https://hackerone.com/torproject",
@@ -7337,8 +7421,7 @@
     "name": "GEICO",
     "handle": "geico",
     "bounty": true,
-    "private": true,
-    "icon": "https://profile-photos.hackerone-user-content.com/variants/geico/original/avatar.jpg"
+    "private": true
   },
   {
     "url": "https://hackerone.com/eternal",
@@ -7417,8 +7500,7 @@
     "name": "Symphony",
     "handle": "symphony",
     "bounty": true,
-    "private": true,
-    "icon": "https://profile-photos.hackerone-user-content.com/variants/symphony/original/avatar.jpg"
+    "private": true
   },
   {
     "url": "https://hackerone.com/fetlife",
@@ -7427,8 +7509,7 @@
     "name": "FetLife",
     "handle": "fetlife",
     "bounty": true,
-    "private": false,
-    "icon": "https://profile-photos.hackerone-user-content.com/variants/fetlife/original/avatar.jpg"
+    "private": false
   },
   {
     "url": "https://hackerone.com/bime",
@@ -7637,8 +7718,7 @@
     "name": "Localize",
     "handle": "localizejs",
     "bounty": true,
-    "private": false,
-    "icon": "https://profile-photos.hackerone-user-content.com/variants/localize/original/avatar.jpg"
+    "private": false
   },
   {
     "url": "https://hackerone.com/portswigger",
@@ -7697,8 +7777,7 @@
     "name": "Semrush",
     "handle": "semrush",
     "bounty": true,
-    "private": false,
-    "icon": "https://profile-photos.hackerone-user-content.com/variants/semrush/original/avatar.jpg"
+    "private": false
   },
   {
     "url": "https://hackerone.com/xiaomi",
@@ -7767,8 +7846,7 @@
     "name": "Nord Security",
     "handle": "nordsecurity",
     "bounty": true,
-    "private": false,
-    "icon": "https://profile-photos.hackerone-user-content.com/variants/nordsecurity/original/avatar.jpg"
+    "private": false
   },
   {
     "url": "https://hackerone.com/doximity",
@@ -7777,8 +7855,7 @@
     "name": "Doximity",
     "handle": "doximity",
     "bounty": true,
-    "private": true,
-    "icon": "https://profile-photos.hackerone-user-content.com/variants/doximity/original/avatar.jpg"
+    "private": true
   },
   {
     "url": "https://hackerone.com/roblox",
@@ -7787,8 +7864,7 @@
     "name": "Roblox",
     "handle": "roblox",
     "bounty": true,
-    "private": false,
-    "icon": "https://profile-photos.hackerone-user-content.com/variants/roblox/original/avatar.jpg"
+    "private": false
   },
   {
     "url": "https://hackerone.com/teradici",
@@ -7847,8 +7923,7 @@
     "name": "Pleo",
     "handle": "pleo",
     "bounty": true,
-    "private": true,
-    "icon": "https://profile-photos.hackerone-user-content.com/variants/pleo/original/avatar.jpg"
+    "private": true
   },
   {
     "url": "https://hackerone.com/malwarebytes",
@@ -7957,8 +8032,7 @@
     "name": "Flutter UK&I",
     "handle": "flutteruki",
     "bounty": true,
-    "private": false,
-    "icon": "https://profile-photos.hackerone-user-content.com/variants/flutteruki/original/avatar.jpg"
+    "private": false
   },
   {
     "url": "https://hackerone.com/databricks",
@@ -8047,8 +8121,7 @@
     "name": "Coupa",
     "handle": "coupa",
     "bounty": true,
-    "private": true,
-    "icon": "https://profile-photos.hackerone-user-content.com/variants/coupa/original/avatar.jpg"
+    "private": true
   },
   {
     "url": "https://hackerone.com/pixiv",
@@ -8107,8 +8180,7 @@
     "name": "DiDi Labs",
     "handle": "didilabs",
     "bounty": true,
-    "private": true,
-    "icon": "https://profile-photos.hackerone-user-content.com/variants/didilabs/original/avatar.jpg"
+    "private": true
   },
   {
     "url": "https://hackerone.com/remitly",
@@ -8187,8 +8259,7 @@
     "name": "Hytto Ltd",
     "handle": "hytto_ltd",
     "bounty": true,
-    "private": true,
-    "icon": "https://profile-photos.hackerone-user-content.com/variants/hyttoltd/original/avatar.jpg"
+    "private": true
   },
   {
     "url": "https://hackerone.com/fanduel",
@@ -8317,8 +8388,7 @@
     "name": "Via",
     "handle": "ridewithvia",
     "bounty": true,
-    "private": false,
-    "icon": "https://profile-photos.hackerone-user-content.com/variants/via/original/avatar.jpg"
+    "private": false
   },
   {
     "url": "https://hackerone.com/early_warning",
@@ -8347,8 +8417,7 @@
     "name": "Nintendo Server Bug Bounty Program",
     "handle": "nintendo-server",
     "bounty": true,
-    "private": true,
-    "icon": "https://profile-photos.hackerone-user-content.com/variants/nintendoserverbugbountyprogram/original/avatar.jpg"
+    "private": true
   },
   {
     "url": "https://hackerone.com/kubernetes",
@@ -8497,8 +8566,7 @@
     "name": "PUBG BBP",
     "handle": "pubg_bbp",
     "bounty": true,
-    "private": true,
-    "icon": "https://profile-photos.hackerone-user-content.com/variants/pubgbbp/original/avatar.jpg"
+    "private": true
   },
   {
     "url": "https://hackerone.com/playstation",
@@ -8527,8 +8595,7 @@
     "name": "Justworks, Inc. BBP",
     "handle": "justworks_inc_bbp",
     "bounty": true,
-    "private": true,
-    "icon": "https://profile-photos.hackerone-user-content.com/variants/justworksincbbp/original/avatar.jpg"
+    "private": true
   },
   {
     "url": "https://hackerone.com/hostinger",
@@ -8577,8 +8644,7 @@
     "name": "thredUP BBP",
     "handle": "thredup_bbp",
     "bounty": true,
-    "private": true,
-    "icon": "https://profile-photos.hackerone-user-content.com/variants/thredupbbp/original/avatar.jpg"
+    "private": true
   },
   {
     "url": "https://hackerone.com/shein",
@@ -8637,8 +8703,7 @@
     "name": "LaunchDarkly",
     "handle": "launchdarkly",
     "bounty": true,
-    "private": false,
-    "icon": "https://profile-photos.hackerone-user-content.com/variants/launchdarkly/original/avatar.jpg"
+    "private": false
   },
   {
     "url": "https://hackerone.com/bankaletihad-bbp",
@@ -8647,8 +8712,7 @@
     "name": "Bank al Etihad BBP",
     "handle": "bankaletihad-bbp",
     "bounty": true,
-    "private": true,
-    "icon": "https://profile-photos.hackerone-user-content.com/variants/bankaletihadbbp/original/avatar.jpg"
+    "private": true
   },
   {
     "url": "https://hackerone.com/mux",
@@ -8707,8 +8771,7 @@
     "name": "Alpha Group ",
     "handle": "alpha_group",
     "bounty": true,
-    "private": true,
-    "icon": "https://profile-photos.hackerone-user-content.com/variants/alphagroup/original/avatar.jpg"
+    "private": true
   },
   {
     "url": "https://hackerone.com/trafficfactory",
@@ -8787,8 +8850,7 @@
     "name": "Stripe",
     "handle": "stripe",
     "bounty": true,
-    "private": false,
-    "icon": "https://profile-photos.hackerone-user-content.com/variants/stripe/original/avatar.jpg"
+    "private": false
   },
   {
     "url": "https://hackerone.com/wallethub",
@@ -8797,8 +8859,7 @@
     "name": "WalletHub",
     "handle": "wallethub",
     "bounty": true,
-    "private": true,
-    "icon": "https://profile-photos.hackerone-user-content.com/variants/wallethub/original/avatar.jpg"
+    "private": true
   },
   {
     "url": "https://hackerone.com/hypr-corp",
@@ -8817,8 +8878,7 @@
     "name": "Payoneer",
     "handle": "payoneer",
     "bounty": true,
-    "private": false,
-    "icon": "https://profile-photos.hackerone-user-content.com/variants/payoneer/original/avatar.jpg"
+    "private": false
   },
   {
     "url": "https://hackerone.com/tradingview",
@@ -8827,8 +8887,7 @@
     "name": "TradingView",
     "handle": "tradingview",
     "bounty": true,
-    "private": true,
-    "icon": "https://profile-photos.hackerone-user-content.com/variants/tradingview/original/avatar.jpg"
+    "private": true
   },
   {
     "url": "https://hackerone.com/capital-one-bounty",
@@ -8837,8 +8896,7 @@
     "name": "Capital One Bug Bounty",
     "handle": "capital-one-bounty",
     "bounty": true,
-    "private": false,
-    "icon": "https://profile-photos.hackerone-user-content.com/variants/capitalonebugbounty/original/avatar.jpg"
+    "private": false
   },
   {
     "url": "https://hackerone.com/pluralsight",
@@ -8847,8 +8905,7 @@
     "name": "Pluralsight",
     "handle": "pluralsight",
     "bounty": true,
-    "private": true,
-    "icon": "https://profile-photos.hackerone-user-content.com/variants/pluralsight/original/avatar.jpg"
+    "private": true
   },
   {
     "url": "https://hackerone.com/avanza-bank",
@@ -8857,8 +8914,7 @@
     "name": "Avanza Bank",
     "handle": "avanza-bank",
     "bounty": true,
-    "private": true,
-    "icon": "https://profile-photos.hackerone-user-content.com/variants/avanzabank/original/avatar.jpg"
+    "private": true
   },
   {
     "url": "https://hackerone.com/compass-bbp",
@@ -8867,8 +8923,7 @@
     "name": "Compass",
     "handle": "compass-bbp",
     "bounty": true,
-    "private": false,
-    "icon": "https://profile-photos.hackerone-user-content.com/variants/compass/original/avatar.jpg"
+    "private": false
   },
   {
     "url": "https://hackerone.com/eligible",
@@ -8877,8 +8932,7 @@
     "name": "Eligible",
     "handle": "eligible",
     "bounty": true,
-    "private": true,
-    "icon": "https://profile-photos.hackerone-user-content.com/variants/eligible/original/avatar.jpg"
+    "private": true
   },
   {
     "url": "https://hackerone.com/trendyol",
@@ -8897,8 +8951,7 @@
     "name": "Playtika",
     "handle": "playtika",
     "bounty": true,
-    "private": false,
-    "icon": "https://profile-photos.hackerone-user-content.com/variants/playtika/original/avatar.jpg"
+    "private": false
   },
   {
     "url": "https://hackerone.com/smtp2go",
@@ -8907,8 +8960,7 @@
     "name": "SMTP2GO BBP",
     "handle": "smtp2go",
     "bounty": true,
-    "private": false,
-    "icon": "https://profile-photos.hackerone-user-content.com/variants/smtp2gobbp/original/avatar.jpg"
+    "private": false
   },
   {
     "url": "https://hackerone.com/khealth",
@@ -8917,8 +8969,7 @@
     "name": "KHealth",
     "handle": "khealth",
     "bounty": true,
-    "private": false,
-    "icon": "https://profile-photos.hackerone-user-content.com/variants/khealth/original/avatar.jpg"
+    "private": false
   },
   {
     "url": "https://hackerone.com/whatnot",
@@ -8927,8 +8978,7 @@
     "name": "Whatnot",
     "handle": "whatnot",
     "bounty": true,
-    "private": true,
-    "icon": "https://profile-photos.hackerone-user-content.com/variants/whatnot/original/avatar.jpg"
+    "private": true
   },
   {
     "url": "https://hackerone.com/zooplus",
@@ -8957,8 +9007,7 @@
     "name": "Newegg",
     "handle": "newegg",
     "bounty": true,
-    "private": false,
-    "icon": "https://profile-photos.hackerone-user-content.com/variants/newegg/original/avatar.jpg"
+    "private": false
   },
   {
     "url": "https://hackerone.com/koho",
@@ -8977,8 +9026,7 @@
     "name": "Moveworks",
     "handle": "moveworks",
     "bounty": true,
-    "private": true,
-    "icon": "https://profile-photos.hackerone-user-content.com/variants/moveworks/original/avatar.jpg"
+    "private": true
   },
   {
     "url": "https://hackerone.com/razorpay",
@@ -8987,8 +9035,7 @@
     "name": "Razorpay",
     "handle": "razorpay",
     "bounty": true,
-    "private": false,
-    "icon": "https://profile-photos.hackerone-user-content.com/variants/razorpay/original/avatar.jpg"
+    "private": false
   },
   {
     "url": "https://hackerone.com/ibb",
@@ -8997,8 +9044,7 @@
     "name": "Internet Bug Bounty",
     "handle": "ibb",
     "bounty": true,
-    "private": false,
-    "icon": "https://profile-photos.hackerone-user-content.com/variants/internetbugbounty/original/avatar.jpg"
+    "private": false
   },
   {
     "url": "https://hackerone.com/flinks",
@@ -9007,8 +9053,7 @@
     "name": "Flinks",
     "handle": "flinks",
     "bounty": true,
-    "private": true,
-    "icon": "https://profile-photos.hackerone-user-content.com/variants/flinks/original/avatar.jpg"
+    "private": true
   },
   {
     "url": "https://hackerone.com/blend-labs",
@@ -9017,8 +9062,7 @@
     "name": "Blend Labs",
     "handle": "blend-labs",
     "bounty": true,
-    "private": false,
-    "icon": "https://profile-photos.hackerone-user-content.com/variants/blendlabs/original/avatar.jpg"
+    "private": false
   },
   {
     "url": "https://hackerone.com/moonpay",
@@ -9027,8 +9071,7 @@
     "name": "MoonPay ",
     "handle": "moonpay",
     "bounty": true,
-    "private": false,
-    "icon": "https://profile-photos.hackerone-user-content.com/variants/moonpay/original/avatar.jpg"
+    "private": false
   },
   {
     "url": "https://hackerone.com/inspectorio",
@@ -9047,8 +9090,7 @@
     "name": "Gamma Entertainment",
     "handle": "gamma-bbp",
     "bounty": true,
-    "private": true,
-    "icon": "https://profile-photos.hackerone-user-content.com/variants/gammaentertainment/original/avatar.jpg"
+    "private": true
   },
   {
     "url": "https://hackerone.com/browserstack",
@@ -9057,8 +9099,7 @@
     "name": "BrowserStack",
     "handle": "browserstack",
     "bounty": true,
-    "private": true,
-    "icon": "https://profile-photos.hackerone-user-content.com/variants/browserstack/original/avatar.jpg"
+    "private": true
   },
   {
     "url": "https://hackerone.com/palantir_public",
@@ -9077,8 +9118,7 @@
     "name": "Apollo",
     "handle": "palantir_apollo",
     "bounty": true,
-    "private": true,
-    "icon": "https://profile-photos.hackerone-user-content.com/variants/apollo/original/avatar.jpg"
+    "private": true
   },
   {
     "url": "https://hackerone.com/amazonvrp-devices",
@@ -9097,8 +9137,7 @@
     "name": "Mondoo",
     "handle": "mondoo",
     "bounty": true,
-    "private": true,
-    "icon": "https://profile-photos.hackerone-user-content.com/variants/mondoo/original/avatar.jpg"
+    "private": true
   },
   {
     "url": "https://hackerone.com/sendcloud",
@@ -9107,8 +9146,7 @@
     "name": "Sendcloud",
     "handle": "sendcloud",
     "bounty": true,
-    "private": true,
-    "icon": "https://profile-photos.hackerone-user-content.com/variants/sendcloud/original/avatar.jpg"
+    "private": true
   },
   {
     "url": "https://hackerone.com/wellsfargo-bbp",
@@ -9117,8 +9155,7 @@
     "name": "Wells Fargo Bounty",
     "handle": "wellsfargo-bbp",
     "bounty": true,
-    "private": false,
-    "icon": "https://profile-photos.hackerone-user-content.com/variants/wellsfargobounty/original/avatar.jpg"
+    "private": false
   },
   {
     "url": "https://hackerone.com/agoric",
@@ -9137,8 +9174,7 @@
     "name": "Wickr",
     "handle": "wickr",
     "bounty": true,
-    "private": false,
-    "icon": "https://profile-photos.hackerone-user-content.com/variants/wickr/original/avatar.jpg"
+    "private": false
   },
   {
     "url": "https://hackerone.com/hilton",
@@ -9147,8 +9183,7 @@
     "name": "Hilton",
     "handle": "hilton",
     "bounty": true,
-    "private": false,
-    "icon": "https://profile-photos.hackerone-user-content.com/variants/hilton/original/avatar.jpg"
+    "private": false
   },
   {
     "url": "https://hackerone.com/sidefx",
@@ -9157,8 +9192,7 @@
     "name": "SideFX",
     "handle": "sidefx",
     "bounty": true,
-    "private": false,
-    "icon": "https://profile-photos.hackerone-user-content.com/variants/sidefx/original/avatar.jpg"
+    "private": false
   },
   {
     "url": "https://hackerone.com/mondelez-bbp",
@@ -9167,8 +9201,7 @@
     "name": "Mondelez International Bounty",
     "handle": "mondelez-bbp",
     "bounty": true,
-    "private": true,
-    "icon": "https://profile-photos.hackerone-user-content.com/variants/mondelezinternationalbounty/original/avatar.jpg"
+    "private": true
   },
   {
     "url": "https://hackerone.com/mongodb",
@@ -9217,8 +9250,7 @@
     "name": "SiriusXM",
     "handle": "siriusxm",
     "bounty": true,
-    "private": true,
-    "icon": "https://profile-photos.hackerone-user-content.com/variants/siriusxm/original/avatar.jpg"
+    "private": true
   },
   {
     "url": "https://hackerone.com/metamask",
@@ -9247,8 +9279,7 @@
     "name": "Mercury",
     "handle": "mercury",
     "bounty": true,
-    "private": true,
-    "icon": "https://profile-photos.hackerone-user-content.com/variants/mercury/original/avatar.jpg"
+    "private": true
   },
   {
     "url": "https://hackerone.com/mpesa",
@@ -9317,8 +9348,7 @@
     "name": "Vodacom Tanzania",
     "handle": "vodacom_tanzania",
     "bounty": true,
-    "private": true,
-    "icon": "https://profile-photos.hackerone-user-content.com/variants/vodacomtanzania/original/avatar.jpg"
+    "private": true
   },
   {
     "url": "https://hackerone.com/yuga_labs",
@@ -9457,8 +9487,7 @@
     "name": "Vercel",
     "handle": "vercel",
     "bounty": true,
-    "private": true,
-    "icon": "https://profile-photos.hackerone-user-content.com/variants/vercel/original/avatar.jpg"
+    "private": true
   },
   {
     "url": "https://hackerone.com/magic-eden",
@@ -9477,8 +9506,7 @@
     "name": "Headspace",
     "handle": "headspace_bbp",
     "bounty": true,
-    "private": true,
-    "icon": "https://profile-photos.hackerone-user-content.com/variants/headspace/original/avatar.jpg"
+    "private": true
   },
   {
     "url": "https://hackerone.com/pornbox",
@@ -9507,8 +9535,7 @@
     "name": "Character Technologies, Inc.",
     "handle": "character_ai",
     "bounty": true,
-    "private": true,
-    "icon": "https://profile-photos.hackerone-user-content.com/variants/charactertechnologiesinc/original/avatar.jpg"
+    "private": true
   },
   {
     "url": "https://hackerone.com/okg",
@@ -9537,8 +9564,7 @@
     "name": "DPD Group UK",
     "handle": "dpdgroup_uk",
     "bounty": true,
-    "private": true,
-    "icon": "https://profile-photos.hackerone-user-content.com/variants/dpdgroupuk/original/avatar.jpg"
+    "private": true
   },
   {
     "url": "https://hackerone.com/tron_dao",
@@ -9577,8 +9603,7 @@
     "name": "Mollie",
     "handle": "mollie",
     "bounty": true,
-    "private": true,
-    "icon": "https://profile-photos.hackerone-user-content.com/variants/mollie/original/avatar.jpg"
+    "private": true
   },
   {
     "url": "https://hackerone.com/eero",
@@ -9597,8 +9622,7 @@
     "name": "Calendly",
     "handle": "calendly_bbp",
     "bounty": true,
-    "private": true,
-    "icon": "https://profile-photos.hackerone-user-content.com/variants/calendly/original/avatar.jpg"
+    "private": true
   },
   {
     "url": "https://hackerone.com/eufy_security",
@@ -9617,8 +9641,7 @@
     "name": "eMoney Advisor BBP",
     "handle": "emoney_advisor_bbp",
     "bounty": true,
-    "private": true,
-    "icon": "https://profile-photos.hackerone-user-content.com/variants/emoneyadvisorbbp/original/avatar.jpg"
+    "private": true
   },
   {
     "url": "https://hackerone.com/six-group",
@@ -9667,8 +9690,7 @@
     "name": "HexTrust",
     "handle": "hextrust_bbp",
     "bounty": true,
-    "private": true,
-    "icon": "https://profile-photos.hackerone-user-content.com/variants/hextrust/original/avatar.jpg"
+    "private": true
   },
   {
     "url": "https://hackerone.com/xverse",
@@ -9687,8 +9709,7 @@
     "name": "Galaxy Digital LP",
     "handle": "galaxy_digital",
     "bounty": true,
-    "private": true,
-    "icon": "https://profile-photos.hackerone-user-content.com/variants/galaxydigitallp/original/avatar.jpg"
+    "private": true
   },
   {
     "url": "https://hackerone.com/bykea",
@@ -9737,8 +9758,7 @@
     "name": "BBPOS Limited",
     "handle": "bbpos_limited",
     "bounty": true,
-    "private": true,
-    "icon": "https://profile-photos.hackerone-user-content.com/variants/bbposlimited/original/avatar.jpg"
+    "private": true
   },
   {
     "url": "https://hackerone.com/wurl",
@@ -9747,8 +9767,7 @@
     "name": "Wurl",
     "handle": "wurl",
     "bounty": true,
-    "private": true,
-    "icon": "https://profile-photos.hackerone-user-content.com/variants/wurl/original/avatar.jpg"
+    "private": true
   },
   {
     "url": "https://hackerone.com/adjust",
@@ -9757,8 +9776,7 @@
     "name": "Adjust",
     "handle": "adjust",
     "bounty": true,
-    "private": true,
-    "icon": "https://profile-photos.hackerone-user-content.com/variants/adjust/original/avatar.jpg"
+    "private": true
   },
   {
     "url": "https://hackerone.com/inditex",
@@ -9797,8 +9815,7 @@
     "name": "HudApp Bug Bounty",
     "handle": "hudapp_bbp",
     "bounty": true,
-    "private": true,
-    "icon": "https://profile-photos.hackerone-user-content.com/variants/hudappbugbounty/original/avatar.jpg"
+    "private": true
   },
   {
     "url": "https://hackerone.com/3cx",
@@ -9937,8 +9954,7 @@
     "name": "Deriv Services Ltd",
     "handle": "deriv_services_ltd",
     "bounty": true,
-    "private": true,
-    "icon": "https://profile-photos.hackerone-user-content.com/variants/derivservicesltd/original/avatar.jpg"
+    "private": true
   },
   {
     "url": "https://hackerone.com/circle-bbp",
@@ -10017,8 +10033,7 @@
     "name": "Fast Retailing",
     "handle": "fast_retailing",
     "bounty": true,
-    "private": true,
-    "icon": "https://profile-photos.hackerone-user-content.com/variants/fastretailing/original/avatar.jpg"
+    "private": true
   },
   {
     "url": "https://hackerone.com/perlego_bbp",
@@ -10027,8 +10042,7 @@
     "name": "Perlego (Bounty)",
     "handle": "perlego_bbp",
     "bounty": true,
-    "private": true,
-    "icon": "https://profile-photos.hackerone-user-content.com/variants/perlegobounty/original/avatar.jpg"
+    "private": true
   },
   {
     "url": "https://hackerone.com/hubspot",
@@ -10117,8 +10131,7 @@
     "name": "PAREXEL BBP",
     "handle": "parexel_bbp",
     "bounty": true,
-    "private": true,
-    "icon": "https://profile-photos.hackerone-user-content.com/variants/parexelbbp/original/avatar.jpg"
+    "private": true
   },
   {
     "url": "https://hackerone.com/kong",
@@ -10167,8 +10180,7 @@
     "name": "Orderly Network",
     "handle": "orderly_network",
     "bounty": true,
-    "private": true,
-    "icon": "https://profile-photos.hackerone-user-content.com/variants/orderlynetwork/original/avatar.jpg"
+    "private": true
   },
   {
     "url": "https://hackerone.com/netscaler_public_program",
@@ -13012,237 +13024,5 @@
     "status": "V",
     "country": "CH",
     "source": "yeswehack"
-  },
-  {
-    "name": "Bug Bounty",
-    "source": "issuehunt",
-    "bounty": true,
-    "addedDate": "2026-03-04T04:30:03.457Z",
-    "isNew": true,
-    "newDate": "2026-03-04T04:30:05.380Z"
-  },
-  {
-    "url": "https://www.amdax.com/en/why-amdax/legal-en-compliance/responsible-disclosure",
-    "name": "Amdax",
-    "source": "bugbountydirectory",
-    "addedDate": "2026-03-04T04:30:05.354Z",
-    "isNew": true,
-    "newDate": "2026-03-04T04:30:05.380Z"
-  },
-  {
-    "url": "https://www.appfarm.io/responsible-disclosure-policy-new",
-    "name": "Appfarm",
-    "source": "bugbountydirectory",
-    "addedDate": "2026-03-04T04:30:05.354Z",
-    "isNew": true,
-    "newDate": "2026-03-04T04:30:05.380Z"
-  },
-  {
-    "url": "https://atlan.com/responsible-disclosure-program",
-    "name": "Atlan",
-    "source": "bugbountydirectory",
-    "addedDate": "2026-03-04T04:30:05.354Z",
-    "isNew": true,
-    "newDate": "2026-03-04T04:30:05.380Z"
-  },
-  {
-    "url": "https://www.bluescape.com/vulnerability-disclosure-policy",
-    "name": "Bluescape",
-    "source": "bugbountydirectory",
-    "addedDate": "2026-03-04T04:30:05.354Z",
-    "isNew": true,
-    "newDate": "2026-03-04T04:30:05.380Z"
-  },
-  {
-    "url": "https://www.cigna.com/legal/members/responsible-vulnerability-disclosure",
-    "name": "Cigna",
-    "source": "bugbountydirectory",
-    "addedDate": "2026-03-04T04:30:05.355Z",
-    "isNew": true,
-    "newDate": "2026-03-04T04:30:05.380Z"
-  },
-  {
-    "url": "https://www.coloop.ai/responsible-disclosure-policy",
-    "name": "CoLoop",
-    "source": "bugbountydirectory",
-    "addedDate": "2026-03-04T04:30:05.355Z",
-    "isNew": true,
-    "newDate": "2026-03-04T04:30:05.380Z"
-  },
-  {
-    "url": "https://www.ferrari.com/en-EN/responsible-disclosure-programme",
-    "name": "Ferrari",
-    "source": "bugbountydirectory",
-    "addedDate": "2026-03-04T04:30:05.355Z",
-    "isNew": true,
-    "newDate": "2026-03-04T04:30:05.380Z"
-  },
-  {
-    "url": "https://www.glossier.com/en-in/pages/responsible-disclosure",
-    "name": "Glossier",
-    "source": "bugbountydirectory",
-    "addedDate": "2026-03-04T04:30:05.355Z",
-    "isNew": true,
-    "newDate": "2026-03-04T04:30:05.380Z"
-  },
-  {
-    "url": "https://support.healthunlocked.com/article/151-security",
-    "name": "HealthUnlocked",
-    "source": "bugbountydirectory",
-    "addedDate": "2026-03-04T04:30:05.356Z",
-    "isNew": true,
-    "newDate": "2026-03-04T04:30:05.380Z"
-  },
-  {
-    "url": "https://www.ifixit.com/Info/Responsible_Disclosure",
-    "name": "iFixit",
-    "source": "bugbountydirectory",
-    "addedDate": "2026-03-04T04:30:05.356Z",
-    "isNew": true,
-    "newDate": "2026-03-04T04:30:05.381Z"
-  },
-  {
-    "url": "https://support.knowledgeowl.com/help/vulnerability-disclosure-policy",
-    "name": "KnowledgeOwl",
-    "source": "bugbountydirectory",
-    "addedDate": "2026-03-04T04:30:05.356Z",
-    "isNew": true,
-    "newDate": "2026-03-04T04:30:05.381Z"
-  },
-  {
-    "url": "https://langfuse.com/security/responsible-disclosure",
-    "name": "Langfuse",
-    "source": "bugbountydirectory",
-    "addedDate": "2026-03-04T04:30:05.356Z",
-    "isNew": true,
-    "newDate": "2026-03-04T04:30:05.381Z"
-  },
-  {
-    "url": "https://www.livspace.com/responsible-disclosure-program",
-    "name": "Livspace",
-    "source": "bugbountydirectory",
-    "addedDate": "2026-03-04T04:30:05.356Z",
-    "isNew": true,
-    "newDate": "2026-03-04T04:30:05.381Z"
-  },
-  {
-    "url": "https://locus.sh/trust/responsible-vulnerability-disclosure-policy/",
-    "name": "Locus",
-    "source": "bugbountydirectory",
-    "addedDate": "2026-03-04T04:30:05.356Z",
-    "isNew": true,
-    "newDate": "2026-03-04T04:30:05.381Z"
-  },
-  {
-    "url": "https://www.moviexchange.com/responsible-disclosure-policy",
-    "name": "movieXchange",
-    "source": "bugbountydirectory",
-    "addedDate": "2026-03-04T04:30:05.356Z",
-    "isNew": true,
-    "newDate": "2026-03-04T04:30:05.381Z"
-  },
-  {
-    "url": "https://www.nlnetlabs.nl/security-report",
-    "name": "NLnet Labs",
-    "source": "bugbountydirectory",
-    "addedDate": "2026-03-04T04:30:05.356Z",
-    "isNew": true,
-    "newDate": "2026-03-04T04:30:05.381Z"
-  },
-  {
-    "url": "https://www.paddle.com/vulnerability-disclosure-policy",
-    "name": "Paddle",
-    "source": "bugbountydirectory",
-    "addedDate": "2026-03-04T04:30:05.357Z",
-    "isNew": true,
-    "newDate": "2026-03-04T04:30:05.381Z"
-  },
-  {
-    "url": "https://www.range.co/security/bounty",
-    "name": "Range",
-    "source": "bugbountydirectory",
-    "addedDate": "2026-03-04T04:30:05.357Z",
-    "isNew": true,
-    "newDate": "2026-03-04T04:30:05.381Z"
-  },
-  {
-    "url": "https://www.rocketlane.com/responsible-disclosure",
-    "name": "Rocketlane",
-    "source": "bugbountydirectory",
-    "addedDate": "2026-03-04T04:30:05.357Z",
-    "isNew": true,
-    "newDate": "2026-03-04T04:30:05.381Z"
-  },
-  {
-    "url": "https://salv.com/bug-bounty",
-    "name": "Salv",
-    "source": "bugbountydirectory",
-    "addedDate": "2026-03-04T04:30:05.357Z",
-    "isNew": true,
-    "newDate": "2026-03-04T04:30:05.381Z"
-  },
-  {
-    "url": "https://sensfrx.ai/bug-bounty",
-    "name": "Sensfrx",
-    "source": "bugbountydirectory",
-    "addedDate": "2026-03-04T04:30:05.357Z",
-    "isNew": true,
-    "newDate": "2026-03-04T04:30:05.381Z"
-  },
-  {
-    "url": "https://global.servify.tech/responsible-vulnerability-disclosure-program",
-    "name": "Servify",
-    "source": "bugbountydirectory",
-    "addedDate": "2026-03-04T04:30:05.357Z",
-    "isNew": true,
-    "newDate": "2026-03-04T04:30:05.381Z"
-  },
-  {
-    "url": "https://www.skipso.com/responsible-disclosure",
-    "name": "Skipso",
-    "source": "bugbountydirectory",
-    "addedDate": "2026-03-04T04:30:05.357Z",
-    "isNew": true,
-    "newDate": "2026-03-04T04:30:05.381Z"
-  },
-  {
-    "url": "https://www.teamretro.com/responsible-disclosure",
-    "name": "TeamRetro",
-    "source": "bugbountydirectory",
-    "addedDate": "2026-03-04T04:30:05.358Z",
-    "isNew": true,
-    "newDate": "2026-03-04T04:30:05.381Z"
-  },
-  {
-    "url": "https://www.toddleapp.com/responsible-vulnerability-disclosure-policy",
-    "name": "Toddle",
-    "source": "bugbountydirectory",
-    "addedDate": "2026-03-04T04:30:05.358Z",
-    "isNew": true,
-    "newDate": "2026-03-04T04:30:05.381Z"
-  },
-  {
-    "url": "https://www.rug.nl/about-ug/policy-and-strategy/privacy-and-security-at-the-ug/responsible-disclosure",
-    "name": "University of Groningen",
-    "source": "bugbountydirectory",
-    "addedDate": "2026-03-04T04:30:05.358Z",
-    "isNew": true,
-    "newDate": "2026-03-04T04:30:05.381Z"
-  },
-  {
-    "url": "https://www.truemeds.in/security",
-    "name": "Truemeds",
-    "source": "bugbountydirectory",
-    "addedDate": "2026-03-04T04:30:05.359Z",
-    "isNew": true,
-    "newDate": "2026-03-04T04:30:05.381Z"
-  },
-  {
-    "url": "https://www.cm.be/en/secure-online/responsible-disclosure-program",
-    "name": "CM",
-    "source": "bugbountydirectory",
-    "addedDate": "2026-03-04T04:30:05.359Z",
-    "isNew": true,
-    "newDate": "2026-03-04T04:30:05.381Z"
   }
 ]

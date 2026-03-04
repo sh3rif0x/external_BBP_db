@@ -1,0 +1,3427 @@
+[
+  {
+    "company": "3Commas",
+    "url": "https://3commas.io/bounty",
+    "overview": "By combining AI with a proven grid trading strategy, we created 3Commas AI Grid Bot that trades autonomously.",
+    "bounty": true,
+    "swag": false,
+    "hof": false,
+    "tags": [
+      "Web2",
+      "Mobile"
+    ],
+    "createdAt": "2025-04-01"
+  },
+  {
+    "company": "7shifts",
+    "url": "https://www.7shifts.com/responsible-disclosure/",
+    "overview": "7shifts is an all-in-one restaurant team management platform that helps operators. Trusted by 1.5 million restaurant pros.",
+    "bounty": true,
+    "swag": false,
+    "hof": false,
+    "tags": [
+      "Web2",
+      "Mobile"
+    ],
+    "createdAt": "2025-11-15"
+  },
+  {
+    "company": "84codes",
+    "url": "https://www.84codes.com/security",
+    "overview": "84codes is a tech company based in Sweden, with a straightforward mission: make cloud infrastructure less complicated for developers.",
+    "bounty": true,
+    "swag": false,
+    "hof": false,
+    "tags": [
+      "Web2"
+    ],
+    "createdAt": "2025-04-14"
+  },
+  {
+    "company": "Acceldata",
+    "url": "https://www.acceldata.io/bug-bounty",
+    "overview": "Acceldata provides an advanced data observability platform designed to enhance data reliability, optimize costs, and improve operational efficiency.",
+    "bounty": true,
+    "swag": false,
+    "hof": false,
+    "tags": [
+      "Web2"
+    ],
+    "createdAt": "2025-03-10"
+  },
+  {
+    "company": "Accredible",
+    "url": "https://www.accredible.com/whitehat",
+    "overview": "Accredible is the world's leading digital credential platform, enabling education and training leaders to increase learner engagement.",
+    "bounty": true,
+    "swag": false,
+    "hof": false,
+    "tags": [
+      "Web2"
+    ],
+    "createdAt": "2025-04-14"
+  },
+  {
+    "company": "Achievable",
+    "url": "https://achievable.me/bug-bounty",
+    "overview": "Achievable offers modern, guided, and personalized test prep that delivers better results in half the time.",
+    "bounty": true,
+    "swag": false,
+    "hof": false,
+    "tags": [
+      "Web2"
+    ],
+    "createdAt": "2025-04-22"
+  },
+  {
+    "company": "Achmea",
+    "url": "https://www.achmea.nl/en/responsible-disclosure",
+    "overview": "Achmea Holding N.V. is one of the largest suppliers of financial services (mainly insurance) in the Netherlands.",
+    "bounty": true,
+    "swag": true,
+    "hof": true,
+    "tags": [
+      "Web2"
+    ],
+    "createdAt": "2025-04-16"
+  },
+  {
+    "company": "Across",
+    "url": "https://docs.across.to/resources/bug-bounty",
+    "overview": "Across is an interoperability protocol powered by intents. It is the only crosschain intents protocol in production today.",
+    "bounty": true,
+    "swag": false,
+    "hof": false,
+    "tags": [
+      "Web3",
+      "Web2"
+    ],
+    "createdAt": "2025-03-10"
+  },
+  {
+    "company": "ACT Fibernet",
+    "url": "https://www.actcorp.in/legal/bug-bounty",
+    "overview": "ACT is one of the leading ISPs in India, bringing you streaming, gaming, e-learning & more.",
+    "bounty": true,
+    "swag": false,
+    "hof": false,
+    "tags": [
+      "Web2",
+      "Mobile"
+    ],
+    "createdAt": "2025-05-17"
+  },
+  {
+    "company": "Adafruit",
+    "url": "https://www.adafruit.com/reportingsecurityissues",
+    "overview": "The easiest way to stream, log, and interact with your data.",
+    "bounty": true,
+    "swag": true,
+    "hof": false,
+    "tags": [
+      "Web2",
+      "Mobile"
+    ],
+    "createdAt": "2025-04-15"
+  },
+  {
+    "company": "AdsPower",
+    "url": "https://www.adspower.com/bug-bounty",
+    "overview": "Create real browser fingerprints with over 20+ customizable parameters and manage all your accounts more easily than ever.",
+    "bounty": true,
+    "swag": false,
+    "hof": false,
+    "tags": [
+      "Web2",
+      "Desktop"
+    ],
+    "createdAt": "2025-03-10"
+  },
+  {
+    "company": "Ahold Delhaize",
+    "url": "https://www.aholddelhaize.com/security",
+    "overview": "Koninklijke Ahold Delhaize N.V., commonly known as Ahold Delhaize, is a Dutch-Belgian multinational retail and wholesale holding company.",
+    "bounty": true,
+    "swag": true,
+    "hof": true,
+    "tags": [
+      "Web2"
+    ],
+    "createdAt": "2025-04-05"
+  },
+  {
+    "company": "Alwaysdata",
+    "url": "https://help.alwaysdata.com/en/security/bug-bounty",
+    "overview": "Alwaysdata is a Cloud Computing solution that allows companies to outsource their websites to a public or private cloud.",
+    "bounty": true,
+    "swag": false,
+    "hof": false,
+    "tags": [
+      "Web2"
+    ],
+    "createdAt": "2025-04-05"
+  },
+  {
+    "company": "Amagi",
+    "url": "https://www.amagi.com/responsible-disclosure-program",
+    "overview": "Amagi provides end-to-end cloud-managed live and on-demand video infrastructure for TV and OTT.",
+    "bounty": true,
+    "swag": false,
+    "hof": false,
+    "tags": [
+      "Web2"
+    ],
+    "createdAt": "2025-04-05"
+  },
+  {
+    "company": "Amdax",
+    "url": "https://www.amdax.com/en/why-amdax/legal-en-compliance/responsible-disclosure",
+    "overview": "Amdax is one of the Netherlands' leading crypto service providers. With a personal and expert approach, you invest safely in crypto assets and other digital assets.",
+    "bounty": false,
+    "swag": false,
+    "hof": true,
+    "tags": [
+      "Web2"
+    ],
+    "createdAt": "2025-11-23"
+  },
+  {
+    "company": "Appfarm",
+    "url": "https://www.appfarm.io/responsible-disclosure-policy-new",
+    "overview": "A unique cloud-based development platform where you create, launch and manage business software 10x faster.",
+    "bounty": false,
+    "swag": true,
+    "hof": false,
+    "tags": [
+      "Web2"
+    ],
+    "createdAt": "2025-04-22"
+  },
+  {
+    "company": "Artifex",
+    "url": "https://artifex.com/developers-bug-bounty-program",
+    "overview": "Artifex builds open-source SDKs and libraries like Ghostscript, MuPDF, and PyMuPDF to drive document workflows from printing to LLMs via code and APIs.",
+    "bounty": true,
+    "swag": false,
+    "hof": true,
+    "tags": [
+      "Web2",
+      "Desktop",
+      "Mobile"
+    ],
+    "createdAt": "2025-04-05"
+  },
+  {
+    "company": "Atlan",
+    "url": "https://atlan.com/responsible-disclosure-program",
+    "overview": "Atlan is a data democratization company that helps teams collaborate frictionlessly on data projects.",
+    "bounty": false,
+    "swag": true,
+    "hof": true,
+    "tags": [
+      "Web2"
+    ],
+    "createdAt": "2025-04-20"
+  },
+  {
+    "company": "Authorium",
+    "url": "https://authorium.com/report-vulnerabilities-and-earn-rewards",
+    "overview": "Authorium is a no-code, cloud-based platform exclusively for government administrative operations.",
+    "bounty": true,
+    "swag": false,
+    "hof": false,
+    "tags": [
+      "Web2"
+    ],
+    "createdAt": "2025-12-03"
+  },
+  {
+    "company": "Automox",
+    "url": "https://www.automox.com/platform/security/responsible-disclosure",
+    "overview": "Automox unifies automation, visibility & security to keep every device secure, compliant & ready - across Windows, macOS & Linux.",
+    "bounty": true,
+    "swag": false,
+    "hof": false,
+    "tags": [
+      "Web2"
+    ],
+    "createdAt": "2025-11-01"
+  },
+  {
+    "company": "Axon Ivy",
+    "url": "https://www.axonivy.com/bugbountyprogram",
+    "overview": "The Axon Ivy process automation platform integrates advanced AI with powerful orchestration to streamline your business processes.",
+    "bounty": true,
+    "swag": false,
+    "hof": false,
+    "tags": [
+      "Web2"
+    ],
+    "createdAt": "2025-11-05"
+  },
+  {
+    "company": "Backpack",
+    "url": "https://support.backpack.exchange/exchange/programs/bug-bounty-program",
+    "overview": "Backpack holds everything you need to buy, trade, and earn crypto. Start exploring the world of crypto with confidence.",
+    "bounty": true,
+    "swag": false,
+    "hof": false,
+    "tags": [
+      "Web2",
+      "Mobile"
+    ],
+    "createdAt": "2025-03-10"
+  },
+  {
+    "company": "Backyard Bandwidth",
+    "url": "https://backyardbandwidth.com/bug-bounty",
+    "overview": "Backyard Bandwidth provides hosting and networking services including VPN, proxy, VPS, S3 storage, Splunk hosting, and rack colocation.",
+    "bounty": true,
+    "swag": false,
+    "hof": true,
+    "tags": [
+      "Web2"
+    ],
+    "createdAt": "2025-11-11"
+  },
+  {
+    "company": "Bankera",
+    "url": "https://bankera.com/bug-bounty",
+    "overview": "Banks complicate things, we don't. All the necessary payment account functions reachable with a tap on your smartphone.",
+    "bounty": true,
+    "swag": false,
+    "hof": false,
+    "tags": [
+      "Web2",
+      "Mobile"
+    ],
+    "createdAt": "2025-03-10"
+  },
+  {
+    "company": "Bankful",
+    "url": "https://support.bankful.com/bounty-hunter-program",
+    "overview": "Bankful offers payment processing, merchant gateway services, and secure transaction solutions for businesses.",
+    "bounty": true,
+    "swag": false,
+    "hof": false,
+    "tags": [
+      "Web2"
+    ],
+    "createdAt": "2025-04-12"
+  },
+  {
+    "company": "Beamer",
+    "url": "https://www.getbeamer.com/bug-bounty-program",
+    "overview": "Beamer is a no-code product communication platform. A modern changelog for today's best-in-SaaS.",
+    "bounty": true,
+    "swag": false,
+    "hof": false,
+    "tags": [
+      "Web2"
+    ],
+    "createdAt": "2025-04-14"
+  },
+  {
+    "company": "Belvo",
+    "url": "https://www.federacy.com/belvo-technologies-inc?tab=Intro",
+    "overview": "Belvo is the open finance API platform that enables users to connect their accounts to an app.",
+    "bounty": true,
+    "swag": false,
+    "hof": false,
+    "tags": [
+      "Web2"
+    ],
+    "createdAt": "2025-04-23"
+  },
+  {
+    "company": "Bentley Systems",
+    "url": "https://www.bentley.com/legal/bug-bounty-report",
+    "overview": "Bentley Systems is the infrastructure engineering software company providing innovative software to advance the world's infrastructure.",
+    "bounty": true,
+    "swag": false,
+    "hof": false,
+    "tags": [
+      "Web2",
+      "Mobile"
+    ],
+    "createdAt": "2025-04-20"
+  },
+  {
+    "company": "Birdview",
+    "url": "https://birdviewpsa.com/company/vulnerability-reward-program/",
+    "overview": "Birdview is a Canadian full-cycle platform that helps organizations plan, manage, and forecast projects, resources, and finances in one place.",
+    "bounty": true,
+    "swag": false,
+    "hof": false,
+    "tags": [
+      "Web2"
+    ],
+    "createdAt": "2025-10-09"
+  },
+  {
+    "company": "BlancVPN",
+    "url": "https://blancvpn.com/bug-bounty",
+    "overview": "BlancVPN keeps your privacy safe by encrypting your online activity and hiding your personal data, giving you peace of mind every time you browse.",
+    "bounty": true,
+    "swag": false,
+    "hof": false,
+    "tags": [
+      "Web2",
+      "Mobile",
+      "Desktop"
+    ],
+    "createdAt": "2025-11-15"
+  },
+  {
+    "company": "Blockdaemon",
+    "url": "https://www.blockdaemon.com/vulnerability-disclosure-program-policy",
+    "overview": "Blockdaemon provides secure, scalable blockchain infrastructure trusted by institutions and developers with industry-leading certifications, risk protection and more.",
+    "bounty": false,
+    "swag": true,
+    "hof": true,
+    "tags": [
+      "Web2",
+      "Web3",
+      "Mobile"
+    ],
+    "createdAt": "2025-11-15"
+  },
+  {
+    "company": "Blooming Health",
+    "url": "https://gobloominghealth.com/responsible-disclosure-policy",
+    "overview": "Blooming Health empowers social care organizations, government agencies, and healthcare systems with an automated communication platform.",
+    "bounty": true,
+    "swag": false,
+    "hof": false,
+    "tags": [
+      "Web2"
+    ],
+    "createdAt": "2025-12-09"
+  },
+  {
+    "company": "Bluecat Networks",
+    "url": "https://bluecatnetworks.com/bug-bounty",
+    "overview": "BlueCat provides core services that simplify, automate, secure, and optimize your IP and DNS infrastructure to deliver change-ready networks.",
+    "bounty": true,
+    "swag": false,
+    "hof": false,
+    "tags": [
+      "Web2"
+    ],
+    "createdAt": "2025-03-10"
+  },
+  {
+    "company": "Bluescape",
+    "url": "https://www.bluescape.com/vulnerability-disclosure-policy",
+    "overview": "Bluescape is the virtual workspace that unites dispersed teams, enhances creative operations, and keeps your IP safe.",
+    "bounty": false,
+    "swag": false,
+    "hof": true,
+    "tags": [
+      "Web2",
+      "Desktop",
+      "Mobile"
+    ],
+    "createdAt": "2025-08-17"
+  },
+  {
+    "company": "BlueSnap",
+    "url": "https://www.bluesnap.com/legal/security-bounty",
+    "overview": "BlueSnap's Global Payment Orchestration Platform offers modular tech and payments expertise to help businesses drive an ROI and impact their bottom line.",
+    "bounty": true,
+    "swag": false,
+    "hof": false,
+    "tags": [
+      "Web2"
+    ],
+    "createdAt": "2025-10-09"
+  },
+  {
+    "company": "Brick Owl",
+    "url": "https://www.brickowl.com/help/vulnerability-disclosure-policy",
+    "overview": "Brick Owl is the largest independent LEGO marketplace to buy and sell LEGO Parts, Minifigures and Sets.",
+    "bounty": true,
+    "swag": false,
+    "hof": false,
+    "tags": [
+      "Web2"
+    ],
+    "createdAt": "2025-11-23"
+  },
+  {
+    "company": "Brilliant Directories",
+    "url": "https://www.brilliantdirectories.com/security-bounty",
+    "overview": "Brilliant Directories is the most popular solution for creating online directory and membership-based websites.",
+    "bounty": true,
+    "swag": false,
+    "hof": false,
+    "tags": [
+      "Web2"
+    ],
+    "createdAt": "2025-04-12"
+  },
+  {
+    "company": "Buffer",
+    "url": "https://buffer.com/legal#security",
+    "overview": "Use Buffer to manage your social media so that you can create and share your content everywhere, consistently.",
+    "bounty": true,
+    "swag": true,
+    "hof": true,
+    "tags": [
+      "Web2"
+    ],
+    "createdAt": "2025-10-09"
+  },
+  {
+    "company": "Bybit",
+    "url": "https://www.bybitglobal.com/en/help-center/article/Bybit-Bug-Bounty-Program-T-C",
+    "overview": "Bybit Fintech Limited, branded Bybit, is a cryptocurrency exchange based in Dubai and is the world's second largest cryptocurrency exchange.",
+    "bounty": true,
+    "swag": false,
+    "hof": false,
+    "tags": [
+      "Web2",
+      "Web3"
+    ],
+    "createdAt": "2025-04-05"
+  },
+  {
+    "company": "CAKE.com",
+    "url": "https://security.cake.com",
+    "overview": "CAKE.com helps hundreds of thousands of businesses across the world organize and run their business with the suite of products that include Plaky, Pumble, and Clockify.",
+    "bounty": true,
+    "swag": false,
+    "hof": false,
+    "tags": [
+      "Web2",
+      "Mobile"
+    ],
+    "createdAt": "2025-04-12"
+  },
+  {
+    "company": "Carousell",
+    "url": "https://support.carousell.com/hc/en-us/articles/5859364523417-Carousell-Group-Bug-Bounty-Program",
+    "overview": "Carousell is a Singaporean consumer to consumer and business to consumer marketplace buying and selling new and secondhand goods.",
+    "bounty": true,
+    "swag": false,
+    "hof": false,
+    "tags": [
+      "Web2"
+    ],
+    "createdAt": "2025-04-12"
+  },
+  {
+    "company": "Celtra",
+    "url": "https://support.celtra.com/vulnerability-disclosure-program",
+    "overview": "Celtra is a complete ad solution package which allows us to design, serve and track a wide variety of different creative types.",
+    "bounty": true,
+    "swag": false,
+    "hof": false,
+    "tags": [
+      "Web2"
+    ],
+    "createdAt": "2025-04-12"
+  },
+  {
+    "company": "Chameleon",
+    "url": "https://www.chameleon.io/disclosure",
+    "overview": "Chameleon allows you to create beautiful product guidance that helps, guides, and delights your users throughout their journey.",
+    "bounty": true,
+    "swag": false,
+    "hof": false,
+    "tags": [
+      "Web2"
+    ],
+    "createdAt": "2025-11-06"
+  },
+  {
+    "company": "Chapa",
+    "url": "https://chapa.co/more/chapa-bug-bounty-program",
+    "overview": "Chapa is the leading online payment gateway that enables businesses in Ethiopia to accept digital payments.",
+    "bounty": true,
+    "swag": false,
+    "hof": false,
+    "tags": [
+      "Web2"
+    ],
+    "createdAt": "2025-03-10"
+  },
+  {
+    "company": "Check",
+    "url": "https://www.federacy.com/check?tab=Intro",
+    "overview": "Check is a payroll-as-a-service API that lets you embed payroll directly in your vertical SaaS, HR, or time-tracking platform.",
+    "bounty": true,
+    "swag": false,
+    "hof": false,
+    "tags": [
+      "Web2"
+    ],
+    "createdAt": "2025-04-23"
+  },
+  {
+    "company": "Chess.com",
+    "url": "https://www.chess.com/news/view/chess-com-bug-bounty-policy",
+    "overview": "Chess.com is an internet chess server and social networking website. One of the largest chess platforms in the world.",
+    "bounty": true,
+    "swag": false,
+    "hof": false,
+    "tags": [
+      "Web2"
+    ],
+    "createdAt": "2025-04-12"
+  },
+  {
+    "company": "Cigna",
+    "url": "https://www.cigna.com/legal/members/responsible-vulnerability-disclosure",
+    "overview": "The Cigna Group is an American multinational for-profit managed healthcare and insurance company based in Bloomfield, Connecticut.",
+    "bounty": false,
+    "swag": false,
+    "hof": true,
+    "tags": [
+      "Web2"
+    ],
+    "createdAt": "2025-04-05"
+  },
+  {
+    "company": "Civo",
+    "url": "https://www.civo.com/legal/bug-bounty",
+    "overview": "The fastest Kubernetes provider Feature-packed managed Kubernetes with sub-90 second deployment and powerful development tools.",
+    "bounty": true,
+    "swag": false,
+    "hof": false,
+    "tags": [
+      "Web2"
+    ],
+    "createdAt": "2025-04-16"
+  },
+  {
+    "company": "CleanShot X",
+    "url": "https://cleanshot.com/disclosure",
+    "overview": "CleanShot X is the best screenshot and screen recording app for Mac with a built-in annotation tool, scrolling capture, and more.",
+    "bounty": true,
+    "swag": false,
+    "hof": false,
+    "tags": [
+      "Web2",
+      "Desktop"
+    ],
+    "createdAt": "2025-11-05"
+  },
+  {
+    "company": "CloudCannon",
+    "url": "https://cloudcannon.com/bug-bounty",
+    "overview": "CloudCannon is a headless content management system that provides a visual editor for your content.",
+    "bounty": true,
+    "swag": false,
+    "hof": false,
+    "tags": [
+      "Web2",
+      "CMS"
+    ],
+    "createdAt": "2025-04-20"
+  },
+  {
+    "company": "Cloudsmith",
+    "url": "https://help.cloudsmith.io/docs/bug-bounty-programme",
+    "overview": "Cloudsmith is a fully-managed solution that gets your teams out of maintenance mode, and brings cloud-native performance to your workflows and operations.",
+    "bounty": true,
+    "swag": false,
+    "hof": true,
+    "tags": [
+      "Web2"
+    ],
+    "createdAt": "2025-03-10"
+  },
+  {
+    "company": "Cluely",
+    "url": "https://cluelyhq.notion.site/bugbounty",
+    "overview": "#1 AI assistant for meetings. Takes perfect notes, answers questions in real-time, and makes you the most prepared person on every call.",
+    "bounty": true,
+    "swag": false,
+    "hof": false,
+    "tags": [
+      "Web2",
+      "Desktop"
+    ],
+    "createdAt": "2025-11-01"
+  },
+  {
+    "company": "CoachAccountable",
+    "url": "https://www.coachaccountable.com/bugBounty",
+    "overview": "CoachAccountable is an advanced coaching management software designed to help coaching businesses thrive.",
+    "bounty": true,
+    "swag": false,
+    "hof": true,
+    "tags": [
+      "Web2"
+    ],
+    "createdAt": "2025-04-19"
+  },
+  {
+    "company": "CodeRabbit",
+    "url": "https://www.coderabbit.ai/vulnerability-disclosure",
+    "overview": "Free AI code reviews directly in your code editor. Fix bugs and defects introduced by vibe coding, without breaking your flow state.",
+    "bounty": true,
+    "swag": false,
+    "hof": false,
+    "tags": [
+      "Web2"
+    ],
+    "createdAt": "2025-11-23"
+  },
+  {
+    "company": "CoderPad",
+    "url": "https://coderpad.io/vulnerability-disclosure-policy",
+    "overview": "CoderPad enables your team to conduct real-time, collaborative coding sessions—assess how candidates code, communicate, and solve problems.",
+    "bounty": true,
+    "swag": false,
+    "hof": true,
+    "tags": [
+      "Web2"
+    ],
+    "createdAt": "2025-12-03"
+  },
+  {
+    "company": "Coding Ninjas",
+    "url": "https://www.codingninjas.com/bug-bounty",
+    "overview": "Coding Ninjas is a code learning platform with 1.5 Lac+ alumni, and have specializations such as Python, Java, C / C+, Android.",
+    "bounty": true,
+    "swag": true,
+    "hof": false,
+    "tags": [
+      "Web2",
+      "Mobile"
+    ],
+    "createdAt": "2025-05-23"
+  },
+  {
+    "company": "Coincall",
+    "url": "https://support.coincall.com/hc/en-us/articles/22182756862617-Coincall-Bug-Bounty-Program",
+    "overview": "Coincall is your go-to platform for simplified Crypto Options and Futures trading.",
+    "bounty": true,
+    "swag": false,
+    "hof": false,
+    "tags": [
+      "Web2",
+      "Mobile"
+    ],
+    "createdAt": "2025-04-12"
+  },
+  {
+    "company": "Colony",
+    "url": "https://docs.colony.io/colonynetwork/bug-bounty",
+    "overview": "Colony has everything an organization needs to operate on-chain. The ability to interact with any other smart contract on Ethereum, and a whole lot more.",
+    "bounty": true,
+    "swag": false,
+    "hof": false,
+    "tags": [
+      "Web2",
+      "Web3"
+    ],
+    "createdAt": "2025-03-10"
+  },
+  {
+    "company": "CoLoop",
+    "url": "https://www.coloop.ai/responsible-disclosure-policy",
+    "overview": "The AI copilot for qualitative research. CoLoop offers exclusive integrations with popular tools such as Zoom, Sharepoint, and more.",
+    "bounty": false,
+    "swag": false,
+    "hof": true,
+    "tags": [
+      "Web2"
+    ],
+    "createdAt": "2025-04-16"
+  },
+  {
+    "company": "Conductor",
+    "url": "https://www.conductor.com/legal/security-bugbounty-program",
+    "overview": "A platform that connects every website data signal — From search & technical insights to engagement data & web analytics.",
+    "bounty": true,
+    "swag": false,
+    "hof": false,
+    "tags": [
+      "Web2"
+    ],
+    "createdAt": "2025-04-05"
+  },
+  {
+    "company": "ConfigCat",
+    "url": "https://configcat.com/bounty",
+    "overview": "ConfigCat is a hosted feature flag and configuration management service that separates releases from deployments.",
+    "bounty": true,
+    "swag": false,
+    "hof": false,
+    "tags": [
+      "Web2"
+    ],
+    "createdAt": "2025-04-23"
+  },
+  {
+    "company": "CUJO AI",
+    "url": "https://cujo.com/bug-bounty-program-terms-and-conditions",
+    "overview": "CUJO AI is an American network intelligence software company providing cybersecurity and device management software for network operators.",
+    "bounty": true,
+    "swag": false,
+    "hof": false,
+    "tags": [
+      "Web2"
+    ],
+    "createdAt": "2025-03-10"
+  },
+  {
+    "company": "Dapper Labs",
+    "url": "https://security.dapperlabs.com",
+    "overview": "Dapper Labs uses the power of play to deliver blockchain-based experiences that are made for you and ready for the real world.",
+    "bounty": true,
+    "swag": false,
+    "hof": false,
+    "tags": [
+      "Web2",
+      "Web3",
+      "Mobile"
+    ],
+    "createdAt": "2025-04-12"
+  },
+  {
+    "company": "DappRadar",
+    "url": "https://dappradar.com/bug-bounty",
+    "overview": "Discover and track the best dapps, explore top blockchain games, stay ahead with the widest coverage of tokens, and find exclusive airdrops.",
+    "bounty": true,
+    "swag": false,
+    "hof": false,
+    "tags": [
+      "Web2"
+    ],
+    "createdAt": "2025-03-10"
+  },
+  {
+    "company": "Decred",
+    "url": "https://bounty.decred.org",
+    "overview": "An open and self-funding cryptocurrency with a system of community-based governance integrated into its blockchain.",
+    "bounty": true,
+    "swag": false,
+    "hof": false,
+    "tags": [
+      "Web2",
+      "Web3"
+    ],
+    "createdAt": "2025-04-20"
+  },
+  {
+    "company": "Deeto",
+    "url": "https://www.deeto.ai/legal/bug-bounty",
+    "overview": "Deeto is an amazing tool that helps build immediate confidence with prospects by connecting them to your current customers.",
+    "bounty": true,
+    "swag": false,
+    "hof": false,
+    "tags": [
+      "Web2"
+    ],
+    "createdAt": "2025-03-10"
+  },
+  {
+    "company": "Deskpro",
+    "url": "https://www.deskpro.com/security/responsible-disclosure",
+    "overview": "Deskpro is an AI-powered help desk that adapts to how your teams work, with the flexibility to choose where your data lives and how it's hosted.",
+    "bounty": true,
+    "swag": false,
+    "hof": true,
+    "tags": [
+      "Web2",
+      "Desktop"
+    ],
+    "createdAt": "2025-08-17"
+  },
+  {
+    "company": "DJI",
+    "url": "https://security.dji.com/policy",
+    "overview": "DJI is the global leader in developing and manufacturing innovative drone and camera technology for commercial and recreational use. ",
+    "bounty": true,
+    "swag": false,
+    "hof": false,
+    "tags": [
+      "Web2",
+      "Mobile",
+      "Hardware"
+    ],
+    "createdAt": "2025-04-12"
+  },
+  {
+    "company": "DoiT",
+    "url": "https://help.doit.com/docs/vendor-information/bug-bounty-program",
+    "overview": "DoiT Cloud Intelligence™ is the only end-to-end, enterprise-grade FinOps platform that goes beyond just cost optimization to drive reliability, performance, and security.",
+    "bounty": true,
+    "swag": false,
+    "hof": false,
+    "tags": [
+      "Web2"
+    ],
+    "createdAt": "2025-04-05"
+  },
+  {
+    "company": "Dukaan",
+    "url": "https://mydukaan.io/bugbounty",
+    "overview": "Dukaan is an ecommerce platform that lets you build and manage your store in seconds, no coding skills required.",
+    "bounty": true,
+    "swag": false,
+    "hof": true,
+    "tags": [
+      "Web2",
+      "Mobile"
+    ],
+    "createdAt": "2025-04-22"
+  },
+  {
+    "company": "Dune",
+    "url": "https://docs.dune.com/web-app/bug-bounty",
+    "overview": "Dune is a web-based platform that allows you to query public blockchain data and aggregate it into beautiful dashboards.",
+    "bounty": true,
+    "swag": false,
+    "hof": false,
+    "tags": [
+      "Web2"
+    ],
+    "createdAt": "2025-03-10"
+  },
+  {
+    "company": "DuoCircle",
+    "url": "https://www.duocircle.com/bug-bounty-program",
+    "overview": "DuoCircle is an email deliverability company specializing in delivering the right emails to the inbox.",
+    "bounty": true,
+    "swag": false,
+    "hof": false,
+    "tags": [
+      "Web2",
+      "Mobile"
+    ],
+    "createdAt": "2025-05-16"
+  },
+  {
+    "company": "Easyname",
+    "url": "https://www.easyname.com/en/support/easyname/253-bug-bounty-program",
+    "overview": "Easyname is a European web hosting and domain provider based in Vienna.",
+    "bounty": true,
+    "swag": false,
+    "hof": false,
+    "tags": [
+      "Web2"
+    ],
+    "createdAt": "2025-04-12"
+  },
+  {
+    "company": "Empire Flippers",
+    "url": "https://empireflippers.com/empire-flippers-bug-bounty-policy",
+    "overview": "Empire Flippers is an Inc. 5000 company and the #1 curated marketplace to buy and sell an online business.",
+    "bounty": true,
+    "swag": false,
+    "hof": false,
+    "tags": [
+      "Web2"
+    ],
+    "createdAt": "2025-04-19"
+  },
+  {
+    "company": "Empuls",
+    "url": "https://www.empuls.io/bug-bounty",
+    "overview": "Empuls is a holistic employee engagement platform where teams can collaborate, share appreciations, celebrate special occasions, and gather feedback - all in one place",
+    "bounty": true,
+    "swag": false,
+    "hof": false,
+    "tags": [
+      "Web2"
+    ],
+    "createdAt": "2025-03-10"
+  },
+  {
+    "company": "EnglishScore",
+    "url": "https://www.englishscore.com/.well-known/englishscore-bug-bounty-policy-sept2021.pdf",
+    "overview": "EnglishScore is a quick and accurate test of your English level.",
+    "bounty": true,
+    "swag": false,
+    "hof": false,
+    "tags": [
+      "Web2",
+      "Mobile"
+    ],
+    "createdAt": "2025-05-17"
+  },
+  {
+    "company": "Fastmail",
+    "url": "https://www.fastmail.com/bug-bounty",
+    "overview": "Fastmail is the email provider of choice for people who want better privacy and know great technology.",
+    "bounty": true,
+    "swag": false,
+    "hof": true,
+    "tags": [
+      "Web2",
+      "Mobile"
+    ],
+    "createdAt": "2025-04-20"
+  },
+  {
+    "company": "Federacy",
+    "url": "https://www.federacy.com/federacy?tab=Intro",
+    "overview": "Federacy perform manual penetration testing that simulates real-life attacks and use cutting-edge research techniques.",
+    "bounty": true,
+    "swag": false,
+    "hof": false,
+    "tags": [
+      "Web2"
+    ],
+    "createdAt": "2025-04-23"
+  },
+  {
+    "company": "Ferrari",
+    "url": "https://www.ferrari.com/en-EN/responsible-disclosure-programme",
+    "overview": "Ferrari is an Italian luxury sports car manufacturer founded in 1939 by Enzo Ferrari.",
+    "bounty": false,
+    "swag": false,
+    "hof": true,
+    "tags": [
+      "Web2",
+      "Mobile"
+    ],
+    "createdAt": "2025-04-12"
+  },
+  {
+    "company": "Filen",
+    "url": "https://filen.io/bug-bounty",
+    "overview": "Reliable zero-knowledge, client-side encrypted cloud storage you can trust. Experience uncompromised security without sacrificing functionality.",
+    "bounty": true,
+    "swag": false,
+    "hof": false,
+    "tags": [
+      "Web2",
+      "Mobile",
+      "Desktop"
+    ],
+    "createdAt": "2025-03-10"
+  },
+  {
+    "company": "FilePreviews",
+    "url": "https://filepreviews.io/security/bug-bounty",
+    "overview": "FilePreviews is an API that produces beautiful previews, optical character recognition and metadata from any file.",
+    "bounty": true,
+    "swag": false,
+    "hof": true,
+    "tags": [
+      "Web2"
+    ],
+    "createdAt": "2025-04-12"
+  },
+  {
+    "company": "Flow",
+    "url": "https://flow.com/flow-responsible-disclosure",
+    "overview": "Flow is a decentralized platform that anyone can access, everyone can trust, and no-one can censor or block.",
+    "bounty": true,
+    "swag": false,
+    "hof": false,
+    "tags": [
+      "Web2",
+      "Web3"
+    ],
+    "createdAt": "2025-04-16"
+  },
+  {
+    "company": "FlowCrypt",
+    "url": "https://flowcrypt.com/docs/technical/security/bug-bounty.html",
+    "overview": "FlowCrypt is an email solution that lets you work with end-to-end encrypted messages securely and easily.",
+    "bounty": true,
+    "swag": false,
+    "hof": false,
+    "tags": [
+      "Web2",
+      "Mobile"
+    ],
+    "createdAt": "2025-05-03"
+  },
+  {
+    "company": "Fuze",
+    "url": "https://fuze.finance/bug-bounty",
+    "overview": "Fuze is a blockchain infrastructure platform, enabling businesses to create embedded crypto experiences for customers.",
+    "bounty": true,
+    "swag": false,
+    "hof": false,
+    "tags": [
+      "Web2"
+    ],
+    "createdAt": "2025-03-10"
+  },
+  {
+    "company": "Geckoboard",
+    "url": "https://support.geckoboard.com/en/articles/6055718-report-a-security-vulnerability-and-responsible-disclosure-policies",
+    "overview": "Geckoboard is the simplest way for business leaders to build and share real-time KPI dashboards that improve team performance.",
+    "bounty": true,
+    "swag": false,
+    "hof": false,
+    "tags": [
+      "Web2"
+    ],
+    "createdAt": "2025-03-10"
+  },
+  {
+    "company": "Genetec",
+    "url": "https://www.genetec.com/trust-cybersecurity/bug-bounty",
+    "overview": "Genetec Inc. is a global technology company that has been transforming the physical security industry for over 25 years.",
+    "bounty": true,
+    "swag": false,
+    "hof": false,
+    "tags": [
+      "Web2"
+    ],
+    "createdAt": "2025-04-05"
+  },
+  {
+    "company": "Gifty",
+    "url": "https://gifty.nl/nl/security/vulnerability-reward-program",
+    "overview": "Gifty is a SaaS company that provides gift card, loyalty and marketing solutions to businesses administer and distribute their gift cards across multiple channels.",
+    "bounty": true,
+    "swag": false,
+    "hof": false,
+    "tags": [
+      "Web2",
+      "Mobile"
+    ],
+    "createdAt": "2025-11-01"
+  },
+  {
+    "company": "Gladia",
+    "url": "https://www.gladia.io/bug-bounty",
+    "overview": "Transcribe calls in milliseconds. Gladia's speech-to-text engine converts calls and meetings into text in real time or asynchronously.",
+    "bounty": true,
+    "swag": false,
+    "hof": false,
+    "tags": [
+      "Web2"
+    ],
+    "createdAt": "2025-03-10"
+  },
+  {
+    "company": "Global",
+    "url": "https://global.com/bug-bounty-policy",
+    "overview": "The UK and Europe's largest Radio & Outdoor company, Global is home to, national market-leading media brands broadcasting across the UK on DAB & FM.",
+    "bounty": true,
+    "swag": false,
+    "hof": false,
+    "tags": [
+      "Web2"
+    ],
+    "createdAt": "2025-03-10"
+  },
+  {
+    "company": "Glossier",
+    "url": "https://www.glossier.com/en-in/pages/responsible-disclosure",
+    "overview": "Glossier is a beauty brand that offers skincare, makeup, body care, and fragrance products founded in 2014.",
+    "bounty": false,
+    "swag": true,
+    "hof": false,
+    "tags": [
+      "Web2"
+    ],
+    "createdAt": "2025-11-15"
+  },
+  {
+    "company": "Glow",
+    "url": "https://glow.app/bug-bounty",
+    "overview": "Glow is the best way to get started with crypto on Solana. Solana is a super fast blockchain which resolves transactions in seconds without gas fees.",
+    "bounty": true,
+    "swag": false,
+    "hof": false,
+    "tags": [
+      "Web3",
+      "Mobile"
+    ],
+    "createdAt": "2025-10-09"
+  },
+  {
+    "company": "Grailed",
+    "url": "https://support.grailed.com/hc/en-us/articles/30283214576013-Grailed-s-Bug-Bounty-Program",
+    "overview": "Grailed is the one-stop destination for buying, selling and exploring menswear and womenswear.",
+    "bounty": true,
+    "swag": false,
+    "hof": false,
+    "tags": [
+      "Web2"
+    ],
+    "createdAt": "2025-04-05"
+  },
+  {
+    "company": "GrapheneDB",
+    "url": "https://graphenedb.com/legal/bug-bounty",
+    "overview": "GrapheneDB is a cloud platform to run securely your Neo4j Community databases in production with extended capabilities.",
+    "bounty": true,
+    "swag": false,
+    "hof": false,
+    "tags": [
+      "Web2"
+    ],
+    "createdAt": "2025-05-03"
+  },
+  {
+    "company": "GrowthBook",
+    "url": "https://www.growthbook.io/security/bugbounty",
+    "overview": "GrowthBook is an open source platform that gives any company the power of a customized feature flagging and A/B testing system.",
+    "bounty": false,
+    "swag": true,
+    "hof": true,
+    "tags": [
+      "Web2"
+    ],
+    "createdAt": "2025-04-05"
+  },
+  {
+    "company": "H&M",
+    "url": "https://www.hm.com/security.txt",
+    "overview": "H & M Hennes & Mauritz AB, commonly known by its brand name H&M, is a Swedish multinational fashion retailer headquartered in Stockholm.",
+    "bounty": true,
+    "swag": false,
+    "hof": false,
+    "tags": [
+      "Web2"
+    ],
+    "createdAt": "2025-03-10"
+  },
+  {
+    "company": "Halodoc",
+    "url": "https://www.halodoc.com/security",
+    "overview": "Halodoc is a secure health-tech platform connecting millions of patients with licensed doctors, insurance, labs, and pharmacies through simple mobile applications.",
+    "bounty": true,
+    "swag": false,
+    "hof": true,
+    "tags": [
+      "Web2",
+      "Mobile"
+    ],
+    "createdAt": "2025-04-13"
+  },
+  {
+    "company": "HealthAtom",
+    "url": "https://www.healthatom.com/security-policy",
+    "overview": "HealthAtom is a healthcare software platform that designs innovative healthcare solutions that allow the clinical industry to advance in administrative technologies.",
+    "bounty": true,
+    "swag": false,
+    "hof": false,
+    "tags": [
+      "Web2"
+    ],
+    "createdAt": "2025-11-11"
+  },
+  {
+    "company": "HealthUnlocked",
+    "url": "https://support.healthunlocked.com/article/151-security",
+    "overview": "The world's largest social network for health. It is the largest social network for health globally, with 1.4 million members.",
+    "bounty": false,
+    "swag": false,
+    "hof": true,
+    "tags": [
+      "Web2"
+    ],
+    "createdAt": "2025-04-12"
+  },
+  {
+    "company": "Hivelocity",
+    "url": "https://developers.hivelocity.net/docs/bug-bounty-program",
+    "overview": "Hivelocity offers unmatched hosting solutions with over 21+ years of experience operating in 40+ international locations and 6 continents.",
+    "bounty": true,
+    "swag": false,
+    "hof": false,
+    "tags": [
+      "Web2"
+    ],
+    "createdAt": "2025-05-03"
+  },
+  {
+    "company": "Homebase",
+    "url": "https://www.joinhomebase.com/responsible-disclosure-program",
+    "overview": "Homebase helps small businesses manage their work schedules, time clocks, payroll, HR, and more.",
+    "bounty": true,
+    "swag": false,
+    "hof": false,
+    "tags": [
+      "Web2",
+      "Mobile"
+    ],
+    "createdAt": "2025-12-09"
+  },
+  {
+    "company": "HostSailor",
+    "url": "https://hostsailor.com/bug-bounty-programme",
+    "overview": "HostSailor is a premium web hosting solutions provider that offers a wide range of hosting services to meet the needs of businesses of all sizes.",
+    "bounty": true,
+    "swag": false,
+    "hof": true,
+    "tags": [
+      "Web2"
+    ],
+    "createdAt": "2025-03-10"
+  },
+  {
+    "company": "Huntress",
+    "url": "https://support.huntress.io/hc/en-us/articles/24119617302291-Huntress-Vulnerability-Disclosure-Program-Terms-and-Conditions",
+    "overview": "Huntress is the enterprise-grade, people-powered cybersecurity platform for all businesses, not just the 1%.",
+    "bounty": true,
+    "swag": false,
+    "hof": false,
+    "tags": [
+      "Web2",
+      "Desktop"
+    ],
+    "createdAt": "2025-03-10"
+  },
+  {
+    "company": "Ibuildings",
+    "url": "https://ibuildings.com/responsible-disclosure",
+    "overview": "Ibuildings designs and builds web applications, mobile apps, websites and back-ends. Robust, secure and maintainable.",
+    "bounty": true,
+    "swag": false,
+    "hof": false,
+    "tags": [
+      "Web2"
+    ],
+    "createdAt": "2025-04-05"
+  },
+  {
+    "company": "iFixit",
+    "url": "https://www.ifixit.com/Info/Responsible_Disclosure",
+    "overview": "iFixit is an American e-commerce and how-to website with a global community of people helping each other repair things.",
+    "bounty": false,
+    "swag": false,
+    "hof": true,
+    "tags": [
+      "Web2"
+    ],
+    "createdAt": "2025-09-28"
+  },
+  {
+    "company": "Intel",
+    "url": "https://www.intel.com/content/www/us/en/security-center/bug-bounty-program.html",
+    "overview": "Intel designs, manufactures, and sells computer components such as central processing units and related products for business and consumer markets.",
+    "bounty": true,
+    "swag": true,
+    "hof": true,
+    "tags": [
+      "Web2",
+      "Hardware",
+      "Desktop"
+    ],
+    "createdAt": "2025-07-08"
+  },
+  {
+    "company": "Investing.com",
+    "url": "https://www.investing-support.com/hc/en-us/articles/360010956797-Investing-com-s-Bug-Bounty-Program",
+    "overview": "Investing.com offers a set of financial tools covering a wide variety of global and local financial instruments.",
+    "bounty": true,
+    "swag": false,
+    "hof": false,
+    "tags": [
+      "Web2",
+      "Mobile"
+    ],
+    "createdAt": "2025-03-10"
+  },
+  {
+    "company": "IronCore Labs",
+    "url": "https://ironcorelabs.com/trust-center/bug-bounty-program/",
+    "overview": "IronCore Labs, the leading provider of data security for modern cloud applications, makes products that help software developers and businesses.",
+    "bounty": true,
+    "swag": true,
+    "hof": false,
+    "tags": [
+      "Web2"
+    ],
+    "createdAt": "2025-05-23"
+  },
+  {
+    "company": "ISPsystem",
+    "url": "https://www.ispsystem.com/bug-bounty",
+    "overview": "ISPsystem is a developer of platforms for hosting services and business automation and integrated management of IT infrastructure.",
+    "bounty": true,
+    "swag": false,
+    "hof": false,
+    "tags": [
+      "Web2"
+    ],
+    "createdAt": "2025-03-10"
+  },
+  {
+    "company": "Ivanti",
+    "url": "https://www.ivanti.com/support/contact-security",
+    "overview": "Ivanti finds, heals and protects every device, everywhere - automatically. Ivanti makes it easy and secure for them to do what they do best.",
+    "bounty": true,
+    "swag": false,
+    "hof": false,
+    "tags": [
+      "Web2"
+    ],
+    "createdAt": "2025-04-05"
+  },
+  {
+    "company": "Ivy Cyber",
+    "url": "https://ivycyber.com/security-policy/",
+    "overview": " Ivy Cyber delivers privacy, security, and freedom through innovative tools, software, training, and media.",
+    "bounty": true,
+    "swag": true,
+    "hof": true,
+    "tags": [
+      "Web2",
+      "Hardware"
+    ],
+    "createdAt": "2025-11-08"
+  },
+  {
+    "company": "JetBackup",
+    "url": "https://www.jetbackup.com/legal/bug-bounty",
+    "overview": "JetBackup offers reliable, automated backup solutions for Hosting Panels such as cPanel, Plesk and DirectAdmin.",
+    "bounty": true,
+    "swag": false,
+    "hof": false,
+    "tags": [
+      "Web2"
+    ],
+    "createdAt": "2025-03-10"
+  },
+  {
+    "company": "Jobber",
+    "url": "https://www.getjobber.com/security/bug-bounty",
+    "overview": "Jobber lets you accept bookings, create quotes, schedule jobs, and dispatch your team — all in one place.",
+    "bounty": true,
+    "swag": false,
+    "hof": false,
+    "tags": [
+      "Web2",
+      "Mobile"
+    ],
+    "createdAt": "2025-03-10"
+  },
+  {
+    "company": "Kagi",
+    "url": "https://help.kagi.com/kagi/privacy/bug-bounty-program.html",
+    "overview": "Kagi is a paid ad-free search engine developed by Kagi Inc, a company located in Palo Alto, California, USA.",
+    "bounty": true,
+    "swag": false,
+    "hof": false,
+    "tags": [
+      "Web2"
+    ],
+    "createdAt": "2025-04-05"
+  },
+  {
+    "company": "Kalshi",
+    "url": "https://help.kalshi.com/bug-bounty-programs/app-and-website-bug-bounty-program",
+    "overview": "Kalshi Inc. is an American financial exchange and prediction market based in Lower Manhattan, New York City, offering event contracts.",
+    "bounty": true,
+    "swag": false,
+    "hof": true,
+    "tags": [
+      "Web2",
+      "Web3",
+      "Mobile"
+    ],
+    "createdAt": "2025-04-05"
+  },
+  {
+    "company": "Knapp",
+    "url": "https://www.knapp.com/en/bug-bounty",
+    "overview": "KNAPP is a global leader in logistics automation, specializing in intelligent solutions for intralogistics and manufacturing.",
+    "bounty": true,
+    "swag": false,
+    "hof": false,
+    "tags": [
+      "Web2"
+    ],
+    "createdAt": "2025-03-10"
+  },
+  {
+    "company": "KnowledgeOwl",
+    "url": "https://support.knowledgeowl.com/help/vulnerability-disclosure-policy",
+    "overview": "Software teams use KnowledgeOwl daily to build, manage, and share public and private knowledge bases with their customers and teams with ease.",
+    "bounty": false,
+    "swag": false,
+    "hof": true,
+    "tags": [
+      "Web2"
+    ],
+    "createdAt": "2025-04-12"
+  },
+  {
+    "company": "Komoot",
+    "url": "https://www.komoot.com/security/bug-bounty",
+    "overview": "Komoot is one of the most popular route-planning apps on the market and has many functions that are designed to make route planning an easier experience.",
+    "bounty": true,
+    "swag": false,
+    "hof": false,
+    "tags": [
+      "Web2",
+      "Mobile"
+    ],
+    "createdAt": "2025-04-12"
+  },
+  {
+    "company": "Kraken",
+    "url": "https://www.kraken.com/features/security/bug-bounty",
+    "overview": "Kraken is one of the world's largest and oldest bitcoin exchanges with the widest selection of digital assets and national currencies.",
+    "bounty": true,
+    "swag": false,
+    "hof": true,
+    "tags": [
+      "Web2",
+      "Mobile"
+    ],
+    "createdAt": "2025-04-20"
+  },
+  {
+    "company": "Kredivo",
+    "url": "https://kredivo.id/en/bug-bounty.html",
+    "overview": "Kredivo Indonesia is a leading Indonesian fintech platform that provides digital credit and payment solutions to consumers and businesses.",
+    "bounty": true,
+    "swag": false,
+    "hof": false,
+    "tags": [
+      "Web2",
+      "Mobile"
+    ],
+    "createdAt": "2025-12-03"
+  },
+  {
+    "company": "KuCoin",
+    "url": "https://www.kucoin.com/announcement/en-kucoin-bug-bounty-program-launched",
+    "overview": "Founded in September 2017, KuCoin is a global cryptocurrency exchange. As a user-oriented platform focused on inclusivity and the community.",
+    "bounty": true,
+    "swag": false,
+    "hof": false,
+    "tags": [
+      "Web3",
+      "Mobile"
+    ],
+    "createdAt": "2025-04-05"
+  },
+  {
+    "company": "Lamatic",
+    "url": "https://lamatic.ai/docs/bug-bounty-program",
+    "overview": "Lamatic is an Agentic AI Development Platform that helps cross-functional teams collaboratively develop, monitor, and optimize their GenAI applications.",
+    "bounty": true,
+    "swag": true,
+    "hof": false,
+    "tags": [
+      "Web2"
+    ],
+    "createdAt": "2025-04-05"
+  },
+  {
+    "company": "Langdock",
+    "url": "https://www.langdock.com/vulnerability-disclosure-policy",
+    "overview": "Langdock is the enterprise-ready platform to roll out AI to all of your employees enabling your developers to build and deploy.",
+    "bounty": true,
+    "swag": false,
+    "hof": false,
+    "tags": [
+      "Web2"
+    ],
+    "createdAt": "2025-11-05"
+  },
+  {
+    "company": "Langfuse",
+    "url": "https://langfuse.com/security/responsible-disclosure",
+    "overview": "Langfuse is an open source LLM engineering platform. It helps teams collaboratively develop, monitor, evaluate, and debug AI applications.",
+    "bounty": false,
+    "swag": false,
+    "hof": true,
+    "tags": [
+      "Web2"
+    ],
+    "createdAt": "2025-11-23"
+  },
+  {
+    "company": "Level All",
+    "url": "https://help.levelall.com/en/articles/10776377-bug-bounty-program",
+    "overview": "Level All's mission is to provide every high school and postsecondary student in the US with the personalized, in-depth support and guidance.",
+    "bounty": true,
+    "swag": false,
+    "hof": false,
+    "tags": [
+      "Web2"
+    ],
+    "createdAt": "2025-11-08"
+  },
+  {
+    "company": "Liminal Custody",
+    "url": "https://www.liminalcustody.com/bug-bounty",
+    "overview": "Liminal is a regulated, audited and licensed custody and wallet infrastructure platform for Web3 native institutions.",
+    "bounty": true,
+    "swag": false,
+    "hof": true,
+    "tags": [
+      "Web2",
+      "Mobile"
+    ],
+    "createdAt": "2025-04-16"
+  },
+  {
+    "company": "LittleHorse",
+    "url": "https://littlehorse.io/bug-bounty",
+    "overview": "LittleHorse is a high-performance microservice orchestration engine that allows developers to build scalable, maintainable, and observable applications.",
+    "bounty": true,
+    "swag": false,
+    "hof": true,
+    "tags": [
+      "Web2"
+    ],
+    "createdAt": "2025-03-10"
+  },
+  {
+    "company": "LiveAgent",
+    "url": "https://www.liveagent.com/bug-bounty-program",
+    "overview": "LiveAgent is a multi-channel customer service software that offers 175+ help desk and live chat features.",
+    "bounty": true,
+    "swag": false,
+    "hof": false,
+    "tags": [
+      "Web2"
+    ],
+    "createdAt": "2025-04-15"
+  },
+  {
+    "company": "Livspace",
+    "url": "https://www.livspace.com/responsible-disclosure-program",
+    "overview": "Livspace, is a home interior and renovation company headquartered in Singapore. It is one of the largest and fastest-growing home interiors and renovation companies.",
+    "bounty": false,
+    "swag": false,
+    "hof": true,
+    "tags": [
+      "Web2"
+    ],
+    "createdAt": "2025-12-07"
+  },
+  {
+    "company": "Locus",
+    "url": "https://locus.sh/trust/responsible-vulnerability-disclosure-policy/",
+    "overview": "Locus is a technology platform that uses machine learning and proprietary algorithms to automate complex supply chain decisions.",
+    "bounty": false,
+    "swag": false,
+    "hof": true,
+    "tags": [
+      "Web2"
+    ],
+    "createdAt": "2025-11-23"
+  },
+  {
+    "company": "LoginRadius",
+    "url": "https://www.loginradius.com/bug-bounty",
+    "overview": "LoginRadius is a leading provider of cloud-based Customer Identity and Access Management (cIAM) platform. The platform has monthly reach of over 1 billion users.",
+    "bounty": true,
+    "swag": false,
+    "hof": false,
+    "tags": [
+      "Web2"
+    ],
+    "createdAt": "2025-05-03"
+  },
+  {
+    "company": "Mamba",
+    "url": "https://corp.mamba.ru/en/developer/security",
+    "overview": "Mamba helps you to find local singles, offering a simple and fun way to chat, make friends,flirt, date and discover meaningful relationships.",
+    "bounty": true,
+    "swag": false,
+    "hof": false,
+    "tags": [
+      "Web2",
+      "Mobile"
+    ],
+    "createdAt": "2025-04-12"
+  },
+  {
+    "company": "Marvia",
+    "url": "https://www.getmarvia.com/security/bug-bounty",
+    "overview": "Marvia is a leading provider of Distributed Marketing software, designed to empower marketing teams and their partners.",
+    "bounty": true,
+    "swag": false,
+    "hof": false,
+    "tags": [
+      "Web2"
+    ],
+    "createdAt": "2025-03-10"
+  },
+  {
+    "company": "Meta Pool",
+    "url": "https://docs.metapool.app/master/contribute-to-meta-pool/bug-bounty-program",
+    "overview": "Stake your Digital Assets and start earning rewards. Receive a Liquid Staking Token (LST) that represents your original Digital Asset + staking rewards.",
+    "bounty": true,
+    "swag": false,
+    "hof": false,
+    "tags": [
+      "Web2",
+      "Web3"
+    ],
+    "createdAt": "2025-04-13"
+  },
+  {
+    "company": "Mintlify",
+    "url": "https://www.mintlify.com/security/responsible-disclosure",
+    "overview": "Mintlify helps any company achieve the documentation they need effortlessly, so that they can focus on building what they do best.",
+    "bounty": true,
+    "swag": false,
+    "hof": false,
+    "tags": [
+      "Web2"
+    ],
+    "createdAt": "2025-11-01"
+  },
+  {
+    "company": "Minut",
+    "url": "https://www.minut.com/legal/bug-bounty-program-policy",
+    "overview": "Monitor noise, occupancy, cigarette smoke, and temperature levels with Minut. Keeps your rentals safe and your community happy without compromising privacy.",
+    "bounty": true,
+    "swag": false,
+    "hof": false,
+    "tags": [
+      "Web2",
+      "Mobile"
+    ],
+    "createdAt": "2025-04-05"
+  },
+  {
+    "company": "Missive",
+    "url": "https://missiveapp.com/security/bounty",
+    "overview": "Missive is a team inbox and chat solution that helps boost team collaboration on emails and messages.",
+    "bounty": true,
+    "swag": false,
+    "hof": false,
+    "tags": [
+      "Web2",
+      "Mobile",
+      "Desktop"
+    ],
+    "createdAt": "2025-04-05"
+  },
+  {
+    "company": "Monosnap",
+    "url": "https://support.monosnap.com/hc/en-us/articles/4921292536850-Bug-Bounty-Program-Terms-and-Conditions",
+    "overview": "Monosnap screenshot tool for Mac and PC with own cloud storage. Take screenshots, record videos and upload files directly to the cloud.",
+    "bounty": true,
+    "swag": false,
+    "hof": false,
+    "tags": [
+      "Web2"
+    ],
+    "createdAt": "2025-04-12"
+  },
+  {
+    "company": "movieXchange",
+    "url": "https://www.moviexchange.com/responsible-disclosure-policy",
+    "overview": "movieXchange is a global platform offering real-time distribution of movie media, tickets, and showtimes.",
+    "bounty": false,
+    "swag": false,
+    "hof": true,
+    "tags": [
+      "Web2"
+    ],
+    "createdAt": "2025-08-17"
+  },
+  {
+    "company": "Nirvana",
+    "url": "https://www.nirvanatech.com/responsible-disclosure",
+    "overview": "Nirvana is an AI-driven commercial trucking insurer that utilizes telematics data to enhance safety and reduce fleet costs.",
+    "bounty": true,
+    "swag": false,
+    "hof": false,
+    "tags": [
+      "Web2"
+    ],
+    "createdAt": "2025-11-11"
+  },
+  {
+    "company": "Nitro",
+    "url": "https://www.gonitro.com/security-compliance/security/responsible-disclosure",
+    "overview": "Nitro is a file management app. It is a feature-packed desktop application designed to simplify every aspect of working with PDF files.",
+    "bounty": true,
+    "swag": false,
+    "hof": false,
+    "tags": [
+      "Web2",
+      "Desktop"
+    ],
+    "createdAt": "2025-12-03"
+  },
+  {
+    "company": "NLnet Labs",
+    "url": "https://www.nlnetlabs.nl/security-report",
+    "overview": "NLnet Labs is a Dutch network research laboratory that develops software for the benefit of the Internet.",
+    "bounty": false,
+    "swag": false,
+    "hof": true,
+    "tags": [
+      "Web2"
+    ],
+    "createdAt": "2025-04-05"
+  },
+  {
+    "company": "Nolt",
+    "url": "https://nolt.io/help/bug-bounty",
+    "overview": "Nolt is a beautiful, collaborative place for all your user requests - no more outdated spreadsheets or chaotic Trello boards.",
+    "bounty": true,
+    "swag": false,
+    "hof": false,
+    "tags": [
+      "Web2"
+    ],
+    "createdAt": "2025-04-12"
+  },
+  {
+    "company": "Nozbe",
+    "url": "https://nozbe.com/bug-bounty",
+    "overview": "Nozbe is a collaboration and task & project management app for small and medium-sized companies, as well as single users.",
+    "bounty": true,
+    "swag": false,
+    "hof": false,
+    "tags": [
+      "Web2",
+      "Mobile"
+    ],
+    "createdAt": "2025-04-20"
+  },
+  {
+    "company": "Ocoya",
+    "url": "https://www.ocoya.com/bug-bounty",
+    "overview": "Ocoya is a comprehensive tool designed to streamline the content creation and marketing process for businesses and entrepreneurs.",
+    "bounty": true,
+    "swag": false,
+    "hof": false,
+    "tags": [
+      "Web2"
+    ],
+    "createdAt": "2025-03-10"
+  },
+  {
+    "company": "OffSec",
+    "url": "https://www.offsec.com/bug-bounty-program",
+    "overview": "OffSec is an American international company working in information security, penetration testing and digital forensics.",
+    "bounty": true,
+    "swag": false,
+    "hof": true,
+    "tags": [
+      "Web2"
+    ],
+    "createdAt": "2025-05-03"
+  },
+  {
+    "company": "OFZA",
+    "url": "https://ofza.com/en/bug-bounty-program",
+    "overview": "OFZA is a UAE-born, regulator-aligned Virtual Asset Service Provider (VASP) built to protect clients, operate with integrity, and scale responsibly.",
+    "bounty": true,
+    "swag": false,
+    "hof": false,
+    "tags": [
+      "Web2"
+    ],
+    "createdAt": "2025-11-05"
+  },
+  {
+    "company": "Open",
+    "url": "https://open.money/responsible-disclosure-policy",
+    "overview": "Open is a connected banking platform for business payments that simplifies the process of sending, receiving, and reconciling payments for businesses.",
+    "bounty": true,
+    "swag": false,
+    "hof": false,
+    "tags": [
+      "Web2"
+    ],
+    "createdAt": "2025-04-05"
+  },
+  {
+    "company": "openPetition",
+    "url": "https://www.openpetition.de/blog/blog/2023/06/01/bug-bounty-program-with-openpetition",
+    "overview": "14 million people use openPetition to bring important issues to the public and into politics. We give everyone a voice.",
+    "bounty": true,
+    "swag": false,
+    "hof": false,
+    "tags": [
+      "Web2"
+    ],
+    "createdAt": "2025-04-12"
+  },
+  {
+    "company": "OZiva",
+    "url": "https://www.oziva.in/pages/oziva-responsible-disclosure-program",
+    "overview": "India's #1 Clean, Plant-Based Nutrition brand with Scientifically & Clinically-backed health solutions.",
+    "bounty": true,
+    "swag": false,
+    "hof": true,
+    "tags": [
+      "Web2",
+      "Mobile"
+    ],
+    "createdAt": "2025-04-15"
+  },
+  {
+    "company": "Paddle",
+    "url": "https://www.paddle.com/vulnerability-disclosure-policy",
+    "overview": "Paddle is a global payments platform that enables businesses to accept payments from customers around the world.",
+    "bounty": false,
+    "swag": false,
+    "hof": true,
+    "tags": [
+      "Web2"
+    ],
+    "createdAt": "2025-11-01"
+  },
+  {
+    "company": "Pantera",
+    "url": "https://panteracapital.com/pantera-bug-bounty",
+    "overview": "Pantera Capital is an American hedge fund and venture capital firm focused on digital assets headquartered in Menlo Park, California.",
+    "bounty": true,
+    "swag": false,
+    "hof": false,
+    "tags": [
+      "Web2"
+    ],
+    "createdAt": "2025-04-05"
+  },
+  {
+    "company": "Parabol",
+    "url": "https://www.parabol.co/security-disclosure",
+    "overview": "Parabol is an open-source application that helps team run more effective, inclusive, and engaging meetings.",
+    "bounty": true,
+    "swag": false,
+    "hof": false,
+    "tags": [
+      "Web2"
+    ],
+    "createdAt": "2025-04-05"
+  },
+  {
+    "company": "Passwd",
+    "url": "https://passwd.team/blog/passwd-bug-bounty-program",
+    "overview": "Passwd is team password manager for Google Workspace. Remembers all your team's passwords. Stores them safely.",
+    "bounty": true,
+    "swag": false,
+    "hof": false,
+    "tags": [
+      "Web2"
+    ],
+    "createdAt": "2025-05-03"
+  },
+  {
+    "company": "Patchstack",
+    "url": "https://patchstack.com/bug-bounty",
+    "overview": "Patchstack is the leader in open-source vulnerability intelligence, covering the entire lifecycle from detection to mitigation.",
+    "bounty": true,
+    "swag": false,
+    "hof": true,
+    "tags": [
+      "Web2",
+      "CMS",
+      "Framework"
+    ],
+    "createdAt": "2025-04-17"
+  },
+  {
+    "company": "PayDo",
+    "url": "https://paydo.com/bug-bounty-program",
+    "overview": "PayDo stands out with its all-in-one solution, covering business accounts, personal accounts, checkout solutions and more under one dashboard.",
+    "bounty": true,
+    "swag": false,
+    "hof": false,
+    "tags": [
+      "Web2"
+    ],
+    "createdAt": "2025-11-03"
+  },
+  {
+    "company": "Phantom",
+    "url": "https://phantom.com/bug-bounty",
+    "overview": "Phantom is a multichain wallet helps you explore web3, use apps, and buy, store, and trade crypto and NFTs across Solana, Ethereum, and Polygon.",
+    "bounty": true,
+    "swag": false,
+    "hof": false,
+    "tags": [
+      "Web3"
+    ],
+    "createdAt": "2025-04-05"
+  },
+  {
+    "company": "Pinegrow",
+    "url": "https://pinegrow.com/docs/wordpress/pinegrow-wordpress-plugin/reporting-security-issues",
+    "overview": "Pinegrow lets you work faster with HTML, CSS / SASS, Bootstrap, Tailwind CSS, GreenSock Interactions, WordPress and WooCommerce.",
+    "bounty": true,
+    "swag": false,
+    "hof": false,
+    "tags": [
+      "Web2"
+    ],
+    "createdAt": "2025-04-05"
+  },
+  {
+    "company": "PingCAP",
+    "url": "https://www.pingcap.com/security",
+    "overview": "An open-source distributed SQL database trusted by innovators to power transactional, AI, and other modern applications.",
+    "bounty": true,
+    "swag": false,
+    "hof": true,
+    "tags": [
+      "Web2"
+    ],
+    "createdAt": "2025-11-01"
+  },
+  {
+    "company": "Piwik Pro",
+    "url": "https://piwik.pro/bug-bounty-program",
+    "overview": "A flexible analytics suite for marketers and analysts that lets you respect user privacy every step of the way.",
+    "bounty": true,
+    "swag": false,
+    "hof": false,
+    "tags": [
+      "Web2"
+    ],
+    "createdAt": "2025-05-03"
+  },
+  {
+    "company": "PlayerAuctions",
+    "url": "https://support.playerauctions.com/hc/en-us/articles/49330305602585-PlayerAuctions-Bug-Bounty-Program",
+    "overview": "PlayerAuctions is a digital marketplace that connects buyers and sellers of various types of gaming products.",
+    "bounty": true,
+    "swag": false,
+    "hof": false,
+    "tags": [
+      "Web2"
+    ],
+    "createdAt": "2025-11-15"
+  },
+  {
+    "company": "PocketRN",
+    "url": "https://www.pocketrn.com/support/bug-bounty",
+    "overview": "PocketRN allows patients, families, and caregivers to video-chat Nurses with the right expertise from the comfort of their own home.",
+    "bounty": true,
+    "swag": false,
+    "hof": false,
+    "tags": [
+      "Web2"
+    ],
+    "createdAt": "2025-11-06"
+  },
+  {
+    "company": "Porkbun",
+    "url": "https://porkbun.com/products/bug_bounty",
+    "overview": "Porkbun is an ICANN accredited domain name registrar based out of the Pacific Northwest. Named the #1 domain registrar by USA Today.",
+    "bounty": true,
+    "swag": false,
+    "hof": false,
+    "tags": [
+      "Web2"
+    ],
+    "createdAt": "2025-05-15"
+  },
+  {
+    "company": "Potato VPN",
+    "url": "https://www.potatovpn.io/bug-bounty-program",
+    "overview": "Potato VPN brings you just one tap to connect, no more than three seconds you will get one stable VPN service. It connects automatically to the fastest servers.",
+    "bounty": true,
+    "swag": false,
+    "hof": false,
+    "tags": [
+      "Web2"
+    ],
+    "createdAt": "2025-03-10"
+  },
+  {
+    "company": "Powtoon",
+    "url": "https://www.powtoon.com/bug-bounty-program/",
+    "overview": "Powtoon is the all-in-one Video platform that enables professional AI-generated videos with unprecedented ease, efficiency, and security.",
+    "bounty": true,
+    "swag": false,
+    "hof": false,
+    "tags": [
+      "Web2"
+    ],
+    "createdAt": "2025-05-17"
+  },
+  {
+    "company": "Prefect",
+    "url": "https://www.prefect.io/bug-bounty",
+    "overview": "Prefect is a workflow orchestration framework for building resilient data pipelines in Python.",
+    "bounty": true,
+    "swag": false,
+    "hof": false,
+    "tags": [
+      "Web2"
+    ],
+    "createdAt": "2025-04-12"
+  },
+  {
+    "company": "Private Packagist",
+    "url": "https://packagist.com/about/bug-bounty",
+    "overview": "Manage and browse all your private packages through our web interface.",
+    "bounty": true,
+    "swag": false,
+    "hof": false,
+    "tags": [
+      "Web2"
+    ],
+    "createdAt": "2025-03-10"
+  },
+  {
+    "company": "PubNub",
+    "url": "https://www.pubnub.com/bug-bounty-policy",
+    "overview": "PubNub is a real-time communication platform and infrastructure-as-a-service company based in San Francisco, California.",
+    "bounty": true,
+    "swag": false,
+    "hof": false,
+    "tags": [
+      "Web2"
+    ],
+    "createdAt": "2025-03-10"
+  },
+  {
+    "company": "Pullpo",
+    "url": "https://docs.pullpo.io/bug-bounty-program",
+    "overview": "Pullpo helps engineering teams identify and fix bottlenecks by combining data-driven metrics with real-time team feedback.",
+    "bounty": true,
+    "swag": false,
+    "hof": true,
+    "tags": [
+      "Web2"
+    ],
+    "createdAt": "2025-03-10"
+  },
+  {
+    "company": "PythonAnywhere",
+    "url": "https://help.pythonanywhere.com/pages/BugBounty",
+    "overview": "PythonAnywhere is an online integrated development environment and web hosting service based on the Python.",
+    "bounty": true,
+    "swag": false,
+    "hof": false,
+    "tags": [
+      "Web2"
+    ],
+    "createdAt": "2025-04-23"
+  },
+  {
+    "company": "Qdrant",
+    "url": "https://qdrant.tech/security/bug-bounty-program",
+    "overview": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also available in the cloud",
+    "bounty": true,
+    "swag": false,
+    "hof": false,
+    "tags": [
+      "Web2"
+    ],
+    "createdAt": "2025-04-05"
+  },
+  {
+    "company": "Qminder",
+    "url": "https://support.qminder.com/en/articles/4574127-vulnerability-reporting-policy",
+    "overview": "Manage queues and reduce operational costs. We help businesses to save their customers 1,000+ hours of waiting in line, every day.",
+    "bounty": true,
+    "swag": false,
+    "hof": false,
+    "tags": [
+      "Web2"
+    ],
+    "createdAt": "2025-04-12"
+  },
+  {
+    "company": "Quicko",
+    "url": "https://help.quicko.com/portal/en/kb/articles/bug-bounty-program",
+    "overview": "Founded in 2015, Quicko is India's fastest-growing tax platform with over 2 million happy taxpayers.",
+    "bounty": true,
+    "swag": false,
+    "hof": true,
+    "tags": [
+      "Web2",
+      "Mobile"
+    ],
+    "createdAt": "2025-04-05"
+  },
+  {
+    "company": "Railgun",
+    "url": "https://www.railgun.org/bug-bounty.html",
+    "overview": "RAILGUN is a DeFi privacy toolkit powering a rich on-chain Zero-Knowledge privacy ecosystem.",
+    "bounty": true,
+    "swag": false,
+    "hof": false,
+    "tags": [
+      "Web2",
+      "Web3"
+    ],
+    "createdAt": "2025-04-22"
+  },
+  {
+    "company": "Rang De",
+    "url": "https://rangde.in/bug-bounty-program",
+    "overview": "Rang De is India's first and pioneering social peer to peer (P2P) lending platform with a mission to provide access to low cost and affordable credit.",
+    "bounty": true,
+    "swag": false,
+    "hof": true,
+    "tags": [
+      "Web2"
+    ],
+    "createdAt": "2025-11-03"
+  },
+  {
+    "company": "Range",
+    "url": "https://www.range.co/security/bounty",
+    "overview": "Range is a team communication tool for check-ins, meeting management, goals, and strengthening team culture.",
+    "bounty": false,
+    "swag": false,
+    "hof": true,
+    "tags": [
+      "Web2"
+    ],
+    "createdAt": "2025-05-23"
+  },
+  {
+    "company": "ReadMe",
+    "url": "https://docs.readme.com/main/docs/bug-bounty-program",
+    "overview": "ReadMe offers Git-style workflows with branching and versioning, built-in AI tools, and analytics to help you understand how developers use your API.",
+    "bounty": true,
+    "swag": false,
+    "hof": false,
+    "tags": [
+      "Web2"
+    ],
+    "createdAt": "2025-11-06"
+  },
+  {
+    "company": "RenoFi",
+    "url": "https://www.federacy.com/renofi?tab=Rules",
+    "overview": "RenoFi is a financial technology company helping make home renovations possible.",
+    "bounty": true,
+    "swag": false,
+    "hof": false,
+    "tags": [
+      "Web2"
+    ],
+    "createdAt": "2025-04-23"
+  },
+  {
+    "company": "Reydix",
+    "url": "https://www.reydix.com/sbbp/",
+    "overview": "A groundbreaking technology, reshaping how people connect, socialize, entertain and share experiences in world of artists, venues, brands and their fans.",
+    "bounty": true,
+    "swag": false,
+    "hof": false,
+    "tags": [
+      "Web2"
+    ],
+    "createdAt": "2025-11-08"
+  },
+  {
+    "company": "Rocketlane",
+    "url": "https://www.rocketlane.com/responsible-disclosure",
+    "overview": "Rocketlane brings together your meetings, tasks, and time offs, into your timesheet, so that your team can breeze through timesheets in a matter of seconds.",
+    "bounty": false,
+    "swag": true,
+    "hof": false,
+    "tags": [
+      "Web2"
+    ],
+    "createdAt": "2025-11-03"
+  },
+  {
+    "company": "Safe",
+    "url": "https://docs.safe.global/advanced/smart-account-bug-bounty",
+    "overview": "Safe is at the forefront of modular smart account infrastructure, paving the way for developers to create various applications and wallets.",
+    "bounty": true,
+    "swag": false,
+    "hof": false,
+    "tags": [
+      "Web3"
+    ],
+    "createdAt": "2025-03-10"
+  },
+  {
+    "company": "Salv",
+    "url": "https://salv.com/bug-bounty",
+    "overview": "Salv empowers financial institutions to beat financial crime with a SaaS platform that helps them detect money laundering, share intelligence, and stop fraud.",
+    "bounty": false,
+    "swag": false,
+    "hof": true,
+    "tags": [
+      "Web2"
+    ],
+    "createdAt": "2025-04-12"
+  },
+  {
+    "company": "Sandbox",
+    "url": "https://help.sandbox.co.in/support/solutions/articles/84000373789-bug-bounty-program",
+    "overview": "Unbox a wide variety of Income Tax, GST, TDS & KYC APIs to build ambitious E-Commerce, Fintechs, NBFCs, Payment Gateways.",
+    "bounty": true,
+    "swag": false,
+    "hof": true,
+    "tags": [
+      "Web2"
+    ],
+    "createdAt": "2025-04-15"
+  },
+  {
+    "company": "Scallop",
+    "url": "https://docs.scallop.io/protocol/bug-bounty",
+    "overview": "Scallop is a DeFi protocol for lending and borrowing on the Sui blockchain.",
+    "bounty": true,
+    "swag": false,
+    "hof": false,
+    "tags": [
+      "Web3"
+    ],
+    "createdAt": "2025-04-13"
+  },
+  {
+    "company": "Scrapfly",
+    "url": "https://scrapfly.io/bug-bounty-program",
+    "overview": "The Ultimate Web Scraping API - Defeat Anti-Bot Measures - Leverage Stealth Browsers - Extract Data Seamlessly.",
+    "bounty": true,
+    "swag": false,
+    "hof": false,
+    "tags": [
+      "Web2"
+    ],
+    "createdAt": "2025-04-13"
+  },
+  {
+    "company": "Screenly",
+    "url": "https://www.screenly.io/bug-bounty/",
+    "overview": "Screenly provides the hardware and software you need to manage enterprise-grade digital signs at scale.",
+    "bounty": true,
+    "swag": false,
+    "hof": false,
+    "tags": [
+      "Web2"
+    ],
+    "createdAt": "2025-11-23"
+  },
+  {
+    "company": "Selzy",
+    "url": "https://selzy.com/en/legal/vulnerability-disclosure-policy",
+    "overview": "Selzy is an AI-powered email marketing platform that lets you create and send sales-boosting email campaigns in minutes.",
+    "bounty": true,
+    "swag": false,
+    "hof": false,
+    "tags": [
+      "Web2"
+    ],
+    "createdAt": "2025-04-22"
+  },
+  {
+    "company": "Sensfrx",
+    "url": "https://sensfrx.ai/bug-bounty",
+    "overview": "Sensfrx is a reliable online anti-fraud solution tailored for WordPress and WooCommerce, designed to help store for fighting fraud.",
+    "bounty": false,
+    "swag": true,
+    "hof": true,
+    "tags": [
+      "Web2"
+    ],
+    "createdAt": "2025-12-03"
+  },
+  {
+    "company": "Sentinelone",
+    "url": "https://www.sentinelone.com/bug-bounty",
+    "overview": "SentinelOne, Inc. is an American cybersecurity company listed on NYSE based in Mountain View, California.",
+    "bounty": true,
+    "swag": false,
+    "hof": false,
+    "tags": [
+      "Web2",
+      "Desktop"
+    ],
+    "createdAt": "2025-04-05"
+  },
+  {
+    "company": "Servify",
+    "url": "https://global.servify.tech/responsible-vulnerability-disclosure-program",
+    "overview": "Servify is a device management platform managing the refurbishment, packaging, warranty bundling & re-distribution in partnership with ecosystem players.",
+    "bounty": false,
+    "swag": false,
+    "hof": true,
+    "tags": [
+      "Web2",
+      "Mobile"
+    ],
+    "createdAt": "2025-04-15"
+  },
+  {
+    "company": "SetPoint Medical",
+    "url": "https://setpointmedical.com/security-rewards",
+    "overview": "SetPoint Medical is a privately held clinical-stage healthcare company dedicated to treating patients with autoimmune diseases.",
+    "bounty": true,
+    "swag": true,
+    "hof": false,
+    "tags": [
+      "Web2",
+      "Hardware"
+    ],
+    "createdAt": "2025-04-20"
+  },
+  {
+    "company": "Setu",
+    "url": "https://setu.co/bug-bounty-program",
+    "overview": "Full-stack fintech. The fastest platform to set up on-boarding, payment processing, or other finance journeys.",
+    "bounty": true,
+    "swag": false,
+    "hof": true,
+    "tags": [
+      "Web2"
+    ],
+    "createdAt": "2025-03-10"
+  },
+  {
+    "company": "Shakepay",
+    "url": "https://legal.shakepay.com/bug-bounty-program",
+    "overview": "Shakepay allows Canadians to buy/sell bitcoin and pay their friends. We're on a mission to create open access to building wealth.",
+    "bounty": true,
+    "swag": false,
+    "hof": false,
+    "tags": [
+      "Web2",
+      "Web3",
+      "Mobile"
+    ],
+    "createdAt": "2025-10-09"
+  },
+  {
+    "company": "ShipHero",
+    "url": "https://shiphero.com/bug-bounty-program",
+    "overview": "ShipHero is a fully featured Warehouse Management System designed for DTC brands and 3PL providers running their own warehouse and shipping operations.",
+    "bounty": true,
+    "swag": false,
+    "hof": false,
+    "tags": [
+      "Web2"
+    ],
+    "createdAt": "2025-11-08"
+  },
+  {
+    "company": "Shockbyte",
+    "url": "https://shockbyte.com/security",
+    "overview": "Shockbyte provides the best Minecraft server hosting since 2013. Easy to set up, 24/7 support, with instant modpack and plugin install.",
+    "bounty": true,
+    "swag": false,
+    "hof": false,
+    "tags": [
+      "Web2"
+    ],
+    "createdAt": "2025-11-05"
+  },
+  {
+    "company": "signageOS",
+    "url": "https://www.signageos.io/legal/bug-bounty",
+    "overview": "signageOS is the ultimate answer to all things digital signage. Manage any device, build your solutions, and operate mission-critical networks at scale.",
+    "bounty": true,
+    "swag": false,
+    "hof": false,
+    "tags": [
+      "Web2"
+    ],
+    "createdAt": "2025-04-12"
+  },
+  {
+    "company": "Silver Gold Bull",
+    "url": "https://silvergoldbull.com/bug-bounty",
+    "overview": "Silver Gold Bull is one of the largest metal dealers that deliver gold coins, gold bars, silver coins, silver bars and precious metals to your door. ",
+    "bounty": true,
+    "swag": false,
+    "hof": false,
+    "tags": [
+      "Web2",
+      "Mobile"
+    ],
+    "createdAt": "2025-11-06"
+  },
+  {
+    "company": "SimpleLogin",
+    "url": "https://simplelogin.io/blog/bug-bounty-program",
+    "overview": "SimpleLogin is an open source email alias solution to protect your email address.",
+    "bounty": true,
+    "swag": false,
+    "hof": false,
+    "tags": [
+      "Web2"
+    ],
+    "createdAt": "2025-04-13"
+  },
+  {
+    "company": "Simpleshow",
+    "url": "https://simpleshow.com/bug-bounty-program",
+    "overview": "Simpleshow gives you the power to create simple and engaging videos with an easy-to-use, AI-powered video maker platform.",
+    "bounty": true,
+    "swag": false,
+    "hof": false,
+    "tags": [
+      "Web2"
+    ],
+    "createdAt": "2025-03-10"
+  },
+  {
+    "company": "Skipso",
+    "url": "https://www.skipso.com/responsible-disclosure",
+    "overview": "Skipso is an innovation management platform helping organizations worldwide harness the creativity of their employees, customers, and external innovators.",
+    "bounty": false,
+    "swag": false,
+    "hof": true,
+    "tags": [
+      "Web2"
+    ],
+    "createdAt": "2025-04-16"
+  },
+  {
+    "company": "Smartling",
+    "url": "https://help.smartling.com/hc/en-us/articles/360008147833-Bug-Bounty-Policy",
+    "overview": "Smartling is the AI Translation Platform that helps companies grow globally, faster.",
+    "bounty": true,
+    "swag": false,
+    "hof": false,
+    "tags": [
+      "Web2"
+    ],
+    "createdAt": "2025-04-22"
+  },
+  {
+    "company": "SMSEagle",
+    "url": "https://www.smseagle.eu/responsible-disclosure-policy",
+    "overview": "Hardware SMS Gateway solutions for every business, trusted by users around the world.",
+    "bounty": true,
+    "swag": false,
+    "hof": false,
+    "tags": [
+      "Web2",
+      "Hardware"
+    ],
+    "createdAt": "2025-04-15"
+  },
+  {
+    "company": "Socrative",
+    "url": "https://help.socrative.com/en/articles/4932454-reporting-security-vulnerabilities",
+    "overview": "Socrative helps you effortlessly assess and engage your students while visualizing learning progress in real-time with instant results.",
+    "bounty": true,
+    "swag": false,
+    "hof": false,
+    "tags": [
+      "Web2"
+    ],
+    "createdAt": "2025-04-12"
+  },
+  {
+    "company": "Spectro Cloud",
+    "url": "https://www.spectrocloud.com/bug-bounty",
+    "overview": "Spectro Cloud delivers simplicity and control to organizations running Kubernetes at any scale.",
+    "bounty": true,
+    "swag": false,
+    "hof": true,
+    "tags": [
+      "Web2"
+    ],
+    "createdAt": "2025-03-10"
+  },
+  {
+    "company": "Sperax",
+    "url": "https://docs.sperax.io/bug-bounty-program",
+    "overview": "Sperax USDs is a fully collateralized stablecoin generating organic yield for holders.",
+    "bounty": true,
+    "swag": false,
+    "hof": false,
+    "tags": [
+      "Web2",
+      "Web3"
+    ],
+    "createdAt": "2025-04-13"
+  },
+  {
+    "company": "Spike",
+    "url": "https://www.spikenow.com/help/bug-bounty-program",
+    "overview": "Spike is an amazing team comms platform. Imagine Slack but inside your email, & with everyone you need - team members, clients and vendors too.",
+    "bounty": true,
+    "swag": false,
+    "hof": false,
+    "tags": [
+      "Web2"
+    ],
+    "createdAt": "2025-03-10"
+  },
+  {
+    "company": "Spreaker",
+    "url": "https://help.spreaker.com/en/articles/5123644-bug-bounty-program",
+    "overview": "Spreaker is the easiest podcasting platform to create, distribute, monetize your podcasts.",
+    "bounty": true,
+    "swag": false,
+    "hof": false,
+    "tags": [
+      "Web2"
+    ],
+    "createdAt": "2025-04-20"
+  },
+  {
+    "company": "Statsig",
+    "url": "https://www.statsig.com/trust/bugbounty",
+    "overview": "Statsig is a one-stop shop for product, engineering, and data teams to come together.",
+    "bounty": true,
+    "swag": false,
+    "hof": false,
+    "tags": [
+      "Web2"
+    ],
+    "createdAt": "2025-04-05"
+  },
+  {
+    "company": "Strategy",
+    "url": "https://www.strategysoftware.com/go/report-a-strategy-product-vulnerability",
+    "overview": "Strategy is the first and largest Bitcoin treasury company, and the leading provider of universal semantic layer and AI+BI software for enterprises.",
+    "bounty": true,
+    "swag": false,
+    "hof": false,
+    "tags": [
+      "Web2"
+    ],
+    "createdAt": "2025-11-05"
+  },
+  {
+    "company": "Street Context",
+    "url": "https://www.federacy.com/street-contxt?tab=Intro",
+    "overview": "Street Context's email intelligence allows users to maximize their time and make every conversation count.",
+    "bounty": true,
+    "swag": false,
+    "hof": false,
+    "tags": [
+      "Web2"
+    ],
+    "createdAt": "2025-04-23"
+  },
+  {
+    "company": "Studocu",
+    "url": "https://www.studocu.com/vdp.html",
+    "overview": "Studocu's mission is to empower everyone to excel in their studies by providing the best tools to students who want to study more efficiently.",
+    "bounty": true,
+    "swag": false,
+    "hof": false,
+    "tags": [
+      "Web2",
+      "Mobile"
+    ],
+    "createdAt": "2025-04-05"
+  },
+  {
+    "company": "SuperMoney",
+    "url": "https://www.supermoney.com/bug-bounty-program",
+    "overview": "SuperMoney makes financial comparison shopping easy. Compare rates, terms, and features on thousands of financial products and service in one place.",
+    "bounty": true,
+    "swag": false,
+    "hof": false,
+    "tags": [
+      "Web2",
+      "Mobile"
+    ],
+    "createdAt": "2025-11-11"
+  },
+  {
+    "company": "Supportbench",
+    "url": "https://support.supportbench.net/article/supportbench-bug-bounty-program-policy",
+    "overview": "Supportbench is the #1 rated B2B helpdesk software designed for growing support teams and businesses in need of more advanced and feature-rich tools.",
+    "bounty": true,
+    "swag": false,
+    "hof": true,
+    "tags": [
+      "Web2"
+    ],
+    "createdAt": "2025-04-12"
+  },
+  {
+    "company": "Supra",
+    "url": "https://supra.com/bug-bounty",
+    "overview": "Supra is the world's highest-performing, fully vertically integrated L1 blockchain, and it's about to change everything.",
+    "bounty": true,
+    "swag": false,
+    "hof": false,
+    "tags": [
+      "Web2",
+      "Web3"
+    ],
+    "createdAt": "2025-11-03"
+  },
+  {
+    "company": "Survicate",
+    "url": "https://survicate.com/bug-bounty-program",
+    "overview": "Survicate is an effortless survey tool that allows you to collect continuous customer feedback via email, web, in-product, and mobile apps.",
+    "bounty": true,
+    "swag": false,
+    "hof": false,
+    "tags": [
+      "Web2",
+      "Mobile"
+    ],
+    "createdAt": "2025-03-10"
+  },
+  {
+    "company": "Sweap",
+    "url": "https://www.sweap.io/en/company/bug-bounty-program",
+    "overview": "Sweap enables to create personalized events in your branding in under 10 minutes - whether in-person, virtual or hybrid.",
+    "bounty": true,
+    "swag": false,
+    "hof": false,
+    "tags": [
+      "Web2",
+      "Mobile"
+    ],
+    "createdAt": "2025-03-10"
+  },
+  {
+    "company": "Syfe",
+    "url": "https://www.syfe.com/bug-bounty",
+    "overview": "Syfe is a digital investment platform with a mission to empower people to build their wealth for a better future.",
+    "bounty": true,
+    "swag": true,
+    "hof": true,
+    "tags": [
+      "Web2",
+      "Mobile"
+    ],
+    "createdAt": "2025-05-15"
+  },
+  {
+    "company": "SyncEzy",
+    "url": "https://syncezy.com/bug-bounty-program",
+    "overview": "SyncEzy integrates applications to automate business process. Build deep integrations that save you time and money.",
+    "bounty": true,
+    "swag": false,
+    "hof": false,
+    "tags": [
+      "Web2"
+    ],
+    "createdAt": "2025-03-10"
+  },
+  {
+    "company": "Synology",
+    "url": "https://www.synology.com/en-global/security/bounty_program",
+    "overview": "Synology Inc is a Taiwanese corporation that specializes in network-attached storage (NAS) appliances.",
+    "bounty": true,
+    "swag": false,
+    "hof": true,
+    "tags": [
+      "Web2"
+    ],
+    "createdAt": "2025-04-22"
+  },
+  {
+    "company": "TataPlay",
+    "url": "https://www.tataplay.com/bug-bounty-hunter",
+    "overview": "Tata Play offers 600+ channels through its DTH service. With 20+ million connections, Tata Play is the preferred DTH connection service provider in India.",
+    "bounty": true,
+    "swag": true,
+    "hof": true,
+    "tags": [
+      "Web2",
+      "Mobile"
+    ],
+    "createdAt": "2025-04-05"
+  },
+  {
+    "company": "TeamRetro",
+    "url": "https://www.teamretro.com/responsible-disclosure",
+    "overview": "TeamRetro is a secure agile retrospective and health check tool that helps your team achieve better meeting value, safety, and actionable outcomes.",
+    "bounty": false,
+    "swag": false,
+    "hof": true,
+    "tags": [
+      "Web2"
+    ],
+    "createdAt": "2025-05-21"
+  },
+  {
+    "company": "Teamup",
+    "url": "https://www.teamup.com/bug-bounty",
+    "overview": "Teamup makes it easy to manage schedules, availability, and events that involve many people and resources.",
+    "bounty": true,
+    "swag": false,
+    "hof": false,
+    "tags": [
+      "Web2"
+    ],
+    "createdAt": "2025-03-10"
+  },
+  {
+    "company": "Tecton",
+    "url": "https://www.tecton.ai/vulnerability-disclosure",
+    "overview": "Tecton provides an enterprise-ready AI data platform to help companies activate their data for AI applications.",
+    "bounty": true,
+    "swag": false,
+    "hof": false,
+    "tags": [
+      "Web2"
+    ],
+    "createdAt": "2025-05-03"
+  },
+  {
+    "company": "TextJam",
+    "url": "https://textjam.com/bug-bounty",
+    "overview": "TextJam is an AI editor with novel twists on how humans co-write with AI. TextJam is a bold new take on what a word processor can be.",
+    "bounty": true,
+    "swag": false,
+    "hof": false,
+    "tags": [
+      "Web2"
+    ],
+    "createdAt": "2025-11-11"
+  },
+  {
+    "company": "TinyIMG",
+    "url": "https://tiny-img.com/bug-bounty-program-for-tinyimg/",
+    "overview": "TinyIMG helps reduce the file size of your images as much as possible, without sacrificing quality, so your page load times remain low.",
+    "bounty": true,
+    "swag": false,
+    "hof": false,
+    "tags": [
+      "Web2"
+    ],
+    "createdAt": "2025-05-15"
+  },
+  {
+    "company": "TitanFile",
+    "url": "https://www.titanfile.com/terms-policies/vulnerability-disclosure-policy/",
+    "overview": "TitanFile is an award-winning, easy and secure way for professionals to communicate without having to worry about security and privacy.",
+    "bounty": true,
+    "swag": false,
+    "hof": false,
+    "tags": [
+      "Web2"
+    ],
+    "createdAt": "2025-12-07"
+  },
+  {
+    "company": "Toddle",
+    "url": "https://www.toddleapp.com/responsible-vulnerability-disclosure-policy",
+    "overview": "Toddle is built for teachers, by teachers, Toddle is an AI-powered teaching & learning platform for progressive K-12 schools & districts.",
+    "bounty": false,
+    "swag": true,
+    "hof": false,
+    "tags": [
+      "Web2",
+      "Mobile"
+    ],
+    "createdAt": "2025-11-23"
+  },
+  {
+    "company": "Todoist",
+    "url": "https://www.todoist.com/help/articles/doist-bug-bounty-policy-oBo6UzFk",
+    "overview": "Todoist is the most popular to do list and a planning center for individuals and teams, trusted by over 47 million people",
+    "bounty": true,
+    "swag": false,
+    "hof": false,
+    "tags": [
+      "Web2",
+      "Desktop",
+      "Mobile"
+    ],
+    "createdAt": "2025-04-05"
+  },
+  {
+    "company": "Tonkeeper",
+    "url": "https://tonkeeper.com/bug-bounty",
+    "overview": "Tonkeeper is the easiest self-custody wallet to pay toncoin and other tokens. Ton has low blockchain fees and fast transactions.",
+    "bounty": true,
+    "swag": false,
+    "hof": false,
+    "tags": [
+      "Web2",
+      "Web3"
+    ],
+    "createdAt": "2025-11-11"
+  },
+  {
+    "company": "Translated",
+    "url": "https://translated.com/vulnerability-disclosure-policy",
+    "overview": "Professional translation services made easy. Crafted by expert humans, powered by technology, efficiently delivered.",
+    "bounty": true,
+    "swag": false,
+    "hof": false,
+    "tags": [
+      "Web2"
+    ],
+    "createdAt": "2025-04-15"
+  },
+  {
+    "company": "Trezor",
+    "url": "https://trezor.io/security",
+    "overview": "Trezor is a physical device that protects your crypto from online hacks, malware & unauthorized access.",
+    "bounty": true,
+    "swag": false,
+    "hof": false,
+    "tags": [
+      "Web2",
+      "Web3",
+      "Hardware"
+    ],
+    "createdAt": "2025-08-17"
+  },
+  {
+    "company": "Tribepad",
+    "url": "https://tribepad.com/app/uploads/2025/09/Vulnerability-Disclosure-Program.pdf",
+    "overview": "Tribepad is a powerful recruitment software & ATS for enterprises and SMEs. Simplify hiring, onboarding, sourcing, and interviewing with ease.",
+    "bounty": true,
+    "swag": false,
+    "hof": false,
+    "tags": [
+      "Web2"
+    ],
+    "createdAt": "2025-11-08"
+  },
+  {
+    "company": "Truely",
+    "url": "https://truely.com/blog/truely-bug-bounty-program",
+    "overview": "Truely is a Switchless eSIM built for modern travelers who value flexibility and freedom. Install once and get access to data plans in over 200+ destinations and regions.",
+    "bounty": true,
+    "swag": true,
+    "hof": false,
+    "tags": [
+      "Web2"
+    ],
+    "createdAt": "2025-11-08"
+  },
+  {
+    "company": "Tuple",
+    "url": "https://www.federacy.com/tuple?tab=Intro",
+    "overview": "Tuple is an app for remote pair programming, optimized for everything that developers care about.",
+    "bounty": true,
+    "swag": false,
+    "hof": false,
+    "tags": [
+      "Web2",
+      "Desktop"
+    ],
+    "createdAt": "2025-04-23"
+  },
+  {
+    "company": "University of Groningen",
+    "url": "https://www.rug.nl/about-ug/policy-and-strategy/privacy-and-security-at-the-ug/responsible-disclosure",
+    "overview": "The University of Groningen is an international university that focuses on all disciplines of science and technology.",
+    "bounty": false,
+    "swag": false,
+    "hof": true,
+    "tags": [
+      "Web2"
+    ],
+    "createdAt": "2025-04-05"
+  },
+  {
+    "company": "Upflow",
+    "url": "https://upflow.io/vulnerability-disclosure-policy",
+    "overview": "Upflow is a Financial Relationship Management solution that helps our customers transition from chasing invoices to engaging customers.",
+    "bounty": true,
+    "swag": false,
+    "hof": false,
+    "tags": [
+      "Web2"
+    ],
+    "createdAt": "2025-04-14"
+  },
+  {
+    "company": "UXCam",
+    "url": "https://uxcam.com/bug-bounty",
+    "overview": "UXCam is a software solution that helps mobile product teams to better understand how users interact with their products - all with a single snippet of code.",
+    "bounty": true,
+    "swag": false,
+    "hof": true,
+    "tags": [
+      "Web2",
+      "Mobile"
+    ],
+    "createdAt": "2025-04-05"
+  },
+  {
+    "company": "vFairs",
+    "url": "https://www.vfairs.com/bug-bounty-program",
+    "overview": "vFairs is an event management platform that helps event planners and professionals to plan, build, promote, and execute events.",
+    "bounty": true,
+    "swag": false,
+    "hof": false,
+    "tags": [
+      "Web2"
+    ],
+    "createdAt": "2025-04-20"
+  },
+  {
+    "company": "Vista Social",
+    "url": "https://vistasocial.com/responsible-disclosure-policy",
+    "overview": "Vista Social is a modern all-in-one social media platform. Expertly crafted social media management tools to help you exceed your goals.",
+    "bounty": true,
+    "swag": false,
+    "hof": false,
+    "tags": [
+      "Web2"
+    ],
+    "createdAt": "2025-04-12"
+  },
+  {
+    "company": "Voatz",
+    "url": "https://voatz.com/bug-bounty",
+    "overview": "Voatz uses cutting edge technology to enable secure and accessible mobile voting from anywhere.",
+    "bounty": true,
+    "swag": false,
+    "hof": false,
+    "tags": [
+      "Mobile"
+    ],
+    "createdAt": "2025-04-22"
+  },
+  {
+    "company": "Volkis",
+    "url": "https://www.volkis.com.au/vulnerability-disclosure",
+    "overview": "Volkis is an information security consultancy that provides penetration testing, security assessment, and training services.",
+    "bounty": true,
+    "swag": true,
+    "hof": true,
+    "tags": [
+      "Web2"
+    ],
+    "createdAt": "2025-04-12"
+  },
+  {
+    "company": "Vultr",
+    "url": "https://www.vultr.com/bug-bounty",
+    "overview": "Vultr Cloud Compute puts global developers and businesses in the driver's seat, providing on-demand enterprise-grade cloud computing at industry-leading price-to-performance.",
+    "bounty": true,
+    "swag": false,
+    "hof": false,
+    "tags": [
+      "Web2"
+    ],
+    "createdAt": "2025-03-10"
+  },
+  {
+    "company": "WalkMe",
+    "url": "https://www.walkme.com/bug-bounty-program",
+    "overview": "WalkMe, the leading digital adoption platform, overlays on any application, identifying where workflows break and providing automation.",
+    "bounty": true,
+    "swag": false,
+    "hof": true,
+    "tags": [
+      "Web2"
+    ],
+    "createdAt": "2025-04-12"
+  },
+  {
+    "company": "Wazoku",
+    "url": "https://www.wazoku.com/bugbounty",
+    "overview": "Wazoku is an Enterprise Innovation Platform comprising: Idea Management, Open Innovation Marketplace, Innovation Consulting.",
+    "bounty": true,
+    "swag": false,
+    "hof": false,
+    "tags": [
+      "Web2"
+    ],
+    "createdAt": "2025-05-17"
+  },
+  {
+    "company": "Wordfence",
+    "url": "https://www.wordfence.com/threat-intel/bug-bounty-program",
+    "overview": "Wordfence is the most popular WordPress firewall and security scanner, protecting over 5 million websites worldwide from attackers targeting WordPress.",
+    "bounty": true,
+    "swag": false,
+    "hof": true,
+    "tags": [
+      "Web2"
+    ],
+    "createdAt": "2025-03-10"
+  },
+  {
+    "company": "Xeovo",
+    "url": "https://xeovo.com/bug-bounty/",
+    "overview": "Xeovo offers VPN service and stealth proxy gateways. It has a no-logging policy and servers in 16 locations all over the world.",
+    "bounty": true,
+    "swag": false,
+    "hof": false,
+    "tags": [
+      "Web2"
+    ],
+    "createdAt": "2025-11-03"
+  },
+  {
+    "company": "XREX",
+    "url": "https://xrex.io/bug-bounty",
+    "overview": "XREX is a blockchain-enabled financial institution that works with banks, regulatory bodies, and users to redefine the banking industry.",
+    "bounty": true,
+    "swag": false,
+    "hof": false,
+    "tags": [
+      "Web2",
+      "Mobile"
+    ],
+    "createdAt": "2025-04-12"
+  },
+  {
+    "company": "Xsolla",
+    "url": "https://help.xsolla.com/xsolla-bounty-program",
+    "overview": "Xsolla is an American financial technology company that makes payment software for video games.",
+    "bounty": true,
+    "swag": false,
+    "hof": true,
+    "tags": [
+      "Web2"
+    ],
+    "createdAt": "2025-04-05"
+  },
+  {
+    "company": "XTRM",
+    "url": "https://xtrmsupport.xtrm.com/en/support/solutions/articles/4000168365-security011-bug-bounty-program",
+    "overview": "XTRM is a powerful global payment platform and embedded API powered by an intelligent digital wallet architecture that allows any type of global payments.",
+    "bounty": true,
+    "swag": false,
+    "hof": false,
+    "tags": [
+      "Web2"
+    ],
+    "createdAt": "2025-04-05"
+  },
+  {
+    "company": "Zaakpay",
+    "url": "https://zaakpay.com/bug-bounty",
+    "overview": "Zaakpay, payment gateway by MobiKwik, is a payments platform incubated and designed in India.",
+    "bounty": true,
+    "swag": false,
+    "hof": true,
+    "tags": [
+      "Web2",
+      "Mobile"
+    ],
+    "createdAt": "2025-05-15"
+  },
+  {
+    "company": "Zerodha",
+    "url": "https://zerodha.com/bug-bounty",
+    "overview": "Zerodha is an Indian financial services company that offers brokerage-free equity investments, retail, institutional broking, currencies, and commodities trading.",
+    "bounty": true,
+    "swag": false,
+    "hof": false,
+    "tags": [
+      "Web2",
+      "Mobile"
+    ],
+    "createdAt": "2025-04-16"
+  },
+  {
+    "company": "Zoho",
+    "url": "https://bugbounty.zoho.com/bb/info",
+    "overview": "A unique and powerful software suite to transform the way you work, built by a company that values your privacy.",
+    "bounty": true,
+    "swag": false,
+    "hof": true,
+    "tags": [
+      "Web2"
+    ],
+    "createdAt": "2025-04-15"
+  },
+  {
+    "company": "Zoviz",
+    "url": "https://zoviz.com/vulnerability-disclosure",
+    "overview": "Zoviz uses advanced AI to generate custom logo suggestions tailored to your business in seconds.",
+    "bounty": true,
+    "swag": false,
+    "hof": false,
+    "tags": [
+      "Web2"
+    ],
+    "createdAt": "2025-11-06"
+  },
+  {
+    "company": "Absorb",
+    "url": "https://www.absorblms.com/uploads/Bug-Bounty-Program.pdf",
+    "overview": "Absorb LMS is the leading AI-powered platform trusted by global enterprises. Scale your training with the industry's most innovative and reliable LMS.",
+    "bounty": true,
+    "swag": false,
+    "hof": false,
+    "tags": [
+      "Web2"
+    ],
+    "createdAt": "2025-12-17"
+  },
+  {
+    "company": "One Step GPS",
+    "url": "https://www.onestepgps.com/bug-bounty",
+    "overview": "One Step GPS provides a reliable and affordable GPS fleet tracking solution to meet your needs, all for a low monthly cost and with no contracts.",
+    "bounty": true,
+    "swag": false,
+    "hof": false,
+    "tags": [
+      "Web2"
+    ],
+    "createdAt": "2025-12-17"
+  },
+  {
+    "company": "Activeloop",
+    "url": "https://www.activeloop.ai/bug-bounty-program/",
+    "overview": "Activeloop's AI data analyst is for teams that work with complex, unstructured data. Search, index, and retrieve text, images, video, and audio in one place.",
+    "bounty": true,
+    "swag": false,
+    "hof": false,
+    "tags": [
+      "Web2"
+    ],
+    "createdAt": "2025-12-17"
+  },
+  {
+    "company": "Storj",
+    "url": "https://www.storj.io/company/bug-bounty",
+    "overview": "Storj is an S3-compatible platform and suite of distributed applications that allows you to store data in a secure and distributed manner.",
+    "bounty": true,
+    "swag": false,
+    "hof": false,
+    "tags": [
+      "Web2"
+    ],
+    "createdAt": "2025-12-17"
+  },
+  {
+    "company": "Appbox",
+    "url": "https://www.appbox.co/policies/bug-bounty-program",
+    "overview": "Appbox provides blazing fast app hosting with tailored, optimized cloud services customizable to your needs.",
+    "bounty": true,
+    "swag": false,
+    "hof": false,
+    "tags": [
+      "Web2"
+    ],
+    "createdAt": "2025-12-17"
+  },
+  {
+    "company": "Pacifica",
+    "url": "https://docs.pacifica.fi/bug-bounty-program",
+    "overview": "Pacifica is a decentralized perpetual futures exchange offering leverage trading through advanced order types and APIs.",
+    "bounty": true,
+    "swag": false,
+    "hof": false,
+    "tags": [
+      "Web2",
+      "Web3"
+    ],
+    "createdAt": "2026-01-03"
+  },
+  {
+    "company": "Lingon Labs",
+    "url": "https://lingonlabs.com/bug-bounty",
+    "overview": "Lingon Labs focuses on creating efficient and effective vertical AI agents, leveraging recent advances in agentic workflows.",
+    "bounty": true,
+    "swag": false,
+    "hof": false,
+    "tags": [
+      "Web2"
+    ],
+    "createdAt": "2026-01-04"
+  },
+  {
+    "company": "Secoda",
+    "url": "https://docs.secoda.co/policies/bug-bounty-program",
+    "overview": "Secoda is the one place for everyone to search and find data, assign ownership, and manage access efficiently.",
+    "bounty": true,
+    "swag": false,
+    "hof": false,
+    "tags": [
+      "Web2"
+    ],
+    "createdAt": "2026-01-04"
+  },
+  {
+    "company": "Zora",
+    "url": "https://docs.zora.co/bug-bounty/bug-bounty-program",
+    "overview": "Zora is a social network where every post is a coin. Its a new kind of on-chain social network made to make creators money",
+    "bounty": true,
+    "swag": false,
+    "hof": false,
+    "tags": [
+      "Web2",
+      "Mobile",
+      "Web3"
+    ],
+    "createdAt": "2026-01-04"
+  },
+  {
+    "company": "Keeper",
+    "url": "https://www.keepertax.com/bug-bounty-program",
+    "overview": "Keeper combines cutting edge AI and a network of tax professionals to make your taxes effortless to complete.",
+    "bounty": true,
+    "swag": false,
+    "hof": false,
+    "tags": [
+      "Web2"
+    ],
+    "createdAt": "2026-01-04"
+  },
+  {
+    "company": "Securitize",
+    "url": "https://securitize.io/bug-bounty",
+    "overview": "Securitize is unlocking broader access to alternative investments by enabling private businesses to raise capital from investors while providing liquidity.",
+    "bounty": true,
+    "swag": false,
+    "hof": false,
+    "tags": [
+      "Web2",
+      "Web3"
+    ],
+    "createdAt": "2026-01-15"
+  },
+  {
+    "company": "Cofactr",
+    "url": "https://www.cofactr.com/cofactrs-bug-bounty",
+    "overview": "Cofactr provides a comprehensive, integrated solution for electronics procurement, storage, kitting, and shipping.",
+    "bounty": true,
+    "swag": false,
+    "hof": false,
+    "tags": [
+      "Web2"
+    ],
+    "createdAt": "2026-01-15"
+  },
+  {
+    "company": "Suilend",
+    "url": "https://docs.suilend.fi/security/bug-bounty",
+    "overview": "Suilend is the largest lending protocol on Sui, built by the team behind Save (formerly known as Solend). It has rapidly become the #1 DeFi protocol on Sui.",
+    "bounty": true,
+    "swag": false,
+    "hof": false,
+    "tags": [
+      "Web2",
+      "Web3"
+    ],
+    "createdAt": "2026-01-15"
+  },
+  {
+    "company": "Ultra",
+    "url": "https://docs.ultra.cc/policies/bug-bounty-program",
+    "overview": "Premium and Affordable App hosting service. Expertly-tuned shared apps hosting starting at just €4.95EUR per month.",
+    "bounty": true,
+    "swag": false,
+    "hof": false,
+    "tags": [
+      "Web2"
+    ],
+    "createdAt": "2026-01-15"
+  },
+  {
+    "company": "Tubeway",
+    "url": "https://tubeway.io/bug-bounty-program/",
+    "overview": "TubeWay was built to solve the real world problems faced by freelancers, production companies, and large corporations working with video at scale.",
+    "bounty": true,
+    "swag": false,
+    "hof": false,
+    "tags": [
+      "Web2"
+    ],
+    "createdAt": "2026-01-15"
+  },
+  {
+    "company": "Truemeds",
+    "url": "https://www.truemeds.in/security",
+    "overview": "Truemeds, an e-pharmacy and telehealth platform, focuses on providing affordable substitute medicines.",
+    "bounty": false,
+    "swag": true,
+    "hof": true,
+    "tags": [
+      "Web2",
+      "Mobile"
+    ],
+    "createdAt": "2026-01-15"
+  },
+  {
+    "company": "Salesken",
+    "url": "https://www.salesken.ai/legal/legal-vulnerability-disclosure-policy",
+    "overview": "Salesken.ai is a conversational intelligence platform that helps sales teams improve performance and reduce acquisition costs.",
+    "bounty": true,
+    "swag": false,
+    "hof": true,
+    "tags": [
+      "Web2"
+    ],
+    "createdAt": "2026-01-15"
+  },
+  {
+    "company": "Forex Factory",
+    "url": "https://www.forexfactory.com/bug-bounty",
+    "overview": "Forex Factory is where professional traders connect to the forex markets, and to each other.",
+    "bounty": true,
+    "swag": false,
+    "hof": false,
+    "tags": [
+      "Web2"
+    ],
+    "createdAt": "2026-02-02"
+  },
+  {
+    "company": "UniOne",
+    "url": "https://unione.io/en/vulnerability-disclosure-policy",
+    "overview": "UniOne is a transactional email service: you can send Transactional Emails simple and cheap with the help of platform API Email UniOne.",
+    "bounty": true,
+    "swag": false,
+    "hof": false,
+    "tags": [
+      "Web2"
+    ],
+    "createdAt": "2026-02-02"
+  },
+  {
+    "company": "Relevance AI",
+    "url": "https://relevanceai.com/vulnerability-reward-program",
+    "overview": "Relevance AI is the home of the AI Workforce. Enabling anyone to build autonomous AI teams and put their processes on autopilot.",
+    "bounty": true,
+    "swag": false,
+    "hof": false,
+    "tags": [
+      "Web2"
+    ],
+    "createdAt": "2026-02-02"
+  },
+  {
+    "company": "Punchzee",
+    "url": "https://www.punchzee.com/vulnerability-disclosure-and-reward-program",
+    "overview": "Manage projects, track and optimize fieldwork, communicate with your team and automatize reporting. All from one app, for all devices.",
+    "bounty": true,
+    "swag": false,
+    "hof": true,
+    "tags": [
+      "Web2"
+    ],
+    "createdAt": "2026-02-02"
+  },
+  {
+    "company": "CodeSignal",
+    "url": "https://codesignal.com/security/disclosure-policy",
+    "overview": "Discover the AI-native skills platform for validation, benchmarking, and skills intelligence. CodeSignal helps teams hire, develop, and grow with confidence.",
+    "bounty": true,
+    "swag": false,
+    "hof": false,
+    "tags": [
+      "Web2"
+    ],
+    "createdAt": "2026-02-02"
+  },
+  {
+    "company": "CM",
+    "url": "https://www.cm.be/en/secure-online/responsible-disclosure-program",
+    "overview": "CM (Christian Mutuality), the number one healthcare insurance fund in Belgium. CM is trusted by 4.6 million members.",
+    "bounty": false,
+    "swag": false,
+    "hof": true,
+    "tags": [
+      "Web2"
+    ],
+    "createdAt": "2026-02-02"
+  },
+  {
+    "company": "Juicebox",
+    "url": "https://juicebox.ai/responsible-disclosure",
+    "overview": "Juicebox is the AI Recruiting Platform that understands who you're looking for. Level up your team with Search, CRM, and Agents.",
+    "bounty": true,
+    "swag": false,
+    "hof": false,
+    "tags": [
+      "Web2"
+    ],
+    "createdAt": "2026-02-02"
+  },
+  {
+    "company": "MRD of the Czech Republic",
+    "url": "https://www.hckrt.com/Catalog/Program?alias=mmr",
+    "overview": "The Ministry of Regional Development (MRD) of the Czech Republic is a part of the system of central government authorities of the Czech Republic.",
+    "bounty": true,
+    "swag": false,
+    "hof": false,
+    "tags": [
+      "Web2"
+    ],
+    "createdAt": "2026-02-17"
+  }
+]

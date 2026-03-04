@@ -1,0 +1,178 @@
+[
+  {
+    "name": "Bug Bounty",
+    "slug": "a331fa90-426e-40e4-949a-6ba745b6d800",
+    "url": "https://issuehunt.io/programs/a331fa90-426e-40e4-949a-6ba745b6d800",
+    "icon": "https://api.issuehunt.io/files/ODQxZDUzODYtZGQ1Yy00YmMxLTg1MTktZWE3OGU3NWMwMTUw.cHJpbWFyeTMucG5nLThkOWIzYjEwLTM2YTQtNGE3Yi05MWQ5LWEwMzdmZWMxN2ZkZA==",
+    "type": "bounty",
+    "visibility": "public",
+    "id": "a331fa90-426e-40e4-949a-6ba745b6d800",
+    "source": "issuehunt"
+  },
+  {
+    "name": "coffee  API",
+    "slug": "d219fa72-0aec-4e5b-9130-73d1e22192d9",
+    "url": "https://issuehunt.io/programs/d219fa72-0aec-4e5b-9130-73d1e22192d9",
+    "type": "bounty",
+    "visibility": "public",
+    "id": "d219fa72-0aec-4e5b-9130-73d1e22192d9",
+    "source": "issuehunt"
+  },
+  {
+    "name": "IoT Platform SORACOM",
+    "slug": "16803ecd-f361-494c-98eb-c7931bafad18",
+    "url": "https://issuehunt.io/programs/16803ecd-f361-494c-98eb-c7931bafad18",
+    "icon": "https://api.issuehunt.io/organizations/087538b3-fe75-4e5c-9e48-1e6900fcbab1/avatar",
+    "type": "bounty",
+    "visibility": "public",
+    "id": "16803ecd-f361-494c-98eb-c7931bafad18",
+    "source": "issuehunt"
+  },
+  {
+    "name": "Program",
+    "slug": "9a279f2c-905a-4d2f-9c28-4cfe9a7b307c",
+    "url": "https://issuehunt.io/programs/9a279f2c-905a-4d2f-9c28-4cfe9a7b307c",
+    "type": "bounty",
+    "visibility": "application",
+    "id": "9a279f2c-905a-4d2f-9c28-4cfe9a7b307c",
+    "source": "issuehunt"
+  },
+  {
+    "name": "Program",
+    "slug": "ff1efa2d-4f57-4a8b-95b9-19f0a3f40d75",
+    "url": "https://issuehunt.io/programs/ff1efa2d-4f57-4a8b-95b9-19f0a3f40d75",
+    "icon": "https://api.issuehunt.io/files/MTcwYmMzMDctYTRjMi00NTVlLThhY2YtMDU4YjY5YmFkMjc4.Yml0YmFua19tYXJrX2NvbG9yLnBuZy04NDdjYWFmYy0wOTNlLTRiODktYjMyZi01NmEwYjVmNjg3NDI=",
+    "type": "bounty",
+    "visibility": "public",
+    "id": "ff1efa2d-4f57-4a8b-95b9-19f0a3f40d75",
+    "source": "issuehunt"
+  },
+  {
+    "name": "Finatext Holdings Bug Bounty Program",
+    "slug": "ae6dfbc8-7019-48bf-bf96-1a6880f779a8",
+    "url": "https://issuehunt.io/programs/ae6dfbc8-7019-48bf-bf96-1a6880f779a8",
+    "icon": "https://api.issuehunt.io/files/YTFhOTY0NDgtZTVmOS00MTA4LWE2NzEtZTA0OWYzMDU4YTEw.ZmluYXRleHRfaWNvbi5wbmctNzZmN2M1OGQtZjdhOC00MDllLTk0NmYtYTAyNGYxZTRiOTkz",
+    "type": "bounty",
+    "visibility": "application",
+    "id": "ae6dfbc8-7019-48bf-bf96-1a6880f779a8",
+    "source": "issuehunt"
+  },
+  {
+    "name": "ABEMA Bug Bounty Program",
+    "slug": "75563b98-3a9c-4ca3-956d-07b30d5d3962",
+    "url": "https://issuehunt.io/programs/75563b98-3a9c-4ca3-956d-07b30d5d3962",
+    "icon": "https://api.issuehunt.io/organizations/79001730-5da3-49e5-8f1d-de00ff64dca2/avatar",
+    "type": "bounty",
+    "visibility": "public",
+    "id": "75563b98-3a9c-4ca3-956d-07b30d5d3962",
+    "source": "issuehunt"
+  },
+  {
+    "name": "Bounty Program (job.inshokuten.com)",
+    "slug": "382ed642-bbb5-46fa-ab76-7f1b5633ac7b",
+    "url": "https://issuehunt.io/programs/382ed642-bbb5-46fa-ab76-7f1b5633ac7b",
+    "icon": "https://api.issuehunt.io/organizations/08cc2873-685b-4143-8123-b66e39c7ec51/avatar",
+    "type": "bounty",
+    "visibility": "public",
+    "id": "382ed642-bbb5-46fa-ab76-7f1b5633ac7b",
+    "source": "issuehunt"
+  },
+  {
+    "name": "LINE WORKS Bug Bounty Program",
+    "slug": "d7c3def6-9500-469d-b114-e5dd71d39621",
+    "url": "https://issuehunt.io/programs/d7c3def6-9500-469d-b114-e5dd71d39621",
+    "icon": "https://api.issuehunt.io/organizations/b395a666-f278-421d-a32c-c59240a172eb/avatar",
+    "type": "bounty",
+    "visibility": "public",
+    "id": "d7c3def6-9500-469d-b114-e5dd71d39621",
+    "source": "issuehunt"
+  },
+  {
+    "name": "WINTICKET Bug Bounty Program",
+    "slug": "72c9712d-1727-47a1-8b1e-e51940135e64",
+    "url": "https://issuehunt.io/programs/72c9712d-1727-47a1-8b1e-e51940135e64",
+    "icon": "https://api.issuehunt.io/organizations/79001730-5da3-49e5-8f1d-de00ff64dca2/avatar",
+    "type": "bounty",
+    "visibility": "public",
+    "id": "72c9712d-1727-47a1-8b1e-e51940135e64",
+    "source": "issuehunt"
+  },
+  {
+    "name": "dotgift Bug Bounty Program",
+    "slug": "6d0d1564-ca11-49ed-89e1-8a36a56c7488",
+    "url": "https://issuehunt.io/programs/6d0d1564-ca11-49ed-89e1-8a36a56c7488",
+    "icon": "https://api.issuehunt.io/organizations/79001730-5da3-49e5-8f1d-de00ff64dca2/avatar",
+    "type": "bounty",
+    "visibility": "public",
+    "id": "6d0d1564-ca11-49ed-89e1-8a36a56c7488",
+    "source": "issuehunt"
+  },
+  {
+    "name": "BitTrade Bug Bounty Program",
+    "slug": "0058d64d-f29d-419c-8dae-c8600a3a3d5b",
+    "url": "https://issuehunt.io/programs/0058d64d-f29d-419c-8dae-c8600a3a3d5b",
+    "icon": "https://api.issuehunt.io/organizations/d147e730-d50e-44d1-a82b-3eae099920c0/avatar",
+    "type": "bounty",
+    "visibility": "public",
+    "id": "0058d64d-f29d-419c-8dae-c8600a3a3d5b",
+    "source": "issuehunt"
+  },
+  {
+    "name": "Bounty Program",
+    "slug": "934464b6-8494-487f-8d7c-dc5d00df8c76",
+    "url": "https://issuehunt.io/programs/934464b6-8494-487f-8d7c-dc5d00df8c76",
+    "icon": "https://api.issuehunt.io/organizations/7cd69410-127d-4a87-b71f-88bda599dc0f/avatar",
+    "type": "bounty",
+    "visibility": "public",
+    "id": "934464b6-8494-487f-8d7c-dc5d00df8c76",
+    "source": "issuehunt"
+  },
+  {
+    "name": "transcosmos Bounty Program ",
+    "slug": "985cfe33-3915-43b8-a798-79ac166cb124",
+    "url": "https://issuehunt.io/programs/985cfe33-3915-43b8-a798-79ac166cb124",
+    "type": "bounty",
+    "visibility": "public",
+    "id": "985cfe33-3915-43b8-a798-79ac166cb124",
+    "source": "issuehunt"
+  },
+  {
+    "name": "Bounty Program",
+    "slug": "e06d7467-780c-497e-ad7c-1309d591c785",
+    "url": "https://issuehunt.io/programs/e06d7467-780c-497e-ad7c-1309d591c785",
+    "icon": "https://api.issuehunt.io/organizations/8d48f4a5-a367-4bad-8d0f-31beafe4da97/avatar",
+    "type": "bounty",
+    "visibility": "public",
+    "id": "e06d7467-780c-497e-ad7c-1309d591c785",
+    "source": "issuehunt"
+  },
+  {
+    "name": "Tapple Bug Bounty Program",
+    "slug": "43f8fcd7-430d-47e1-bc1b-4ed59352797d",
+    "url": "https://issuehunt.io/programs/43f8fcd7-430d-47e1-bc1b-4ed59352797d",
+    "icon": "https://api.issuehunt.io/organizations/79001730-5da3-49e5-8f1d-de00ff64dca2/avatar",
+    "type": "bounty",
+    "visibility": "public",
+    "id": "43f8fcd7-430d-47e1-bc1b-4ed59352797d",
+    "source": "issuehunt"
+  },
+  {
+    "name": "Bounty Program",
+    "slug": "15d71722-0ecf-4e2c-8ffe-9484a2e8b454",
+    "url": "https://issuehunt.io/programs/15d71722-0ecf-4e2c-8ffe-9484a2e8b454",
+    "icon": "https://api.issuehunt.io/organizations/733639c5-80c7-49bb-9a98-1949382c10c7/avatar",
+    "type": "bounty",
+    "visibility": "application",
+    "id": "15d71722-0ecf-4e2c-8ffe-9484a2e8b454",
+    "source": "issuehunt"
+  },
+  {
+    "name": "Bug Bounty",
+    "slug": "db5804cf-1391-483c-84ac-6d398dbce725",
+    "url": "https://issuehunt.io/programs/db5804cf-1391-483c-84ac-6d398dbce725",
+    "type": "bounty",
+    "visibility": "public",
+    "id": "db5804cf-1391-483c-84ac-6d398dbce725",
+    "source": "issuehunt"
+  }
+]
