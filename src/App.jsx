@@ -1,6 +1,129 @@
-import React, { useState, useEffect, useCallback } from 'react';
+import React, { useState, useEffect, useCallback, useRef } from 'react';
 import Auth from './Auth';
 import './App.css';
+
+// Interactive Draggable Spider Component
+const InteractiveSpider = ({ mini = false, onScrollTop, onScrollBottom }) => {
+    const [spiderY, setSpiderY] = useState(0);
+    const [isDragging, setIsDragging] = useState(false);
+    const dragStartRef = useRef(0);
+
+    const handleMouseDown = (e) => {
+        setIsDragging(true);
+        dragStartRef.current = e.clientY;
+    };
+
+    useEffect(() => {
+        if (!isDragging) return;
+
+        const handleMouseMove = (e) => {
+            const diff = e.clientY - dragStartRef.current;
+            setSpiderY((prev) => {
+                const newY = prev + diff * 0.06;
+                const clamped = Math.max(-150, Math.min(150, newY));
+                
+                // Trigger scroll if dragged far enough
+                if (!mini) {
+                    if (clamped <= -120 && onScrollTop) {
+                        onScrollTop();
+                        setSpiderY(0);
+                        setIsDragging(false);
+                    }
+                    if (clamped >= 120 && onScrollBottom) {
+                        onScrollBottom();
+                        setSpiderY(0);
+                        setIsDragging(false);
+                    }
+                }
+                
+                return clamped;
+            });
+            dragStartRef.current = e.clientY;
+        };
+
+        const handleMouseUp = () => {
+            setIsDragging(false);
+        };
+
+        document.addEventListener('mousemove', handleMouseMove);
+        document.addEventListener('mouseup', handleMouseUp);
+
+        return () => {
+            document.removeEventListener('mousemove', handleMouseMove);
+            document.removeEventListener('mouseup', handleMouseUp);
+        };
+    }, [isDragging, mini, onScrollTop, onScrollBottom]);
+
+    return (
+        <div
+            className={`interactive-spider-container${mini ? ' mini' : ''}`}
+            onMouseDown={handleMouseDown}
+            style={{ cursor: isDragging ? 'grabbing' : 'grab' }}
+        >
+            {/* Spider Web/Net - Background */}
+            <svg className="spider-web" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+                <defs>
+                    <radialGradient id="webGradient" cx="50%" cy="50%">
+                        <stop offset="0%" stopColor="#667eea" stopOpacity="0.3" />
+                        <stop offset="100%" stopColor="#667eea" stopOpacity="0.1" />
+                    </radialGradient>
+                </defs>
+                
+                {/* Radial spokes */}
+                <g className="web-spokes">
+                    <line x1="100" y1="100" x2="100" y2="10" stroke="#667eea" strokeWidth="1" opacity="0.7" />
+                    <line x1="100" y1="100" x2="157.07" y2="42.93" stroke="#667eea" strokeWidth="1" opacity="0.7" />
+                    <line x1="100" y1="100" x2="190" y2="100" stroke="#667eea" strokeWidth="1" opacity="0.7" />
+                    <line x1="100" y1="100" x2="157.07" y2="157.07" stroke="#667eea" strokeWidth="1" opacity="0.7" />
+                    <line x1="100" y1="100" x2="100" y2="190" stroke="#667eea" strokeWidth="1" opacity="0.7" />
+                    <line x1="100" y1="100" x2="42.93" y2="157.07" stroke="#667eea" strokeWidth="1" opacity="0.7" />
+                    <line x1="100" y1="100" x2="10" y2="100" stroke="#667eea" strokeWidth="1" opacity="0.7" />
+                    <line x1="100" y1="100" x2="42.93" y2="42.93" stroke="#667eea" strokeWidth="1" opacity="0.7" />
+                </g>
+
+                {/* Concentric circles */}
+                <g className="web-rings">
+                    <circle cx="100" cy="100" r="25" fill="none" stroke="#667eea" strokeWidth="1" opacity="0.6" />
+                    <circle cx="100" cy="100" r="50" fill="none" stroke="#667eea" strokeWidth="1" opacity="0.5" />
+                    <circle cx="100" cy="100" r="75" fill="none" stroke="#667eea" strokeWidth="1" opacity="0.4" />
+                </g>
+
+                {/* Center web glow */}
+                <circle cx="100" cy="100" r="20" fill="url(#webGradient)" />
+            </svg>
+
+            {/* Spider Body */}
+            <div
+                className="spider-wrapper"
+                style={{ transform: `translateY(${mini ? 0 : spiderY}px)` }}
+            >
+                <div className="spider-body-main">
+                    {/* Left Legs */}
+                    <div className="leg-group left">
+                        <div className="leg leg-1"></div>
+                        <div className="leg leg-2"></div>
+                        <div className="leg leg-3"></div>
+                        <div className="leg leg-4"></div>
+                    </div>
+
+                    {/* Spider Main Body */}
+                    <div className="spider-head">
+                        <div className="spider-eye eye-left"></div>
+                        <div className="spider-eye eye-right"></div>
+                    </div>
+
+                    {/* Right Legs */}
+                    <div className="leg-group right">
+                        <div className="leg leg-1"></div>
+                        <div className="leg leg-2"></div>
+                        <div className="leg leg-3"></div>
+                        <div className="leg leg-4"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    );
+};
 
 export default function App() {
     const [user, setUser] = useState(null);
@@ -8,7 +131,7 @@ export default function App() {
     const [filteredUrls, setFilteredUrls] = useState([]);
     const [searchTerm, setSearchTerm] = useState('');
     const [currentPage, setCurrentPage] = useState(1);
-    const [itemsPerPage, setItemsPerPage] = useState(100);
+    const [itemsPerPage, setItemsPerPage] = useState(50);
     const [ratings, setRatings] = useState({});
     const [theme, setTheme] = useState('dark');
     const [selectedSource, setSelectedSource] = useState('all');
@@ -17,6 +140,17 @@ export default function App() {
     const [newProgramUrl, setNewProgramUrl] = useState('');
     const [newProgramSource, setNewProgramSource] = useState('custom');
     const [addProgramError, setAddProgramError] = useState('');
+    const [showScrollUp, setShowScrollUp] = useState(false);
+    const [showScrollDown, setShowScrollDown] = useState(false);
+
+    const handleDeleteProgram = (url) => {
+        if (window.confirm('Are you sure you want to delete this program?')) {
+            setBugBountyUrls(bugBountyUrls.filter(item => {
+                const itemUrl = typeof item === 'string' ? item : (item?.url || '');
+                return itemUrl !== url;
+            }));
+        }
+    };
 
     const FAVORITE_OPTIONS = {
         favorite: { emoji: '⭐', label: 'Favorite', arabic: 'هدفك المفضل' },
@@ -25,13 +159,17 @@ export default function App() {
         waste_of_time: { emoji: '👎', label: 'Waste of time', arabic: 'سيء' }
     };
 
-    // Update items per page based on screen size
+    const [isMobile, setIsMobile] = useState(window.innerWidth <= 768);
+
+    // Update items per page and mobile flag based on screen size
     useEffect(() => {
         const handleResize = () => {
-            if (window.innerWidth <= 480) {
-                setItemsPerPage(50);
+            if (window.innerWidth <= 768) {
+                setIsMobile(true);
+                setItemsPerPage(25);
             } else {
-                setItemsPerPage(100);
+                setItemsPerPage(50);
+                setIsMobile(false);
             }
         };
 
@@ -63,6 +201,36 @@ export default function App() {
             loadRatings();
         }
     }, [user]);
+
+    // Track scroll position for smooth scroll buttons
+    useEffect(() => {
+        const handleScroll = () => {
+            const position = window.scrollY;
+            const pageHeight = document.documentElement.scrollHeight - window.innerHeight;
+            
+            setShowScrollUp(position > 300);
+            setShowScrollDown(position < pageHeight - 300);
+        };
+
+        window.addEventListener('scroll', handleScroll);
+        return () => window.removeEventListener('scroll', handleScroll);
+    }, []);
+
+    // Smooth scroll to top
+    const scrollToTop = () => {
+        window.scrollTo({
+            top: 0,
+            behavior: 'smooth'
+        });
+    };
+
+    // Smooth scroll to bottom
+    const scrollToBottom = () => {
+        window.scrollTo({
+            top: document.documentElement.scrollHeight,
+            behavior: 'smooth'
+        });
+    };
 
     const loadUrlsFromFile = () => {
         fetch('hunting_ons.json')
@@ -497,6 +665,16 @@ export default function App() {
                                                 </button>
                                             );
                                         })}
+                                        <button
+                                            className="delete-btn"
+                                            onClick={(e) => {
+                                                e.stopPropagation();
+                                                handleDeleteProgram(url);
+                                            }}
+                                            title="Delete this program"
+                                        >
+                                            <span className="delete-icon">🗑️</span>
+                                        </button>
                                     </div>
                                 </div>
                             );
@@ -508,11 +686,17 @@ export default function App() {
                 {totalPages > 1 && (
                     <div className="pagination">
                         <button
-                            className="pagination-btn"
+                            className="pagination-btn prev-btn"
                             onClick={() => handlePageChange(currentPage - 1)}
                             disabled={currentPage === 1}
+                            title={currentPage === 1 ? "You're at the top!" : "Go to previous page"}
                         >
-                            ← Previous
+                            <span className="arrow-icon">
+                                {currentPage <= totalPages / 2 ? '↑' : '←'}
+                            </span>
+                            <span className="btn-text">
+                                {currentPage <= 1 ? 'Top' : currentPage <= totalPages / 2 ? 'Up' : 'Prev'}
+                            </span>
                         </button>
 
                         <div className="pagination-pages">
@@ -529,11 +713,17 @@ export default function App() {
                         </div>
 
                         <button
-                            className="pagination-btn"
+                            className="pagination-btn next-btn"
                             onClick={() => handlePageChange(currentPage + 1)}
                             disabled={currentPage === totalPages}
+                            title={currentPage === totalPages ? "You're at the bottom!" : "Go to next page"}
                         >
-                            Next →
+                            <span className="btn-text">
+                                {currentPage >= totalPages ? 'Bottom' : currentPage >= totalPages / 2 ? 'Down' : 'Next'}
+                            </span>
+                            <span className="arrow-icon">
+                                {currentPage >= totalPages / 2 ? '↓' : '→'}
+                            </span>
                         </button>
                     </div>
                 )}
@@ -607,6 +797,32 @@ export default function App() {
                             </div>
                         </form>
                     </div>
+                </div>
+            )}
+
+            {/* Single Spider Container with Conditional Arrows */}
+            {(showScrollUp || showScrollDown) && (
+                <div className="scroll-container single-spider">
+                    {showScrollUp && (
+                        <button
+                            className="scroll-arrow scroll-up"
+                            onClick={scrollToTop}
+                            title="Scroll to top"
+                            aria-label="Scroll to top"
+                        >
+                            {isMobile && <InteractiveSpider mini={true} onScrollTop={scrollToTop} onScrollBottom={scrollToBottom} />}
+                        </button>
+                    )}
+                    {showScrollDown && !showScrollUp && (
+                        <button
+                            className="scroll-arrow scroll-down"
+                            onClick={scrollToBottom}
+                            title="Scroll to bottom"
+                            aria-label="Scroll to bottom"
+                        >
+                            {isMobile && <InteractiveSpider mini={true} onScrollTop={scrollToTop} onScrollBottom={scrollToBottom} />}
+                        </button>
+                    )}
                 </div>
             )}
         </div>

@@ -47,6 +47,11 @@
     box-sizing: border-box;
 }
 
+html {
+    scroll-behavior: smooth;
+    scroll-padding-top: 60px;
+}
+
 body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     background: var(--bg-primary);
@@ -222,6 +227,18 @@ h1 {
     font-weight: 500;
     padding-bottom: 20px;
     border-bottom: 1px solid #2d3561;
+    animation: slideDown 0.4s ease-out;
+}
+
+@keyframes slideDown {
+    from {
+        opacity: 0;
+        transform: translateY(-10px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
 }
 
 .links-grid {
@@ -235,12 +252,41 @@ h1 {
     border: 1px solid #2d3561;
     border-radius: 8px;
     padding: 14px 18px;
-    transition: all 0.3s ease;
+    transition: all 0.4s cubic-bezier(0.34, 1.56, 0.64, 1);
     display: flex;
     align-items: center;
     justify-content: space-between;
     gap: 15px;
     box-shadow: 0 2px 8px rgba(102, 126, 234, 0.08);
+    animation: cardFadeIn 0.5s ease-out forwards;
+    opacity: 0;
+}
+
+@keyframes cardFadeIn {
+    from {
+        opacity: 0;
+        transform: translateY(10px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+.links-grid .link-card:nth-child(1) {
+    animation-delay: 0.05s;
+}
+
+.links-grid .link-card:nth-child(2) {
+    animation-delay: 0.1s;
+}
+
+.links-grid .link-card:nth-child(3) {
+    animation-delay: 0.15s;
+}
+
+.links-grid .link-card:nth-child(n+4) {
+    animation-delay: 0.2s;
 }
 
 @media (max-width: 768px) {
@@ -262,7 +308,11 @@ h1 {
 .link-card:hover {
     border-color: #667eea;
     background: linear-gradient(135deg, #1a1f2e 0%, #16213e 100%);
-    box-shadow: 0 6px 16px rgba(102, 126, 234, 0.12);
+    box-shadow: 0 8px 24px rgba(102, 126, 234, 0.2);
+    transform: translateY(-4px);
+}
+
+.link-card:active {
     transform: translateY(-2px);
 }
 
@@ -430,13 +480,63 @@ h1 {
     font-size: 14px;
     font-weight: 600;
     cursor: pointer;
-    transition: all 0.3s cubic-bezier(0.34, 1.56, 0.64, 1);
+    transition: all 0.4s cubic-bezier(0.34, 1.56, 0.64, 1);
     box-shadow: 0 2px 6px rgba(102, 126, 234, 0.1);
     display: flex;
     align-items: center;
     gap: 8px;
     overflow: hidden;
     position: relative;
+}
+
+
+/* Arrow Animation */
+
+.arrow-icon {
+    display: inline-block;
+    transition: all 0.4s cubic-bezier(0.34, 1.56, 0.64, 1);
+    font-size: 18px;
+    transform-origin: center;
+}
+
+.btn-text {
+    transition: all 0.3s ease;
+}
+
+
+/* Prev Button - Arrow Up */
+
+.pagination-btn.prev-btn:hover:not(:disabled) .arrow-icon {
+    animation: arrowUpBounce 0.6s ease infinite;
+    color: #ffd700;
+}
+
+
+/* Next Button - Arrow Down */
+
+.pagination-btn.next-btn:hover:not(:disabled) .arrow-icon {
+    animation: arrowDownBounce 0.6s ease infinite;
+    color: #ffd700;
+}
+
+@keyframes arrowUpBounce {
+    0%,
+    100% {
+        transform: translateY(0) scale(1);
+    }
+    50% {
+        transform: translateY(-6px) scale(1.2);
+    }
+}
+
+@keyframes arrowDownBounce {
+    0%,
+    100% {
+        transform: translateY(0) scale(1);
+    }
+    50% {
+        transform: translateY(6px) scale(1.2);
+    }
 }
 
 .pagination-btn::before {
@@ -448,6 +548,7 @@ h1 {
     height: 100%;
     background: linear-gradient(90deg, transparent, rgba(255, 255, 255, 0.2), transparent);
     transition: left 0.5s ease;
+    z-index: 1;
 }
 
 .pagination-btn:hover::before {
@@ -461,6 +562,11 @@ h1 {
     transform: translateY(-3px) scale(1.05);
     box-shadow: 0 8px 20px rgba(102, 126, 234, 0.4);
     letter-spacing: 0.5px;
+}
+
+.pagination-btn:active:not(:disabled) {
+    transform: translateY(-1px) scale(0.98);
+    box-shadow: 0 4px 10px rgba(102, 126, 234, 0.3);
 }
 
 .pagination-btn:disabled {
@@ -578,7 +684,7 @@ h1 {
     border: 1px solid var(--border-primary);
     background: var(--bg-card);
     cursor: pointer;
-    transition: all 0.2s ease;
+    transition: all 0.3s cubic-bezier(0.34, 1.56, 0.64, 1);
     display: flex;
     align-items: center;
     justify-content: center;
@@ -606,19 +712,109 @@ h1 {
 .favorite-btn:hover {
     background: var(--bg-hover);
     border-color: var(--accent-primary);
-    transform: scale(1.1);
-    box-shadow: 0 2px 8px var(--accent-glow);
+    transform: scale(1.15) rotate(-5deg);
+    box-shadow: 0 4px 12px var(--accent-glow);
 }
 
 .favorite-btn.selected {
     background: linear-gradient(135deg, var(--accent-primary) 0%, var(--accent-secondary) 100%);
     border-color: var(--accent-primary);
     box-shadow: 0 4px 12px var(--accent-glow);
+    animation: popSelected 0.4s cubic-bezier(0.34, 1.56, 0.64, 1);
+}
+
+@keyframes popSelected {
+    0% {
+        transform: scale(0.8) rotate(0deg);
+    }
+    50% {
+        transform: scale(1.2) rotate(10deg);
+    }
+    100% {
+        transform: scale(1) rotate(0deg);
+    }
 }
 
 .favorite-emoji-small {
     display: block;
     line-height: 1;
+    transition: all 0.3s ease;
+}
+
+.favorite-btn.selected .favorite-emoji-small {
+    animation: emojiPop 0.4s ease;
+}
+
+@keyframes emojiPop {
+    0%,
+    100% {
+        transform: scale(1);
+    }
+    50% {
+        transform: scale(1.3);
+    }
+}
+
+
+/* Delete Button */
+
+.delete-btn {
+    width: 36px;
+    height: 36px;
+    border-radius: 6px;
+    border: 1px solid var(--border-primary);
+    background: var(--bg-card);
+    cursor: pointer;
+    transition: all 0.3s cubic-bezier(0.34, 1.56, 0.64, 1);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 18px;
+    flex-shrink: 0;
+}
+
+@media (max-width: 768px) {
+    .delete-btn {
+        width: 40px;
+        height: 40px;
+        font-size: 20px;
+    }
+}
+
+@media (max-width: 480px) {
+    .delete-btn {
+        width: 44px;
+        height: 44px;
+        font-size: 22px;
+        border-radius: 8px;
+    }
+}
+
+.delete-btn:hover {
+    background: linear-gradient(135deg, #ef4444 0%, #dc2626 100%);
+    border-color: #ef4444;
+    transform: scale(1.15) rotate(5deg);
+    box-shadow: 0 4px 12px rgba(239, 68, 68, 0.4);
+}
+
+.delete-icon {
+    display: block;
+    line-height: 1;
+    transition: all 0.3s ease;
+}
+
+.delete-btn:hover .delete-icon {
+    animation: deleteWiggle 0.3s ease;
+}
+
+@keyframes deleteWiggle {
+    0%,
+    100% {
+        transform: rotate(-5deg);
+    }
+    50% {
+        transform: rotate(5deg);
+    }
 }
 
 .card-rating {
@@ -1239,5 +1435,581 @@ h1 {
     .modal-content button {
         font-size: 13px;
         padding: 9px;
+    }
+}
+
+
+/* Creative Spider/Bug Scroll Buttons with Glassmorphism */
+
+.scroll-arrow {
+    position: fixed;
+    right: 30px;
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 28px;
+    z-index: 999;
+    transition: all 0.4s cubic-bezier(0.34, 1.56, 0.64, 1);
+    animation: floatingArrow 0.6s ease-in-out infinite;
+    /* Glass Morphism Effect */
+    background: rgba(102, 126, 234, 0.15);
+    backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(10px);
+    border: 2px solid rgba(102, 126, 234, 0.3);
+    box-shadow: 0 8px 32px rgba(102, 126, 234, 0.2), inset 0 2px 4px rgba(255, 255, 255, 0.1), 0 0 20px rgba(102, 126, 234, 0.15);
+}
+
+
+/* Spider Web Pattern Background */
+
+.scroll-arrow::before {
+    content: '';
+    position: absolute;
+    inset: 0;
+    border-radius: 50%;
+    background: repeating-linear-gradient( 45deg, rgba(102, 126, 234, 0.1), rgba(102, 126, 234, 0.1) 1px, transparent 1px, transparent 10px), repeating-linear-gradient( -45deg, rgba(102, 126, 234, 0.1), rgba(102, 126, 234, 0.1) 1px, transparent 1px, transparent 10px);
+    opacity: 0;
+    transition: opacity 0.3s ease;
+}
+
+.scroll-arrow:hover::before {
+    opacity: 1;
+}
+
+
+/* Bug Eye Effect */
+
+.scroll-arrow::after {
+    content: '';
+    position: absolute;
+    width: 8px;
+    height: 8px;
+    border-radius: 50%;
+    background: radial-gradient(circle at 30% 30%, rgba(255, 255, 255, 0.8), rgba(102, 126, 234, 0.6));
+    bottom: 8px;
+    right: 8px;
+    opacity: 0;
+    transition: all 0.3s ease;
+    box-shadow: 0 0 8px rgba(255, 215, 0, 0.6);
+}
+
+.scroll-arrow:hover::after {
+    opacity: 1;
+    animation: eyeGlow 0.6s ease-in-out infinite;
+}
+
+.scroll-arrow:hover {
+    background: rgba(102, 126, 234, 0.3);
+    border-color: rgba(255, 215, 0, 0.6);
+    transform: scale(1.15);
+    box-shadow: 0 12px 40px rgba(102, 126, 234, 0.4), inset 0 2px 4px rgba(255, 255, 255, 0.2), 0 0 30px rgba(255, 215, 0, 0.3);
+}
+
+.scroll-arrow:active {
+    transform: scale(0.95);
+}
+
+
+/* mini spider inside arrow */
+
+.scroll-arrow {
+    /* ensure arrow is positioning context */
+    position: fixed;
+}
+
+.interactive-spider-container.mini {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%) scale(0.6);
+    width: 24px;
+    height: 24px;
+    z-index: 1001;
+    /* float above arrow icon */
+}
+
+
+/* bubble only on small screens */
+
+@media (min-width: 769px) {
+    .scroll-arrow {
+        /* remove bubble look on larger screens */
+        background: transparent;
+        backdrop-filter: none;
+        -webkit-backdrop-filter: none;
+        border: none;
+        box-shadow: none;
+    }
+    .scroll-arrow::before,
+    .scroll-arrow::after {
+        display: none;
+    }
+}
+
+.scroll-up {
+    bottom: auto;
+    top: 30%;
+}
+
+.scroll-down {
+    bottom: 30px;
+}
+
+.arrow-glow {
+    display: inline-block;
+    transition: all 0.4s ease;
+    text-shadow: 0 0 10px rgba(102, 126, 234, 0.8), 0 0 20px rgba(102, 126, 234, 0.4);
+    filter: drop-shadow(0 0 5px rgba(102, 126, 234, 0.6));
+    position: relative;
+    z-index: 2;
+}
+
+.scroll-arrow:hover .arrow-glow {
+    text-shadow: 0 0 20px rgba(255, 215, 0, 1), 0 0 30px rgba(102, 126, 234, 1), 0 0 40px rgba(102, 126, 234, 0.8);
+    filter: drop-shadow(0 0 8px rgba(255, 215, 0, 0.9));
+    animation: bugWiggle 0.3s ease-in-out infinite;
+}
+
+@keyframes bugWiggle {
+    0%,
+    100% {
+        transform: rotate(0deg) scale(1);
+    }
+    25% {
+        transform: rotate(-3deg) scale(1.05);
+    }
+    75% {
+        transform: rotate(3deg) scale(1.05);
+    }
+}
+
+@keyframes floatingArrow {
+    0%,
+    100% {
+        transform: translateY(0);
+    }
+    50% {
+        transform: translateY(-10px);
+    }
+}
+
+@keyframes eyeGlow {
+    0%,
+    100% {
+        box-shadow: 0 0 8px rgba(255, 215, 0, 0.6);
+    }
+    50% {
+        box-shadow: 0 0 15px rgba(255, 215, 0, 1), 0 0 8px rgba(102, 126, 234, 0.8);
+    }
+}
+
+.scroll-up:hover {
+    animation: spiderClimb 0.6s ease-in-out infinite;
+}
+
+.scroll-down:hover {
+    animation: spiderDescend 0.6s ease-in-out infinite;
+}
+
+@keyframes spiderClimb {
+    0%,
+    100% {
+        transform: translateY(0) scale(1);
+    }
+    50% {
+        transform: translateY(-15px) scale(1.1);
+    }
+}
+
+@keyframes spiderDescend {
+    0%,
+    100% {
+        transform: translateY(0) scale(1);
+    }
+    50% {
+        transform: translateY(15px) scale(1.1);
+    }
+}
+
+
+/* Scroll Arrow Responsive */
+
+@media (max-width: 768px) {
+    .scroll-arrow {
+        width: 55px;
+        height: 55px;
+        font-size: 24px;
+        right: 20px;
+    }
+    .scroll-up {
+        top: 25%;
+    }
+    .scroll-down {
+        bottom: 20px;
+    }
+}
+
+@media (max-width: 480px) {
+    .scroll-arrow {
+        width: 50px;
+        height: 50px;
+        font-size: 22px;
+        right: 15px;
+    }
+    .scroll-up {
+        top: 20%;
+    }
+    .scroll-down {
+        bottom: 15px;
+    }
+}
+
+
+/* Spider Leg Animation Effects */
+
+.scroll-arrow {
+    position: relative;
+}
+
+
+/* Web Trail Animation */
+
+.scroll-arrow:hover::before {
+    animation: webSpread 0.5s ease-out;
+}
+
+@keyframes webSpread {
+    0% {
+        transform: scale(0.8);
+        opacity: 0;
+    }
+    50% {
+        opacity: 1;
+    }
+    100% {
+        transform: scale(1);
+        opacity: 0.8;
+    }
+}
+
+
+/* Interactive Draggable Spider */
+
+.interactive-spider-container {
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    user-select: none;
+    z-index: 950;
+}
+
+.spider-rope {
+    width: 3px;
+    background: linear-gradient(180deg, rgba(102, 126, 234, 0.8) 0%, rgba(102, 126, 234, 0.3) 100%);
+    border-radius: 50%;
+    transition: height 0.1s ease-out;
+    box-shadow: 0 0 8px rgba(102, 126, 234, 0.5);
+}
+
+.spider-wrapper {
+    transition: transform 0.1s ease-out;
+}
+
+.spider-body-main {
+    position: relative;
+    width: 30px;
+    height: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    z-index: 10;
+}
+
+.spider-head {
+    position: relative;
+    width: 18px;
+    height: 18px;
+    background: radial-gradient(circle at 35% 35%, #667eea, #4c63d2);
+    border-radius: 50%;
+    box-shadow: 0 0 12px rgba(102, 126, 234, 0.8), inset -2px -2px 4px rgba(0, 0, 0, 0.3), inset 2px 2px 4px rgba(255, 255, 255, 0.2);
+    z-index: 1;
+}
+
+.spider-eye {
+    position: absolute;
+    width: 3px;
+    height: 3px;
+    background: radial-gradient(circle at 30% 30%, #ffd700, #ffed4e);
+    border-radius: 50%;
+    box-shadow: 0 0 6px rgba(255, 215, 0, 0.9);
+    animation: eyeGlow 1.5s ease-in-out infinite;
+}
+
+.eye-left {
+    top: 4px;
+    left: 4px;
+}
+
+.eye-right {
+    top: 4px;
+    right: 4px;
+}
+
+@keyframes eyeGlow {
+    0%,
+    100% {
+        box-shadow: 0 0 4px rgba(255, 215, 0, 0.6);
+    }
+    50% {
+        box-shadow: 0 0 10px rgba(255, 215, 0, 1);
+    }
+}
+
+
+/* Spider Web/Net */
+
+.spider-web {
+    position: absolute;
+    width: 140px;
+    height: 140px;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    z-index: 1;
+    opacity: 0.8;
+    filter: drop-shadow(0 0 4px rgba(102, 126, 234, 0.5));
+}
+
+.web-spokes line {
+    animation: webGlow 2s ease-in-out infinite;
+}
+
+.web-rings circle {
+    animation: webPulse 3s ease-in-out infinite;
+}
+
+@keyframes webGlow {
+    0%,
+    100% {
+        opacity: 0.6;
+        filter: drop-shadow(0 0 2px rgba(102, 126, 234, 0.4));
+    }
+    50% {
+        opacity: 0.8;
+        filter: drop-shadow(0 0 4px rgba(102, 126, 234, 0.7));
+    }
+}
+
+@keyframes webPulse {
+    0%,
+    100% {
+        opacity: 0.4;
+    }
+    50% {
+        opacity: 0.6;
+    }
+}
+
+
+/* Spider Legs */
+
+.leg-group {
+    position: absolute;
+    width: 40px;
+    height: 30px;
+    top: 0;
+}
+
+.leg-group.left {
+    left: -12px;
+    transform: scaleX(-1);
+    display: none;
+}
+
+.leg-group.right {
+    right: -12px;
+    display: none;
+}
+
+.leg {
+    position: absolute;
+    background: linear-gradient(90deg, #667eea, #4c63d2);
+    border-radius: 2px;
+    transform-origin: right center;
+    height: 3px;
+}
+
+.leg-1,
+.leg-2,
+.leg-3,
+.leg-4 {
+    width: 25px;
+    left: 40px;
+}
+
+.leg-1 {
+    top: 2px;
+    animation: legWalk1 1.2s ease-in-out infinite;
+}
+
+.leg-2 {
+    top: 10px;
+    animation: legWalk2 1.2s ease-in-out infinite;
+}
+
+.leg-3 {
+    top: 18px;
+    animation: legWalk3 1.2s ease-in-out infinite;
+}
+
+.leg-4 {
+    top: 26px;
+    animation: legWalk4 1.2s ease-in-out infinite;
+}
+
+@keyframes legWalk1 {
+    0%,
+    100% {
+        transform: rotate(45deg);
+    }
+    25% {
+        transform: rotate(80deg);
+    }
+    50% {
+        transform: rotate(45deg);
+    }
+}
+
+@keyframes legWalk2 {
+    0%,
+    100% {
+        transform: rotate(20deg);
+    }
+    25% {
+        transform: rotate(-15deg);
+    }
+    50% {
+        transform: rotate(20deg);
+    }
+}
+
+@keyframes legWalk3 {
+    0%,
+    100% {
+        transform: rotate(-20deg);
+    }
+    25% {
+        transform: rotate(-55deg);
+    }
+    50% {
+        transform: rotate(-20deg);
+    }
+}
+
+@keyframes legWalk4 {
+    0%,
+    100% {
+        transform: rotate(-45deg);
+    }
+    25% {
+        transform: rotate(-80deg);
+    }
+    50% {
+        transform: rotate(-45deg);
+    }
+}
+
+
+/* Scroll Container */
+
+.scroll-container {
+    position: fixed;
+    right: 30px;
+    z-index: 998;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+/* layout for the new single spider container */
+
+.single-spider {
+    flex-direction: column;
+    gap: 8px;
+    justify-content: center;
+}
+
+.single-spider .scroll-arrow {
+    margin: 4px 0;
+}
+
+.scroll-container-up {
+    top: 30%;
+}
+
+.scroll-container-down {
+    bottom: 30px;
+}
+
+
+/* center spider when using single-spider mode */
+
+.single-spider {
+    top: 50%;
+    transform: translateY(-50%);
+}
+
+
+/* standalone spider is hidden via JS on mobile; container remains visible for bubble and buttons */
+
+
+/* Responsive Spider Container */
+
+@media (max-width: 768px) {
+    .scroll-container {
+        right: 20px;
+    }
+}
+
+@media (max-width: 480px) {
+    .scroll-container {
+        right: 15px;
+    }
+}
+
+
+/* Hide spider entirely on desktop */
+
+@media (min-width: 769px) {
+    .single-spider {
+        display: none !important;
+    }
+}
+
+
+/* Scroll arrow stays on top of spider */
+
+.scroll-arrow {
+    position: relative;
+    z-index: 1000;
+    animation: floatingArrow 0.6s ease-in-out infinite, pulseGlow 3s ease-in-out infinite;
+}
+
+
+/* Pulse Glow Animation */
+
+@keyframes pulseGlow {
+    0%,
+    100% {
+        box-shadow: 0 8px 32px rgba(102, 126, 234, 0.2), inset 0 2px 4px rgba(255, 255, 255, 0.1), 0 0 20px rgba(102, 126, 234, 0.15);
+    }
+    50% {
+        box-shadow: 0 12px 40px rgba(102, 126, 234, 0.3), inset 0 2px 4px rgba(255, 255, 255, 0.15), 0 0 30px rgba(102, 126, 234, 0.25);
     }
 }
