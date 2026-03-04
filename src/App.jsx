@@ -2,20 +2,13 @@ import React, { useState, useEffect, useCallback } from 'react';
 import Auth from './Auth';
 import './App.css';
 
-const ITEMS_PER_PAGE = 100;
-const FAVORITE_OPTIONS = {
-    favorite: { emoji: '⭐', label: 'Favorite', arabic: 'هدفك المفضل' },
-    high_interest: { emoji: '❤️', label: 'High Interest', arabic: 'برنامج واعد' },
-    hot_target: { emoji: '🔥', label: 'Hot Target', arabic: 'فيه Bugs كثير' },
-    waste_of_time: { emoji: '👎', label: 'Waste of time', arabic: 'سيء' }
-};
-
 export default function App() {
     const [user, setUser] = useState(null);
     const [bugBountyUrls, setBugBountyUrls] = useState([]);
     const [filteredUrls, setFilteredUrls] = useState([]);
     const [searchTerm, setSearchTerm] = useState('');
     const [currentPage, setCurrentPage] = useState(1);
+    const [itemsPerPage, setItemsPerPage] = useState(100);
     const [ratings, setRatings] = useState({});
     const [theme, setTheme] = useState('dark');
     const [selectedSource, setSelectedSource] = useState('all');
@@ -24,6 +17,31 @@ export default function App() {
     const [newProgramUrl, setNewProgramUrl] = useState('');
     const [newProgramSource, setNewProgramSource] = useState('custom');
     const [addProgramError, setAddProgramError] = useState('');
+
+    const FAVORITE_OPTIONS = {
+        favorite: { emoji: '⭐', label: 'Favorite', arabic: 'هدفك المفضل' },
+        high_interest: { emoji: '❤️', label: 'High Interest', arabic: 'برنامج واعد' },
+        hot_target: { emoji: '🔥', label: 'Hot Target', arabic: 'فيه Bugs كثير' },
+        waste_of_time: { emoji: '👎', label: 'Waste of time', arabic: 'سيء' }
+    };
+
+    // Update items per page based on screen size
+    useEffect(() => {
+        const handleResize = () => {
+            if (window.innerWidth <= 480) {
+                setItemsPerPage(50);
+            } else {
+                setItemsPerPage(100);
+            }
+        };
+
+        // Set initial value
+        handleResize();
+
+        // Add resize listener
+        window.addEventListener('resize', handleResize);
+        return () => window.removeEventListener('resize', handleResize);
+    }, []);
 
     useEffect(() => {
         // Check if user is already logged in
@@ -260,9 +278,9 @@ export default function App() {
     };
 
     // Pagination logic
-    const totalPages = Math.ceil(filteredUrls.length / ITEMS_PER_PAGE);
-    const startIndex = (currentPage - 1) * ITEMS_PER_PAGE;
-    const endIndex = startIndex + ITEMS_PER_PAGE;
+    const totalPages = Math.ceil(filteredUrls.length / itemsPerPage);
+    const startIndex = (currentPage - 1) * itemsPerPage;
+    const endIndex = startIndex + itemsPerPage;
     const paginatedUrls = filteredUrls.slice(startIndex, endIndex);
 
     const handlePageChange = (pageNumber) => {
