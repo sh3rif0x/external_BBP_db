@@ -297,7 +297,12 @@ export default function App() {
 
     const submitFavorite = (url, status) => {
         const newRatings = { ...ratings };
-        newRatings[url] = { status: status };
+        // Toggle: if already selected, remove it; otherwise set new status
+        if (getFavoriteStatus(url) === status) {
+            delete newRatings[url];
+        } else {
+            newRatings[url] = { status: status };
+        }
         saveRatings(newRatings);
     };
 
@@ -677,7 +682,7 @@ export default function App() {
                                                         e.stopPropagation();
                                                         submitFavorite(url, key);
                                                     }}
-                                                    title={`${option.label} - ${option.arabic}`}
+                                                    title={isSelected ? `Remove ${option.label}` : `${option.label} - ${option.arabic}`}
                                                 >
                                                     <span className="favorite-emoji-small">{option.emoji}</span>
                                                 </button>
