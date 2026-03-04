@@ -1958,11 +1958,10 @@ h1 {
 }
 
 
-/* center spider when using single-spider mode */
+/* position spider at bottom when using single-spider mode */
 
 .single-spider {
-    top: 50%;
-    transform: translateY(-50%);
+    bottom: 30px;
 }
 
 

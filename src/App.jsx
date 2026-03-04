@@ -222,7 +222,7 @@ export default function App() {
             }
             scrollTimeoutRef.current = setTimeout(() => {
                 setIsScrolling(false);
-            }, 1500);
+            }, 0);
         };
 
         window.addEventListener('scroll', handleScroll);
